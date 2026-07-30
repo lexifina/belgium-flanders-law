@@ -36,9 +36,9 @@ c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieer
 7° dienstenverdeler : elke rechtspersoon die door middel van elektronische communicatienetwerken een of meer omroepdiensten levert aan het publiek. De omroeporganisatie die alleen de eigen omroepdiensten ter beschikking van het publiek stelt, is geen dienstenverdeler;<br>
 7° /1 door gebruikers gegenereerde inhoud: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, bestemd voor het algemene publiek of een deel ervan, die ongeacht de duur ervan een afzonderlijk element vormt, die door een gebruiker is gecreeerd en door die gebruiker of een andere gebruiker is geüpload naar een videoplatformdienst;<br>
 7° /2 eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten: elke soort apparatuur voor gebruik door consumenten met als voornaamste functie het verlenen van toegang tot televisiediensten;<br>
-8° elektronisch communicatienetwerk : de transmissiesystemen, al dan niet gebaseerd op een permanente infrastructuur of gecentraliseerde beheercapaciteit, en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken signalen van radio-omroep en televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover deze voor overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuut- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, etheromroepnetwerken en kabelomroepnetwerken;<br>
+8° elektronisch communicatienetwerk : de transmissiesystemen, al dan niet gebaseerd op een permanente infrastructuur of gecentraliseerde beheercapaciteit, en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken signalen van radio-omroep en televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover deze voor overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuut- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, televisieomroepnetwerken, radio-omroepnetwerken en kabelomroepnetwerken;<br>
 9° elektronische communicatiedienst : een gewoonlijk tegen vergoeding via elektronische communicatienetwerken aangeboden dienst die geheel of hoofdzakelijk bestaat uit het overbrengen van signalen van radio-omroep en televisie;<br>
-10° etheromroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie in digitale vorm, al dan niet gecodeerd, via aardse zenders aan derden worden doorgegeven. Een etheromroepnetwerk kan radio-omroep- en televisiesignalen doorgeven in de hele Vlaamse Gemeenschap of in een deel ervan;<br>
+10° ...;<br>
 11° Europese producties :<br>
 a) de volgende producties :<br>
 1) producties die afkomstig zijn uit lidstaten van de Europese Gemeenschap;<br>
@@ -81,6 +81,7 @@ b) de houder van de exploitatierechten op het evenement;<br>
 31° programma: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, die ongeacht de duur ervan, een afzonderlijk element vormt van een schema opgesteld door een omroeporganisatie of een catalogus opgesteld door een omroeporganisatie, met inbegrip van bioscoopfilms, videoclips, sportevenementen, komische series, documentaires, kinderprogramma's en origineel drama;<br>
 32° programma-aanbod : het geheel van aangeboden programma's;<br>
 33° radiodienst : een auditieve omroepdienst;<br>
+33°/1 radio-omroepnetwerk: elektronisch communicatienetwerk waardoor hoofdzakelijk signalen van radio-omroep in analoge of digitale vorm, via aardse zenders aan derden worden doorgegeven in de hele Vlaamse Gemeenschap of een deel ervan;<br>
 34° radio-omroeporganisatie : een aanbieder van radiodiensten;<br>
 35° reclame : de audiovisuele of auditieve boodschap van een publieke of particuliere onderneming of natuurlijke persoon - in welke vorm dan ook - over de uitoefening van een commerciële, industriële, ambachtelijke activiteit of van een beroep, ter bevordering van de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen, die tegen betaling of soortgelijke vergoeding dan wel voor zelfpromotie in een lineaire omroepdienst wordt uitgezonden;<br>
 36° redactiestatuut : een schriftelijk referentiekader waarin de onderlinge verhoudingen worden vastgelegd tussen redactie, hoofdredactie en directie. Het garandeert de onafhankelijke werking van de redactie ten opzichte van de omroeporganisatie;<br>
@@ -92,6 +93,7 @@ b) de houder van de exploitatierechten op het evenement;<br>
 41° sponsoring: elke bijdrage van een publieke of particuliere onderneming of natuurlijke persoon die zich niet bezighoudt met het aanbieden van omroepdiensten of videoplatformdiensten of met de vervaardiging van audiovisuele of auditieve werken, aan de financiering van omroepdiensten, videoplatformdiensten, door gebruikers gegenereerde inhoud of programma's, met het doel zijn of haar naam, handelsmerk, imago, activiteiten of producten meer bekendheid te geven;<br>
 42° systeem voor voorwaardelijke toegang : elke technische maatregel, authenticatiesysteem en/of regeling waarbij toegang tot een beschermde omroepdienst in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een andere vorm van voorafgaande individuele machtiging;<br>
 43° televisiedienst : een audiovisuele omroepdienst;<br>
+43°/1 televisieomroepnetwerk: elektronisch communicatienetwerk waardoor hoofdzakelijk signalen van televisie in digitale vorm, al dan niet gecodeerd, via aardse zenders aan derden worden doorgegeven in de hele Vlaamse Gemeenschap of een deel ervan;<br>
 44° televisieomroeporganisatie : een aanbieder van televisiediensten;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
 45° /0 tot televisiediensten toegang verschaffende diensten: diensten die door middel van elektronische communicatienetwerken worden uitgezonden en die gebruikt worden om kennis te nemen van televisiediensten, ze te kiezen, er informatie over te ontvangen en ze te bekijken, alsmede alle beschikbaar gemaakte functies, zoals ondertiteling, audiobeschrijving, auditieve ondertiteling en gebarentaal, die resulteren uit het toepassen van maatregelen voor het toegankelijk maken van die diensten conform artikel 151. De tot televisiediensten toegang verschaffende diensten omvatten ook elektronische programmagidsen;<br>
@@ -372,6 +374,15 @@ De bijzondere regels en voorwaarden voor de toekenning van de financiële middel
 7° de maatregelen bij niet-naleving door een partij van haar verbintenissen die voortvloeien uit de beheersovereenkomst.<br>
 <br>
 § 2. De Vlaamse Regering kan in de beheersovereenkomst verdere regels bepalen voor de commerciële communicatie die de VRT krachtens artikel 48 kan brengen.&nbsp;Als de algemene kamer van de Vlaamse Regulator voor de Media binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, §1, een overtreding door VRT vaststelt van de verdere regels voor commerciële communicatie die met toepassing van dit artikel worden opgenomen in de beheersovereenkomst, kan de algemene kamer de sancties, vermeld in artikel 228, opleggen.
+
+### ART 17/1.
+
+De Vlaamse Regering stelt aan VRT de FM-frequenties en het DAB+-frequentieblok ter beschikking die ze nodig heeft om de doelstellingen van algemeen belang overeenkomstig de beheersovereenkomst conform artikel 17, §1, 1°, te verwezenlijken.<br>
+<br>
+Indien de Vlaamse Regering conform artikel 134 besluit tot stopzetting van de FM-uitzendingen van de omroepprogramma’s van erkende radio-omroeporganisaties, zal zij simultaan ook de datum van stopzetting van de FM-uitzendingen voor VRT bepalen en de modaliteiten ervan.<br>
+<br>
+VRT zal betrokken worden bij het sectorgedragen overleg, vermeld in artikel 134.<br>
+&nbsp;
 
 ### ART. 18.
 
@@ -1092,144 +1103,204 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op de exclusiviteitscon
 
 ## TITEL III. RADIODIENSTEN
 
-## HOOFDSTUK I. Particuliere lineaire radio-omroeporganisaties
+## HOOFDSTUK I. Particuliere erkende radio-omroeporganisaties
 
 ## Afdeling I. Gemeenschappelijke bepalingen
 
 ### ART. 127.
 
-Lineaire radio-omroeporganisaties behoren tot een van de volgende categorieën :<br>
-1° landelijke radio-omroeporganisaties;<br>
-2° ...;<br>
-2° /1 netwerkradio-omroeporganisaties;<br>
-3° lokale radio-omroeporganisaties;<br>
-4° andere radio-omroeporganisaties.
+Onder de voorwaarden van dit hoofdstuk kan een radio-omroeporganisatie erkend worden door de Vlaamse Regering om een omroepprogramma uit te zenden via FM of DAB+ als:<br>
+1°&nbsp;&nbsp; &nbsp;landelijke radio-omroeporganisatie;<br>
+2°&nbsp;&nbsp; &nbsp;netwerkradio-omroeporganisatie;<br>
+3°&nbsp;&nbsp; &nbsp;lokale radio-omroeporganisatie;<br>
+4°&nbsp;&nbsp; &nbsp;digitale landelijke radio-omroeporganisatie;<br>
+5°&nbsp;&nbsp; &nbsp;digitale lokale radio-omroeporganisatie.
 
 ### ART. 128.
 
-Onder de voorwaarden van dit hoofdstuk kunnen lineaire radio-omroeporganisaties erkend worden door de Vlaamse Regering of moeten ze aangemeld worden bij de Vlaamse Regulator voor de Media.<br>
+De erkenningen, vermeld in artikel 127, worden toegekend voor een periode van negen jaar.<br>
 <br>
-De volgende radio-omroeporganisaties komen in aanmerking voor de erkenning, vermeld in het eerste lid :<br>
-1° landelijke radio-omroeporganisaties;<br>
-2° ...;<br>
-2° /1 netwerkradio-omroeporganisaties;<br>
-3° lokale radio-omroeporganisaties.
+Als erkenningen van erkende radio-omroeporganisaties zijn vervallen of opgeheven, kunnen nieuwe erkenningen toegekend worden voor de resterende duur van de initiële erkenningsperiode, vermeld in het eerste lid. Erkenningen die worden toegekend aan erkende radio-omroeporganisaties bij onderbenutte capaciteit als vermeld in artikel 148 worden toegekend voor de resterende duurtijd van de initiële erkenningsperiode van de erkende radio-omroeporganisaties die reeds deel uitmaken van het samenwerkingsverband, vermeld in artikel 147.<br>
+&nbsp;
 
 ### ART. 129.
 
-De lineaire radio-omroeporganisaties moeten in het Nederlands uitzenden. Uitzonderingen daarop kunnen worden toegestaan door de Vlaamse Regering.<br /><br />De programma's van de lineaire radio-omroeporganisaties worden gerealiseerd op hun eigen verantwoordelijkheid.
+De Vlaamse Regering bepaalt de procedure voor het indienen van een erkenningsaanvraag als vermeld in artikel 127 en de termijnen voor het onderzoek en de afhandeling ervan. De erkenningsaanvragen worden in het Nederlands ingediend. De radio-omroeporganisaties delen de nodige informatie mee bij de erkenningsaanvraag. De Vlaamse Regering bepaalt de inhoud van de informatie die deel moet uitmaken van de erkenningsaanvraag alsook de manier en werkwijze waarop een aanvraag moet worden ingediend.<br>
+<br>
+De erkenningen, vermeld in artikel 127, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.<br>
+<br>
+De Vlaamse Regering kan een inschrijvingsgeld, waaronder een financiële waarborg, die de aanvrager moet betalen, en een vergoeding voor het gebruik en het behoud van de toegewezen frequenties en frequentieblokken vastleggen. Die vergoeding is objectief gerechtvaardigd, transparant en niet discriminerend.<br>
+<br>
+De Vlaamse Regering kan bepalen dat een frequentiepakket voor uitzending via FM wordt gekoppeld aan een plaats op een DAB+-frequentieblok. Zij bepaalt de nadere modaliteiten van die koppeling.<br>
+&nbsp;<br>
+De erkenningen, vermeld in artikel 127, die toegekend worden om een omroepprogramma uit te zenden via FM en via DAB+ vormen één ondeelbare erkenning. Afstand van de erkenning voor uitzending via FM of via DAB+ doet de erkenning van rechtswege vervallen.<br>
+<br>
+In afwijking van het vijfde lid kan de Vlaamse Regering evenwel bepalen onder welke voorwaarden afstand kan worden gedaan van het recht om via FM uit te zenden, zonder dat de erkenning van rechtswege vervalt. Bij het bepalen van die voorwaarden houdt de Vlaamse Regering rekening met de elementen, vermeld in artikel 134, tweede lid.
 
 ### ART. 130.
 
-De lineaire radio-omroeporganisaties moeten onafhankelijk zijn van een politieke partij.
+...
 
 ### ART. 131.
 
-Onder voorbehoud van de bepalingen van artikel 143/2 en 145 worden journaals van lineaire radiodiensten verzorgd door een eigen redactie onder leiding en verantwoordelijkheid van een hoofdredacteur en wordt de redactionele onafhankelijkheid gewaarborgd en in een redactiestatuut vastgelegd.
+...
 
-## Afdeling II. [Transmissie via elektronische communicatienetwerken (verv. decr. 23 december 2016, art. 5, I: 13 februari 2017)]
-
-## Onderafdeling I. Algemene bepalingen
+## Afdeling II. Transmissie via aardse frequenties
 
 ### ART. 132.
 
-De landelijke, netwerk-en lokale radio-omroeporganisaties worden erkend door de Vlaamse Regering.<br>
+De erkende radio-omroeporganisaties zenden het omroepprogramma waarvoor ze een erkenning hebben verkregen binnen het zendgebied dat aan hen is toegekend, uit via de FM-frequenties die aan hen zijn toegekend of de DAB+frequentieblokken die aan hen zijn toegekend.<br>
 <br>
-De landelijke, netwerk- en lokale radio-omroeporganisaties beschikken over een of meer FM-&nbsp;frequenties.
+De FM-frequenties en de DAB+-frequentieblokken, vermeld in het eerste lid, die volledig of gedeeltelijk zijn toegekend aan de erkende radio-omroeporganisatie, kunnen ingetrokken, vervangen of gewijzigd worden met toepassing van internationale of Europese regelgeving en verplichtingen. De bijbehorende technische voorwaarden kunnen ook ingetrokken, vervangen of gewijzigd worden met toepassing van internationale of Europese regelgeving en verplichtingen.<br>
+<br>
+De Vlaamse Regering kan de FM-frequenties of DAB+-frequentieblokken, toegekend via het besluit houdende de erkenning, op ieder ogenblik vervangen door andere FM-frequenties of DAB+-frequentieblokken.
 
 ### ART. 133.
 
-§ 1. Landelijke, netwerk- en lokale radio-omroeporganisaties zenden binnen het aan hen toegewezen zendgebied in FM uit.<br>
-<br>
-De omroepprogramma's van landelijke, netwerk- en lokale radio-omroeporganisaties kunnen worden doorgegeven via de kabelomroepnetwerken, via etheromroepnetwerken, via satellietomroepnetwerken of via het internet.<br>
-<br>
-De landelijke radio-omroeporganisaties geven hun omroepprogramma's door via etheromroepnetwerken die bestemd zijn om vrij te ontvangen radio-om- roepprogramma's aan te bieden.<br>
-<br>
-De netwerkradio-omroeporganisaties geven uiterlijk op 1 september 2019 hun omroepprogramma's door via etheromroepnetwerken die bestemd zijn voor het aanbod van vrij te ontvangen radio-omroepprogramma's.<br>
-<br>
-De uitzending van de radio-omroepprogramma's van de landelijke radio-omroeporganisaties in FM zal worden stopgezet.<br>
-<br>
-De Vlaamse Regering bepaalt de datum van die afschaffing van de FM-uitzendingen en de modaliteiten ervan. Die datum is afhankelijk van een tweejaarlijks monitoringsrapport waarin de evolutie van de groei van het totale digitale radio luisteren, de DAB+-progressie en de resultaten van sectorgedragen overleg worden nagegaan.<br>
-<br>
-§ 2. De Vlaamse Regering stelt het FM-frequentieplan op, keurt het goed en bepaalt hoeveel landelijke, netwerk- en lokale radio-omroeporganisaties kunnen worden erkend. Op basis van die frequentieplannen verleent de Vlaamse Regering de erkenningen.&nbsp;Het voornemen om wijzigingen aan het FM-frequentieplan, aan de erkenningen en aan de voorwaarden en procedures met betrekking tot het verwerven of verlengen van frequentiegebruiksrechten zoals bepaald in deze afdeling aan te brengen, wordt in het Belgisch Staatsblad bekendgemaakt. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over deze wijzigingen, hun standpunt over die wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
-<br>
-De Vlaamse Regulator voor de Media verleent de FM-zendvergunningen aan de erkende landelijke, netwerk- of lokale radio-omroeporganisaties.<br>
-<br>
-De Vlaamse Regulator voor de Media kan de erkende landelijke, netwerk- en lokale radio-omroeporganisaties, met het oog op een optimalisering van het verzorgingsgebied, verplichten om hun FM-zendinstallatie te verplaatsen of om een gemeenschappelijke zendinstallatie te gebruiken.
+De Vlaamse Regering stelt de frequentieplannen op en bepaalt hoeveel radio-omroeporganisaties kunnen worden erkend. Op basis van die frequentieplannen verleent de Vlaamse Regering de erkenningen, vermeld in artikel 128. Het voornemen om wijzigingen aan te brengen aan de frequentieplannen, aan de erkenningen en aan de voorwaarden en procedures om frequentiegebruiksrechten te verwerven of te verlengen, vermeld in deze afdeling, wordt in het Belgisch Staatsblad bekendgemaakt. Belanghebbenden kunnen voorafgaand aan de beslissing over de wijzigingen hun standpunt over die wijzigingen bekendmaken tijdens een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze die de Vlaamse Regering bepaalt.
 
 ### ART. 134.
 
-§1.&nbsp;Nieuwe erkenningen voor de landelijke radio-omroeporganisaties worden met ingang van 1 januari 2023 verleend voor vijf jaar. Deze erkenningen kunnen worden verlengd met een periode van maximaal drie jaar. Een verzoek tot verlenging wordt ingediend conform artikel 219, uiterlijk één jaar voor de lopende erkenningstermijn verstreken is.<br>
+De FM-uitzendingen van de omroepprogramma’s van erkende radio- omroeporganisaties zullen worden stopgezet.<br>
 <br>
-Als de Vlaamse Regering besluit om de erkenning niet te verlengen of te verlengen voor een kortere duur dan drie jaar brengt ze de aanvrager uiterlijk zes maanden voor de erkenningstermijn verstreken is, op de hoogte met een aangetekende brief die gericht is aan de maatschappelijke zetel. De beslissing om de verlenging al dan niet toe te staan en de duur van de mogelijke verlenging worden gemotiveerd op grond van de afschaffing van de FM-uitzendingen, vermeld in artikel 133, § 1, vijfde en zesde lid. Als de datum van de afschaffing van de FM-uitzendingen in de periode van de mogelijke verlenging van de erkenning valt, kan de erkenningstermijn ingekort worden tot minder dan drie jaar overeenkomstig de datum van de afschaffing van de FM-uitzendingen. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
+De Vlaamse Regering bepaalt per categorie van erkende radio-omroeporganisatie de datum van de stopzetting, vermeld in het eerste lid, en de modaliteiten ervan. Bij het bepalen van die datum wordt rekening gehouden met een tweejaarlijks monitoringsrapport waarin de evolutie van de groei van het totale digitale radio luisteren, de DAB+-progressie en de resultaten van sectorgedragen overleg worden nagegaan.<br>
 <br>
-§2. De erkenningen voor de netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties die verkregen zijn in de periode tussen 1 januari 2018 en 31 december 2019, zijn verleend voor negen jaar met ingang van de datum die in het erkenningsbesluit is opgenomen.<br>
-<br>
-§3. Bij de stopzetting van de activiteiten van een landelijke, netwerk- of lokale radio-omroeporganisatie worden de erkenning en de zendvergunning van die omroeporganisatie door de Vlaamse Regulator voor de Media opgeheven.<br>
-<br>
-Voor het frequentiepakket van de landelijke, netwerk- of lokale radio-omroeporganisatie waarvan de erkenning en de zendvergunning is vervallen of opgeheven, kunnen opnieuw erkenningen worden toegekend conform de bepalingen van deze afdeling. In dat geval worden ze alleen toegekend voor de resterende duur van de initiële erkenningsperiode.<br>
-<br>
-§4. Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt conform artikel 133, § 1, zesde lid, valt voor de resterende duur van de initiële erkenningsperiode verstreken is, wordt de erkenning in afwijking van paragraaf 3, tweede lid, tweede zin, alleen toegekend tot de datum van deze afschaffing.<br>
-<br>
-Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt, bepaald wordt voor afloop van de initiële erkenningstermijn maar uiterlijk drie jaar na afloop van de initiële erkenningstermijn, vermeld in paragraaf 3, tweede lid, of het eerste lid, valt, kan de Vlaamse Regering de verleende erkenning verlengen tot dat tijdstip. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
-<br>
-§5. De Vlaamse Regering kan in afwijking van paragraaf 3 en 4 beslissen om vrijgekomen FM-frequenties te herverdelen onder bestaande erkenningen om de ontvangst van die erkenningen te optimaliseren, zolang de beslissing tot afschaffing van FM-uitzendingen conform artikel 133, § 1, zesde lid, niet genomen is. Als de datum van de afschaffing van FM-uitzendingen bepaald is, kan de Vlaamse Regering beslissen de frequenties niet te herverdelen of niet opnieuw uit te reiken. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
-<br>
-§6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de datum van de ingang van de erkenning nog niet uitzendt, kan de Vlaamse Regulator voor de Media de erkenning opheffen.
+Als de FM-uitzendingen stopgezet worden vóór de lopende erkenningstermijn verstreken is, worden de erkenningen om uit te zenden in FM in kwestie van rechtswege opgeheven.<br>
+&nbsp;
 
 ### ART 134/1.
 
-Het uitzenden van radioprogramma's, ongeacht de duur of het tijdstip, door een landelijke, netwerk- of lokale radio-omroeporganisatie, die identiek zijn aan radioprogramma's van de radio-omroep van de Vlaamse Gemeenschap of van andere landelijke, netwerk- en lokale radio-omroeporganisaties is verboden. Elke andere vorm van gestructureerde eenvormigheid in het programmabeleid is ook verboden.<br>
+De Vlaamse Regering kan in afwijking van artikel 128 beslissen om vrijgekomen FM-frequenties toe te voegen aan de frequentiepakketten van de erkende radio-omroeporganisaties om hun ontvangst te optimaliseren. De Vlaamse Regering bepaalt de nadere voorwaarden en procedure met betrekking tot deze toevoeging.
+
+### ART 134/2.
+
+§1. De zendinstallaties van de erkende radio-omroeporganisaties of hun samenwerkingsverbanden liggen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad en in het initiële zendgebied van de radio-omroeporganisaties in kwestie.<br>
 <br>
-In afwijking van het eerste lid kunnen landelijke, netwerk- of lokale radio-omroeporganisaties met de radio-omroep van de Vlaamse Gemeenschap of met andere landelijke, netwerk- of lokale radio-omroeporganisaties samenwerken om eenmalige grote acties op te zetten, zoals caritatieve acties, of bij uitzonderlijke evenementen of belangrijke gebeurtenissen. Het uitzenden van identieke radioprogramma's en gestructureerde eenvormigheid in het programmabeleid zijn dan toegestaan.<br>
+De verplaatsing van de zendinstallaties kan worden toegestaan als al de volgende voorwaarden zijn vervuld:<br>
+1°&nbsp;&nbsp; &nbsp;de verplaatsing is inpasbaar in het frequentieplan;<br>
+2°&nbsp;&nbsp; &nbsp;de zendinstallatie ligt in het initiële zendgebied;<br>
+3°&nbsp;&nbsp; &nbsp;het initiële verzorgingsgebied wordt gerespecteerd.<br>
 <br>
-Met behoud van het eerste lid is het de landelijke, netwerk- en lokale omroeporganisaties toegestaan in hetzelfde omroepprogramma ontkoppelde radio-reclame te brengen.
+De Vlaamse Regulator voor de Media wint het bindende advies in van de administratie over de verplaatsing en de naleving van de voorwaarden, vermeld in het tweede lid, en past bij positief advies de zendvergunning aan de wijzigingen aan.<br>
+<br>
+De Vlaamse Regulator voor de Media kan op vraag van de Vlaamse Regering de erkende radio-omroeporganisaties of hun samenwerkingsverbanden, met het oog op een optimalisering van het frequentieplan, verplichten om hun zendinstallatie te verplaatsen of om een gemeenschappelijke zendinstallatie te gebruiken.<br>
+<br>
+§2. De erkende radio-omroeporganisaties of hun samenwerkingsverbanden, vermeld in artikel 147, gebruiken een technische uitrusting die conform de wettelijke en decretale voorschriften is, en ze houden zich aan de bepalingen van de zendvergunning. Ze aanvaarden het onderzoek naar de werking ter plaatse door de aangestelde personeelsleden.<br>
+<br>
+De erkende radio-omroeporganisaties aanvaarden de invloed van de uitzendingen van andere erkende radio-omroeporganisaties die uitzenden conform hun zendvergunning of van de uitzendingen van VRT die uitzendt conform het frequentiepakket en frequentieblok dat ter beschikking is gesteld aan VRT.<br>
+<br>
+De uitzendingen moeten gebeuren in overeenstemming met de gangbare normen van de Internationale Telecommunicatie Unie (ITU) en het Europees Telecommunicatie en Standaardisatie Instituut (ETSI).<br>
+&nbsp;
+
+## ...
+
+## Afdeling III. Algemene erkenningsvoorwaarden
+
+### ART 134/3.
+
+Erkende radio-omroeporganisaties zenden het omroepprogramma waarvoor ze een erkenning hebben gekregen, in het Nederlands uit. De Vlaamse Regering kan daarop uitzonderingen toestaan. Een aanvraag tot uitzondering kan worden ingediend zowel bij de erkenningsaanvraag als na de toekenning van de erkenning.
+
+### ART 134/4.
+
+Erkende radio-omroeporganisaties zijn gevestigd in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad. De Vlaamse Regering kan daarop uitzonderingen toestaan.<br>
+<br>
+De uitzondering, vermeld in het eerste lid, kan niet gecombineerd worden met een uitzondering als vermeld in artikel 134/3.
+
+### ART 134/5.
+
+Erkende radio-omroeporganisaties zijn onafhankelijk van een politieke partij.
+
+### ART 134/6.
+
+De erkende radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon.<br>
+<br>
+De leden van het bestuursorgaan van een erkende radio-omroeporganisatie zijn geen beheerder of bestuurder van VRT of van een andere erkende radio-omroeporganisatie en bekleden geen politiek mandaat.
+
+### ART 134/7.
+
+Erkende radio-omroeporganisaties zenden het omroepprogramma waarvoor ze een erkenning hebben gekregen, uit binnen uiterlijk één jaar na de datum van de ingang van de erkenning.
+
+### ART 134/8.
+
+Het uitzenden van radioprogramma’s, ongeacht de duur of het tijdstip, door erkende radio-omroeporganisaties, die identiek zijn aan radioprogramma’s van VRT of van andere erkende radio-omroeporganisaties, is verboden. Elke andere vorm van gestructureerde eenvormigheid in het programmabeleid is ook verboden.<br>
+<br>
+In afwijking van het eerste lid:<br>
+1° kunnen erkende radio-omroeporganisaties met VRT of met andere erkende radio-omroeporganisaties samenwerken om eenmalige grote acties op te zetten, te weten caritatieve acties, of acties bij uitzonderlijke evenementen of belangrijke gebeurtenissen;<br>
+2° kunnen lokale radio-omroeporganisaties en digitale lokale radio-omroeporganisaties, zowel onderling als tussen beide categorieën, identieke radioprogramma’s uitzenden gedurende maximaal tien uur per week.<br>
+<br>
+De radio-omroeporganisaties brengen minimaal twee weken voor de start van de gestructureerde eenvormigheid de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.
 
 ### ART. 135.
 
-De zendinstallaties van de landelijke, netwerk- en lokale radio-omroeporganisaties liggen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad en in het verzorgingsgebied van de landelijke, netwerk- en lokale radio-omroeporganisatie. De verplaatsing van de zendinstallaties is toegestaan als die inpasbaar is in het frequentieplan en nadat de aanpassing van de zendvergunning is goedgekeurd door de Vlaamse Regulator voor de Media.<br>
+Erkende radio-omroeporganisaties zenden het omroepprogramma waarvoor ze erkend zijn, op identieke wijze uit via de aan hen toegekende frequenties of frequentieblokken.<br>
 <br>
-De landelijke, netwerk- en lokale radio-omroeporganisaties gebruiken een technische uitrusting die conform de wettelijke en decretale voorschriften is, en ze houden zich aan de bepalingen van de zendvergunning. Ze aanvaarden het onderzoek naar de werking ter plaatse door de aangestelde ambtenaren.
+In afwijking van het eerste lid:<br>
+1° kunnen de lokale radio-omroeporganisaties die over meer dan één FM-frequentie beschikken in hun toegewezen frequentiepakket, naar aanleiding van lokale evenementen of gebeurtenissen op maximaal één van de FM-frequenties van het frequentiepakket die aan hen zijn toegewezen, gedurende maximaal twee keer per jaar en telkens voor maximaal twee weken ontkoppelen. Minimaal twee weken voor de start van de ontkoppeling brengen de lokale radio-omroeporganisaties de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving gebeurt conform artikel 219;<br>
+2° kunnen erkende radio-omroeporganisaties in hetzelfde omroepprogramma ontkoppelde radioreclame brengen.
 
 ### ART. 136.
 
-De Vlaamse Regering bepaalt de procedure voor de indiening van de erkenningsaanvragen en de termijnen voor het onderzoek en de afhandeling van het dossier. De erkenningsaanvragen worden in het Nederlands ingediend. De Vlaamse Regering kan een door de kandidaten te betalen inschrijvingsgeld en een vergoeding voor het behoud van de erkenning en de zendvergunning, met inbegrip van de te verstrekken financiële waarborg, bepalen.&nbsp;De erkenningen worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.
+§1. Een rechtspersoon beschikt samen met andere rechtspersonen die met hem verbonden zijn als vermeld in artikel 1:20 van het Wetboek van vennootschappen en verenigingen:<br>
+1° over niet meer dan twee erkenningen om een omroepprogramma als landelijke radio-omroeporganisatie uit te zenden;<br>
+2° over niet meer dan twee erkenningen om een omroepprogramma als netwerkradio-omroeporganisatie uit te zenden;<br>
+3° over niet meer dan één erkenning om een omroepprogramma als landelijke radio-omroeporganisatie uit te zenden en één erkenning om een omroepprogramma als netwerkradio-omroeporganisatie uit te zenden.<br>
+<br>
+Een rechtspersoon die erkend is of wil worden als landelijke radio-omroeporganisatie, als netwerkradio-omroeporganisatie of beide, kan die erkenningen combineren met een of meer erkenningen voor omroepprogramma’s als digitale landelijke radio-omroeporganisatie.<br>
+<br>
+§2. Een rechtspersoon voldoet aan de volgende voorwaarden:<br>
+1° de rechtspersoon beschikt over niet meer dan twee erkenningen om een omroepprogramma als lokale radio-omroeporganisatie uit te zenden;<br>
+2° de rechtspersoon beschikt over niet meer dan twee erkenningen om een omroepprogramma als digitale lokale radio-omroeporganisatie uit te zenden;<br>
+3° de rechtspersoon beschikt over niet meer dan één erkenning om een omroepprogramma als lokale radio-omroeporganisatie uit te zenden en één erkenning om een omroepprogramma als digitale lokale radio-omroeporganisatie uit te zenden.<br>
+<br>
+Voor de doeleinden van dit artikel wordt een rechtspersoon, die zou worden opgericht om een samenwerkingsverband als vermeld in artikel 147 te vormen niet beschouwd als een verbonden vennootschap.<br>
+<br>
+Een rechtspersoon die erkend is of wil worden als lokale radio-omroeporganisatie, als digitale lokale radio-omroeporganisatie of beide, is niet verbonden als vermeld in artikel 1:20 van het Wetboek van vennootschappen en verenigingen met andere rechtspersonen die erkend zijn als lokale radio-omroeporganisatie, als digitale lokale radio-omroeporganisatie of beide, noch met rechtspersonen die erkend zijn als landelijke radio-omroeporganisatie, als digitale landelijke radio-omroeporganisatie of als netwerkradio-omroeporganisatie, noch met rechtspersonen die over twee of meer van die erkenningen beschikken.<br>
+<br>
+§3. Voor de toepassing van dit artikel worden de erkenningen die zijn verleend aan een rechtspersoon die met een andere rechtspersoon verbonden is als vermeld in artikel 1:20 van het Wetboek van vennootschappen en verenigingen, beschouwd als erkenningen van laatstgenoemde rechtspersoon.
 
-## Onderafdeling II. Landelijke radio-omroeporganisaties
+## Afdeling IV. Specifieke erkenningsvoorwaarden en aanvullende kwalificatiecriteria
+
+## Onderafdeling I. Landelijke radio-omroeporganisaties
 
 ### ART. 137.
 
-De landelijke radio-omroeporganisaties hebben tot taak een verscheidenheid van programma's te brengen, inzonderheid inzake informatie en ontspanning, en zenden uit voor de hele Vlaamse Gemeenschap.
+De landelijke radio-omroeporganisaties hebben tot taak een verscheidenheid van programma’s te brengen, inzonderheid inzake informatie en ontspanning.<br>
+<br>
+De landelijke radio-omroeporganisaties zenden het omroepprogramma waarvoor ze erkend zijn, uit via FM en via DAB+.
 
 ### ART. 138.
 
-§ 1. Om erkend te worden en te blijven, moeten de landelijke radio-omroeporganisaties voldoen aan het volgende :<br>
-1° de voorwaarden, vermeld in artikelen 129, 130, 131 en 135;<br>
-2° de volgende voorwaarden :<br>
-a) de landelijke radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon is het verzorgen van radioprogramma's. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel, voor zover die activiteiten samenvallen of verband houden met de omroepactiviteiten. De leden van het bestuursorgaan bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of van een andere rechtspersoon die een landelijke radio-omroeporganisatie beheert;<br>
-b) de rechtspersoon, vermeld in punt a), exploiteert niet meer dan twee landelijke radio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee landelijke radio-omroeporganisaties;<br>
-c) de landelijke radio-omroeporganisaties zenden minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. Journaals en informatieve programma's worden verzorgd door een eigen redactie die hoofdzakelijk bestaat uit erkende beroepsjournalisten. Voor de journaals is een hoofdredacteur verantwoordelijk;<br>
-d) in de programmaopbouw moet een Nederlands-talig muziekaanbod gegarandeerd worden. De Vlaamse Regering kan daartoe aanvullende bepalingen vastleggen in een besluit.<br>
+§1. Landelijke radio-omroeporganisaties kunnen erkend worden als ze voldoen aan al de volgende erkenningsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in afdeling III en artikel 137;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het voorwerp van de rechtspersoon is het verzorgen van radio-omroepprogramma’s. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel, als die activiteiten samenvallen of verband houden met de omroepactiviteiten;<br>
+b)&nbsp;&nbsp; &nbsp;de landelijke radio-omroeporganisaties zenden in het omroepprogramma waarvoor ze erkend zijn, minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten;<br>
+c)&nbsp;&nbsp; &nbsp;journaals en informatieve programma’s:<br>
+1)&nbsp;&nbsp; &nbsp;landelijke radio-omroeporganisaties die journaals en informatieve programma’s brengen, doen dat met een eigen redactie die hoofdzakelijk bestaat uit beroepsjournalisten. Voor de journaals en informatieve programma’s is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd;<br>
+2)&nbsp;&nbsp; &nbsp;landelijke radio-omroeporganisaties die journaals en informatieve programma’s brengen en die niet beschikken over een eigen redactie, kunnen samenwerken met andere redacties als daarbij de onafhankelijkheid niet in het gedrang komt en als die redacties voldoen aan de voorwaarden, vermeld in punt 1);<br>
+d)&nbsp;&nbsp; &nbsp;de landelijke radio-omroeporganisaties garanderen dat een deel van hun muziekaanbod uit Nederlandstalig muziekaanbod bestaat.<br>
 <br>
-§ 2. De Vlaamse Regering legt aanvullende kwalificatiecriteria op en kent aan elk van die criteria een weging toe.<br>
+§2. De Vlaamse Regering legt in een besluit aanvullende kwalificatiecriteria op en kent aan elk van die criteria een weging toe.<br>
 <br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben ten minste betrekking op :<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben minstens betrekking op de volgende aspecten:<br>
 1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de verscheidenheid in de programmering;<br>
 2° de media-ervaring;<br>
 3° het financiële plan;<br>
 4° het businessplan;<br>
-5° de technische (zend)infrastructuur;<br>
-6° de verwezenlijkingen, plannen, intenties, en engagementen rond digitale radio-uitzendingen via DAB+ en andere vormen van digitale radio.
+5° &nbsp;de technische infrastructuur en zendinfrastructuur;<br>
+6° de verwezenlijkingen, plannen, intentie en engagementen rond digitale radio-uitzendingen via DAB+ en andere vormen van digitale radio.
 
 ### ART. 139.
 
-De landelijke radio-omroeporganisaties houden zich, nadat ze een erkenning hebben gekregen, voor de volledige duur van de erkenning aan de basisvoorwaarden, vermeld in artikel 137 en 138, in overeenstemming waarmee de Vlaamse Regering de erkenning heeft uitgereikt.<br>
+§1. De landelijke radio-omroeporganisaties houden zich voor de volledige duur van de erkenning aan de erkenningsvoorwaarden, vermeld in artikel 138, §1, en aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 138, §2, zoals die zijn opgenomen in de erkenningsaanvraag op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
 <br>
-De landelijke radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens die zijn vermeld in de offerte die ze hebben ingediend, waardoor wordt afgeweken van het aanvullende kwalificatiecriterium, vermeld in artikel 138, § 2, tweede lid, 1°, over het zendschema en van de aanvullende kwalificatiecriteria, vermeld in artikel 138, § 2, tweede lid, 3°, 4° en 5°, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.<br>
+In afwijking van het eerste lid kunnen de landelijke radio-omroeporganisaties wijzigingen aanbrengen aan de invulling van de volgende aanvullende kwalificatiecriteria die zijn opgenomen in de erkenningsaanvraag op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt:<br>
+1° het aanvullende kwalificatiecriterium over het zendschema, vermeld in artikel 138, §2, tweede lid, 1°;<br>
+2° de aanvullende kwalificatiecriteria, vermeld in artikel 138, §2, tweede lid, 3° tot en met 5°.<br>
 <br>
-In afwijking van het eerste en het tweede lid wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of&nbsp; in voorkomend geval op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
-
-## Onderafdeling III. [... (opgeh. decr. 12 februari 2021, art. 11, I: 1 januari 2023)]
+De landelijke radio-omroeporganisaties brengen de Vlaamse Regulator voor de Media op de hoogte van de wijzigingen, vermeld in het tweede lid. De kennisgeving gebeurt conform artikel 219.<br>
+&nbsp;<br>
+§2. De landelijke radio-omroeporganisaties leggen de wijzigingen aan hun statuten en aandeelhoudersstructuur die betrekking hebben op de erkenningsvoorwaarden, vermeld in artikel 138, §1, en de aanvullende kwalificatiecriteria, vermeld in artikel 138, §2, ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering vraagt daarover een advies aan de Vlaamse Regulator voor de Media. De Vlaamse Regulator voor de Media houdt bij de opmaak van dat advies rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
 
 ### ART. 140.
 
@@ -1247,113 +1318,205 @@ In afwijking van het eerste en het tweede lid wordt de Vlaamse Regulator voor de
 
 ...
 
-## [Onderafdeling III/1. Netwerkradio-omroeporganisaties (ing. decr. 23 december 2016, art. 13, I: 13 februari 2017)]
+## ...
+
+## Onderafdeling II. Netwerkradio-omroeporganisaties
 
 ### ART 143/1.
 
-De netwerkradio-omroeporganisaties hebben tot taak binnen het aan hen toegewezen verzorgingsgebied een programma-aanbod te brengen dat is opgebouwd uit luistertijd rond een van de volgende thema's, profielen of aanbod:<br>
-1° een generalistisch profiel of muziekaanbod, met inbegrip van het brengen van journaals en informatie;<br>
-2° een Nederlandstalig en Vlaams profiel of muziekaanbod;<br>
-3° andere profielen of muziekaanbod.
+De netwerkradio-omroeporganisaties hebben tot taak een programma- aanbod te brengen rond een van de volgende profielen of aanbod:<br>
+1°&nbsp;&nbsp; &nbsp;een generalistisch profiel of muziekaanbod, met inbegrip van het brengen van journaals en informatie;<br>
+2°&nbsp;&nbsp; &nbsp;andere profielen of een ander muziekaanbod dan vermeld in punt 1°.<br>
+<br>
+De netwerkradio-omroeporganisaties zenden het omroepprogramma waarvoor ze erkend zijn, uit via FM of via FM en DAB+.
 
 ### ART 143/2.
 
-§ 1. Om erkend te worden en te blijven, moeten de netwerkradio-omroeporganisaties voldoen aan al de volgende voorwaarden:<br>
-1° de voorwaarden, vermeld in artikel 129, 130, 131, 135 en 143/1;<br>
-2° de volgende basisvoorwaarden:<br>
-a) de netwerkradio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon bestaat in het verzorgen van radioprogramma's. De netwerkradio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel als die activiteiten samenvallen of verband houden met de omroepactiviteiten.<br>
-De leden van het bestuursorgaan bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of een andere rechtspersoon die een landelijke, netwerk- of lokale radio-omroeporganisatie beheert.<br>
-Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee netwerkradio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties en landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één netwerkradio-omroeporganisatie en één landelijke radio-omroeporganisatie;<br>
-b) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. De netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, van dit decreet, die erkend wordt na 1 januari 2023, zendt een aanzienlijk deel van het aanbod uit via de invulling van het generalistische profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Nederlandstalige en Vlaamse muziekproducties;<br>
-c) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 2°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod. De Vlaamse Regering bepaalt dit deel.<br>
-De netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 3°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het specifieke gekozen profiel of muziekaanbod. Een deel van dit muziekaanbod bestaat uit Vlaamse muziekproducties;<br>
-d) in afwijking van artikel 131 kunnen netwerkradio-omroeporganisaties als vermeld in artikel 143/1, eerste lid, 2° en 3°, die journaals brengen maar die niet over een eigen redactie beschikken die onder leiding en verantwoordelijkheid van een hoofdredacteur staat en waarvan de redactionele onafhankelijkheid niet gewaarborgd en in een redactiestatuut is vastgelegd, samenwerken met andere redacties als daarbij de onafhankelijkheid van de berichtgeving niet in het gedrang komt en als de redactie waarmee wordt samengewerkt op haar beurt wel voldoet aan de voorwaarden, vermeld in artikel 131;<br>
-e) de netwerkradio-omroeporganisaties delen de nodige informatie mee bij de aanvraag tot erkenning. De Vlaamse Regering bepaalt de inhoud en modaliteiten met betrekking tot die informatie.<br>
+§1. Netwerkradio-omroeporganisaties kunnen erkend worden als ze voldoen aan al de volgende erkenningsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in afdeling III en artikel 143/1;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het voorwerp van de rechtspersoon is het verzorgen van radio-omroepprogramma’s. De netwerkradio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel als die activiteiten samenvallen of verband houden met de omroepactiviteiten;<br>
+b)&nbsp;&nbsp; &nbsp;invulling profiel of muziekaanbod:<br>
+1)&nbsp;&nbsp; &nbsp;de netwerkradio-omroeporganisatie met een programma-aanbod als vermeld in artikel 143/1, eerste lid, 1°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het generalistische profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Nederlandstalige en Vlaamse muziekproducties. De Vlaamse Regering kan het percentage daarvan bepalen;<br>
+2)&nbsp;&nbsp; &nbsp;de netwerkradio-omroeporganisatie met een programma-aanbod als vermeld in artikel 143/1, eerste lid, 2°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het specifieke gekozen profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Vlaamse muziekproducties. Indien dit andere profiel of ander muziekaanbod een Nederlandstalig en Vlaams profiel of muziekaanbod betreft, zendt deze netwerkradio-omroeporganisatie een aanzienlijk deel van het aanbod uit via de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod. De Vlaamse Regering bepaalt het percentage daarvan.<br>
+Onder Nederlandstalig en Vlaams profiel of muziekaanbod wordt begrepen het muziekaanbod en de andere cultuuruitingen door Nederlandstalige en/of Vlaamse artiesten en/of programma’s met als hoofdthema een Nederlandstalige of Vlaamse artiest;<br>
+c)&nbsp;&nbsp; &nbsp;de netwerkradio-omroeporganisatie, met een programma-aanbod als vermeld in artikel 143/1, eerste lid, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten;<br>
+d)&nbsp;&nbsp; &nbsp;journaals en informatieve programma’s:<br>
+1)&nbsp;&nbsp; &nbsp;netwerkradio-omroeporganisaties die een journaal en informatieve programma’s brengen, doen dat met een eigen redactie. Voor de journaals en informatieve programma’s is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd;<br>
+2)&nbsp;&nbsp; &nbsp;netwerkradio-omroeporganisaties die journaals en informatieve programma’s brengen en niet beschikken over een eigen redactie, kunnen samenwerken met andere redacties als daarbij de onafhankelijkheid niet in het gedrang komt en als die redacties voldoen aan de voorwaarden, vermeld in punt 1).<br>
 <br>
-§ 2. De Vlaamse Regering legt aanvullende kwalificatiecriteria voor erkenning op en kent aan elk van die criteria een weging toe.<br>
+§2. De Vlaamse Regering legt in een besluit aanvullende kwalificatiecriteria voor erkenning op en kent aan elk van die criteria een weging toe.<br>
 <br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op:<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op de volgende aspecten:<br>
 1° de concrete invulling van het programma-aanbod en het zendschema;<br>
 2° de media-ervaring;<br>
 3° het financiële plan;<br>
 4° het businessplan;<br>
-5° de technische (zend)infrastructuur;<br>
-6° voor de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, de invulling van de voorwaarden, vermeld in artikel 143/2, § 1, 2°, b);<br>
-7° voor de netwerkradio-omroeporganisaties, vermeld in artikel 143/1, eerste lid, 2° en 3°, de invulling van de voorwaarden, vermeld in artikel 143/2, § 1, 2°, c).
+5° de technische infrastructuur en de zendinfrastructuur;<br>
+6° voor de netwerkradio-omroeporganisatie met een programma-aanbod als vermeld in artikel 143/1, eerste lid, 1°: de invulling van de voorwaarden, vermeld in paragraaf 1, 2°, b), voor die netwerkradio-omroeporganisaties;<br>
+7° voor de netwerkradio-omroeporganisaties met een programma-aanbod als vermeld in artikel 143/1, eerste lid, 2°: de invulling van de voorwaarden, vermeld in paragraaf 1, 2°, b), voor die netwerkradio-omroeporganisaties.<br>
+&nbsp;
 
 ### ART 143/3.
 
-§ 1. De netwerkradio-omroeporganisaties houden zich, nadat ze een erkenning hebben gekregen, voor de volledige duur van de erkenning aan de basisvoorwaarden, vermeld in artikel 143/1 en 143/2, § 1, in overeenstemming waarmee de Vlaamse Regering de erkenning heeft uitgereikt.<br>
+§1. De netwerkradio-omroeporganisaties houden zich voor de volledige duur van de erkenning aan de erkenningsvoorwaarden, vermeld in 143/2, §1, en aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 143/2, §2, zoals die zijn opgenomen in de erkenningsaanvraag op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
 <br>
-§ 2. De netwerkradio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens, vermeld in de door hen ingediende offerte, waardoor wordt afgeweken van de aanvullende kwalificatie-criteria, in artikel 143/2, § 2, 1°, voor wat betreft het zendschema en in artikel 143/2, § 2, 3°, 4° en 5°, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.<br>
+In afwijking van het eerste lid kunnen de netwerkradio-omroeporganisaties wijzigingen aanbrengen aan de invulling van de volgende aanvullende kwalificatiecriteria zoals die zijn opgenomen in de erkenningsaanvraag op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt:<br>
+1° het aanvullende kwalificatiecriterium over het zendschema, vermeld in artikel 143/2, §2, tweede lid, 1°;<br>
+2° de aanvullende kwalificatiecriteria, vermeld in artikel 143/2, §2, tweede lid, 3° tot en met 5°.<br>
+&nbsp;<br>
+De netwerkradio-omroeporganisaties brengen de Vlaamse Regulator voor de Media op de hoogte van de wijzigingen, vermeld in het tweede lid. De kennisgeving gebeurt conform artikel 219.<br>
 <br>
-In afwijking van paragraaf 1 en paragraaf 2, eerste lid, wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of in voorkomend geval op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+§2. De netwerkradio-omroeporganisaties leggen de wijzigingen aan hun statuten en aandeelhoudersstructuur die betrekking hebben op de erkenningsvoorwaarden, vermeld in artikel 143/2, §1, en de aanvullende kwalificatiecriteria, vermeld in artikel 143/2, §2, ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering vraagt daarover een advies aan de Vlaamse Regulator voor de Media. De Vlaamse Regulator voor de Media houdt bij de opmaak van dat advies rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.<br>
+&nbsp;
 
-## Onderafdeling IV. Lokale radio-omroeporganisaties
+## Onderafdeling III. Lokale radio-omroeporganisaties
 
 ### ART. 144.
 
-De lokale radio-omroeporganisaties hebben tot taak een verscheidenheid van programma's te brengen met de bedoeling binnen het verzorgingsgebied een verbindende factor te zijn onder de bevolking of de doelgroep op basis van een specifiek profiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod. Ze zenden uit voor een regio, een stad, een deel van een stad, een gemeente, een beperkt aantal aaneensluitende gemeenten of een welbepaalde doelgroep en brengen informatie over het toegewezen verzorgingsgebied.<br>
+De lokale radio-omroeporganisaties hebben tot taak een verscheidenheid van programma’s te brengen met de bedoeling binnen het verzorgingsgebied een verbindende factor te zijn onder de bevolking of de doelgroep op basis van een specifiek profiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod en met een specifiek informatieaanbod.<br>
 <br>
-Met behoud van de andere bepalingen van dit decreet wijst de Vlaamse Regering een lokale radio-omroeporganisatie aan die in het tweetalige gebied Brussel-Hoofdstad specifiek gericht is op de Nederlandstalige Brusselaars en nauw samenwerkt met de regionale televisieomroeporganisatie voor het tweetalige gebied Brussel-Hoofdstad. De Vlaamse Regering stelt die radio-omroeporganisatie de frequentie of frequenties ter beschikking die ze nodig heeft.
+De lokale radio-omroeporganisaties richten hun programma-aanbod op een verzorgingsgebied dat een gebied, een stad, een deel van een stad, een gemeente, een deel van een gemeente, een beperkt aantal aaneensluitende gemeenten omvat of een welbepaalde doelgroep uit datzelfde verzorgingsgebied.<br>
+<br>
+De lokale radio-omroeporganisaties zenden hun omroepprogramma uit via FM of via FM en DAB+.<br>
+<br>
+Met behoud van de toepassing van de andere bepalingen in dit decreet wijst de Vlaamse Regering een lokale radio-omroeporganisatie aan die in het tweetalige gebied Brussel-Hoofdstad specifiek gericht is op de Nederlandstalige Brusselaars en die nauw samenwerkt met de regionale televisieomroeporganisatie voor het tweetalige gebied Brussel-Hoofdstad. De Vlaamse Regering stelt aan die radio-omroeporganisatie de FM-frequentie en capaciteit op een DAB+-frequentieblok ter beschikking die ze nodig heeft.<br>
+&nbsp;
 
 ### ART. 145.
 
-Om erkend te worden en te blijven, moeten de lokale radio-omroeporganisaties voldoen aan al de volgende voorwaarden:<br>
-1° de voorwaarden, vermeld in artikel 129, 130, 131, 135 en 144;<br>
-2° de volgende basisvoorwaarden:<br>
-a) de lokale radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon bestaat hoofdzakelijk in het verzorgen van radioprogramma's. De lokale radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun doel. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisaties zijn niet toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één radio-omroeporganisatie. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisatie enerzijds en anderzijds een of meer landelijke of netwerkradio-omroeporganisaties zijn evenmin toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over die radio-omroeporganisaties. Een rechtspersoon die een lokale radio-omroeporganisatie voor lokaliteit Brussel exploiteert, kan ook de regionale televisieomroeporganisatie exploiteren die als verzorgingsgebied het tweetalige gebied Brussel-Hoofdstad heeft;<br>
-b) de rechtspersoon, vermeld in punt a), verzorgt niet meer dan twee radio-omroepprogramma's;<br>
-c) de lokale radio-omroeporganisaties, vermeld in artikel 144, zenden een aanzienlijk deel van het aanbod uit met een specifiek muziekprofiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod;<br>
-d) in afwijking van artikel 131 kunnen lokale radio-omroeporganisaties die journaals brengen maar die niet over een eigen redactie beschikken die onder leiding en verantwoordelijkheid van een hoofdredacteur staat en waarvan de redactionele onafhankelijkheid niet gewaarborgd en in een redactiestatuut is vastgelegd, samenwerken met andere redacties als daarbij de onafhankelijkheid van de berichtgeving niet in het gedrang komt en als de redactie waarmee wordt samengewerkt op haar beurt voldoet aan de voorwaarden, vermeld in artikel 131;<br>
-e) de lokale radio-omroeporganisaties delen de nodige informatie mee bij de aanvraag tot erkenning. De Vlaamse Regering bepaalt de inhoud en modaliteiten met betrekking tot deze informatie.
+§1. Lokale radio-omroeporganisaties kunnen erkend worden als ze voldoen aan al de volgende erkenningsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in afdeling III en artikel 144;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het voorwerp van de rechtspersoon bestaat hoofdzakelijk in het verzorgen van radioprogramma’s. De lokale radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun doel. Een rechtspersoon die een lokale radio- omroeporganisatie voor lokaliteit Brussel exploiteert, kan ook de regionale televisieomroeporganisatie exploiteren die als verzorgingsgebied het tweetalige gebied Brussel-Hoofdstad heeft;<br>
+b)&nbsp;&nbsp; &nbsp;de lokale radio-omroeporganisaties, vermeld in artikel 144, zenden een aanzienlijk deel van het aanbod uit met een specifiek muziekprofiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod;<br>
+c)&nbsp;&nbsp; &nbsp;journaals en informatieve programma’s:<br>
+1)&nbsp;&nbsp; &nbsp;lokale radio-omroeporganisaties die journaals en informatieve programma’s brengen, doen dat met een eigen redactie. Voor de journaals en informatieve programma’s is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd;<br>
+2)&nbsp;&nbsp; &nbsp;lokale radio-omroeporganisaties die journaals brengen en die niet beschikken over een eigen redactie, kunnen samenwerken met andere redacties als daarbij de onafhankelijkheid niet in het gedrang komt en als die redacties voldoen aan de voorwaarden, vermeld in punt 1).<br>
+<br>
+§2. De Vlaamse Regering legt in een besluit aanvullende kwalificatiecriteria voor erkenning op en kent aan elk van die criteria een weging toe.<br>
+<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op al de volgende aspecten:<br>
+1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de invulling van de opdracht, vermeld in paragraaf 1, 2°, b), en artikel 144;<br>
+2° &nbsp;het financiële plan;<br>
+3° &nbsp;de technische infrastructuur en de zendinfrastructuur.
 
 ### ART. 146.
 
-§ 1. De Vlaamse Regering legt aanvullende kwalificatiecriteria voor erkenning op en kent aan elk van die criteria een weging toe.<br>
+§1. De lokale radio-omroeporganisaties houden zich voor de volledige duur van de erkenning aan de erkenningsvoorwaarden, vermeld in 145, §1, en aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 145, §2, zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
 <br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op:<br>
-1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de invulling van de opdracht, vermeld in artikel 144 en 145, § 1, 2°, c);<br>
-2° het financiële plan;<br>
-3° de technische (zend)infrastructuur.<br>
+In afwijking van het eerste lid kunnen de lokale radio-omroeporganisaties wijzigingen aanbrengen aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 145, §2, zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
 <br>
-§ 2. De lokale radio-omroeporganisaties houden zich, nadat ze een erkenning hebben gekregen, voor de volledige duur van de erkenning aan de basisvoorwaarden, vermeld in artikel 145, in overeenstemming waarmee de Vlaamse Regering de erkenning heeft uitgereikt.<br>
+Afwijkingen van de invulling van artikel 145, §1, 2°, b), kunnen pas worden aangebracht nadat het tweede volledige kalenderjaar dat volgt op de datum van de erkenning is afgelopen. De lokale radio-omroeporganisatie brengt de Vlaamse Regulator voor de Media op de hoogte van deze wijzigingen. De kennisgeving gebeurt conform artikel 219.<br>
 <br>
-De lokale radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens, vermeld in de door hen ingediende offerte, waardoor wordt afgeweken van de aanvullende kwalificatiecriteria, vermeld in artikel 146, § 1, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. Die kennisgeving wordt conform artikel 219 gedaan.<br>
-<br>
-In afwijking van het tweede lid mogen wijzigingen in de gegevens, vermeld in de offerte die de lokale omroeporganisatie heeft ingediend, waardoor wordt afgeweken van artikel 145, 2°, c), pas worden aangebracht na afloop van het tweede volledige kalenderjaar dat volgt op de datum van de erkenning. De lokale radio-omroeporganisatie brengt de Vlaamse Regulator voor de Media daarvan op de hoogte. Die kennisgeving wordt conform artikel 219 gedaan.<br>
-<br>
-In afwijking van het eerste, tweede en derde lid&nbsp;wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van wijzigingen die betrekking hebben op de statuten of in voorkomend geval de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+§2. De lokale radio-omroeporganisaties leggen de wijzigingen aan hun statuten en aandeelhoudersstructuur die betrekking hebben op de erkenningsvoorwaarden, vermeld in artikel 145, §1, en de aanvullende kwalificatiecriteria, vermeld in artikel 145, §2, ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering vraagt daarover een advies aan de Vlaamse Regulator voor de Media. De Vlaamse Regulator voor de Media houdt bij de opmaak van dat advies rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.<br>
+&nbsp;
 
-## Afdeling III. Andere radio-omroeporganisaties
+## Onderafdeling IV. Digitale landelijke radio-omroeporganisaties
+
+### ART 146/1.
+
+De digitale landelijke radio-omroeporganisaties hebben tot taak een programma-aanbod te brengen rond een van de volgende profielen of aanbod:<br>
+1°&nbsp;&nbsp; &nbsp;een generalistisch profiel of muziekaanbod;<br>
+2°&nbsp;&nbsp; &nbsp;andere profielen of een ander muziekaanbod dan vermeld in punt 1°.<br>
+<br>
+De digitale landelijke radio-omroeporganisaties zenden het omroepprogramma waarvoor ze erkend zijn, voor de hele Vlaamse Gemeenschap uit via DAB+.<br>
+&nbsp;
+
+### ART 146/2.
+
+§1. Digitale landelijke radio-omroeporganisaties kunnen erkend worden als ze voldoen aan al de volgende erkenningsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in afdeling III en artikel 146/1;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het voorwerp van de rechtspersoon is het verzorgen van radioprogramma’s. De digitale landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel, als die activiteiten samenvallen of verband houden met de omroepactiviteiten;<br>
+b)&nbsp;&nbsp; &nbsp;invulling profiel of muziekaanbod:<br>
+1)&nbsp;&nbsp; &nbsp;de digitale radio-omroeporganisatie met een programma-aanbod als vermeld in artikel 146/1, 1°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het generalistische profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Nederlandstalige en Vlaamse muziekproducties. De Vlaamse Regering kan het percentage daarvan bepalen;<br>
+2)&nbsp;&nbsp; &nbsp;de digitale radio-omroeporganisatie met een programma-aanbod als vermeld in artikel 146/1, 2°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het specifieke gekozen profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Vlaamse muziekproducties;<br>
+c)&nbsp;&nbsp; &nbsp;de digitale landelijke radio-omroeporganisatie, met een programma- aanbod als vermeld in artikel 146/1, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten;<br>
+d)&nbsp;&nbsp; &nbsp;journaals en informatieve programma’s:<br>
+1)&nbsp;&nbsp; &nbsp;digitale landelijke radio-omroeporganisaties die journaals en informatieve programma’s brengen, doen dat met een eigen redactie die hoofdzakelijk bestaat uit beroepsjournalisten. Voor de journaals en informatieve programma’s is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd;<br>
+2)&nbsp;&nbsp; &nbsp;digitale landelijke radio-omroeporganisaties die journaals en informatieve programma’s uitzenden en niet beschikken over een eigen redactie, kunnen samenwerken met andere redacties als daarbij de onafhankelijkheid niet in het gedrang komt en als die redacties voldoen aan de voorwaarden, vermeld in punt 1);<br>
+e)&nbsp;&nbsp; &nbsp;de digitale landelijke radio-omroeporganisaties garanderen dat een deel van hun muziekaanbod uit Vlaamse muziekproducties bestaat.<br>
+<br>
+§2. De Vlaamse Regering legt in een besluit aanvullende kwalificatiecriteria op en kent aan elk van die criteria een weging toe.<br>
+<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben minstens betrekking op al de volgende aspecten:<br>
+1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de verscheidenheid in de programmering;<br>
+2° de media-ervaring;<br>
+3° het financiële plan;<br>
+4° het businessplan;<br>
+5° &nbsp;de technische infrastructuur;<br>
+6° de verwezenlijkingen, plannen, intentie, en engagementen rond digitale radio- uitzendingen via DAB+ en andere vormen van digitale radio.
+
+### ART 146/3.
+
+§1. De digitale landelijke radio-omroeporganisaties houden zich voor de volledige duur van de erkenning aan de erkenningsvoorwaarden, vermeld in 146/2, §1, en aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 146/2, §2, zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
+<br>
+In afwijking van het eerste lid kunnen de digitale landelijke radio-omroeporganisaties wijzigingen aanbrengen aan de invulling van de volgende aanvullende kwalificatiecriteria zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt:<br>
+1° het aanvullende kwalificatiecriterium, vermeld in artikel 146/2, §2, tweede lid, 1°, over het zendschema;<br>
+2° de aanvullende kwalificatiecriteria, vermeld in artikel 146/2, §2, tweede lid, 3° tot en met 5°.<br>
+<br>
+De digitale landelijke radio-omroeporganisaties brengen de Vlaamse Regulator voor de Media op de hoogte van de wijzigingen, vermeld in het tweede lid. De kennisgeving gebeurt conform artikel 219.<br>
+<br>
+§2. De digitale landelijke radio-omroeporganisaties leggen de wijzigingen aan hun statuten en aandeelhoudersstructuur die betrekking hebben op de erkenningsvoorwaarden, vermeld in artikel 146/2, §1, en de aanvullende kwalificatiecriteria, vermeld in artikel 146/2, §2, ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering vraagt daarover een advies aan de Vlaamse Regulator voor de Media. De Vlaamse Regulator voor de Media houdt bij de opmaak van dat advies rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+
+## Onderafdeling V. Digitale lokale radio-omroeporganisaties
+
+### ART 146/4.
+
+De digitale lokale radio-omroeporganisaties hebben tot taak een verscheidenheid van programma’s te brengen met de bedoeling binnen het verzorgingsgebied een verbindende factor te zijn onder de bevolking of de doelgroep op basis van een specifiek profiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod.<br>
+<br>
+De digitale lokale radio-omroeporganisaties richten hun programma-aanbod op een verzorgingsgebied dat een gebied, een stad, een deel van een stad, een gemeente, een deel van een gemeente, een beperkt aantal aaneensluitende gemeenten omvat of een welbepaalde doelgroep uit datzelfde verzorgingsgebied.<br>
+<br>
+De digitale lokale radio-omroeporganisatie zendt haar omroepprogramma uit via DAB+.
+
+### ART 146/5.
+
+§1. Digitale lokale radio-omroeporganisaties kunnen erkend worden als ze voldoen aan al de volgende erkenningsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in afdeling III en artikel 146/4;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het voorwerp van de rechtspersoon bestaat hoofdzakelijk in het verzorgen van radioprogramma’s. De digitale lokale radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun doel;<br>
+b)&nbsp;&nbsp; &nbsp;de digitale lokale radio-omroeporganisaties zenden een aanzienlijk deel van het aanbod uit met een specifiek muziekprofiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod;<br>
+c)&nbsp;&nbsp; &nbsp;journaals en informatieve programma’s:<br>
+1)&nbsp;&nbsp; &nbsp;digitale lokale radio-omroeporganisaties die journaals en informatieve programma’s brengen, doen dat met een eigen redactie. Voor de journaals en informatieve programma’s is een hoofdredacteur verantwoordelijk, en de redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd;<br>
+2)&nbsp;&nbsp; &nbsp;digitale lokale radio-omroeporganisaties die journaals en informatieve programma’s brengen en niet beschikken over een eigen redactie, kunnen samenwerken met andere redacties als daarbij de onafhankelijkheid niet in het gedrang komt en als die redacties voldoen aan de voorwaarden, vermeld in punt 1).<br>
+<br>
+§2. De Vlaamse Regering legt in een besluit aanvullende kwalificatiecriteria voor erkenning op en kent aan elk van die criteria een weging toe.<br>
+<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op al de volgende aspecten:<br>
+1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de invulling van de opdracht, vermeld in paragraaf 1, 2°, b), en artikel 146/4;<br>
+2° &nbsp;het financiële plan;<br>
+3° &nbsp;de technische infrastructuur.
+
+### ART 146/6.
+
+§1. De digitale lokale radio-omroeporganisaties houden zich voor de volledige duur van de erkenning aan de erkenningsvoorwaarden, vermeld in 146/5, §1, en aan de invulling van de aanvullende kwalificatiecriteria van artikel 146/5, §2, zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt.<br>
+<br>
+In afwijking van het eerste lid kunnen de lokale radio-omroeporganisaties wijzigingen aanbrengen aan de invulling van de aanvullende kwalificatiecriteria, vermeld in artikel 146/5, §2, zoals die zijn opgenomen in hun erkenningsaanvraag, op basis waarvan de Vlaamse Regering aan hen een erkenning heeft uitgereikt. Afwijkingen van de invulling van de opdracht, vermeld in artikel 146/5, §1, 2°, b), kunnen pas worden aangebracht nadat het tweede volledige kalenderjaar dat volgt op de datum van de erkenning is afgelopen. De lokale radio-omroeporganisatie brengt de Vlaamse Regulator voor de Media op de hoogte van deze wijzigingen. De kennisgeving gebeurt conform artikel 219.<br>
+<br>
+§2. De lokale radio-omroeporganisaties leggen de wijzigingen aan hun statuten en aandeelhoudersstructuur die betrekking hebben op de erkenningsvoorwaarden, vermeld in artikel 146/5, §1, en de aanvullende kwalificatiecriteria, vermeld in artikel 146/5, §2, ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering vraagt daarover een advies aan de Vlaamse Regulator voor de Media. De Vlaamse Regulator voor de Media houdt bij de opmaak van dat advies rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+
+## Afdeling V. Samenwerkingsverbanden
 
 ### ART. 147.
 
-Particuliere radio-omroeporganisaties die hun omroepprogramma's niet via analoge terrestrische radio-omroepnetwerken uitzenden, worden andere radio-omroeporganisaties genoemd en brengen de Vlaamse Regulator voor de Media daarvan op de hoogte.
+Radio-omroeporganisaties die erkend zijn om hun omroepprogramma uit te zenden op eenzelfde frequentieblok via DAB+, moeten een samenwerkingsverband vormen. Wanneer het samenwerkingsverband niet binnen een redelijke termijn kan worden gevormd zullen de voornoemde radio-omroeporganisaties een beroep doen op bemiddeling. De Vlaamse Regering bepaalt de nadere modaliteiten van deze bemiddelingsprocedure.<br>
+<br>
+Het samenwerkingsverband, vermeld in het eerste lid, en elke latere wijziging aan het samenwerkingsverband worden aangemeld bij de Vlaamse Regulator voor de Media. De kennisgeving gebeurt conform artikel 219.
 
 ### ART. 148.
 
-§ 1. Het voorwerp van de omroeporganisaties, vermeld in artikel 147, bestaat in het verzorgen van radioprogramma's om ze ter beschikking te stellen van het publiek en ze te leveren via elektronische communicatienetwerken, met uitsluiting van analoge terrestrische radio-omroepnetwerken. Ze kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.<br>
+Het samenwerkingsverband, vermeld in artikel 147, dient het voorwerp uit te maken van schriftelijke afspraken tussen de betrokken erkende radio- omroeporganisaties.<br>
 <br>
-&nbsp;§ 2. ...
+De erkende radio-omroeporganisaties van het samenwerkingsverband, vermeld in artikel 147, oefenen de frequentiegebruiksrechten die aan hen zijn toegekend, samen uit. Als een van de erkende radio-omroeporganisaties niet langer deel uitmaakt van het samenwerkingsverband, wordt het voortgezet door de resterende radio-omroeporganisaties.<br>
+<br>
+Als er sprake is van onderbenutte capaciteit moet het samenwerkingsverband, vermeld in artikel 147, toegang verlenen tot die capaciteit onder billijke, redelijke en niet-discriminerende voorwaarden.<br>
+<br>
+De Vlaamse Regering bepaalt aan welke radio-omroeporganisaties het samenwerkingsverband deze toegang moet verlenen en de procedure en modaliteiten daarvan.
 
 ### ART. 149.
 
-§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, radiodiensten aanbieden via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet, als:<br>
-1° de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het aanbieden van radiodiensten via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet;<br>
-2° de entiteit die deze aanbiedt voldoet aan de voorwaarden, vermeld in artikel 129, 130 en 131.<br>
-<br>
-§ 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van deze diensten.<br>
-<br>
-Die kennisgeving wordt conform artikel 219 gedaan.<br>
-<br>
-De kennisgeving moet minstens de volgende informatie bevatten : de plaats van uitzending, de plaats van vestiging, de wijze waarop het programmasignaal wordt verspreid, en de statuten.<br>
-<br>
-Voor elk afzonderlijk omroepprogramma wordt een nieuwe kennisgeving verricht.<br>
-<br>
-Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad van beheer of het bestuursorgaan van de omroeporganisatie, wordt zonder verwijl aan de Vlaamse Regulator voor de Media meegedeeld.<br>
-<br>
-§ 3. De kennisgeving, vermeld in paragraaf 2, is niet vereist voor erkende landelijke, netwerk- en lokale radio-omroeporganisaties die hun programma's doorgeven of beschikbaar stellen via andere elektronische communicatienetwerken dan analoge terrestrische radio-omroepnetwerken.
+De Vlaamse Regering bepaalt de nadere uitvoeringsbepalingen voor de oprichting, de werking, de aanmelding, de distributie, het gebruik van onderbenutte capaciteit en de verplichtingen van de samenwerkingsverbanden, vermeld in artikel 147, die worden gevormd ter uitvoering van deze afdeling.
 
 ## HOOFDSTUK II. Particuliere niet-lineaire radio-omroeporganisaties
 
@@ -1922,7 +2085,7 @@ Dienstenverdelers zoals bepaald in artikel 177, eerste lid, mogen geen persoonsg
 
 ### ART. 184.
 
-De dienstenverdeler die gebruik maakt van een etheromroepnetwerk of een   entiteit die daar zeggenschap over uitoefent, kan niet meer dan een derde van de   digitale capaciteit van dat netwerk die bestemd is voor gebruik met dezelfde   technologie, exclusief verwerven.<BR><BR>De beperking waarvan sprake in het   eerste lid is niet van toepassing op de digitale capaciteit van dat netwerk die   bestemd is voor het aanbod van vrij te ontvangen   radio-omroepprogramma's.
+De dienstenverdeler die gebruik maakt van een televisieomroepnetwerk of een entiteit die daar zeggenschap over uitoefent, kan niet meer dan een derde van de digitale capaciteit van dat netwerk die bestemd is voor gebruik met dezelfde technologie, exclusief verwerven.
 
 ### ART 184/0.
 
@@ -2566,23 +2729,25 @@ Een besluit van de Vlaamse Regulator voor de Media om die maatregelen permanent 
 
 § 1. Niemand mag zendapparatuur gebruiken zonder een schriftelijke zendvergunning die uitgereikt is door de Vlaamse Regulator voor de Media.<br>
 <br>
-De zendvergunning is persoonlijk en mag aan een derde pas worden overgedragen na het schriftelijke akkoord van de Vlaamse Regulator voor de Media.<br>
-<br>
-§ 2. Met behoud van de toepassing van de bepalingen van paragraaf 4 mag de Vlaamse Regulator voor de Media uitsluitend een zendvergunning toekennen aan lineaire omroeporganisaties en aan etheromroepnetwerken. De Vlaamse Regulator voor de Media kan ook naar aanleiding van evenementen en voor experimenten in het teken van het uittesten van nieuwe technologieën een tijdelijke vergunning uitreiken voor de duur van het evenement.<br>
+§ 2. Met behoud van de toepassing van de bepalingen van paragraaf 4 kan de Vlaamse Regulator voor de Media uitsluitend een zendvergunning toekennen aan erkende radio-omroeporganisaties, aan samenwerkingsverbanden en aan televisieomroepnetwerken. De Vlaamse Regulator voor de Media kan ook naar aanleiding van evenementen en voor experimenten in het teken van het uittesten van nieuwe technologieën een tijdelijke vergunning uitreiken voor de duur van het evenement.<br>
 <br>
 § 3. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het aanvragen, het wijzigen, het schorsen, of het opheffen van de zendvergunningen.<br>
 <br>
-De zendvergunning geldt voor de duur van de erkenning van de landelijke, netwerk- of lokale radio-omroeporganisatie of van het etheromroepnetwerk. Het opschorten of opheffen van die erkenning heeft het opschorten of het opheffen van de zendvergunning tot gevolg.<br>
+De zendvergunning geldt voor de duur van de erkenning van de radio-omroeporganisatie of voor de duur van de licentie van de aanbieder van het televisieomroepnetwerk. In geval van uitzendingen via DAB+ gelden de zendvergunningen voor de duur van het samenwerkingsverband. Het opschorten of opheffen van die erkenning of die licentie heeft het opschorten of het opheffen van de zendvergunning tot gevolg.&nbsp;De Vlaamse Regering kan een inschrijvingsgeld voor de aanvraag van een zendvergunning of een wijziging ervan vastleggen.<br>
 <br>
-§ 4. De vergunningen, vermeld in paragraaf 1, zijn niet vereist voor de openbare omroeporganisatie van de Vlaamse Gemeenschap. De Vlaamse Regering stelt die omroep de frequenties ter beschikking die hij nodig heeft.
+§ 4. De zendvergunningen, vermeld in paragraaf 1, zijn niet vereist voor de openbare omroeporganisatie van de Vlaamse Gemeenschap. De Vlaamse Regering stelt die omroep de frequenties ter beschikking die hij nodig heeft.
+
+### ART 193/1.
+
+De verplaatsing van zendinstallaties is pas mogelijk nadat de Vlaamse Regulator voor de Media de aanpassing van de zendvergunning heeft goedgekeurd. De Vlaamse Regulator voor de Media wint daarvoor het bindende advies in van de administratie.
 
 ### ART. 194.
 
-De Vlaamse Regering kan specifieke politieverordeningen vaststellen die de omroeporganisaties en de aanbieders van een etheromroepnetwerk aanbelangen.
+De Vlaamse Regering kan specifieke politieverordeningen vaststellen die de radio- omroeporganisaties en de aanbieders van een televisieomroepnetwerk aanbelangen.
 
 ### ART. 195.
 
-De Vlaamse Regering bepaalt de specifieke technische voorschriften van de vergunningen, vermeld in artikel 193.
+De Vlaamse Regering bepaalt de specifieke technische voorschriften van de zendvergunningen, vermeld in artikel 193.
 
 ### ART. 196.
 
@@ -2705,45 +2870,45 @@ De raadplegingsprocedures, vermeld in artikel 192/14 en 192/15, zijn van toepass
 <br>
 De Vlaamse Regulator voor de Media biedt richtsnoeren en stelt de procedures inzake het verkrijgen van toegang en interconnectie voor het publiek beschikbaar teneinde te waarborgen dat kleine en middelgrote ondernemingen en operatoren met een beperkt geografisch bereik kunnen profiteren van de opgelegde verplichtingen.
 
-## TITEL IV. HET AANBIEDEN VAN ETHEROMROEPNETWERKEN
+## TITEL IV. TELEVISIEOMROEPNETWERKEN
 
 ### ART. 201.
 
-§ 1. Niemand mag een etheromroepnetwerk aanbieden zonder schriftelijke licentie van de Vlaamse Regulator voor de Media. Die licentie is persoonlijk en mag pas aan een derde worden overgedragen na het schriftelijke akkoord van de Vlaamse Regulator voor de Media.<br>
+§ 1. Niemand mag een televisieomroepnetwerk aanbieden zonder schriftelijke licentie van de Vlaamse Regulator voor de Media. Die licentie is persoonlijk en mag pas aan een derde worden overgedragen na het schriftelijke akkoord van de Vlaamse Regulator voor de Media.<br>
 <br>
-De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan.&nbsp;De licenties, vermeld in het eerste lid, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.<br>
+De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan.&nbsp;De licenties, vermeld in het eerste lid, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.&nbsp;De Vlaamse Regering kan een inschrijvingsgeld dat de licentiehouder moet betalen voor het aanvragen van een licentie, vermeld in het eerste lid, en een vergoeding voor het behoud van de licentie, vermeld in het eerste lid, vastleggen.<br>
 <br>
-De Vlaamse Regering maakt wijzigingen in de duur van de licenties, in de voorwaarden waaronder die kunnen worden verkregen, in de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan, en in het digitale frequentieplan, vermeld in paragraaf 2, op een passende wijze bekend. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over de voormelde wijziging, hun standpunt over de wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
+De Vlaamse Regering maakt wijzigingen in de duur van de licenties, in de voorwaarden waaronder die kunnen worden verkregen, in de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan, en in het digitale frequentieplan, vermeld in paragraaf 2, op een passende wijze bekend. Belanghebbenden kunnen voorafgaand aan de beslissing over de voormelde wijziging, hun standpunt over de wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
 <br>
-§ 2. De Vlaamse Regering stelt een digitaal frequentieplan op en keurt het goed. Ze bepaalt het aantal frequentieblokken en frequentiekanalen, met inbegrip van de bijbehorende technische voorwaarden, die geheel of gedeeltelijk zullen worden toegekend aan aanbieders van etheromroepnetwerken.<br>
+§ 2. De Vlaamse Regering stelt een digitaal frequentieplan op en keurt het goed. Ze bepaalt het aantal frequentiekanalen, met inbegrip van de bijbehorende technische voorwaarden, die geheel of gedeeltelijk zullen worden toegekend aan aanbieders van televisieomroepnetwerken.<br>
 <br>
-De frequentieblokken en frequentiekanalen, vermeld in het eerste lid, met inbegrip van de bijbehorende technische voorwaarden die geheel of gedeeltelijk zijn toegekend aan de aanbieder van een etheromroepnetwerk, kunnen ingetrokken, vervangen of gewijzigd worden ten gevolge van internationale of Europese regelgeving en verplichtingen.<br>
+De frequentiekanalen, vermeld in het eerste lid, met inbegrip van de bijbehorende technische voorwaarden die geheel of gedeeltelijk zijn toegekend aan de aanbieder van een televisieomroepnetwerk, kunnen ingetrokken, vervangen of gewijzigd worden ten gevolge van internationale of Europese regelgeving en verplichtingen.<br>
 <br>
-§ 3. De Vlaamse Regering stelt aan de openbare omroeporganisatie van de Vlaamse Gemeenschap de frequentieblokken en frequentiekanalen ter beschikking die hij nodig heeft om de doelstellingen van algemeen belang overeenkomstig de beheersovereenkomst, vermeld in artikel 17, § 1, 1°, te verwezenlijken.<br>
+De aanbieder van een televisieomroepnetwerk aanvaardt de invloed van de uitzendingen van mogelijke andere aanbieders van televisieomroepnetwerken die uitzenden overeenkomstig hun zendvergunning.<br>
 <br>
-§4. Als een licentiehouder afziet van zijn licentie om een etheromroepnetwerk aan te bieden en om de bijbehorende zendvergunningen te krijgen die bestemd zijn voor het aanbod van vrij te ontvangen radio-omroepprogramma’s en als daardoor uitzendingen op een frequentieblok abrupt stopgezet worden, kan de Vlaamse Regulator voor de Media een tijdelijke licentie met tijdelijke zendvergunningen uitreiken aan een samenwerkingsverband van omroeporganisaties dat op het ogenblik van de stopzetting gebruikmaakt van dat etheromroepnetwerk. De omroeporganisaties van dat samenwerkingsverband oefenen de hun toegekende gebruiksrechten gezamenlijk en collectief uit. Als een van de omroeporganisaties niet langer deel uitmaakt van het samenwerkingsverband, wordt het voortgezet door de resterende leden.<br>
+§ 3. De Vlaamse Regering stelt aan de openbare omroeporganisatie van de Vlaamse Gemeenschap de frequentiekanalen ter beschikking die hij nodig heeft om de doelstellingen van algemeen belang overeenkomstig de beheersovereenkomst, vermeld in artikel 17, § 1, 1°, te verwezenlijken.<br>
 <br>
-Als het frequentieblok, vermeld in het eerste lid, onderbenut is en er nog ruimte is voor omroepprogramma’s, biedt het samenwerkingsverband waaraan de licentie toegekend wordt, toegang tot die onderbenutte capaciteit aan lineaire radio-omroeporganisaties onder billijke, redelijke en niet-discriminerende voorwaarden. Alleen radio-omroeporganisaties die aan de vereisten, vermeld in artikel 129 en 130, voldoen, kunnen die onderbenutte capaciteit na goedkeuring door de Vlaamse Regering inzetten.<br>
+§4. ...<br>
 <br>
-De licenties en zendvergunningen, vermeld in het eerste lid, worden verleend tot en met 31 december 2027.<br>
+§5. De uitzendingen moeten gebeuren in overeenstemming met de gangbare normen van de Internationale Telecommunicatie Unie (ITU) en het Europees Telecommunicatie en Standaardisatie Instituut (ETSI).<br>
 <br>
 &nbsp;
 
 ### ART. 202.
 
 Om een licentie als vermeld in artikel 201 te verkrijgen, moet de aanbieder voldoen aan de volgende voorwaarden :<br>
-1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als voorwerp het aanleggen en exploiteren van een etheromroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een etheromroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp;<br>
+1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als voorwerp het aanleggen en exploiteren van een televisieomroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een televisieomroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp;<br>
 2° ressorteren onder de bevoegdheid van de Vlaamse Gemeenschap;<br>
-3° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van het aanbieden van het etheromroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
+3° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van het aanbieden van het televisieomroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
 4° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag met vermelding van, in voorkomend geval, het aantal abonnees en van de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br>
-5° jaarlijks een vergoeding betalen voor het gebruik van de benodigde frequentieblokken en -kanalen. Die vergoeding is objectief gerechtvaardigd, transparant en niet discriminerend;<br>
+5° jaarlijks een vergoeding betalen voor het gebruik van de benodigde frequentiekanalen. Die vergoeding is objectief gerechtvaardigd, transparant en niet discriminerend;<br>
 6° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen;<br>
 7° geen aanbieder zijn van elektronische communicatienetwerken die tegen betaling omroepdiensten of elektronische communicatiediensten aanbiedt aan eindgebruikers in Vlaanderen;<br>
 8° geen onderneming zijn waarin de ondernemingen, vermeld in punt 7°, zeggenschap hebben. Onder zeggenschap wordt begrepen de rechten, overeenkomsten of andere middelen die het afzonderlijk of gezamenlijk, met inachtneming van alle feitelijke en juridische omstandigheden, mogelijk maken een bepalende invloed uit te oefenen op de activiteiten van een onderneming, met name :<br>
 a) eigendoms- of gebruiksrechten op alle vermogensbestanddelen van een onderneming of op delen daarvan;<br>
 b) rechten of overeenkomsten die een bepalende invloed verschaffen op de samenstelling, het stemgedrag of de besluiten van de ondernemingsorganen.<br>
 <br>
-De Vlaamse Regering bepaalt het bedrag en de betalingsvoorwaarden van de jaarlijkse vergoeding voor het gebruik van de benodigde frequentieblokken en -kanalen, vermeld in het eerste lid, 5°.<br>
+De Vlaamse Regering bepaalt het bedrag en de betalingsvoorwaarden van de jaarlijkse vergoeding voor het gebruik van de benodigde frequentiekanalen, vermeld in het eerste lid, 5°.<br>
 <br>
 De Vlaamse Regering kan de volgende aanvullende verplichtingen verbinden aan de licenties :<br>
 1° technische en operationele voorwaarden ter voorkoming van schadelijke interferentie en voor de bescherming van de volksgezondheid tegen elektromagnetische velden, zoveel mogelijk rekening houdend met aanbeveling 1999/519/EG van de Raad van 12 juli 1999 betreffende de beperking van blootstelling van de bevolking aan elektromagnetische velden van 0 Hz-300 GHz;<br>
@@ -2755,11 +2920,11 @@ De verplichtingen, vermeld in het derde lid, zijn objectief gerechtvaardigd in r
 
 ### ART. 202/1.
 
-§ 1. De aanbieders van etheromroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br>
+§ 1. De aanbieders van televisieomroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun televisieomroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br>
 <br>
-Voor hij dat recht uitoefent, onderwerpt de belanghebbende aanbieder van een etheromroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid die bevoegd is voor het openbaar domein. Die overheid beslist binnen twee maanden vanaf de datum waarop het plan is ingezonden. Ze brengt de belanghebbende aanbieder van een etheromroepnetwerk op de hoogte van haar beslissing. Na het verstrijken van die termijn, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br>
+Voor hij dat recht uitoefent, onderwerpt de belanghebbende aanbieder van een televisieomroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid die bevoegd is voor het openbaar domein. Die overheid beslist binnen twee maanden vanaf de datum waarop het plan is ingezonden. Ze brengt de belanghebbende aanbieder van een televisieomroepnetwerk op de hoogte van haar beslissing. Na het verstrijken van die termijn, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br>
 <br>
-De overheden hebben het recht om de inrichting of het plan van aanleg en de daarmee verband houdende werkzaamheden later op hun domein te laten wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het etheromroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br>
+De overheden hebben het recht om de inrichting of het plan van aanleg en de daarmee verband houdende werkzaamheden later op hun domein te laten wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het televisieomroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br>
 1° met het oog op de openbare veiligheid;<br>
 2° tot behoud van het natuur- en stedenschoon;<br>
 3° in het belang van de wegen, waterlopen, vaarten of een openbare dienst;<br>
@@ -2767,63 +2932,63 @@ De overheden hebben het recht om de inrichting of het plan van aanleg en de daar
 <br>
 In andere gevallen, dan de gevallen, vermeld in het tweede lid, zijn ze voor rekening van de overheid die de wijzigingen oplegt. De overheid mag vooraf een kostenbegroting eisen en, in geval van onenigheid, zelf de werkzaamheden laten uitvoeren.<br>
 <br>
-§ 2. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, doch zulks pas na een passende periode van openbare raadpleging, het gedeelde gebruik opleggen aan de aanbieders van etheromroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br>
+§ 2. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, doch zulks pas na een passende periode van openbare raadpleging, het gedeelde gebruik opleggen aan de aanbieders van televisieomroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br>
 <br>
 Onder bijbehorende faciliteiten wordt verstaan de diensten die horen bij een elektronisch communicatienetwerk of een elektronische communicatiedienst, fysieke infrastructuren en andere elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel daarvoor bezitten, zoals gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten.<br>
 <br>
 De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste lid, opleggen na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen.<br>
 <br>
-De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de etheromroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br>
+De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de televisieomroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br>
 <br>
 De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die kan worden aangepast aan de risico's.<br>
 <br>
-§ 3. De aanbieders van etheromroepnetwerken kunnen voor de aanleg van de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op blijvende wijze steunen en ankers aanbrengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aanleggen of zonder vasthechting of aanraking boven particuliere eigendommen laten doorgaan.<br>
+§ 3. De aanbieders van televisieomroepnetwerken kunnen voor de aanleg van de kabels en de bijbehorende uitrustingen van hun televisieomroepnetwerken op blijvende wijze steunen en ankers aanbrengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aanleggen of zonder vasthechting of aanraking boven particuliere eigendommen laten doorgaan.<br>
 <br>
 De werkzaamheden mogen pas beginnen nadat aan de eigenaars, volgens de gegevens van het kadaster, aan de huurders en aan de bewoners een behoorlijk aangetoonde schriftelijke kennisgeving is bezorgd.<br>
 <br>
-Als de aanbieder van een etheromroepnetwerk kabels, bovengrondse lijnen en bijbehorende uitrustingen wil aanleggen, opruimen of er werkzaamheden aan wil uitvoeren, streeft hij naar overeenstemming over de plaats en de wijze van uitvoering van de werkzaamheden met degene op de eigendom van wie steun wordt genomen of van wie de eigendom wordt overspannen of overschreden.<br>
+Als de aanbieder van een televisieomroepnetwerk kabels, bovengrondse lijnen en bijbehorende uitrustingen wil aanleggen, opruimen of er werkzaamheden aan wil uitvoeren, streeft hij naar overeenstemming over de plaats en de wijze van uitvoering van de werkzaamheden met degene op de eigendom van wie steun wordt genomen of van wie de eigendom wordt overspannen of overschreden.<br>
 <br>
 De uitvoering van de werkzaamheden heeft geen buitenbezitstelling tot gevolg. Het plaatsen van steunen en ankers op muren of gevels mag de eigenaar niet hinderen in zijn recht om zijn goed af te breken of te herstellen.<br>
 <br>
-De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het etheromroepnetwerk.<br>
+De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het televisieomroepnetwerk.<br>
 <br>
-De eigenaar moet ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het etheromroepnetwerk daarvan op de hoogte brengen.<br>
+De eigenaar moet ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het televisieomroepnetwerk daarvan op de hoogte brengen.<br>
 <br>
 § 4. De aanleg en de uitvoering van alle andere werken aan de kabels, bovengrondse lijnen en bijbehorende uitrustingen in, tegen en op gebouwen en in en op gronden die daarbij horen, voor de aansluitingen op de infrastructuur in die gebouwen, moeten worden toegelaten door de eigenaar en de rechthebbende, tenzij ze bereid zijn de meerkosten van een tegenvoorstel te dragen.<br>
 <br>
-§ 5. De eigenaar of de rechthebbende moet takken en wortels die hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, inkorten op verzoek van de aanbieder van een etheromroepnetwerk.<br>
+§ 5. De eigenaar of de rechthebbende moet takken en wortels die hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, inkorten op verzoek van de aanbieder van een televisieomroepnetwerk.<br>
 <br>
-Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een etheromroepnetwerk zelf overgaan tot het inkorten. De kosten van het inkorten zijn ten laste van :<br>
+Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een televisieomroepnetwerk zelf overgaan tot het inkorten. De kosten van het inkorten zijn ten laste van :<br>
 1° de eigenaar of de rechthebbende als de bomen of beplantingen zich bevinden op zijn privé-eigendom en de takken of wortels hinderlijk zijn voor kabels, bovengrondse lijnen en bijbehorende uitrustingen, die zich :<br>
 a) in of boven het openbaar domein bevinden;<br>
 b) in of boven zijn privé-eigendom bevinden en die dienstig zijn voor zijn aansluiting;<br>
-2° de aanbieder van een etheromroepnetwerk, in de overige gevallen.<br>
+2° de aanbieder van een televisieomroepnetwerk, in de overige gevallen.<br>
 <br>
-§ 6. Als de aanbieder van een etheromroepnetwerk werkzaamheden uitvoert, moet hij het goed herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, door eigen toedoen of door toedoen van een derde.<br>
+§ 6. Als de aanbieder van een televisieomroepnetwerk werkzaamheden uitvoert, moet hij het goed herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, door eigen toedoen of door toedoen van een derde.<br>
 <br>
-De verplichting, vermeld in het eerste lid, is niet van toepassing op de schade die onvermijdelijk wordt aangericht door de aanbieder van een etheromroepnetwerk aan een goed, als de aanbieder van een etheromroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br>
+De verplichting, vermeld in het eerste lid, is niet van toepassing op de schade die onvermijdelijk wordt aangericht door de aanbieder van een televisieomroepnetwerk aan een goed, als de aanbieder van een televisieomroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br>
 <br>
-De aanbieder van een etheromroepnetwerk en de eigenaar of de rechthebbende van het goed kunnen afwijken van de verplichtingen, vermeld in het eerste lid.<br>
+De aanbieder van een televisieomroepnetwerk en de eigenaar of de rechthebbende van het goed kunnen afwijken van de verplichtingen, vermeld in het eerste lid.<br>
 <br>
-§ 7. De vergoedingen voor schade veroorzaakt door de aanleg of door de exploitatie van een etheromroepnetwerk zijn voor rekening van de aanbieder van het etheromroepnetwerk, die aansprakelijk blijft voor alle schadelijke gevolgen voor derden.<br>
+§ 7. De vergoedingen voor schade veroorzaakt door de aanleg of door de exploitatie van een televisieomroepnetwerk zijn voor rekening van de aanbieder van het televisieomroepnetwerk, die aansprakelijk blijft voor alle schadelijke gevolgen voor derden.<br>
 <br>
-§ 8. De aanbieder van een etheromroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, van het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafinstallaties of van de installaties voor elektriciteitsvoorziening onmiddellijk te doen ophouden.<br>
+§ 8. De aanbieder van een televisieomroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, van het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafinstallaties of van de installaties voor elektriciteitsvoorziening onmiddellijk te doen ophouden.<br>
 <br>
 Bij gebrek daaraan worden de nodig geachte maatregelen, met inbegrip van het verplaatsen van de kabels en de bijbehorende installaties, door de diensten of bedrijven in kwestie getroffen op kosten en risico van de aanbieder van het omroepnetwerk.<br>
 <br>
-§ 9. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het etheromroepnetwerk.
+§ 9. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het televisieomroepnetwerk.
 
 ### ART. 203.
 
-De aanbieder van een etheromroepnetwerk gebruikt de digitale capaciteit van zijn netwerk om omroepprogramma's uit te zenden.
+De aanbieder van een televisieomroepnetwerk gebruikt de digitale capaciteit van zijn netwerk om omroepprogramma's uit te zenden.
 
 ### ART. 204.
 
-De Vlaamse Regering kan de verordeningen van algemeen bestuur en de politieverordeningen betreffende de aanleg en de exploitatie van etheromroepnetwerken vaststellen en de minimale technische voorschriften bepalen waaraan de etheromroepnetwerken moeten voldoen. In bijzondere gevallen kan de Vlaamse Regering speciale voorwaarden opleggen om de kwaliteit van een net waarvan de werking gebrekkig is, te verbeteren.
+De Vlaamse Regering kan de verordeningen van algemeen bestuur en de politieverordeningen betreffende de aanleg en de exploitatie van televisieomroepnetwerken vaststellen en de minimale technische voorschriften bepalen waaraan de televisieomroepnetwerken moeten voldoen. In bijzondere gevallen kan de Vlaamse Regering speciale voorwaarden opleggen om de kwaliteit van een net waarvan de werking gebrekkig is, te verbeteren.
 
 ### ART. 205.
 
-De Vlaamse Regulator voor de Media is bevoegd om op ieder ogenblik te controleren of de etheromroepnetwerken en de exploitatie ervan conform de voorschriften van dit hoofdstuk en van de uitvoeringsbesluiten ervan zijn.
+De Vlaamse Regulator voor de Media is bevoegd om op ieder ogenblik te controleren of de televisieomroepnetwerken en de exploitatie ervan conform de voorschriften van dit hoofdstuk en van de uitvoeringsbesluiten ervan zijn.
 
 ## [DEEL VI. Het gebruik van normen om televisiesignalen en radiosignalen uit te zenden (verv. decr. 12 februari 2021, art. 16, I: 4 maart 2021)]
 
@@ -3194,7 +3359,11 @@ Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artik
 7°/1 het bevel de activiteiten als aanbieder van videoplatformdiensten te schorsen of stop te zetten als de aanbieder van een videoplatformdienst de verplichtingen, vermeld in deel IV/1, niet naleeft.<br>
 8° doeltreffende herstelmaatregelen met het oog op de naleving van artikel 214/2.<br>
 <br>
-In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of opheffen.
+In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een erkende radio-omroeporganisatie of de licentie voor een televisieomroepnetwerk schorsen of opheffen.<br>
+<br>
+Als de erkende radio-omroeporganisatie één jaar na de datum van de ingang van de erkenning nog niet uitzendt, kan de Vlaamse Regulator voor de Media de erkenning opheffen.<br>
+<br>
+Bij de stopzetting van de activiteiten van een erkende radio-omroeporganisatie wordt de erkenning van die omroeporganisatie door de Vlaamse Regulator voor de Media opgeheven.
 
 ### ART 228/1.
 
@@ -3283,7 +3452,7 @@ Alle bepalingen van het eerste boek van het Strafwetboek, hoofdstuk VII en artik
 
 ### ART 237/1.
 
-De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het organiseren van openbare raadplegingen als vermeld in artikel 133, §2, en 201.<br>
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het organiseren van openbare raadplegingen als vermeld in artikel 133, eerste lid, en 201.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
 1° natuurlijke personen die willen deelnemen aan de openbare raadpleging;<br>
@@ -3299,13 +3468,13 @@ De persoonsgegevens die conform dit artikel door de administratie worden verwerk
 
 ### ART 237/2.
 
-De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van aanvragen tot erkenning als vermeld in artikel 132.<br>
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van aanvragen tot erkenning als vermeld in artikel 127.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+1° contactpersonen van erkende radio-omroeporganisaties;<br>
+2° bestuurders van erkende radio-omroeporganisaties;<br>
+3° aandeelhouders van erkende radio-omroeporganisaties;<br>
+4° personeelsleden van erkende radio-omroeporganisaties.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
 1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
@@ -3391,13 +3560,13 @@ De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Me
 
 ### ART 237/6.
 
-De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het toezien op de naleving van de erkenningsvoorwaarden naar aanleiding van aanvragen tot erkenning als vermeld in artikel 132.<br>
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het toezien op de naleving van de erkenningsvoorwaarden naar aanleiding van aanvragen tot erkenning als vermeld in artikel 127.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+1° contactpersonen van erkende radio-omroeporganisaties;<br>
+2° bestuurders van erkende radio-omroeporganisaties;<br>
+3° aandeelhouders van erkende radio-omroeporganisaties;<br>
+4° personeelsleden van erkende radio-omroeporganisaties.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
 1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
@@ -3412,15 +3581,15 @@ De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Me
 ### ART 237/7.
 
 §1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
-1° het behandelen van kennisgevingen van landelijke, netwerk- en lokale radio-omroeporganisaties, vermeld in artikel 139, 143/3 en 146;<br>
-2° het toezien op de naleving van de erkenningsvoorwaarden voor landelijke, netwerk- en lokale radio-omroeporganisaties, vermeld in artikel 139, 143/3 en 146;<br>
-3° het behandelen van aanvragen met oog op het verkrijgen van een FM-zendvergunning, vermeld in artikel 133, §2, tweede lid.<br>
+1° het behandelen van kennisgevingen van erkende radio-omroeporganisaties, vermeld in artikel 139, 143/3, 146, 146/3 en 146/6;<br>
+2° het toezien op de naleving van de erkenningsvoorwaarden voor&nbsp;erkende radio-omroeporganisaties, vermeld in artikel 139, 143/3 en 146;<br>
+3° het behandelen van aanvragen met oog op het verkrijgen van een FM-zendvergunning, vermeld in artikel 193, §2.<br>
 <br>
 §2. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
-4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+1° contactpersonen van erkende radio-omroeporganisaties;<br>
+2° bestuurders van erkende radio-omroeporganisaties;<br>
+3° aandeelhouders van erkende radio-omroeporganisaties;<br>
+4° personeelsleden van erkende radio-omroeporganisaties.<br>
 &nbsp;<br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
 1° natuurlijke personen die een FM-zendvergunning aanvragen;<br>
@@ -3455,11 +3624,32 @@ De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, ve
 <br>
 §4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
 
+### ART 237/7/1.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van kennisgevingen van samenwerkingsverbanden als vermeld in artikel 147.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;de contactpersonen van erkende radio-omroeporganisaties en hun samenwerkingsverbanden;<br>
+2°&nbsp;&nbsp; &nbsp;de bestuurders van erkende radio-omroeporganisaties en hun samenwerkingsverbanden;<br>
+3°&nbsp;&nbsp; &nbsp;de aandeelhouders van erkende radio-omroeporganisaties en hun samenwerkingsverbanden;<br>
+4°&nbsp;&nbsp; &nbsp;de personeelsleden van erkende radio-omroeporganisaties en hun samenwerkingsverbanden.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;de mandaatgegevens;<br>
+4° het rijksregisternummer of het identificatienummer van de sociale zekerheid;<br>
+5° de gegevens over de functie binnen de feitelijke vereniging of de rechtspersoon;<br>
+6° &nbsp;de gegevens over de aandeelhoudersstructuur van de feitelijke vereniging of de rechtspersoon.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar nadat de verwerking, vermeld in het eerste lid, is afgelopen. Na afloop van die tien jaar wordt conform artikel III.87, §1, eerste lid, 3°, van het Bestuursdecreet aan die persoonsgegevens een definitieve bestemming toegewezen.<br>
+&nbsp;
+
 ### ART 237/8.
 
 §1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
-1° het behandelen van kennisgevingen van andere radio-omroeporganisaties als vermeld in artikel 147;<br>
-2° het toezien op de voorwaarden om radiodiensten te kunnen aanbieden via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet als vermeld in artikel 149, §1.<br>
+1° het behandelen van kennisgevingen van andere radio-omroeporganisaties als vermeld in artikel 150/0;<br>
+2° het toezien op de voorwaarden om radiodiensten te kunnen aanbieden via andere radio-omroepnetwerken als vermeld in artikel 150, §1.<br>
 <br>
 §2. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
 1° &nbsp; natuurlijke personen die een kennisgeving doen;<br>
@@ -3871,20 +4061,20 @@ De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, ve
 ### ART 237/21.
 
 §1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
-1° het behandelen van aanvragen tot het verkrijgen van een schriftelijke licentie om etheromroepnetwerken aan te bieden als vermeld in artikel 201, §1;<br>
+1° het behandelen van aanvragen tot het verkrijgen van een schriftelijke licentie om televisieomroepnetwerken aan te bieden als vermeld in artikel 201, §1;<br>
 2° &nbsp; het uitvoeren van controles als vermeld in artikel 205.<br>
 <br>
 §2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een etheromroepnetwerk;<br>
-2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een etheromroepnetwerk;<br>
-3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een etheromroepnetwerk;<br>
-4°&nbsp;&nbsp; &nbsp;contractanten van de aanbieders van een etheromroepnetwerk.<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een televisieomroepnetwerk;<br>
+2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een televisieomroepnetwerk;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een televisieomroepnetwerk;<br>
+4°&nbsp;&nbsp; &nbsp;contractanten van de aanbieders van een televisieomroepnetwerk.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een etheromroepnetwerk;<br>
-2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een etheromroepnetwerk;<br>
-3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een etheromroepnetwerk;<br>
-4°&nbsp;&nbsp; &nbsp;personeelsleden van de aanbieders van een etheromroepnetwerk.<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een televisieomroepnetwerk;<br>
+2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een televisieomroepnetwerk;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een televisieomroepnetwerk;<br>
+4°&nbsp;&nbsp; &nbsp;personeelsleden van de aanbieders van een televisieomroepnetwerk.<br>
 <br>
 §3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
 1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
@@ -4169,7 +4359,55 @@ Televisieomroeporganisaties die een erkenning hebben verkregen met toepassing va
 
 ### ART 243/1.
 
-In afwijking van artikel 134, §2, worden erkenningen van netwerkradio-omroeporganisaties en lokale radio-omroeporganisaties die aflopen vóór 31 december 2027, verlengd tot en met 31 december 2027.
+...
+
+### ART 243/2.
+
+§1. De erkenningen voor de landelijke radio-omroeporganisaties die met ingang van 1 januari 2023 voor vijf jaar zijn verleend, kunnen worden verlengd met een periode van maximaal drie jaar. Een verzoek tot verlenging wordt ingediend bij de Vlaamse Regering, uiterlijk één jaar voor de lopende erkenningstermijn verstreken is.<br>
+<br>
+Als de Vlaamse Regering besluit om de erkenning niet te verlengen of te verlengen voor een kortere duur dan drie jaar, brengt ze de aanvrager uiterlijk zes maanden voor de erkenningstermijn verstreken is, op de hoogte met een aangetekende brief die gericht is aan de maatschappelijke zetel. De beslissing om de verlenging al dan niet toe te staan en de duur van de mogelijke verlenging worden gemotiveerd op grond van de afschaffing van de FM-uitzendingen, vermeld in artikel 134. Als de datum van de afschaffing van de FM-uitzendingen in de periode van de mogelijke verlenging van de erkenning valt, kan de erkenningstermijn ingekort worden tot minder dan drie jaar overeenkomstig de datum van de afschaffing van de FM-uitzendingen.<br>
+&nbsp;<br>
+§2. De beslissing van de Vlaamse Regering over de verlenging van de erkenningen voor de landelijke radio-omroeporganisaties houdt voor die omroeporganisaties het recht in op een gereserveerde capaciteit voor de verspreiding van hun FM-omroepprogramma via DAB+-frequentieblokken gedurende maximaal drie jaar.<br>
+<br>
+§3. Erkenningen die na de verlenging van drie jaar worden toegekend, worden verleend tot uiterlijk 31 december 2036.
+
+### ART 243/3.
+
+§1. De erkenningen voor de netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties die verkregen zijn in de periode tussen 1 januari 2018 en 31 december 2019, zijn verleend voor negen jaar, met ingang van de datum die in de besluiten met die erkenningen zijn opgenomen.<br>
+<br>
+In afwijking van het eerste lid worden erkenningen van netwerkradio-omroeporganisaties en lokale radio-omroeporganisaties die aflopen vóór 31 december 2027, verlengd tot en met 31 december 2027.<br>
+<br>
+§2. Netwerkradio-omroeporganisaties waarvan de erkenning niet afloopt op 31 december 2027, hebben recht op gereserveerde capaciteit voor de verspreiding van hun FM-omroepprogramma via DAB+-frequentieblokken gedurende de resterende duur van hun initiële erkenning.<br>
+<br>
+Lokale radio-omroeporganisaties waarvan de erkenning niet afloopt op 31 december 2027, kunnen onder bepaalde voorwaarden, die de Vlaamse Regering bepaalt, in aanmerking komen om hun FM-omroepprogramma via DAB+ uit te zenden met ingang van 1 januari 2028.<br>
+<br>
+§3. Erkenningen die worden toegekend voor een frequentiepakket waarvan de duurtijd van de erkenning op het moment van publicatie in het Belgisch Staatsblad van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties afloopt na 31 december 2027, worden verleend tot uiterlijk 31 december 2036.<br>
+&nbsp;
+
+### ART 243/4.
+
+Als een licentiehouder, die vóór de datum van de bekendmaking van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties in het Belgisch Staatsblad een licentie als etheromroepnetwerk voor het uitzenden van vrij te ontvangen radio-omroepprogramma’s heeft verworven van de Vlaamse Regulator voor de Media, afziet van zijn licentie om een etheromroepnetwerk aan te bieden en om de bijbehorende zendvergunningen te krijgen die bestemd zijn voor het aanbod van vrij te ontvangen radio-omroepprogramma’s, en als daardoor uitzendingen op een frequentieblok abrupt stopgezet worden, kan de Vlaamse Regulator voor de Media een tijdelijke licentie met tijdelijke zendvergunningen uitreiken aan een samenwerkingsverband van omroeporganisaties dat op het ogenblik van de stopzetting dat etheromroepnetwerk gebruikt. De omroeporganisaties van dat samenwerkingsverband oefenen de gebruiksrechten die aan hen zijn toegekend samen uit. Als een van de omroeporganisaties niet langer deel uitmaakt van het samenwerkingsverband, wordt het voortgezet door de resterende omroeporganisaties.<br>
+<br>
+Als het frequentieblok, vermeld in het eerste lid, onderbenut is en er nog ruimte is voor omroepprogramma’s, biedt het samenwerkingsverband waaraan de licentie toegekend wordt, toegang tot die onderbenutte capaciteit aan lineaire radio-omroeporganisaties onder billijke, redelijke en niet-discriminerende voorwaarden. Radio-omroeporganisaties die aan de vereisten, vermeld in artikel 134/3 en 134/5, voldoen, kunnen die onderbenutte capaciteit inzetten nadat de Vlaamse Regering dat heeft goedgekeurd.<br>
+<br>
+De licenties en zendvergunningen, vermeld in het eerste lid, worden verleend tot en met 31 december 2027.<br>
+&nbsp;
+
+### ART 243/5.
+
+De erkenningen van de landelijke radio-omroeporganisaties die zijn erkend met toepassing van artikel 243/2 en die komen te vervallen of opgeheven worden vóór 31 december 2027, kunnen tot en met 31 december 2027 opnieuw worden toegekend met toepassing van artikel 127, 129, 130, 131, 132, tweede lid, artikel 133, en artikel 137 tot en met 139, zoals die van kracht zijn op de datum van de bekendmaking van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties in het Belgisch Staatsblad.<br>
+<br>
+De erkenningen van de netwerkradio-omroeporganisaties en van de lokale radio-omroeporganisaties die zijn erkend met toepassing van artikel 243/3, §1, en die komen te vervallen of opgeheven worden vóór 31 december 2027, kunnen tot en met 31 december 2027 opnieuw worden verleend met toepassing van artikel 127, 129, 130, 131, 132, tweede lid, artikel 133, artikel 143/1 tot en met 143/3 en artikel 144 tot en met 146, zoals die van kracht zijn op de datum van de bekendmaking van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties.<br>
+&nbsp;
+
+### ART 243/6.
+
+Artikel 127, 129, 130, 131, 132, tweede lid, artikel 133, en artikel 137 tot en met 139, zoals van kracht op de dag vóór de datum van de inwerkingtreding van artikel 5, 6, 7, 8, 9, 12, 13, 28, 29 en 30 van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties, blijven van toepassing op de landelijke radio-omroeporganisaties tot hun erkenningen zijn verstreken op 31 december 2027, of, in geval van een verlenging, op 31 december 2030.<br>
+<br>
+Artikel 127, 129, 130, 131, 132, tweede lid, artikel 133, en artikel 143/1 tot en met 143/3, zoals van kracht op de dag vóór de datum van de inwerkingtreding van artikel 5, 6, 7, 8, 9, 12, 13, 32, 33 en 34 van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties, blijven van toepassing op de netwerkradio-omroeporganisaties tot hun erkenningen zijn verstreken.<br>
+<br>
+Artikel 127, 129, 130, 131, 132, tweede lid, artikel 133, en artikel 144 tot en met 146, zoals van kracht op de dag vóór de datum van de inwerkingtreding van artikel 5, 6, 7, 8, 9, 12, 13, 36, 37 en 38 van het decreet van 10 juli 2026 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties, blijven van toepassing op de lokale radio-omroeporganisaties tot hun erkenningen zijn verstreken.<br>
+&nbsp;
 
 ### ART. 244.
 
