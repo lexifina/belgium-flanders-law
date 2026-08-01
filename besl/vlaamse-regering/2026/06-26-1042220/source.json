@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042220,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-26 tot erkenning van de graduaatsopleiding Basisverpleegkunde als opleiding van het samenwerkingsverband RHIZO 4 & Katholieke Hogeschool Vives Zuid tijdens het schooljaar 2026-2027",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042220/VolledigDocument?datum=2026-08-01",
+  "source_sha256": "17573d3f26a7b9ac5f435bd3b939ef6fd8e8d4bf1771f8016bd9f64172a3297b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042220&param=informatie",
+  "as_of": "2026-08-01",
+  "made": "2026-06-26",
+  "gazette": "2026-07-22",
+  "numac": 2026005563,
+  "document_start": "2026-08-01",
+  "document_end": null,
+  "in_force": "2026-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
