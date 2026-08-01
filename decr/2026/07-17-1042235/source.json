@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042235,
+  "title": "Decreet van 2026-07-17 tot wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042235/VolledigDocument?datum=2026-08-01",
+  "source_sha256": "887866035a38eeb289770d84cfb209ded11d777cc583acc0fe74d7199ef9e4e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042235&param=informatie",
+  "as_of": "2026-08-01",
+  "made": "2026-07-17",
+  "gazette": "2026-07-29",
+  "numac": 2026005703,
+  "document_start": "2026-08-01",
+  "document_end": null,
+  "in_force": "2026-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
