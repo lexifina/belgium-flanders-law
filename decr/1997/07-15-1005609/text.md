@@ -69,7 +69,7 @@ Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het m
 
 § 1. Het ambt van Commissaris is onverenigbaar met een bij verkiezing verleend openbaar mandaat of een overeenkomstig artikel 7, § 2, 5°, daarmee gelijkgesteld mandaat of ambt, en met een openbaar ambt of enige andere functie of activiteit, waardoor de waardigheid van het ambt of de goede, onafhankelijke en onpartijdige uitoefening van het ambt in het gedrang kan komen;<br>
 <br>
-§ 2. De Commissaris ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van klasse IV van het Vlaams Parlement.<br>
+§ 2. De Commissaris ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een personeelslid van klasse V van het Vlaams Parlement.<br>
 <br>
 Wanneer de Commissaris wegens ziekte of gebrekkigheid niet meer in staat is zijn ambt te vervullen, en hij de wettelijke pensioenleeftijd nog niet bereikt heeft, stelt het Vlaams Parlement aan de Administratieve Gezondheidsdienst voor om hem definitief arbeidsongeschikt te verklaren;&nbsp;<br>
 <br>
@@ -304,8 +304,8 @@ De begroting van de Commissie van Toezicht voor jeugdinstellingen vormt een onde
 2° de premies voor de verzekering tegen ongevallen die zich tijdens verplaatsingen van de maandcommissarissen voordoen en voor hun burgerlijke aansprakelijkheid;<br>
 3° de werkingsmiddelen van de Commissie van Toezicht voor jeugdinstellingen en haar secretariaat.
 
-## [HOOFDSTUK 4. Overgangsbepaling (ing. decr. 8 mei 2020, art. 10, I: 8 mei 2020)]
+## HOOFDSTUK 4. ...
 
 ### ART 27.
 
-De kinderrechtencommissaris die in dienst is op de dag van de inwerkingtreding van het decreet van 8 mei 2020 tot wijziging van enkele bepalingen in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Instituut en tot instelling bij de Vlaamse ombudsdienst van een coronagebonden bemiddelingsopdracht inzake woninghuurovereenkomsten, behoudt het salaris van een statutair personeelslid van rang A2 van het Vlaams Parlement tot hij uit dienst treedt.
+...
