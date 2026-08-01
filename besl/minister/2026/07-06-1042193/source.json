@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042193,
+  "title": "Ministerieel besluit van 2026-07-06 tot uitvoering van artikel 45 van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042193/VolledigDocument?datum=2026-08-01",
+  "source_sha256": "fa64a61bccb601a8488424d6d99f9f437468891673a4b5cb4bf472f0d2ea63d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042193&param=informatie",
+  "as_of": "2026-08-01",
+  "made": "2026-07-06",
+  "gazette": "2026-07-22",
+  "numac": 2026005449,
+  "document_start": "2026-08-01",
+  "document_end": null,
+  "in_force": "2026-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
