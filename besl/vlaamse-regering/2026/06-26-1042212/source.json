@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042212,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-26 tot erkenning van de graduaatsopleiding Basisverpleegkunde als opleiding van het samenwerkingsverband ZOWE Verpleegkunde & Hogeschool West-Vlaanderen tijdens het schooljaar 2026-2027",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042212/VolledigDocument?datum=2026-08-01",
+  "source_sha256": "02393f0f11926cd92445d4205b03b4bb665b78be788b3d8acaf67df1a5352e09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042212&param=informatie",
+  "as_of": "2026-08-01",
+  "made": "2026-06-26",
+  "gazette": "2026-07-22",
+  "numac": 2026005516,
+  "document_start": "2026-08-01",
+  "document_end": null,
+  "in_force": "2026-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
