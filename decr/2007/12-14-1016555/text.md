@@ -129,7 +129,7 @@ De Vlaamse Stuurgroep RTC is samengesteld uit de volgende leden:<br>
 8° een vertegenwoordiger van het STEM-platform;<br>
 9° een vertegenwoordiger van Agentschap Innoveren en Ondernemen VLAIO;<br>
 10° een waarnemend vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
-11° een waarnemend vertegenwoordiger van het Departement Werk en Sociale Economie.<br>
+11° een waarnemend vertegenwoordiger van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 <br>
 De instanties, vermeld in punt 2° tot en met 11°, duiden een effectieve en een plaatsvervangende vertegenwoordiging aan.<br>
 <br>
