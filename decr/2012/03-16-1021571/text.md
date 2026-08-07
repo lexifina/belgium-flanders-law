@@ -191,7 +191,7 @@ De steunintensiteit wordt berekend als een percentage van de in aanmerking komen
 
 ### ART 26/1.
 
-In dit hoofdstuk wordt verstaan onder departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+In dit hoofdstuk wordt verstaan onder departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ## [Afdeling 2. Toepassingsgebied (ing. decr. 19 juni 2020, art. 55, I: 1 januari 2021)]
 
