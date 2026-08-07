@@ -113,20 +113,20 @@ Dit hoofdstuk is van toepassing op de beleidsvelden werkgelegenheid en professio
 
 In het kader van monitoring van de doelmatigheid en het bereik van de maatregel beroepskwalificerende trajecten, bezorgt de organisatie voor het einde van de maand januari per erkend beroepskwalificerend traject de volgende<br>
 &nbsp;<br>
-gegevens die betrekking hebben op het voorgaande kalenderjaar aan het Departement Werk en Sociale Economie:<br>
+gegevens die betrekking hebben op het voorgaande kalenderjaar aan het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie:<br>
 1°&nbsp;&nbsp; &nbsp;de voor- en achternaam en het rijksregisternummer van de lerende;<br>
 2°&nbsp;&nbsp; &nbsp;de begindatum van het beroepskwalificerend traject;<br>
 3° de beroepskwalificatie, deelkwalificatie of competenties die de lerende heeft behaald of de vermelding dat de lerende geen beroeps- of deelkwalificatie of competenties heeft behaald.<br>
 <br>
-In het kader van beleidsmatige evaluatie van beroepskwalificerende trajecten kan het Departement Werk en Sociale Economie bijkomende gegevens, die geen persoonsgegevens zijn, opvragen. De organisatie bezorgt de voormelde gegevens aan het Departement Werk en Sociale Economie binnen dertig dagen nadat ze de voormelde vraag heeft ontvangen.<br>
+In het kader van beleidsmatige evaluatie van beroepskwalificerende trajecten kan het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie bijkomende gegevens, die geen persoonsgegevens zijn, opvragen. De organisatie bezorgt de voormelde gegevens aan het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie binnen dertig dagen nadat ze de voormelde vraag heeft ontvangen.<br>
 <br>
 De organisatie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de overdracht van de gegevens, vermeld in het eerste lid.<br>
 <br>
 De organisatie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang als nodig voor de monitoring en met een maximumtermijn van tien jaar.<br>
 <br>
-Het Departement Werk en Sociale Economie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de monitoring, vermeld in het eerste lid.<br>
+Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de monitoring, vermeld in het eerste lid.<br>
 <br>
-Het Departement Werk en Sociale Economie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang als nodig voor de monitoring en met een maximumtermijn van tien jaar.
+Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang als nodig voor de monitoring en met een maximumtermijn van tien jaar.
 
 ### ART 12.
 
