@@ -15,7 +15,7 @@ In dit decreet wordt verstaan onder:<br>
 2° cursist: een deelnemer aan het secundair volwassenenonderwijs die voldoet aan de toelatingsvoorwaarden, vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, en die ingeschreven is;<br>
 3° CVO: een centrum voor volwassenenonderwijs dat erkend is conform artikel 61 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 4° Departement Onderwijs en Vorming: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-5° Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+5° Departement Werk, Economie, Wetenschap, Innovatie en Sociale Econo-mie: het departement, vermeld in artikel 29/1 van het besluit van de Vlaam-se Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaam-se administratie;<br>
 6° duale opleiding: de duale opleiding, vermeld in artikel 2, 12° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 7° mentor: de persoon die binnen de onderneming aangewezen is om de cursist op de werkplek op te leiden en te begeleiden;<br>
 8° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een cursist opleidt met een overeenkomst tot uitvoering van een duale opleiding;<br>
@@ -35,7 +35,7 @@ In afwijking van het eerste lid kan een cursist, tewerkgesteld in een ondernemin
 <br>
 In afwijking van het eerste lid kan een cursist voor de uitvoering van zijn duale opleiding een deeltijdse arbeidsovereenkomst sluiten als de onderneming onder het toepassingsgebied valt, vermeld in artikel 1 van het koninklijk besluit van 18 juli 2002 houdende maatregelen met het oog op de bevordering van de tewerkstelling in de non-profitsector. Voor die deeltijdse arbeidsovereenkomst gelden de bepalingen van dit hoofdstuk met uitzondering van artikel 5, tweede lid, en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Het CVO stelt het opleidingsplan op in overleg met de onderneming en bezorgt een exemplaar van de deeltijdse arbeidsovereenkomst aan het Vlaams Partnerschap Duaal Leren.<br>
 <br>
-In afwijking van het eerste lid kan een cursist voor de uitvoering van zijn duale opleiding met een onderneming die is gevestigd buiten het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, een overeenkomst sluiten die volgens de regelgeving die daar van toepassing is, in aanmerking komt voor een gelijkwaardig opleidingssysteem van alternerend leren en werken. Voor de voormelde overeenkomst gelden de bepalingen van de regelgeving die daar van toepassing is. Het Departement Werk en Sociale Economie beslist over de gelijkwaardigheid, na advies van het Departement Onderwijs en Vorming.
+In afwijking van het eerste lid kan een cursist voor de uitvoering van zijn duale opleiding met een onderneming die is gevestigd buiten het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, een overeenkomst sluiten die volgens de regelgeving die daar van toepassing is, in aanmerking komt voor een gelijkwaardig opleidingssysteem van alternerend leren en werken. Voor de voormelde overeenkomst gelden de bepalingen van de regelgeving die daar van toepassing is. Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie beslist over de gelijkwaardigheid, na advies van het Departement Onderwijs en Vorming.
 
 ### ART 4.
 
@@ -44,7 +44,7 @@ De overeenkomst kan alleen worden gesloten door de volgende personen, ondernemin
 2° een onderneming die conform artikel 8, § 1 tot en met § 3, is erkend;<br>
 3° een CVO.<br>
 <br>
-In afwijking van het eerste lid, 2°, kan een overeenkomst worden gesloten met een onderneming die is gevestigd buiten het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad en die daar door de bevoegde instantie in kwestie is erkend als werkplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken. Het Departement Werk en Sociale Economie beslist over de gelijkwaardigheid, na advies van het Departement Onderwijs en Vorming.
+In afwijking van het eerste lid, 2°, kan een overeenkomst worden gesloten met een onderneming die is gevestigd buiten het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad en die daar door de bevoegde instantie in kwestie is erkend als werkplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken. Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie beslist over de gelijkwaardigheid, na advies van het Departement Onderwijs en Vorming.
 
 ### ART 5.
 
@@ -315,7 +315,7 @@ Het CVO kan aan het Vlaams Partnerschap Duaal Leren voorstellen om de erkenning 
 
 ### ART 26.
 
-Met behoud van de toepassing van de vigerende decretale en reglementaire bepalingen over het toezicht in het onderwijs, door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie.<br>
+Met behoud van de toepassing van de vigerende decretale en reglementaire bepalingen over het toezicht in het onderwijs, door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 <br>
 Het toezicht, vermeld in het eerste lid, verloopt conform het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.
 
@@ -324,7 +324,7 @@ Het toezicht, vermeld in het eerste lid, verloopt conform het decreet houdende s
 ### ART 27.
 
 De verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming is:<br>
-1° het Departement Werk en Sociale Economie voor de verwerking van persoonsgegevens in het kader van de datakoppeling tussen inschrijvingen en overeenkomsten, het waarborgen van de kwantiteit van de werkplekken en de monitoring en evaluatie van duale opleidingen in het volwassenenonderwijs;<br>
+1° het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie voor de verwerking van persoonsgegevens in het kader van de datakoppeling tussen inschrijvingen en overeenkomsten, het waarborgen van de kwantiteit van de werkplekken en de monitoring en evaluatie van duale opleidingen in het volwassenenonderwijs;<br>
 2° het Vlaams Partnerschap Duaal Leren voor de verwerking van persoonsgegevens in het kader van artikel 13, eerste lid, 7° en 8°, en artikel 22;<br>
 3° de onderneming voor de verwerking van persoonsgegevens in het kader van het sluiten en de uitvoering van de overeenkomst, vermeld in artikel 3, en de verplichtingen, vermeld in artikel 11;<br>
 4° het CVO voor de verwerking van persoonsgegevens in het kader van het sluiten en de uitvoering van de overeenkomst, vermeld in artikel 3, en de verplichtingen, vermeld in artikel 13.
@@ -337,7 +337,7 @@ De volgende persoonsgegevens worden verwerkt in het kader van dit decreet:<br>
 3° de gegevens betreffende de opleiding, de inschrijving en de evaluatie van de cursist;<br>
 4° de identificatiegegevens van de mentor.<br>
 <br>
-Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen wisselt de gegevens, vermeld in het eerste lid, 3°, uit met het Departement Werk en Sociale Economie en het Vlaams Partnerschap Duaal Leren.<br>
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen wisselt de gegevens, vermeld in het eerste lid, 3°, uit met het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie en het Vlaams Partnerschap Duaal Leren.<br>
 <br>
 In het tweede lid wordt verstaan onder het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen: het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.
 

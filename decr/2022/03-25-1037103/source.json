@@ -2,16 +2,16 @@
   "codex_id": 1037103,
   "title": "Decreet van 2022-03-25 tot regeling van bepaalde aspecten van duale opleidingen in het volwassenenonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037103/VolledigDocument?datum=2026-06-22",
-  "source_sha256": "6443c77bba9ee5afe08ef1243f05bba313ff98fd59cb1c20d295691adc8a05a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037103/VolledigDocument?datum=2026-08-07",
+  "source_sha256": "577ba2fe1466e0c9c77cafe9e35cdff5c7eb59a30161f377baa607a3d0322b3c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037103&param=informatie",
-  "as_of": "2026-06-22",
+  "as_of": "2026-08-07",
   "made": "2022-03-25",
   "gazette": "2022-05-31",
   "numac": 2022031670,
   "document_start": "2022-09-01",
   "document_end": null,
-  "in_force": "2026-06-22",
+  "in_force": "2026-08-07",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2026-06-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-07; future article versions excluded; article text as the API gives it"
 }
