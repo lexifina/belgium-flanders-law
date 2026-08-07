@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042226,
+  "title": "Decreet van 2026-07-17 tot bekrachtiging van het besluit van de Vlaamse Regering van 19 juni 2026 over het tijdelijk project met pioniersscholen in het kader van de evolutie naar meer kwalitatief en inclusiever onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042226/VolledigDocument?datum=2026-08-07",
+  "source_sha256": "86d0a9ed1546988dbb23decbd3f5179a19c24390989e3c46ae557940f6b662b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042226&param=informatie",
+  "as_of": "2026-08-07",
+  "made": "2026-07-17",
+  "gazette": "2026-07-28",
+  "numac": 2026005620,
+  "document_start": "2026-08-07",
+  "document_end": null,
+  "in_force": "2026-08-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-08-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
