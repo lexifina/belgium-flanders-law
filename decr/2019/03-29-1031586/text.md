@@ -17,7 +17,7 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART 3.
 
-Dit decreet is van toepassing op dienstverleners die een dienstverlening verrichten in het kader van werkgelegenheidsbeleid, professionele vorming en de sociale economie en daarvoor vanuit het beleidsdomein Werk en Sociale Economie een financiering, subsidie of een andere vorm van ondersteuning ontvangen.<br>
+Dit decreet is van toepassing op dienstverleners die een dienstverlening verrichten in het kader van werkgelegenheidsbeleid, professionele vorming en de sociale economie en daarvoor vanuit het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie een financiering, subsidie of een andere vorm van ondersteuning ontvangen.<br>
 <br>
 De Vlaamse Regering keurt een lijst goed met maatregelen die onder het toepassingsgebied vallen.
 
@@ -193,7 +193,7 @@ In artikel 4, § 1, tweede lid, van het decreet van 22 november 2013 betreffende
 
 ### ART 18.
 
-De Vlaamse Regering bepaalt de overgangsmaatregelen voor de dienstverleners, die op de datum van inwerkingtreding van dit decreet al door het beleidsdomein Werk en Sociale Economie gesubsidieerd, gefinancierd of ondersteund worden in het kader van het werkgelegenheidsbeleid, de Professionele Vorming en de Sociale Economie.
+De Vlaamse Regering bepaalt de overgangsmaatregelen voor de dienstverleners, die op de datum van inwerkingtreding van dit decreet al door het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie gesubsidieerd, gefinancierd of ondersteund worden in het kader van het werkgelegenheidsbeleid, de Professionele Vorming en de Sociale Economie.
 
 ### ART 19.
 
