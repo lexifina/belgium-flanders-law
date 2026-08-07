@@ -338,7 +338,7 @@ Als in de loop van de termijn een mandaat van lid van het beslissingscomité bij
 <br>
 De uittredende leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zijn herbenoembaar.<br>
 <br>
-De secretaris-generaal van het Fonds voor Wetenschappelijk Onderzoek, vermeld in artikel 15 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en de secretaris-generaal van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen bij met raadgevende stem.<br>
+De secretaris-generaal van het Fonds voor Wetenschappelijk Onderzoek, vermeld in artikel 15 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en de secretaris-generaal van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie wonen de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen bij met raadgevende stem.<br>
 <br>
 § 4. Onder voorbehoud van eventuele andere onverenigbaarheden is het mandaat van lid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen onverenigbaar met :<br>
 1° een mandaat in het europees Parlement, de Kamer van Volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement;<br>
