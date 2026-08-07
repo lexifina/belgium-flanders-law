@@ -257,7 +257,7 @@ De Vlaamse Regering kan een of meer externe dienstverleners erkennen om de opdra
 De externe dienstverlener voldoet bij zijn aanvraag tot erkenning minimaal aan al de volgende voorwaarden:<br>
 1° beschikken over professionele deskundigheid in de begeleiding van werknemers met een arbeidsbeperking;<br>
 2° ervoor zorgen dat de continuïteit van de gekwalificeerde begeleiding op de werkvloer verzekerd is;<br>
-3° beschikken over een kwaliteitsregistratie conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.<br>
+3° beschikken over een kwaliteitsregistratie conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 De Vlaamse Regering kan bijkomende kwaliteitsvoorwaarden bepalen en bepaalt wat onder professionele deskundigheid als vermeld in het tweede lid, 1°, wordt verstaan.<br>
 <br>
@@ -389,7 +389,7 @@ De volgende categorieën van persoonsgegevens van de begunstigde worden in het k
 
 Conform de bepalingen in dit decreet wisselt VDAB de volgende persoonsgegevens uit met de volgende instanties:<br>
 1° de gegevens, vermeld in artikel 38, 1°, met het Rijksregister van de natuurlijke personen;<br>
-2° de gegevens, vermeld in artikel 38, 2°, de behoefte en duurtijd van de werkondersteunende maatregelen en de indicering met het Departement Werk en Sociale Economie;<br>
+2° de gegevens, vermeld in artikel 38, 2°, de behoefte en duurtijd van de werkondersteunende maatregelen en de indicering met het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 3° de gegevens, vermeld in artikel 38, 3°, met de Rijksdienst voor Sociale Zekerheid;<br>
 4° de gegevens, vermeld in artikel 38, 6°, met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen.<br>
 <br>
