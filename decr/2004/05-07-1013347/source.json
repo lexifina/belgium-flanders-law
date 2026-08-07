@@ -2,16 +2,16 @@
   "codex_id": 1013347,
   "title": "Decreet van 2004-05-07 houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013347/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "93b0d937e98528a9eb456affc9e5dc7695a045f82aca7a4e680dbaf9f21425eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013347/VolledigDocument?datum=2026-08-07",
+  "source_sha256": "b295ec4f982f40c8041a9871ee8bf7b95c70d4c3d412754e3b00d22a12f651ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013347&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2026-08-07",
   "made": "2004-05-07",
   "gazette": "2004-08-25",
   "numac": 2004036334,
   "document_start": "2005-12-29",
   "document_end": null,
-  "in_force": "2019-04-18",
+  "in_force": "2026-08-07",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-07; future article versions excluded; article text as the API gives it"
 }

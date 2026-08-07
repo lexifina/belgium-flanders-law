@@ -13,7 +13,7 @@ In dit decreet wordt verstaan onder:<br>
 2° Agentschap Innoveren en Ondernemen: het Agentschap Innoveren en Ondernemen, vermeld in artikel 2, § 1 van het besluit van de Vlaamse Regering van 18 december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van zijn activiteiten aan het Agentschap Innoveren en Ondernemen;<br>
 3° minister: De Vlaamse minister bevoegd voor het economisch beleid en de natuurlijke rijkdommen;<br>
 4° corresponderende provincie: de provincie waarbinnen een Gewestelijke Ontwikkelingsmaatschappij werkzaam is waarvan de rechtspersoonlijkheid, conform het bepaalde in artikel 10, zal worden verder gezet in deze van een erkende Provinciale Ontwikkelingsmaatschappij opgericht en erkend conform het bepaalde in dit decreet;<br>
-5° departement: het departement van het ministerie van Economie, Werkgelegenheid en Toerisme binnen het beleidsdomein Economie, Werkgelegenheid en Toerisme, bedoeld in artikel III.1 van het Bestuursdecreet van 7 december 2018.
+5° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ## HOOFDSTUK II OPRICHTING
 
