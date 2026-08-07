@@ -2,16 +2,16 @@
   "codex_id": 1013345,
   "title": "Decreet van 2004-05-07 inzake de Sociaal-Economische Raad van Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013345/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "cc3993152832eb619eae2e5a8610e02bafd7134ec73fadf16b8320c2b6fd6cfc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013345/VolledigDocument?datum=2026-08-07",
+  "source_sha256": "512b284878a6556d48ccef3df7cc761cbe5bcb64594b2987b0a29bf0e5ccfeef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013345&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2026-08-07",
   "made": "2004-05-07",
   "gazette": "2004-08-25",
   "numac": 2004036333,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2020-09-01",
+  "in_force": "2026-08-07",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-07; future article versions excluded; article text as the API gives it"
 }

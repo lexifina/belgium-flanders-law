@@ -20,7 +20,7 @@ De in het eerste lid vermelde organisaties kunnen met elkaar akkoorden sluiten, 
 <br>
 Het staat de in het eerste lid vermelde organisaties vrij om de in het tweede lid bedoelde akkoorden al dan niet ter bekrachtiging aan de Vlaamse regering voor te leggen.<br>
 <br>
-§ 2. Naast de opdracht, vermeld in § 1, functioneert de Raad tevens als de strategische adviesraad voor de beleidsdomeinen Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, Werk en Sociale Economie, voor het gedeelte Economie van het beleidsdomein Economie, Wetenschap en Innovatie, en voor het beleidsveld Energie van het beleidsdomein Omgeving.<br>
+§ 2. Naast de opdracht, vermeld in § 1, functioneert de Raad tevens als de strategische adviesraad voor het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, voor het gedeelte Werk, Economie en Sociale Economie van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie, en voor het beleidsveld Energie van het beleidsdomein Omgeving.<br>
 <br>
 De opdracht van de Raad als strategische adviesraad voor het beleidsveld Energie heeft betrekking op de sociaal-economische dimensie.<br>
 <br>
@@ -168,7 +168,7 @@ Het Vlaams Parlement, de Vlaamse regering of het lid van de Vlaamse regering dat
 
 ### ART. 20.
 
-§ 1. Voor de beleidsvelden "ondersteuning Vlaamse Regering" en "gelijke kansen en integratie en inburgering" van het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, voor het beleidsdomein Werk en Sociale Economie, voor het gedeelte Economie van het beleidsdomein Economie, Wetenschap en Innovatie en voor het beleidsveld Energie, geldt de Raad als strategische adviesraad zoals vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018.<br>
+§ 1. Voor de beleidsvelden "ondersteuning Vlaamse Regering" en "gelijke kansen en integratie en inburgering" van het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, voor het gedeelte Werk, Economie en Sociale Economie van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie en voor het beleidsveld Energie, geldt de Raad als strategische adviesraad zoals vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 § 2. In de hoedanigheid, vermeld in § l, vervult de Raad voor de genoemde beleidsdomeinen de volgende opdrachten :<br>
 1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid;<br>
