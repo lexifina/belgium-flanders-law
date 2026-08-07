@@ -233,9 +233,9 @@ De theoretische vorming binnen de leertijd wordt door de Vlaamse Gemeenschap erk
 
 Voor de erkenning, binnen de leertijd, van een opleiding van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen moeten alle voorwaarden als vermeld in artikel 26/2, § 5, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, zijn vervuld.<br>
 <br>
-Als aan die voorwaarden niet meer wordt voldaan, kan de Vlaamse Regering, op voorstel van een college dat voor de helft is samengesteld uit leden van de onderwijsinspectie en voor de helft uit personeelsleden van het Departement Werk en Sociale Economie, de erkenning binnen de leertijd van een centrum of een opleiding ervan al dan niet geleidelijk opheffen. Zij kan evenwel de opheffing van de erkenning ook beperken tot de al dan niet geleidelijke opheffing van de bevoegdheid om eindstudiebewijzen, die identiek zijn aan die van het voltijds gewoon secundair onderwijs, uit te reiken.<br>
+Als aan die voorwaarden niet meer wordt voldaan, kan de Vlaamse Regering, op voorstel van een college dat voor de helft is samengesteld uit leden van de onderwijsinspectie en voor de helft uit personeelsleden van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, de erkenning binnen de leertijd van een centrum of een opleiding ervan al dan niet geleidelijk opheffen. Zij kan evenwel de opheffing van de erkenning ook beperken tot de al dan niet geleidelijke opheffing van de bevoegdheid om eindstudiebewijzen, die identiek zijn aan die van het voltijds gewoon secundair onderwijs, uit te reiken.<br>
 <br>
-In het tweede lid wordt verstaan onder het Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+In het tweede lid wordt verstaan onder Departement Werk, Economie, We-tenschap, Innovatie en Sociale Economie: het departement, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrek-king tot de organisatie van de Vlaamse administratie.<br>
 <br>
 De Vlaamse Regering legt de aanvullende bepalingen vast over de werking en de organisatie van dat college, wijst de leden ervan aan en regelt de beroepsprocedure.<br>
 &nbsp;
