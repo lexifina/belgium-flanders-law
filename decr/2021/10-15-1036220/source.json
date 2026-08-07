@@ -2,16 +2,16 @@
   "codex_id": 1036220,
   "title": "Decreet van 2021-10-15 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036220/VolledigDocument?datum=2025-10-01",
-  "source_sha256": "a60e3f1ad264b8263adfc997c335e905b7afc865a509e11d614c03585b3c982a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036220/VolledigDocument?datum=2026-08-07",
+  "source_sha256": "9beda46e9b2e7d8eca0b8ec4799f0e08ddffbab967b627a3ac45b53090e2d421",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036220&param=informatie",
-  "as_of": "2025-10-01",
+  "as_of": "2026-08-07",
   "made": "2021-10-15",
   "gazette": "2021-11-12",
   "numac": 2021033701,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2025-10-01",
+  "in_force": "2026-08-07",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-07; future article versions excluded; article text as the API gives it"
 }
