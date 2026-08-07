@@ -581,7 +581,7 @@ De Vlaamse Regering bepaalt de voorwaarden voor de erkenning van de studiebewijz
 
 ### ART 23/1.
 
-Met behoud van de toepassing van de geldende decretale en reglementaire bepalingen over het toezicht in het onderwijs, met inbegrip van het toezicht op de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering, vermeld in hoofdstuk VI, afdeling 6, en de uitvoeringsbesluiten van dit decreet, uitgeoefend door het Departement Werk en Sociale Economie.<br>
+Met behoud van de toepassing van de geldende decretale en reglementaire bepalingen over het toezicht in het onderwijs, met inbegrip van het toezicht op de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering, vermeld in hoofdstuk VI, afdeling 6, en de uitvoeringsbesluiten van dit decreet, uitgeoefend door het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 <br>
 De Vlaamse Regering bepaalt de verdere modaliteiten en verdere regels van het toezicht en de kwaliteit.
 
