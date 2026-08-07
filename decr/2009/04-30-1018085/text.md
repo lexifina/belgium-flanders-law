@@ -41,7 +41,7 @@ Alle instellingen, vermeld in dit decreet, schrijven zich in in het   beleidspla
 ### ART 2/3.
 
 In dit artikel wordt verstaan onder:<br>
-1° Flanders Research Information Space, afgekort FRIS: de informatieruimte van en in beheer bij het Departement Economie, Wetenschap en Innovatie, waarin onderzoeksinformatie kan doorstromen op een transparante en geautomatiseerde manier, en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
+1° Flanders Research Information Space, afgekort FRIS: de informatieruimte van en in beheer bij het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, waarin onderzoeksinformatie kan doorstromen op een transparante en geautomatiseerde manier, en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
 2° onderzoeksinformatie: de volgende informatie:<br>
 a) informatie over elke wetenschappelijke activiteit die tot doel heeft wetenschappelijke kennis te ontwikkelen, wetenschappelijke of technologische capaciteit uit te bouwen, kennis toepasbaar te maken en ze toe te passen;<br>
 b) informatie over de medewerkers en de onderzoeksgroepen die bij het onderzoek zijn betrokken;<br>
@@ -330,7 +330,7 @@ De onafhankelijke bestuurders worden uit lijsten van twee kandidaten per vacant 
 <br>
 § 4.&nbsp;Artikel III.10, III.11 en III.37, § 2, van het Bestuursdecreet zijn van toepassing op de raad van bestuur van het FWO.<br>
 <br>
-§ 5. De leidend ambtenaar van het Agentschap Innoveren en Ondernemen en de leidend ambtenaar van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van de raad van bestuur van FWO bij met raadgevende stem.
+§ 5. De leidend ambtenaar van het Agentschap Innoveren en Ondernemen en de leidend ambtenaar van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie wonen de vergaderingen van de raad van bestuur van FWO bij met raadgevende stem.
 
 ## Afdeling V Samenwerkingsovereenkomst
 
@@ -678,11 +678,11 @@ Wijzigingen aan de statuten en het huishoudelijk reglement worden bekendgemaakt 
 
 De Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten heeft gewone leden, ereleden en buitenlandse leden en is ingedeeld in een aantal klassen die elk bevoegd zijn voor verschillende wetenschappen en kunsten of groepen hiervan.<br>
 <br>
-Gewone leden en buitenlandse leden worden door een van de klassen verkozen wegens hun belangrijke bijdrage op het gebied van wetenschap of kunsten. Zij worden door de Academie voor benoeming voorgedragen aan de Vlaamse Regering.<br>
+Gewone leden en buitenlandse leden worden door een van de klassen verkozen wegens hun belangrijke bijdrage op het gebied van wetenschap of kunsten. De raad van bestuur bekrachtigt de benoeming. Deze wordt door de Academie aan de secretaris-generaal van het bevoegde departement schriftelijk meege-deeld.<br>
 <br>
 Om tot gewoon lid te worden verkozen, moet men zijn woonplaats in België hebben en het Nederlands beheersen. Om tot buitenlands lid te worden verkozen, moet men zijn woonplaats in het buitenland hebben.<br>
 <br>
-Gewone leden worden op hun verzoek tot erelid benoemd door de raad van bestuur, na gunstig advies van de klasse waartoe zij behoren. De benoeming tot erelid wordt ter kennis gebracht van de Vlaamse Regering.
+Gewone leden worden op hun verzoek tot erelid benoemd door de raad van bestuur, na gunstig advies van de klasse waartoe zij behoren. De benoeming tot erelid wordt door de Academie aan de secretaris-generaal van het bevoegde departement schriftelijk meegedeeld.
 
 ### ART 52/11.
 
@@ -1053,7 +1053,25 @@ De Vlaamse Regering waakt erover dat de activiteiten van het   Expertisecentrum 
 
 ### ART. 63/13.
 
-§ 1. De opdracht van een steunpunt betreft het verzamelen, analyseren en   ontsluiten van beleidsrelevante gegevens, het uitvoeren van beleidsrelevant   wetenschappelijk onderzoek en het verlenen van wetenschappelijke   dienstverlening.<BR><BR>§ 2. De Vlaamse Regering bepaalt vijfjaarlijks een lijst   van thema's die aansluiten bij de bevoegdheden van de Vlaamse Gemeenschap of het   Vlaamse Gewest en waarbinnen de beleidsvoering een ondersteuning vereist die   gebaseerd is op wetenschappelijke inzichten.<BR><BR>De Vlaamse Regering erkent   per thema één steunpunt voor een termijn van vijf jaar.<BR><BR>§ 3. Door een   beheersovereenkomst te sluiten met de Vlaamse Regering ontstaat voor de   initiërende instelling het recht op een subsidie voor de werking van het   betrokken steunpunt. Voor die subsidie gelden de volgende bepalingen:<BR>1° de   Vlaamse Regering beslist, bij het bepalen van de lijst van thema's, over de   subsidie die elk steunpunt tijdens de erkenningstermijn jaarlijks zal ontvangen.   Die kredieten worden jaarlijks door het Vlaams Parlement goedgekeurd;<BR>2° de   subsidie bestaat jaarlijks uit een vaste werkingsenveloppe en cofinanciering. De   vaste werkingsenveloppe wordt gefinancierd vanuit de begroting die vastgelegd is   voor het beleidsdomein Economie, Wetenschap en Innovatie. De vaste   werkingsenveloppe bedraagt maximaal 60 procent van de subsidie. De   cofinanciering wordt gefinancierd vanuit de begroting voor de beleidsdomeinen   waarbij het thema aansluit;<BR>3° de subsidie, zowel de vaste werkingsenveloppe   als de cofinanciering, wordt tijdens een erkenningstermijn jaarlijks aangepast   aan de gezondheidsindex, zoals bepaald in de begrotingsinstructies met als   referentiedatum 1 januari van het eerste werkingsjaar van de erkenningstermijn.   De gezondheidsindex wordt berekend door tabaksproducten, alcoholhoudende   dranken, benzine en diesel te schrappen uit de index van de   consumptieprijzen;<BR>4° als de jaarlijkse kosten voor de werking van het   steunpunt lager liggen dan de jaarlijkse subsidie, mag de resterende   financiering door het steunpunt overgedragen worden naar het volgende   werkingsjaar binnen de erkenningstermijn.<BR><BR>§ 4. De Vlaamse Regering   bepaalt de nadere regels op het vlak van:<BR>1° de samenwerkingsmogelijkheden   tussen de initiërende instelling en andere actoren;<BR>2° de bepaling en de   vereffening van de subsidie;<BR>3° de overdracht van de resterende financiering   naar een volgend werkingsjaar binnen de erkenningstermijn;<BR>4° de procedure   voor de aanvraag van een erkenning en van een subsidie;<BR>5° de invulling van   de beheersovereenkomsten tussen de Vlaamse Regering en het bestuur van de   initiërende instelling;<BR>6° de wijze waarop de werking van de steunpunten op   metaniveau wordt geëvalueerd.
+§ 1. De opdracht van een steunpunt betreft het verzamelen, analyseren en ontsluiten van beleidsrelevante gegevens, het uitvoeren van beleidsrelevant wetenschappelijk onderzoek en het verlenen van wetenschappelijke dienstverlening.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt vijfjaarlijks een lijst van thema's die aansluiten bij de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest en waarbinnen de beleidsvoering een ondersteuning vereist die gebaseerd is op wetenschappelijke inzichten.<br>
+<br>
+De Vlaamse Regering erkent per thema één steunpunt voor een termijn van vijf jaar.<br>
+<br>
+§ 3. Door een beheersovereenkomst te sluiten met de Vlaamse Regering ontstaat voor de initiërende instelling het recht op een subsidie voor de werking van het betrokken steunpunt. Voor die subsidie gelden de volgende bepalingen:<br>
+1° de Vlaamse Regering beslist, bij het bepalen van de lijst van thema's, over de subsidie die elk steunpunt tijdens de erkenningstermijn jaarlijks zal ontvangen. Die kredieten worden jaarlijks door het Vlaams Parlement goedgekeurd;<br>
+2° de subsidie bestaat jaarlijks uit een vaste werkingsenveloppe en cofinanciering. De vaste werkingsenveloppe wordt gefinancierd vanuit de begroting die vastgelegd is voor het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie. De vaste werkingsenveloppe bedraagt maximaal 60 procent van de subsidie. De cofinanciering wordt gefinancierd vanuit de begroting voor de beleidsdomeinen waarbij het thema aansluit;<br>
+3° de subsidie, zowel de vaste werkingsenveloppe als de cofinanciering, wordt tijdens een erkenningstermijn jaarlijks aangepast aan de gezondheidsindex, zoals bepaald in de begrotingsinstructies met als referentiedatum 1 januari van het eerste werkingsjaar van de erkenningstermijn. De gezondheidsindex wordt berekend door tabaksproducten, alcoholhoudende dranken, benzine en diesel te schrappen uit de index van de consumptieprijzen;<br>
+4° als de jaarlijkse kosten voor de werking van het steunpunt lager liggen dan de jaarlijkse subsidie, mag de resterende financiering door het steunpunt overgedragen worden naar het volgende werkingsjaar binnen de erkenningstermijn.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de nadere regels op het vlak van:<br>
+1° de samenwerkingsmogelijkheden tussen de initiërende instelling en andere actoren;<br>
+2° de bepaling en de vereffening van de subsidie;<br>
+3° de overdracht van de resterende financiering naar een volgend werkingsjaar binnen de erkenningstermijn;<br>
+4° de procedure voor de aanvraag van een erkenning en van een subsidie;<br>
+5° de invulling van de beheersovereenkomsten tussen de Vlaamse Regering en het bestuur van de initiërende instelling;<br>
+6° de wijze waarop de werking van de steunpunten op metaniveau wordt geëvalueerd.
 
 ## [HOOFDSTUK VIII. Kenniscentrum Data & Maatschappij (ing. decr. 18 december 2020, art. 63, I: 1 januari 2021)]
 
