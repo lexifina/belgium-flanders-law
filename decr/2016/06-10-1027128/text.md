@@ -13,7 +13,7 @@ In dit decreet wordt verstaan onder:<br>
 1° Agentschap voor Onderwijsdiensten: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Onderwijsdiensten;<br>
 2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;<br>
 2° bis Departement Onderwijs en Vorming: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° ter Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2°ter Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie: het departement, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;;<br>
 2° quater duale opleiding: de duale opleiding, vermeld in artikel 2, 12° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;<br>
 4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;<br>
@@ -43,7 +43,7 @@ In dit decreet wordt verstaan onder:<br>
 7° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 8° een vertegenwoordiger van het Agentschap voor Onderwijsdiensten;<br>
 9° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
-10° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+10° een vertegenwoordiger van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
 11° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen;<br>
 12° een vertegenwoordiger van het Gemeenschapsonderwijs namens het volwassenenonderwijs;<br>
 13° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs namens het volwassenenonderwijs;<br>
@@ -54,7 +54,7 @@ In het eerste lid wordt verstaan onder:<br>
 1° Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
 2° regionale technologische centra: de verenigingen zonder winstoogmerk, vermeld in artikel 2 van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra.<br>
 <br>
-Het secretariaat wordt opgenomen door het Departement Werk en Sociale Economie en het Departement Onderwijs en Vorming.<br>
+Het secretariaat wordt opgenomen door het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie en het Departement Onderwijs en Vorming.<br>
 <br>
 De Vlaamse Regering regelt op voorstel van de Vlaamse minister, bevoegd voor het werk, en de Vlaamse minister, bevoegd voor het onderwijs, de werking van het secretariaat.<br>
 <br>
@@ -116,8 +116,8 @@ Het sectoraal partnerschap is samengesteld uit de volgende leden:<br>
 5° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
 6° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 7° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
-8° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
-9° een secretaris, personeelslid van het Departement Werk en Sociale Economie.<br>
+8° een vertegenwoordiger van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
+9° een secretaris, personeelslid van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 <br>
 In afwijking van het tweede lid, 1° en 2°, wordt het sectoraal partnerschap in sectoren zonder representatieve werkgevers en werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, samengesteld uit minstens drie vertegenwoordigers van de werkgeversorganisaties en minstens drie vertegenwoordigers van de werknemersorganisaties vertegenwoordigd in de raad van bestuur van het sectorfonds van de betrokken sector.<br>
 <br>
@@ -486,9 +486,9 @@ De stageovereenkomst alternerende opleiding wordt gesloten voor minstens 28 uur 
 
 ### ART 30.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie</span><span style="color:#000000; font-family:times new roman; font-size:medium">.</span><br>
+Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de afdeling Vlaamse Sociale Inspectie van hetDepartement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">Het in het eerste lid bedoelde toezicht verloopt met toepassing van de bepalingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.</span><br>
+Het in het eerste lid bedoelde toezicht verloopt met toepassing van de bepalingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.<br>
 &nbsp;
 
 ## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
