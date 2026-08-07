@@ -23,7 +23,7 @@ c) het in dienst nemen van werknemers om hen ter beschikking te stellen met het 
 5° uitzendbureau : het bureau dat uitzendactiviteiten verricht;<br>
 6° SERV : de Sociaal-Economische Raad van Vlaanderen;<br>
 7° adviescommissie: de adviescommissie voor uitzendactiviteiten en activiteiten voor sportmakelaars, vermeld in artikel 20/13;<br>
-8° administratie: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+8° administratie: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
 9° lidstaat van vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied waarvan het bureau van de dienstverrichter is gevestigd;<br>
 10° betaalde sportbeoefenaars : personen die de verplichting aangaan om zich - tegen loon - voor te bereiden op of deel te nemen aan een sportcompetitie of -exhibitie onder het gezag van een ander persoon evenals de personen die de oefeningen tijdens de voorbereiding leiden;<br>
 11° schouwspelartiesten : dramatische, lyrische, choreografische en variétéartiesten, musici, orkestleiders, balletmeesters en aanvullingsartiesten die tegen betaling optreden tijdens voorstellingen, repetities, auditieve of visuele opnames.<br>
@@ -128,7 +128,7 @@ Als het uitzendbureau niet langer aan de erkenningsvoorwaarden voldoet, kan de V
 
 ### ART. 17.
 
-De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie.<br>
+De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 &nbsp;
 
 ### ART. 18.
@@ -206,7 +206,7 @@ De beslissing tot schorsing of intrekking van de registratie wordt ter kennis ge
 
 ### ART 20/10.
 
-De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie.
+De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.
 
 ### ART 20/11.
 
@@ -236,7 +236,7 @@ De Vlaamse Regering kan de opdrachten van de adviescommissie uitbreiden.<br>
 1° een voorzitter;<br>
 2° een gelijk aantal vertegenwoordigers van de representatieve werkgevers- en werknemersorganisaties, die vertegenwoordigd zijn in de SERV;<br>
 3° een deskundige die onafhankelijk is van enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus en die houder is van een universitair diploma in de rechten;<br>
-4° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+4° een vertegenwoordiger van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
 5° een vertegenwoordiger van het Agentschap Sport Vlaanderen.<br>
 <br>
 De adviescommissie kan zich laten bijstaan door een deskundige op het gebied van de regelgeving omtrent sportmakelaars die onafhankelijk is van enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus.<br>
@@ -249,7 +249,7 @@ Alleen de leden, vermeld in het eerste lid, 2°, zijn stemgerechtigd.<br>
 <br>
 § 3. Er is onverenigbaarheid inzake het mandaat van lid van de adviescommissie en de hoedanigheid van bestuurder, zaakvoerder, eigenaar, aandeelhouder, lasthebber of aangestelde van een privaat arbeidsbemiddelingsbureau of uitzendbureau.<br>
 <br>
-§ 4. De adviescommissie wordt door de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie op de hoogte gebracht van de overtredingen die aanleiding kunnen geven tot weigering of intrekking van een erkenning als uitzendbureau en tot schorsing of intrekking van een registratie als sportmakelaar.
+§ 4. De adviescommissie wordt door de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie op de hoogte gebracht van de overtredingen die aanleiding kunnen geven tot weigering of intrekking van een erkenning als uitzendbureau en tot schorsing of intrekking van een registratie als sportmakelaar.
 
 ## HOOFDSTUK 4 Klachtenprocedure
 
