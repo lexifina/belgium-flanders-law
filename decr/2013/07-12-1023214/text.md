@@ -37,7 +37,7 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 2° de rechtsvorm van een vennootschap met een sociaal oogmerk of van een vereniging zonder winstoogmerk hebben;<br>
 3° als maatschappelijke hoofdactiviteit werk en begeleiding op maat aan doelgroepwerknemers verschaffen;<br>
 4° op jaarbasis een werknemersbestand hebben dat voor minstens 55 procent bestaat uit de doelgroepwerknemers, vermeld in artikel 3, 2°, a) en b);<br>
-5° geregistreerd zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+5° geregistreerd zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 6° jaarlijks over zijn prestaties in het kader van dit decreet en op vlak van maatschappelijke inbedding en maatschappelijk verantwoord ondernemen rapporteren.</p>
 
 <p>§ 2. In afwijking van paragraaf 1 moet het startende maatwerkbedrijf binnen een redelijke termijn voldoen aan de voorwaarden, vermeld in paragraaf 1, tweede lid, 1° en 4°.</p>
