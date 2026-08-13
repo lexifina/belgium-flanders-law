@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042237,
+  "title": "Decreet van 2026-07-03 tot wijziging van het Energiedecreet van 8 mei 2009 en het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, wat betreft de implementatie van Europese regelgeving over de verbetering van de opzet van de elektriciteitsmarkt en noodleveranciers",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042237/VolledigDocument?datum=2026-08-13",
+  "source_sha256": "20c9f5a39015b0963bc25b55c2e9c0e1858e94f8c877d3125a84a8514dedc7dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042237&param=informatie",
+  "as_of": "2026-08-13",
+  "made": "2026-07-03",
+  "gazette": "2026-08-03",
+  "numac": 2026005715,
+  "document_start": "2026-08-13",
+  "document_end": null,
+  "in_force": "2026-08-13",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2026-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
