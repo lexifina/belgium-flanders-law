@@ -204,7 +204,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 73° ...;<br>
 74° karakteristiek jaarlijks primair energieverbruik : het conventioneel bepaalde jaarlijkse energieverbruik van een gebouw, uitgedrukt in primaire energie-equivalenten;<br>
 74° /0 ketellichaam: het geheel van onderdelen van een stookolieketel die niet instaan voor de verbranding van de brandstof maar wel voor de overdracht van de verbrandingswarmte naar water;<br>
-74° /1 klantengroep: iedere groep van distributienetgebruikers die elektriciteit, aardgas of biogas injecteren en/of afnemen van het distributienet en die zich kenmerkt door het type netwerk waarop de netgebruiker is aangesloten, het type aansluiting waarover die netgebruiker beschikt, de automatische compensatie van afgenomen en geïnjecteerde elektriciteit, het jaarverbruik, het type meetinstallatie, het toegangsvermogen, het piekvermogen of door het feit of die netgebruiker al dan niet elektriciteit of biogas injecteert op het netwerk waarop die netgebruiker is aangesloten, met dien verstande dat één netgebruiker volgens zijn toegangspunten tot verschillende klantengroepen kan behoren;<br>
+74° /1 klantengroep: iedere groep van distributienetgebruikers die elektriciteit, aardgas of biogas injecteren en/of afnemen van het distributienet en die zich kenmerkt door het type netwerk waarop de netgebruiker is aangesloten, het type aansluiting waarover die netgebruiker beschikt, de automatische compensatie van afgenomen en geïnjecteerde elektriciteit, het jaarverbruik, het type meetinstallatie, het toegangsvermogen, het piekvermogen of door het feit of die netgebruiker al dan niet elektriciteit of biogas injecteert op het netwerk waarop die netgebruiker is aangesloten, door het feit of die netgebruiker aan energiedelen of de verkoop van energie binnen een appartementsgebouw of multifunctioneel gebouw als vermeld in artikel 7.2.1, §1, tweede lid, 1°, en 7.2.3, §2, eerste lid, doet, of door het feit of die netgebruiker een beschermde afnemer is, met dien verstande dat één netgebruiker volgens zijn toegangspunten tot verschillende klantengroepen kan behoren;<br>
 75° kleine onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br>
 a) minder dan 50 werknemers tewerkstellen;<br>
 b) een jaaromzet hebben van maximaal 10 miljoen euro of een jaarlijks balanstotaal van maximaal 10 miljoen euro;<br>
@@ -220,6 +220,7 @@ en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-baten
 77° /1 laagspanning: een nominaal spanningsniveau van 1000 volt of lager;<br>
 77°/2 leersteuncentrum: een centrum als vermeld in artikel 5, 10°, van het decreet van 5 mei 2023 over leersteun;<br>
 78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt behoudens indien de verkoop plaatsvindt via een directe lijn, een directe leiding of privédistributienet;<br>
+78°/1 leveringscontract met een vaste looptijd en een vaste prijs: een contract voor de levering van elektriciteit of aardgas tussen een leverancier en een afnemer dat garandeert dat de contractuele voorwaarden, inclusief de prijs, voor de duur van het contract ongewijzigd blijven, maar dat voor een vaste prijs een piek- en dalprijsvariatie kan bevatten, en waarbij veranderingen in de uiteindelijke factuur uitsluitend het gevolg kunnen zijn van elementen die niet door de leveranciers worden bepaald, zoals belastingen, heffingen en openbaredienstverplichtingen;<br>
 79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br>
 79° /0 lokale congestie: een situatie waarin een element van het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het koppelpunt met het plaatselijk vervoernet van elektriciteit of het transmissienet niet alle fysieke stromen kan opvangen zonder de operationele veiligheid in gevaar te brengen;<br>
 79° /1 lopende projecten : projecten met startdatum tot en met de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
@@ -277,6 +278,7 @@ a)&nbsp;&nbsp; &nbsp;de noodkoper is:<br>
 1)&nbsp;&nbsp; &nbsp;hetzij alleen of samen met andere noodkopers voor de geheelheid volle eigenaar van een noodkoopwoning;<br>
 2)&nbsp;&nbsp; &nbsp;hetzij voor 100 procent de vruchtgebruiker van de noodkoopwoning en minstens ook gedeeltelijk de naakte eigenaar van die noodkoopwoning;<br>
 b)&nbsp;&nbsp; &nbsp;de noodkoper gebruikt de noodkoopwoning als hoofdverblijfplaats zoals blijkt uit de inschrijvingen in het bevolkingsregister;<br>
+92°/3/3 noodleverancier: een marktpartij die wordt aangewezen om de elektriciteitslevering of aardgaslevering aan afnemers over te nemen van een leverancier die diens activiteiten heeft gestaakt;<br>
 92°/4 ...;<br>
 92° /5 onafhankelijke dienstverlener van flexibiliteit: een dienstverlener van flexibiliteit die niet is aangesloten bij de leverancier van de afnemer of die een afzonderlijke evenwichtsverantwoordelijke heeft die geen evenwichtsverantwoordelijke van de afnemer is;<br>
 93° ondernemingen : elke natuurlijke persoon die een zelfstandig beroep uitoefent, de vennootschappen met rechtspersoonlijkheid, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
@@ -738,7 +740,7 @@ In afwijking van het eerste lid, kan de Vlaamse Regering de nadere voorwaarden b
 
 ### ART. 4.1.7.
 
-Een netbeheerder en zijn werkmaatschappij kunnen geen activiteiten ondernemen inzake de levering van elektriciteit en aardgas, tenzij voor de levering ervan in het kader van een openbaredienstverplichting die op grond van dit decreet is opgelegd.
+Een netbeheerder en zijn werkmaatschappij kunnen geen activiteiten ondernemen inzake de levering van elektriciteit en aardgas, tenzij voor de levering ervan in het kader van een openbaredienstverplichting die&nbsp;door of krachtens dit decreet is opgelegd.
 
 ### ART. 4.1.8.
 
@@ -872,7 +874,19 @@ De Vlaamse Regering bepaalt op basis van de beoordeling door de Vlaamse Nutsregu
 
 ### ART. 4.1.9.
 
-De netbeheerder en zijn werkmaatschappij onthouden zich van elke vorm van discriminatie tussen producenten, aardgasinvoerders, evenwichtsverantwoordelijken, bevrachters, leveranciers, tussenpersonen,&nbsp;aanbieders van energiediensten met inbegrip van aggregatoren, deelnemers aan flexibiliteit, dienstverleners van flexibiliteit, aanvragers van flexibiliteit, afnemers en categorieën van afnemers.
+De netbeheerder en zijn werkmaatschappij onthouden zich van elke vorm van discriminatie in het bijzonder tussen de volgende actoren:<br>
+1°&nbsp;&nbsp; &nbsp;producenten;<br>
+2°&nbsp;&nbsp; &nbsp;aardgasinvoerders;<br>
+3°&nbsp;&nbsp; &nbsp;evenwichtsverantwoordelijken;<br>
+4°&nbsp;&nbsp; &nbsp;bevrachters;<br>
+5°&nbsp;&nbsp; &nbsp;leveranciers;<br>
+6°&nbsp;&nbsp; &nbsp;tussenpersonen;<br>
+7°&nbsp;&nbsp; &nbsp;aanbieders van energiediensten met inbegrip van aggregatoren;<br>
+8°&nbsp;&nbsp; &nbsp;deelnemers aan flexibiliteit;<br>
+9°&nbsp;&nbsp; &nbsp;dienstverleners van flexibiliteit;<br>
+10° aanvragers van flexibiliteit;<br>
+11° ondernemingen die oplaadpunten voor elektrische voertuigen bezitten, ontwikkelen, exploiteren of beheren;<br>
+12° netgebruikers, gebruikers van het plaatselijk vervoernet van elektriciteit en categorieën van netgebruikers, met inbegrip van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers.
 
 ### ART. 4.1.10.
 
@@ -1091,7 +1105,7 @@ Marktdeelnemers kunnen vrijwillig en in onderling overleg afwijken van de bereke
 
 ### ART 4.1.17/3.
 
-§ 1. Elke afnemer, producent, tussenpersoon, energiegemeenschap van burgers en hernieuwbare-energiegemeenschap kan deelnemer aan flexibiliteit of aggregatie worden.<br>
+§ 1. Elke afnemer, producent, tussenpersoon, energiegemeenschap van burgers en hernieuwbare-energiegemeenschap kan onafhankelijk van het type elektriciteitsleveringscontract deelnemer aan flexibiliteit of aggregatie worden.<br>
 <br>
 Elke afnemer, producent, tussenpersoon, energiegemeenschap van burgers en hernieuwbare-energiegemeenschap kan op niet-discriminerende wijze tot de elektriciteitsmarkt of de markt voor lokale congestie toetreden, naast producenten.<br>
 <br>
@@ -1491,10 +1505,12 @@ Deze openbaredienstverplichtingen kunnen onder meer handelen over de termijnen w
 
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de netbeheerders extra openbaredienstverplichtingen opleggen naast de openbaredienstverplichtingen van dit decreet, met betrekking tot :<br>
 1° hun investeringen in het net;<br>
-2° de levering van elektriciteit of aardgas aan iedere afnemer die elektriciteit of aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten die niet over een leveringscontract beschikken of van wie de leverancier zijn verplichtingen niet nakomt, doordat de toegang tot het distributienet beëindigd wordt of doordat hij, om welke reden dan ook, geen elektriciteit of aardgas meer kan leveren aan zijn afnemers;<br>
+2° de levering van elektriciteit of aardgas aan iedere afnemer die elektriciteit of aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten die niet over een leveringscontract beschikken;<br>
 3° de procedure die de netbeheerder moet volgen bij wanbetaling door de afnemer;<br>
 4° maatregelen van sociale aard, zoals de plaatsing en de exploitatie van budgetmeters voor elektriciteit, budgetmeters voor aardgas en van stroombegrenzers;<br>
 5° de exploitatie van openbare verlichting.<br>
+<br>
+De netbeheerder is voor het uitoefenen van de openbaredienstverplichtingen, vermeld in het eerste lid, 2° en 4°, beheersmatig en juridisch onafhankelijk ten aanzien van de transmissienetbeheerder, de beheerder van het vervoersnet, de leveranciers andere dan de netbeheerder handelend met toepassing van artikel 4.3.3, tussenpersonen, aanbieders van energiediensten, ESCO’s, aggregatoren, dienstverleners van flexibiliteit en producenten, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en financieel en organisatorisch onafhankelijk ten aanzien van het uitoefenen van zijn taken overeenkomstig artikel 4.1.6, artikel 4.1.6/1 en artikel 4.1.8/2. De Vlaamse Regering kan de nadere regels bepalen die gelden voor de beheersmatige en juridische onafhankelijkheid en de financiële en organisatorische onafhankelijkheid.<br>
 <br>
 De gemeenten en de openbare centra voor maatschappelijk welzijn verlenen hun medewerking aan de netbeheerders bij de uitvoering van de openbaredienstverplichtingen die hun opgelegd zijn volgens dit decreet of de uitvoeringsbepalingen ervan. De Vlaamse Regering bepaalt de vorm waarin die medewerking zal bestaan.
 
@@ -1958,7 +1974,8 @@ De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval 
 2° de professionele betrouwbaarheid van de aanvrager;<br>
 3° de capaciteit van de aanvrager om aan de behoeften van zijn afnemers te voldoen;<br>
 4° de naleving van de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br>
-5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders.<br>
+5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders;<br>
+6° de naleving van de verplichtingen vermeld in paragraaf 4.<br>
 <br>
 De Vlaamse Nutsregulator legt het model van het aanvraagdossier tot toe-kenning van een leveringsvergunning vast.<br>
 <br>
@@ -1966,7 +1983,12 @@ De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag w
 <br>
 Het faillissement of de gerechtelijke reorganisatie van de houder van een leveringsvergunning leidt van rechtswege tot de opheffing van de leveringsvergunning.<br>
 <br>
-§ 3. Iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest voldoet aan de handels- en balanceringsvereisten, vastgelegd in de technische reglementen.
+§ 3. Iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest voldoet aan de handels- en balanceringsvereisten, vastgelegd in de technische reglementen.<br>
+<br>
+§4. Iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest:<br>
+1° beschikt over passende afdekkingsstrategieën om het risico van veranderingen in de elektriciteits- of aardgasvoorziening op de groothandelsmarkt voor de economische levensvatbaarheid van hun contracten met afnemers te beperken, waarbij de liquiditeit op en de prijssignalen van kortetermijnmarkten in stand worden gehouden, en past die ook toe;<br>
+2° treft alle redelijke maatregelen om het risico op een onderbreking van de levering te beperken;<br>
+3° informeert de Vlaamse Nutsregulator over de manier waarop de verplichtingen, vermeld in punt 1° en 2°, worden nageleefd.
 
 ## Afdeling II. Openbaredienstverplichtingen opgelegd aan de leveranciers
 
@@ -1986,18 +2008,26 @@ Behoudens in de gevallen bepaald door de Vlaamse Regering kan een leverancier ni
 
 ### ART 4.3.3.
 
-In het geval de Vlaamse Nutsregulator de leveringsvergunning van een leverancier, vermeld in artikel 4.3.1, opheft, of als de toegang van een leverancier tot het net wordt beëindigd, of in geval van het faillissement van een leverancier of vanaf de opening van een procedure van gerechtelijke reorganisatie als vermeld in boek XX, titel V, van het Wetboek van economisch recht, ten aanzien van die leverancier, treedt de netbeheerder, wat betreft de afnemers van die leverancier die op zijn net zijn aangesloten, op als noodleverancier. De periode voor de noodlevering bedraagt maximaal zestig dagen voor niet-huishoudelijke afnemers en maximaal twaalf maanden voor huishoudelijke afnemers. De Vlaamse Regering kan die maximale periodes beperken en kan ook nadere voorwaarden bepalen waaronder de netbeheerders de taak van noodleverancier uitvoeren.<br>
+§1. In het geval de Vlaamse Nutsregulator de leveringsvergunning van een leverancier, vermeld in artikel 4.3.1 van dit decreet, opheft, of als de toegang van een leverancier tot het net wordt beëindigd, of in geval van het faillissement van een leverancier of vanaf de opening van een procedure van gerechtelijke reorganisatie of overdracht onder gerechtelijk gezag overeenkomstig boek XX, titels V, V/I en V/II van het Wetboek van economisch recht, ten aanzien van die leverancier, zorgt de netbeheerder voor de continuïteit van de levering van elektriciteit en aardgas aan de afnemers van die leverancier, en treedt daarbij op als noodleverancier. De netbeheerder is voor het uitoefenen van zijn taken als noodleverancier beheersmatig en juridisch onafhankelijk ten aanzien van de transmissienetbeheerder, de beheerder van het vervoersnet, de leveranciers andere dan de netbeheerder handelend met toepassing van artikel 4.1.22, tussenpersonen, aanbieders van energiediensten, ESCO’s, aggregatoren, dienstverleners van flexibiliteit en producenten, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en financieel en organisatorisch onafhankelijk ten aanzien van het uitoefenen van zijn taken overeenkomstig artikel 4.1.6, artikel 4.1.6/1 en artikel 4.1.8/2. De Vlaamse Regering kan de nadere regels bepalen die gelden voor de beheersmatige en juridische onafhankelijkheid en de financiële en organisatorische onafhankelijkheid.<br>
 <br>
-Het Openbaar Ministerie brengt de Vlaamse Nutsregulator op de hoogte van elke dagvaarding die het uitbrengt tot faillietverklaring of in het kader van boek XX, titel V, van het Wetboek van Economisch Recht, met betrekking tot een elektriciteits- of aardgasleverancier die in het Vlaamse Gewest actief is.<br>
+De noodleverancier wijst na een eerlijke, transparante en niet-discriminerende aanbestedingsprocedure, een leverancier aan die instaat voor de levering van aardgas en elektriciteit aan de noodleverancier voor de overgedragen afnemers. De noodleverancier staat verder in voor de levering aan en de facturatie van de overgedragen afnemers en alle andere toepasselijke verplichtingen die daaraan zijn verbonden. De Vlaamse Regering kan nadere voorwaarden bepalen voor de aanbestedingsprocedure.<br>
 <br>
-De griffier van de ondernemingsrechtbank brengt de Vlaamse Nutsregulator zo snel mogelijk en uiterlijk binnen vierentwintig uur op de hoogte van:<br>
-1° elke aangifte tot faillietverklaring en elke indiening van een verzoekschrift tot aanvraag van de opening van een procedure van gerechtelijke reorganisatie door een leverancier als vermeld in het tweede lid;<br>
-2° elke dagvaarding tot faillietverklaring met betrekking tot een leverancier als vermeld in het tweede lid, die is uitgebracht door een andere partij dan het Openbaar Ministerie;<br>
-3° elke beslissing tot faillietverklaring die de rechtbank neemt met betrekking tot een leverancier als vermeld in het tweede lid;<br>
-4° elke beslissing die de voorzitter van de rechtbank neemt met betrekking tot een leverancier als vermeld in het tweede lid, in het kader van artikel XX.30 en XX.32 van het Wetboek van Economisch Recht;<br>
-5° elke beslissing die de rechtbank neemt op verslag van de gedelegeerd rechter of op verzoek of dagvaarding van het Openbaar Ministerie of van elke belanghebbende met betrekking tot een leverancier als vermeld in het tweede lid, in het kader van artikel XX.31 en boek XX, titel V, van het Wetboek van Economisch Recht.<br>
+§2. Afnemers die aan de noodleverancier worden overgedragen, behouden hun rechten, vermeld in artikel 4.4.1, eerste lid, 1° en 2°, en hun rechten vastgesteld ter uitvoering van artikel 4.3.2, 1° en 2°.<br>
+&nbsp;<br>
+§3. De periode voor de noodlevering bedraagt maximaal zes maanden voor niet-huishoudelijke afnemers en maximaal twaalf maanden voor huishoudelijke afnemers. De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de netbeheerders de taak van noodleverancier uitvoeren.<br>
 <br>
-Het tweede en derde lid laten de verplichtingen van de leverancier, vermeld in het tweede lid, over de informatieverstrekking aan het publiek onverlet.
+De noodleverancier deelt onmiddellijk de algemene voorwaarden mee aan de overgedragen afnemers. De noodleverancier contacteert alle afnemers die gedurende dertig dagen door de noodleverancier worden beleverd, en deelt hen mee dat ze zullen terugkeren naar een leverancier op de markt. De mededeling vermeldt bijkomend dat er op de markt contracten tegen een voordeliger aanbod te vinden zijn dan bij de noodleverancier. Daarbij wordt in de mededeling door middel van een link, en als het communicatiemiddel dit toelaat, een QR-code, verwezen naar het vergelijkingsinstrument van de Vlaamse Nutsregulator, vermeld in artikel 4.4.3. Voor beschermde afnemers wordt in de mededeling niet verwezen naar het vergelijkingsinstrument van de Vlaamse Nutsregulator, maar wordt vermeld dat ze bij de overstap naar een leverancier op de markt verder kunnen verbruiken tegen het sociaal tarief zolang hun statuut ongewijzigd blijft.<br>
+<br>
+§4. Het Openbaar Ministerie brengt de Vlaamse Nutsregulator op de hoogte van elke dagvaarding die het uitbrengt tot faillietverklaring of elke dagvaarding in het kader van de toepassing van boek XX, titel V, van het Wetboek van economisch recht die het uitbrengt, tegen een elektriciteits- of aardgasleverancier die in het Vlaamse Gewest actief is.<br>
+<br>
+De griffier van de ondernemingsrechtbank brengt de Vlaamse Nutsregulator zo snel mogelijk en uiterlijk binnen 24 uur op de hoogte van:<br>
+1° elke aangifte tot faillietverklaring en elke indiening van een verzoekschrift tot aanvraag van de opening van een procedure van gerechtelijke reorganisatie of van overdracht onder gerechtelijk gezag door een leverancier als vermeld in het eerste lid;<br>
+2° elke dagvaarding tot faillietverklaring van een leverancier als vermeld in het eerste lid, die is uitgebracht door een andere partij dan het Openbaar Ministerie;<br>
+3° elke beslissing tot faillietverklaring die de rechtbank neemt over een leverancier als vermeld in het eerste lid;<br>
+4° elke beslissing die de voorzitter van de rechtbank neemt over een leverancier als vermeld in het eerste lid, in het kader van de toepassing van artikel XX.30 en XX.32 van het Wetboek van economisch recht;<br>
+5° elke beslissing die de rechtbank neemt over een leverancier als vermeld in het eerste lid, in het kader van de artikelen XX.49/1, XX.49/2, XX.61 en XX.62 van het Wetboek van economisch recht.<br>
+<br>
+Het eerste en tweede lid laten de verplichtingen van de leverancier, vermeld in het eerste lid, over de informatieverstrekking aan het publiek onverlet.
 
 ## [Afdeling IV. Gebruik van persoonlijke gegevens door de leverancier (ing. decr. 23 december 2022, art. 17, I: 8 januari 2023)]
 
@@ -2017,11 +2047,24 @@ Iedere afnemer heeft de volgende rechten :<br>
 1° het recht om van elektriciteit of aardgas, naargelang het geval, te kunnen worden voorzien door een leverancier naar keuze, na toestemming van de leverancier, en ongeacht de lidstaat waar de leverancier is geregistreerd, op voorwaarde dat de leverancier de geldende handels- en balanceringsregels, vermeld in de technische reglementen, toepast;<br>
 2° het recht om, individueel of collectief, zonder discriminatie ten aanzien van moeite en tijd, kosteloos van leverancier te veranderen;<br>
 3° het recht om op hetzelfde moment over meer dan een elektriciteitsleveringscontract te beschikken, op voorwaarde dat de meting en de allocatie en reconciliatie van de energiehoeveelheden conform de technische reglementen worden uitgevoerd;<br>
-4° het recht om, als hij over een digitale meter beschikt, elke leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest belevert, te verzoeken om een dynamisch prijscontract af te sluiten.<br>
+4° het recht om, als die over een digitale meter voor elektriciteit beschikt, een dynamisch prijscontract te sluiten bij elke elektriciteitsleverancier die meer dan 200.000 afnamepunten voor elektriciteit in het Vlaamse Gewest belevert, vanaf 1 januari 2027 bij elke leverancier die meer dan 50.000 afnamepunten voor elektriciteit in het Vlaamse Gewest belevert en vanaf 1 januari 2029 bij elke leverancier die in het Vlaamse Gewest levert, in overeenstemming met de openbare dienstverplichtingen opgelegd aan leveranciers in artikel 4.3.2/1;<br>
+5° het recht om een leveringscontract met een vaste looptijd en een vaste prijs met een duur van ten minste een jaar te sluiten bij elke leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest belevert, in overeenstemming met de openbare dienstverplichtingen opgelegd aan leveranciers in artikel 4.3.2/1.<br>
 <br>
 Als een afnemer wil veranderen van leverancier, aggregator of dienstverlener van flexibiliteit, wordt dat, als hij zich houdt aan de contractuele voorwaarden, geregeld binnen ten hoogste drie weken vanaf de datum van het verzoek van de afnemer aan de leverancier door de betrokken netbeheerder. Vanaf 1 januari 2026 neemt het technische proces van verandering van leverancier niet langer dan 24 uur in beslag en is die verandering op elke werkdag mogelijk voor afnemers met een communicerende digitale of elektronische meter. Onder werkdag wordt elke dag van de week verstaan, behalve zaterdag, zondag en wettelijke en decretale feestdagen.<br>
 <br>
-Met behoud van de toepassing van de termijnen opgenomen in het tweede lid, kan een afnemer uitdrukkelijk verzoeken aan zijn leverancier om de verandering van leverancier, aggregator of dienstverlener op een latere datum te laten ingaan.
+Met behoud van de toepassing van de termijnen opgenomen in het tweede lid, kan een afnemer uitdrukkelijk verzoeken aan zijn leverancier om de verandering van leverancier, aggregator of dienstverlener op een latere datum te laten ingaan.<br>
+<br>
+Als een afnemer een leveringscontract met een vaste looptijd en een vaste prijs heeft gesloten met een leverancier, wijzigt die leverancier de voorwaarden van dat contract niet eenzijdig en beëindigt die dat contract niet voordat de termijn ervan is verstreken.<br>
+<br>
+In afwijking van het eerste lid, zijn de rechten van de afnemer, vermeld in punt 4° en 5°, niet van toepassing wanneer de afnemer klant is bij de netbeheerder die optreedt in het kader van de openbaredienstverplichtingen, vermeld in artikel 4.1.22, eerste lid, 2° en 4°, of die optreedt als noodleverancier.<br>
+<br>
+In afwijking van het eerste lid, 5°, is het recht van de afnemer niet van toepassing op een elektriciteitsleverancier met meer dan 200.000 afnamepunten in het Vlaamse Gewest wanneer de leverancier aantoont dat aan alle volgende voorwaarden is voldaan:<br>
+1° &nbsp;de leverancier biedt alleen dynamische prijscontracten aan;<br>
+2° &nbsp;de vrijstelling heeft geen negatieve gevolgen voor de mededinging;<br>
+3° de keuze aan elektriciteitsleveringscontracten met een vaste looptijd en een vaste prijs blijft voldoende groot voor de afnemers.<br>
+<br>
+De Vlaamse Nutsregulator beoordeelt en kan de procedure vastleggen om na te gaan of voldaan is aan de voorwaarden, vermeld in het zesde lid.<br>
+&nbsp;
 
 ## [Afdeling II. Actieve afnemers (ing. decr. 2 april 2021, art. 47, I: 7 juni 2021)]
 
@@ -2040,6 +2083,8 @@ Met behoud van de toepassing van de termijnen opgenomen in het tweede lid, kan e
 Als dat noodzakelijk is om de activiteiten, vermeld in het eerste lid, 5° tot en met 8°, uit te oefenen, beschikt de actieve afnemer over een meter die de afgenomen energie en de energie die in een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit wordt geïnjecteerd, afzonderlijk meet, en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd worden en verwerkt worden bij de allocatie conform de technische reglementen.<br>
 <br>
 Elke actieve afnemer is financieel verantwoordelijk voor de onbalansen die hij in het elektriciteitsnet veroorzaakt. Hij draagt de evenwichtsverantwoordelijkheid van zijn activiteiten, of belast een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
+<br>
+De voorschriften, procedures en vergoedingen waaraan actieve afnemers worden onderworpen zijn evenredig en niet-discriminerend. Actieve afnemers mogen door hun leverancier niet onderworpen worden aan buitensporige betalingen, sancties of andere buitensporige contractuele beperkingen.<br>
 <br>
 § 2. Een actieve afnemer met een energieopslagfaciliteit heeft de volgende rechten:<br>
 1° de aansluiting van de energieopslagfaciliteit op het net binnen een redelijke termijn, vermeld in de technische reglementen;<br>
@@ -2357,9 +2402,13 @@ Het beheer van de installaties die op het elektriciteitsdistributienet, plaatsel
 <br>
 Elke energiegemeenschap van burgers en elke hernieuwbare-energiegemeenschap zijn financieel verantwoordelijk voor de onbalansen die ze in het elektriciteitsnet veroorzaken voor zover zij als toegangshouder werden aangeduid op de toegangspunten van hun vennoten of leden. Ze dragen de evenwichtsverantwoordelijkheid van hun activiteiten of belasten een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
 <br>
+Bij de uitoefening van haar activiteiten, vermeld in het eerste lid, wordt elke energiegemeenschap van burgers en elke hernieuwbare-energiegemeenschap onderworpen aan transparante, evenredige, eerlijke en niet-discriminerende procedures.<br>
+<br>
 § 2. Als dat noodzakelijk is om de activiteiten, vermeld in paragraaf 1, eerste lid, 1° tot en met 3° en 5° tot en met 8°, uit te oefenen, beschikt de vennoot of het lid van de energiegemeenschap van burgers en van de hernieuwbare-energiegemeenschap over een meter die de afgenomen energie en de energie die in het distributienet wordt geïnjecteerd, afzonderlijk meet, en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd en verwerkt worden bij de allocatie conform de technische reglementen.<br>
 <br>
 § 3. Elke vennoot of elk lid van een energiegemeenschap van burgers en hernieuwbare-energiegemeenschap behoudt zijn rechten als afnemer, huishoudelijke afnemer of actieve afnemer en kan de energiegemeenschap van burgers of de hernieuwbare-energiegemeenschap verlaten. De voorwaarden, vermeld in artikel 4.4.1, tweede lid, zijn in dat geval van overeenkomstige toepassing.<br>
+<br>
+Als een energiegemeenschap van burgers of een hernieuwbare-energiegemeenschap de rol opneemt van afnemer, producent, leverancier, deelnemer aan flexibiliteit of aggregatie wordt de energiegemeenschap van burgers of de hernieuwbare-energiegemeenschap op niet-discriminerende en evenredige wijze behandeld ten aanzien van haar activiteiten, rechten en verplichtingen.<br>
 <br>
 § 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de Vlaamse Nutsregulator via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, en de verkoop van groene stroom conform artikel 7.2.3, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers, de betrokken personen van de verkoop van groene stroom conform artikel 7.2.3 of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
 <br>
@@ -3316,7 +3365,7 @@ De volgende personen kunnen aan energiedelen doen:<br>
 3° een vennoot of lid van een hernieuwbare-energiegemeenschap, met betrekking tot de energie uit hernieuwbare energiebronnen die de hernieuwbare-energiegemeenschap geproduceerd heeft, maximaal ten belope van de afname op zijn toegangspunt.<br>
 4° de actieve afnemer tussen verschillende toegangspunten op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit waarvan hij titularis is, met betrekking tot de energie uit hernieuwbare energiebronnen die op één van die toegangspunten wordt geproduceerd, en maximaal ten belope van de afname op die toegangspunten.<br>
 <br>
-De titularis van het toegangspunt wijst bij energiedelen altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn.<br>
+De titularis van het toegangspunt wijst bij energiedelen altijd een toegangshouder aan op het toegangspunt.&nbsp;<br>
 <br>
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, iedere persoon, vermeld in het eerste lid, in het kader van energiedelen verplichtingen opleggen over de volgende aspecten:<br>
 1° de informatieverlening;<br>
@@ -3326,9 +3375,13 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, iedere persoon,
 <br>
 Energiedelen doet geen afbreuk aan de hoedanigheid van afnemer, huishoudelijke afnemer, beschermde afnemer of actieve afnemer en de daarmee verbonden rechten, heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en bijdragen in het kader van de certificatenverplichtingen als vermeld in artikel 7.1.10 en 7.1.11, alsook wordt geen afbreuk gedaan aan het behalen van en het berekenen van de hoogte van de certificatenverplichtingen, vermeld in artikel 7.1.10 en 7.1.11.<br>
 <br>
+De personen, vermeld in het tweede lid, kunnen onafhankelijk van hun type elektriciteitsleveringscontract aan energiedelen doen.<br>
+<br>
 Energiedelen is niet onderworpen aan hetgeen is bepaald door of krachtens artikel 15.3.5/13.<br>
 <br>
-De gemeten energie op het toegangspunt wordt bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en certificatenverplichtingen, niet gewijzigd door de toegekende of uitgewisselde energie in het kader van de uitoefening van de activiteit, vermeld in het tweede lid.<br>
+De gemeten energie op het toegangspunt wordt:<br>
+1° bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen, niet gewijzigd door de toegekende of uitgewisselde energie in het kader van de uitoefening van de activiteit vermeld in het tweede lid, 1°;<br>
+2° bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en certificatenverplichtingen, niet gewijzigd door de toegekende of uitgewisselde energie in het kader van de uitoefening van de activiteit, vermeld in het tweede lid, 2° tot en met 4°.<br>
 <br>
 § 2. De Vlaamse Regering kan de nadere regels bepalen voor energiedelen. De regels hebben betrekking op de minimale bepalingen van de overeenkomsten die worden gesloten tussen de betrokken partijen, met inbegrip van bepalingen betreffende het uitstappen uit energiedelen, het vastleggen van de benodigde gegevens, waaronder de meting en meetgegevens, en de voorwaarden waaraan de methodieken voor de berekening van energiehoeveelheden voor de allocatie, reconciliatie, facturatie en de aanpassingen aan die berekeningen moeten voldoen.<br>
 <br>
@@ -3340,11 +3393,15 @@ De Vlaamse Regering bepaalt de fasering en timing om energiedelen te operational
 <br>
 Het recht om peer-to-peerhandel te drijven, heeft geen invloed op de rechten en plichten van de betrokken partijen als eindafnemers, producenten, leveranciers of aggregatoren.<br>
 <br>
+Een actieve afnemer kan de hernieuwbare energie, vermeld in het eerste lid, onafhankelijk van het type elektriciteitsleveringscontract verkopen via regelingen voor peer-to-peerhandel in hernieuwbare energie.<br>
+<br>
 § 2. De actieve afnemer kan, als dat voor hem niet de belangrijkste commerciële of professionele activiteit vormt, de groene stroom die hij zelf geproduceerd, en in voorkomend geval opgeslagen heeft, en in het distributienet of het plaatselijk vervoernet van elektriciteit geïnjecteerd heeft op zijn verblijfplaats of vestigingseenheid, per onbalansverrekeningsperiode verkopen aan één andere actieve afnemer maximaal ten belope van de afname van die andere actieve afnemer op zijn toegangspunt. In dat geval is hij in het kader van de levering van die groene stroom niet onderworpen aan de verplichtingen die hem door of krachtens artikel 4.3.1, eerste lid, artikel 4.3.2 en artikel 7.5.1, eerste lid, worden opgelegd.<br>
 <br>
-De titularis van het toegangspunt wijst bij de uitoefening van de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn.<br>
+De titularis van het toegangspunt wijst bij de uitoefening van de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt.&nbsp;<br>
 <br>
 De uitoefening van de activiteit, vermeld in het eerste lid, doet geen afbreuk aan de hoedanigheid van afnemer, huishoudelijke afnemer, beschermde afnemer of actieve afnemer en de daaraan verbonden rechten, heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en bijdragen in het kader van de certificatenverplichting als vermeld in artikel 7.1.10 en 7.1.11, alsook wordt geen afbreuk gedaan aan het behalen van en het berekenen van de hoogte van de certificatenverplichtingen, vermeld in artikel 7.1.10 en 7.1.11.<br>
+<br>
+Een actieve afnemer kan de activiteit, vermeld in het eerste lid, onafhankelijk van zijn type elektriciteitsleveringscontract uitoefenen.<br>
 <br>
 De gemeten energie op het toegangspunt wordt bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en certificatenverplichtingen, niet gewijzigd door de geleverde energie in het kader van de uitoefening van die activiteit.<br>
 <br>
@@ -3360,7 +3417,7 @@ De Vlaamse Regering bepaalt de fasering en timing om de activiteit, vermeld in p
 <br>
 §2. De vereniging van mede-eigenaars, een eigenaar van een appartementsgebouw of multifunctioneel gebouw, of een eigenaar die van de vereniging van mede-eigenaars of, als er geen vereniging van mede-eigenaars is opgericht, van de andere eigenaars het recht heeft gekregen om de gemeenschappelijke delen of een deel van het appartementsgebouw of multifunctioneel gebouw daarvoor privatief in gebruik te nemen, kan de groene stroom die hij zelf geproduceerd heeft in of op het appartementsgebouw of multifunctioneel gebouw of de aanhorigheden ervan, die hij in voorkomend geval opgeslagen heeft, en die hij in het elektriciteits- distributienet of het plaatselijk vervoernet van elektriciteit geïnjecteerd heeft, per onbalansverrekeningsperiode verkopen aan de bewoner of gebruiker van het appartementsgebouw of multifunctioneel gebouw, maximaal ten belope van de afname van de bewoner of gebruiker op zijn toegangspunt in het appartementsgebouw of multifunctioneel gebouw. In dat geval is die natuurlijke persoon of rechtspersoon in het kader van de levering van die groene stroom niet onderworpen aan de verplichtingen die hem door of krachtens artikel 4.3.1, §1, eerste lid, artikel 4.3.2 en artikel 7.5.1, eerste lid, worden opgelegd.<br>
 <br>
-De titularis van het toegangspunt wijst bij de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn of de vereniging van mede-eigenaars, tenzij die een leveringsvergunning heeft aangevraagd.<br>
+De titularis van het toegangspunt wijst bij de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de vereniging van mede-eigenaars zijn, tenzij die een leveringsvergunning heeft aangevraagd.<br>
 <br>
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de vereniging van mede- eigenaars in het kader van de activiteit, vermeld in het eerste lid, verplichtingen opleggen over de volgende aspecten:<br>
 1° &nbsp;de informatieverlening;<br>
@@ -3370,9 +3427,11 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de vereniging v
 <br>
 De activiteit, vermeld in het eerste lid, doet geen afbreuk aan de hoedanigheid van afnemer, huishoudelijke afnemer, beschermde afnemer of actieve afnemer en de daarmee verbonden rechten, heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en bijdragen in het kader van de certificatenverplichtingen als vermeld in artikel 7.1.10 en 7.1.11, alsook wordt geen afbreuk gedaan aan het behalen van en het berekenen van de hoogte van de certificatenverplichtingen, vermeld in artikel 7.1.10 en 7.1.11.<br>
 <br>
+De personen, vermeld in het eerste lid, kunnen de activiteit, vermeld in het eerste lid, onafhankelijk van hun type elektriciteitsleveringscontract uitoefenen.<br>
+<br>
 De activiteit, vermeld in het eerste lid, is niet onderworpen aan hetgeen is bepaald door of krachtens artikel 15.3.5/13.<br>
 <br>
-De gemeten energie op het toegangspunt wordt bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en certificatenverplichtingen, niet gewijzigd door verkochte energie in het kader van de uitoefening van de activiteit, vermeld in het eerste lid.<br>
+De gemeten energie op het toegangspunt wordt bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen, niet gewijzigd door verkochte energie in het kader van de uitoefening van de activiteit, vermeld in het eerste lid.<br>
 <br>
 De betrokken personen beschikken over een meter die de afgenomen energie en de energie die in het distributienet wordt geïnjecteerd, afzonderlijk meet en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd worden en verwerkt worden bij de allocatie conform de technische reglementen.<br>
 <br>
