@@ -3024,7 +3024,8 @@ De bevoegde instantie brengt tweejaarlijks, vanaf de datum van inwerkingtreding 
 21° het decreet van 8 februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest;<br>
 22° het decreet van 28 maart 2014 betreffende de preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren;<br>
 23° het decreet van 21 december 2018 houdende de luchtkwaliteit in het binnenmilieu van voertuigen;<br>
-24° het decreet van 26 januari 2024 over de programmatische aanpak stikstof.<br>
+24° het decreet van 26 januari 2024 over de programmatische aanpak stikstof;<br>
+25° het decreet van 3 juli 2026 over afwijkingen op de omgevingsvergunningsplicht, omgevingsmelding en andere toelatingen in geval van een defensiegerelateerde uitzonderingssituatie, voor zover ze betrekking hebben op een aangelegenheid die geregeld wordt door de overige regelgeving die valt onder het toepassingsgebied van deze titel.<br>
 <br>
 Hoofdstuk IV, afdeling III en V, van deze titel is van toepassing op hoofdstuk VI van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
 <br>
