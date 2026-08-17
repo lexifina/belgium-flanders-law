@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042259,
+  "title": "Decreet van 2026-07-10 Programmadecreet bij de aanpassing van de begroting 2026",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042259/VolledigDocument?datum=2026-08-17",
+  "source_sha256": "9486f310555d23105737b5ef93d55e8d3934aa727a9d3aad981b13cd22c829b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042259&param=informatie",
+  "as_of": "2026-08-17",
+  "made": "2026-07-10",
+  "gazette": "2026-08-07",
+  "numac": 2026005970,
+  "document_start": "2026-08-17",
+  "document_end": null,
+  "in_force": "2026-08-17",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2026-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
