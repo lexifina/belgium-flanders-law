@@ -2,16 +2,16 @@
   "codex_id": 1029678,
   "title": "Decreet van 2018-07-06 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029678/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "4e459c7c17463ac73214543ed0a988f8e1a8a41a05df8bc1ae945a25d6ad5b05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029678/VolledigDocument?datum=2026-08-17",
+  "source_sha256": "0b5d088c2c8d267b79269a01e2a3dbeadf7f357a9bce2737b16e3eaf02856284",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029678&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2026-08-17",
   "made": "2018-07-06",
   "gazette": "2018-08-30",
   "numac": 2018013336,
   "document_start": "2018-09-09",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2026-08-17",
   "article_versions": 52,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-17; future article versions excluded; article text as the API gives it"
 }

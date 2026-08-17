@@ -51,17 +51,11 @@ In artikel 13 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- 
 <br>
 " § 2. Voor de periode 2018 tot en met 2021 kan de Vlaamse Regering, in het kader van de afslanking van de provincies, bijkomende middelen toekennen aan erkende landelijk georganiseerde jeugdverenigingen, verenigingen informatie en participatie en cultuureducatieve verenigingen. Deze middelen omvatten een subsidiëring van een kern van personeelsleden en een subsidiëring op grond van werkelijk gepresteerde activiteiten. Deze middelen worden toegekend aan verenigingen die ressorteren onder dit decreet en in 2014 een provinciale subsidie ontvingen, voor zover die provinciale middelen nog niet werden toegevoegd aan de aanvullende variabele subsidie, als vermeld in paragraaf 1, tweede lid.".
 
-## Afdeling 3. Fonds Vrijwilligersbeleid
+## Afdeling 3. ...
 
 ### ART 6.
 
-Er wordt een begrotingsfonds Vrijwilligersbeleid opgericht, hierna "het Fonds" te noemen.<br>
-<br>
-Het Fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
-<br>
-Het Fonds wordt gefinancierd door alle ontvangsten die voortvloeien uit de overdracht van de reserve, die de Vereniging van de Vlaamse Provincies heeft aangelegd met de middelen die de Nationale Loterij ter beschikking heeft gesteld voor de financiering van de vrijwilligersverzekering.<br>
-<br>
-Het Fonds wordt aangewend voor de financiering van de verzekering als bedoeld in artikel 6 van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, en voor het beheer en de promotie ervan.
+...
 
 ## Afdeling 4. Indexatie dotatie diensten met afzonderlijk beheer "de beheersdienst van het Kasteel-Domein van Gaasbeek" en "het cultuur- en congrescentrum van de Vlaamse Gemeenschap `Landcommanderij Alden Biesen' te Bilzen"
 
