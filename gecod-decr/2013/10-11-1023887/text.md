@@ -8311,6 +8311,8 @@ Vanaf het begrotingsjaar 2024 wordt het bedrag, vermeld in deze paragraaf, geïn
 Vanaf het begrotingsjaar 2024 worden de totale werkingsmiddelen van de universiteiten met 20 miljoen euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
 <br>
 De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2024 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+§15. In het begrotingsjaar 2026 worden de totale werkingsmiddelen van de hogescholen eenmalig vermeerderd met 11.500.000 euro. Dat bedrag wordt verdeeld op basis van het aandeel van elke hogeschool in het totale aantal financieringspunten dat wordt gegenereerd door de graduaatsopleidingen in de academiejaren 2021-2022 tot en met 2023-2024.<br>
 &nbsp;
 
 ### ART. III.25.
@@ -8357,6 +8359,64 @@ Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in het eerste lid, ge�
 In het begrotingsjaar 2024 wordt eenmalig de totale werkingsuitkering van de hogescholen en universiteiten vermeerderd met 706.680 euro.<br>
 <br>
 Dit bedrag wordt verdeeld over de hogescholen die in het academiejaar 2023- 2024 een procedure voor opleidingsaccreditatie doorlopen hebben voor de educatieve graduaatsopleidingen en over de universiteiten die in het academiejaar 2022-2023 een procedure voor opleidingsaccreditatie doorlopen hebben voor de educatieve masteropleidingen a rato van het aantal educatieve graduaatsopleidingen en het aantal educatieve masteropleidingen per instelling.
+
+### ART III.25/6.
+
+Vanaf het begrotingsjaar 2026 tot en met begrotingsjaar 2030 kan jaarlijks een bijkomende werkingstoelage van maximaal 4.000.000 euro aan de Vrije Universiteit Brussel worden toegekend voor de financiering van de voorbereiding, opstart en ondersteuning van de opleidingen bachelor en master in de Tandheelkunde. De instelling dient daartoe jaarlijks een aanvraagdossier in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 oktober van het voorafgaande begrotingsjaar. Voor het begrotingsjaar 2026 wordt het aanvraagdossier uiterlijk op 1 juli 2026 verwacht. Dit aanvraagdossier bevat een overzicht van de geraamde kosten van de voorbereiding, opstart en ondersteuning van de opleidingen bachelor en master in de Tandheelkunde in het begrotingsjaar in kwestie en de daaropvolgende begrotingsjaren tot en met 2030. Deze bijkomende werkingstoelage wordt alleen toegekend en uitbetaald na controle en goedkeuring van het aanvraagdossier door de regeringscommissaris. De regeringscommissaris beoordeelt het getrouwheidsgehalte van het budget en bevestigt dat het voorgestelde budget uitgaven betreft die niet door andere subsidiestromen gedekt zijn.<br>
+<br>
+De Vrije Universiteit Brussel rapporteert over de eigen genomen initiatieven en de effecten en de resultaten ervan. De Vrije Universiteit Brussel dient daarvoor een beknopt rapport in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 april van het daaropvolgende begrotingsjaar. In dit rapport wordt de evolutie in aantal studenten en personeelsleden voor de opleidingen bachelor en master in de Tandheelkunde opgenomen, en ook een gedetailleerde verantwoording van de kosten voor het personeel, de infrastructuur, andere kosten en de mogelijke reserveopbouw. Het rapport wordt ter controle voorgelegd aan de regeringscommissaris. De regeringscommissaris gaat na of de vermelde financiële gegevens in het verantwoordingsrapport correct zijn.<br>
+<br>
+De Vrije Universiteit Brussel kan een gedeelte van de bijkomende werkingstoelage, vermeld in het eerste lid, aanwenden voor de aanleg van een reserve. Maximaal 20% van de op jaarbasis toegewezen bijkomende werkingstoelage kan worden aangewend voor de aanleg van reserves. In afwijking hiervan kan in begrotingsjaar 2026 maximaal 50% van de op jaarbasis toegewezen bijkomende werkingstoelage aangewend worden voor de aanleg van reserves.<br>
+<br>
+De totaal gecumuleerde reserves, vermeld in het derde lid, kunnen maximaal 50% van de maximale totale bijkomende werkingstoelage voor de begrotingsjaren 2026 tot en met 2030 bedragen en moeten ten laatste in het begrotingsjaar 2030 worden besteed.<br>
+<br>
+De Vlaamse Regering kan de bijkomende werkingstoelage, vermeld in het eerste lid, geheel of gedeeltelijk terugvorderen in een van de volgende gevallen:<br>
+1° als de bacheloropleiding, vermeld in het eerste lid, niet uiterlijk in het academiejaar 2027-2028 aangeboden wordt;<br>
+2° als de Vrije Universiteit Brussel niet uiterlijk voor 1 maart 2029 bij de Commissie Hoger Onderwijs een aanvraag indient waarin de doelmatigheid van de opleiding master in de Tandheelkunde overeenkomstig artikel II.153 wordt beoordeeld;<br>
+3° als de kosten niet voldoende aangetoond kunnen worden in de jaarlijkse rapportering.
+
+### ART III.25/7.
+
+Vanaf het begrotingsjaar 2026 tot en met begrotingsjaar 2030 kan jaarlijks een bijkomende werkingstoelage van maximaal 2.000.000 euro worden toegekend aan de Universiteit Hasselt voor de financiering van de voorbereiding, opstart en ondersteuning van de opleiding master in de Geneeskunde. De instelling dient daartoe jaarlijks een aanvraagdossier in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 oktober van het voorafgaande begrotingsjaar. Voor het begrotingsjaar 2026 wordt het aanvraagdossier uiterlijk op 1 juli 2026 verwacht. Dit aanvraagdossier bevat een overzicht van de geraamde kosten van de voorbereiding, opstart en ondersteuning van de opleiding master in de Geneeskunde in het begrotingsjaar in kwestie en de daaropvolgende begrotingsjaren tot en met 2030. Deze bijkomende werkingstoelage wordt alleen toegekend en uitbetaald na controle en goedkeuring van het aanvraagdossier door de regeringscommissaris. De regeringscommissaris beoordeelt het getrouwheidsgehalte van het budget en bevestigt dat het voorgestelde budget uitgaven betreft die niet door andere subsidiestromen gedekt zijn.<br>
+<br>
+De Universiteit Hasselt rapporteert over de eigen genomen initiatieven en de effecten en de resultaten ervan. De Universiteit Hasselt dient daarvoor een beknopt rapport in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 april van het daaropvolgende begrotingsjaar. In dit rapport wordt de evolutie in aantal studenten en personeelsleden voor de opleiding master in de Geneeskunde opgenomen, en ook een gedetailleerde verantwoording van de kosten voor het personeel, de infrastructuur en andere kosten, en de mogelijke reserveopbouw. Het rapport wordt ter controle voorgelegd aan de regeringscommissaris. De regeringscommissaris gaat na of de vermelde financiële gegevens in het verantwoordingsrapport correct zijn.<br>
+<br>
+De Universiteit Hasselt kan een gedeelte van de bijkomende werkingstoelage, vermeld in het eerste lid, aanwenden voor de aanleg van een reserve. Maximaal 20% van de op jaarbasis toegewezen bijkomende werkingstoelage kan worden aangewend voor de aanleg van reserves. In afwijking hiervan kan in begrotingsjaar 2026 maximaal 50% van de op jaarbasis toegewezen bijkomende werkingstoelage aangewend worden voor de aanleg van reserves.<br>
+<br>
+De totaal gecumuleerde reserves, vermeld in het derde lid, kunnen maximaal 50% van de maximale totale bijkomende werkingstoelage voor de begrotingsjaren 2026 tot en met 2030 bedragen en moeten ten laatste in het begrotingsjaar 2030 worden besteed.<br>
+<br>
+Als de Universiteit Hasselt voor de opleiding, vermeld in het eerste lid, niet uiterlijk voor 1 maart 2027 een aanvraag waarin de macrodoelmatigheid conform artikel II.153 wordt beoordeeld, heeft ingediend bij de Commissie Hoger Onderwijs, of als de kosten niet voldoende aangetoond kunnen worden in de jaarlijkse rapportering, kan de Vlaamse Regering de bijkomende werkingstoelage, vermeld in het eerste lid, volledig of gedeeltelijk terugvorderen.
+
+### ART III.25/8.
+
+Vanaf het begrotingsjaar 2026 tot en met begrotingsjaar 2030 kan jaarlijks een bijkomende werkingstoelage van maximaal 1.000.000 euro aan de Katholieke Universiteit Leuven worden toegekend voor de gerichte uitbouw op het grondgebied van de stad Kortrijk van de master in de Handelswetenschappen, met een uitgesproken focus op artificiële intelligentie, werkveldintegratie via een pilootconcept, toegankelijke leerpaden voor werkstudenten en de valorisatie en verspreiding naar andere hogeronderwijsinstellingen. De instelling dient daartoe jaarlijks een aanvraagdossier in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 oktober van het voorafgaande begrotingsjaar. Voor het begrotingsjaar 2026 wordt het aanvraagdossier uiterlijk op 1 juli 2026 verwacht. Dit aanvraagdossier bevat een overzicht van de geraamde kosten van bijkomende personele en infrastructurele inzet voor curriculumontwikkeling, de uitbouw van de werkveldcomponent en de ondersteuning van hybride trajecten voor werkstudenten en bevat concrete doelstellingen en KPI's. Het dossier bevat eveneens een financiële raming voor de daaropvolgende begrotingsjaren tot en met 2030. Deze bijkomende werkingstoelage wordt alleen toegekend en uitbetaald na een inhoudelijke en financiële controle en de goedkeuring van het aanvraagdossier door de regeringscommissaris. De regeringscommissaris beoordeelt het getrouwheidsgehalte van het budget en bevestigt dat het voorgestelde budget uitgaven betreft die niet door andere subsidiestromen gedekt zijn.<br>
+<br>
+De Katholieke Universiteit Leuven rapporteert over de eigen genomen initiatieven en de effecten en de resultaten ervan. De Katholieke Universiteit Leuven dient daarvoor een beknopt rapport in bij de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 1 april van het daaropvolgende begrotingsjaar. In dit rapport wordt minstens de evolutie in aantal studenten en personeelsleden voor de opleiding master in de Handelswetenschappen opgenomen, en ook een gedetailleerde verantwoording van de kosten voor het personeel, de infrastructuur, en andere kosten en de mogelijke reserveopbouw. Het rapport wordt ter controle voorgelegd aan de regeringscommissaris. De regeringscommissaris gaat na of de vermelde financiële gegevens in het verantwoordingsrapport correct zijn.<br>
+<br>
+De Katholieke Universiteit Leuven kan een gedeelte van de bijkomende werkingstoelage, vermeld in het eerste lid, aanwenden voor de aanleg van een reserve. Maximaal 20% van de op jaarbasis toegewezen bijkomende werkingstoelage kan worden aangewend voor de aanleg van reserves. In afwijking hiervan kan in begrotingsjaar 2026 maximaal 50% van de op jaarbasis toegewezen bijkomende werkingstoelage aangewend worden voor de aanleg van reserves.<br>
+<br>
+De totaal gecumuleerde reserves, vermeld in het derde lid, kunnen maximaal 50% van de maximale totale bijkomende werkingstoelage voor de begrotingsjaren 2026 tot en met 2030 bedragen en moeten ten laatste in het begrotingsjaar 2030 worden besteed.<br>
+<br>
+De Vlaamse Regering kan de bijkomende werkingstoelage, vermeld in het eerste lid, volledig of gedeeltelijk terugvorderen of niet of gedeeltelijk toekennen in een van de volgende gevallen:<br>
+1° als de masteropleiding, vermeld in het eerste lid, niet uiterlijk in het academiejaar 2027-2028 aangeboden wordt;<br>
+2° als de kosten niet voldoende aangetoond kunnen worden in de jaarlijkse rapportering;<br>
+3° als uit het rapport, vermeld in het tweede lid, blijkt dat de doelstellingen of KPI's niet of onvoldoende werden bereikt.
+
+### ART III.25/9.
+
+§1. In deze paragraaf wordt verstaan onder:<br>
+1° student met andere thuistaal dan het Nederlands: een student die toen hij leerling was in het secundair onderwijs, volgens de meest recente gegevens beschikbaar in DISCIMUS, beantwoordde aan de gelijkekansindicator, vermeld in artikel 233, § 1, 5°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+2° trajectstarter: een student die zich voor het eerst inschrijft met een diplomacontract voor een specifieke opleiding van het hoger beroepsonderwijs of een initiële professioneel of academisch gerichte bachelor in het Vlaamse hoger onderwijs, ongeacht de instelling waarin de student is ingeschreven. Een student is een trajectstarter bij:<br>
+a) een eerste inschrijving in die specifieke opleiding;<br>
+b) een nieuwe inschrijving in een andere opleiding dan een vorige opleiding.<br>
+<br>
+Ter versterking van het niveau Nederlands van trajectstarters en generatiestudenten met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen, wordt in de begrotingsjaren 2026 en 2027 een bijkomende werkingstoelage aan de hogescholen en universiteiten van 2.500.000 euro toegekend, en wordt in de begrotingsjaren 2028 en 2029 een bijkomende werkingstoelage aan de hogescholen en universiteiten van 5.000.000 euro toegekend, hierna taalmiddelen te noemen.<br>
+<br>
+De taalmiddelen, vermeld in het tweede lid, worden verdeeld over de hogescholen en universiteiten op basis van de volgende formules:<br>
+1° voor elke instelling wordt het gewogen aantal trajectstarters en generatiestudenten met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen in de referentieperiode t-3/2 bepaald door het aantal trajectstarters met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen van de instelling te vermeerderen met het aantal generatiestudenten met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen van de instelling, vermenigvuldigd met factor 2;<br>
+2° de verdeling over de instellingen gebeurt pro rata hun gewogen aantal trajectstarters en generatiestudenten met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen als vermeld in punt 1°, ten opzichte van de som van de gewogen aantallen trajectstarters en generatiestudenten met een andere thuistaal dan het Nederlands in Nederlandstalige opleidingen van alle instellingen.<br>
+<br>
+§2. De hogescholen en universiteiten die taalmiddelen als vermeld in paragraaf 1, tweede lid, ontvangen, rapporteren over de door hen genomen initiatieven en de effecten en de resultaten ervan. De instellingen dienen daarvoor een beknopt inhoudelijk rapport in bij de Vlaamse minister, bevoegd voor onderwijs, uiterlijk op 1 april van het daaropvolgende begrotingsjaar. De instellingen nemen de verantwoording over de besteding van de taalmiddelen, vermeld in paragraaf 1, tweede lid, op in hun jaarrekening, vermeld in artikel IV.83.
 
 ### ART. III.26.
 
