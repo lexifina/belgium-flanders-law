@@ -240,28 +240,20 @@ De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te stellen voor de
 
 De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaarden of modaliteiten voor het stellen van de waarborgen bedoeld in artikelen 37 en 38.
 
-## [HOOFDSTUK IX Begeleidende maatregelen (ing. decr. 8 mei 2009, art. IX.25, I: 28 augustus 2009)]
+## HOOFDSTUK IX ...
 
 ### ART. 40.
 
-§ 1. Vanaf de publicatie van deze bepalingen in het Belgisch Staatsblad krijgen het Gemeenschapsonderwijs en de onderwijskoepels een basistoelage en een recurrente toelage in functie van een aantal vierkante meter schoolinfrastructuur in het kader van het DBFM-programma met het oog op enerzijds een algemene informering en anderzijds een individuele begeleiding van de inrichtende machten.<br /><br />§ 2. De vermelde toelagen zijn beperkt tot het per Gemeenschapsonderwijs en onderwijskoepel aantal vierkante meter schoolinfrastructuur overeenkomstig de investeringslijst van het DBFM-programma op 1 januari 2009.<br /><br />§ 3. De toelagen worden jaarlijks aangepast aan de gezondheidsindex. <br />De referentiedatum voor de jaarlijkse aanpassing is 1 januari 2009.
+...
 
 ### ART. 41.
 
-§ 1. Een basistoelage van 2 euro per vierkante meter schoolinfrastructuur wordt betaald door AGIOn aan het Gemeenschapsonderwijs en de onderwijskoepels op basis van het aantal effectieve vierkante meter schoolinfrastructuur van het respectievelijke jaar, per respectievelijk het Gemeenschapsonderwijs en de onderwijskoepels en voor de individuele DBFM-contracten waarvoor een omgevingsvergunning voor stedenbouwkundige handelingen werd aangevraagd.<br>
-<br>
-§ 2. Gedurende het eerste jaar wordt een voorschot betaald op de basistoelage. Dit voorschot bedraagt 50 % van het product van 2 euro en het aantal vierkante meter schoolinfrastructuur overeenkomstig de investeringslijst van het DBFM-programma op 1 januari 2009 per Gemeenschapsonderwijs en onderwijskoepel.<br>
-<br>
-In het eerste jaar wordt dit voorschot betaald na de vaststelling door AGIOn dat het Gemeenschapsonderwijs en de onderwijskoepels een algemeen informatieprogramma hebben uitgewerkt.<br>
-<br>
-§ 3. In het begin van het&nbsp;jaar, gebeurt jaarlijks een afrekening tussen het totaal van de toelage die overeenstemt met het effectief aantal vierkante meter schoolinfrastructuur en het totaal van de toelagen die voorgaande jaren werd betaald.<br>
-<br>
-Het effectief aantal gecontracteerde vierkante meter schoolinfrastructuur wordt hierbij minstens gelijkgesteld aan 50 % van het aantal vierkante meter schoolinfrastructuur overeenkomstig de investeringslijst van het DBFM-programma op 1 januari 2009 per Gemeenschapsonderwijs en onderwijskoepel.
+...
 
 ### ART. 42.
 
-Vanaf het vijfde jaar na het afsluiten van de overeenkomst wordt jaarlijks gedurende de resterende duurtijd van het DBFM-programma een recurrente toelage van 0,5 euro per vierkante meter schoolinfrastructuur betaald door AGIOn aan het Gemeenschapsonderwijs en de onderwijskoepels op basis van 25 % van het totaal effectief aantal vierkante meters schoolinfrastructuur per respectievelijk het Gemeenschapsonderwijs en de onderwijskoepels op 31 december van het voorgaande jaar.
+...
 
 ### ART. 43.
 
-§ 1. Het Gemeenschapsonderwijs en de onderwijskoepels verbinden zich ertoe om de inrichtende machten te informeren, sensibiliseren en te ondersteunen in het kader van de inhaalbeweging voor schoolinfrastructuur.<br /><br />Zij ontwikkelen hiervoor de noodzakelijke en gepaste initiatieven en activiteiten zoals onder meer informatiesessies, overleg met en bijstand bieden aan de individuele inrichtende machten, constructieve samenwerking met de DBFM-vennootschap en AGIOn.<br /><br />§ 2. AGIOn kan steeds om alle nodig geachte informatie verzoeken bij het Gemeenschapsonderwijs en de onderwijskoepels over hun initiatieven en activiteiten zoals bedoeld in vorige paragraaf.<br /><br />Het Gemeenschapsonderwijs en de onderwijskoepels zullen in elke geval jaarlijks een duidelijk en gedetailleerd activiteitenverslag overmaken aan AGIOn. Hierin zal onder meer een verklaring van de individuele inrichtende macht worden opgenomen betreffende de geleverde ondersteuningsactiviteit in het licht van het sluiten van het individueel DBFM-contract.
+...
