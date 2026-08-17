@@ -2,16 +2,16 @@
   "codex_id": 1020454,
   "title": "Decreet van 2011-07-08 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2011",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020454/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "870ba8961938d73461da3aef95e3960f032e09e4b4718882ba673bfad83521ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020454/VolledigDocument?datum=2026-08-17",
+  "source_sha256": "ca38f9f77ee1ca995a0d4b0d846bf726fbbf9da83a754e1b730ba877fa7034dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020454&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2026-08-17",
   "made": "2011-07-08",
   "gazette": "2011-07-25",
   "numac": 2011035609,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2026-08-17",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-17; future article versions excluded; article text as the API gives it"
 }

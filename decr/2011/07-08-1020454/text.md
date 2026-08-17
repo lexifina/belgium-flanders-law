@@ -90,15 +90,11 @@ In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding
 
 In artikel 37 van het decreet van 19 december 2008 houdende bepalingen tot begeleiding van de begroting van 2009, gewijzigd bij het decreet van 18 december 2009, wordt de zin "Het experiment heeft een maximum looptijd van drie jaar. » vervangen door de zin "Het experiment heeft een maximale looptijd van vijf jaar. ».
 
-## HOOFDSTUK 7. Fonds CCP-ECP
+## HOOFDSTUK 7. ...
 
 ### ART. 18.
 
-<p>Bij het Departement Cultuur, Jeugd en Media wordt een fonds, het `Fonds CED-ECP' genoemd, opgericht, in de zin van artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
-<br>
-De middelen van het fonds kunnen uitsluitend aangewend worden voor de kosten die ontstaan in het kader van de werking van de Creative Europe Desk (CED) en het Burgerschapscontactpunt (ECP).<br>
-<br>
-Aan het fonds worden toegewezen de subsidies die in het kader van subsidie-overeenkomsten met de Europese Commissie worden ontvangen ter ondersteuning van de Creative Europe Desk en het Burgerschapscontactpunt (co-financiering) en de middelen die het Vlaams Audiovisueel Fonds ter beschikking stelt van de Creative Europe Desk.</p>
+<p>...</p>
 
 ## HOOFDSTUK 8. Fonds voor Landinrichting en Natuurlijke rijkdommen
 
