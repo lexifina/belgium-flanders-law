@@ -18,13 +18,13 @@ In dit decreet wordt verstaan onder:<br>
 Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemeenschap geraamd op:<br>
 (in duizend euro)<br>
 &nbsp;
-<table border="1" cellspacing="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td><strong>PR</strong></td>
-			<td><strong>OMSCHRIJVING</strong></td>
-			<td><strong>AO</strong></td>
-			<td><strong>LIT</strong></td>
+			<td>PR</td>
+			<td>OMSCHRIJVING</td>
+			<td>AO</td>
+			<td>LIT</td>
 		</tr>
 		<tr>
 			<td>CA</td>
@@ -35,31 +35,31 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>CB</td>
 			<td>PROVISIES</td>
-			<td>621.947</td>
+			<td>897.125</td>
 			<td>1</td>
 		</tr>
 		<tr>
 			<td>CC</td>
 			<td>BUDGETTAIR BELEID</td>
-			<td>34.721.540</td>
+			<td>34.834.748</td>
 			<td>1,2,3</td>
 		</tr>
 		<tr>
 			<td>CD</td>
 			<td>FISCALITEIT</td>
-			<td>18.761.538</td>
+			<td>19.077.997</td>
 			<td>3</td>
 		</tr>
 		<tr>
 			<td>CE</td>
 			<td>FINANCIELE OPERATIES</td>
-			<td>1.009.641</td>
+			<td>1.051.712</td>
 			<td>1</td>
 		</tr>
 		<tr>
 			<td>CF</td>
 			<td>BOEKHOUDING</td>
-			<td>7.615</td>
+			<td>20.443</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>FG</td>
 			<td>ONDERSTEUNING VAN HET ONDERWIJSVELD</td>
-			<td>2.605</td>
+			<td>2.925</td>
 			<td>2</td>
 		</tr>
 		<tr>
@@ -89,24 +89,12 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>GC</td>
 			<td>ZORG</td>
-			<td>4.475</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>GD</td>
-			<td>GEZONDHEIDS- EN WOONZORG</td>
-			<td>0</td>
+			<td>5.698</td>
 			<td>2</td>
 		</tr>
 		<tr>
 			<td>GE</td>
 			<td>OPGROEIEN</td>
-			<td>0</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>GH</td>
-			<td>SOCIALE BESCHERMING</td>
 			<td>0</td>
 			<td>2</td>
 		</tr>
@@ -167,19 +155,19 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>MF</td>
 			<td>ALGEMEEN MOBILITEITSBELEID</td>
-			<td>2.739</td>
+			<td>2.773</td>
 			<td>3</td>
 		</tr>
 		<tr>
 			<td>MH</td>
 			<td>WEGGEBONDEN MOBILITEIT EN TRANSPORT</td>
-			<td>349.962</td>
+			<td>380.858</td>
 			<td>3</td>
 		</tr>
 		<tr>
 			<td>MI</td>
 			<td>WATERGEBONDEN MOBILITEIT EN TRANSPORT</td>
-			<td>27.486</td>
+			<td>57.590</td>
 			<td>3</td>
 		</tr>
 		<tr>
@@ -191,19 +179,19 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>QC</td>
 			<td>OMGEVING EN NATUUR</td>
-			<td>7.353</td>
+			<td>7.403</td>
 			<td>3</td>
 		</tr>
 		<tr>
 			<td>QD</td>
 			<td>WONEN</td>
-			<td>8.500</td>
+			<td>13.731</td>
 			<td>3</td>
 		</tr>
 		<tr>
 			<td>QE</td>
 			<td>ENERGIE</td>
-			<td>50.115</td>
+			<td>53.100</td>
 			<td>3</td>
 		</tr>
 		<tr>
@@ -221,7 +209,7 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>SA</td>
 			<td>APPARAATSKREDIETEN</td>
-			<td>5.280</td>
+			<td>5.245</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -293,13 +281,13 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>TA</td>
 			<td>APPARAATSKREDIETEN</td>
-			<td>11.449</td>
+			<td>12.351</td>
 			<td>1</td>
 		</tr>
 		<tr>
 			<td>TC</td>
 			<td>ECONOMIE</td>
-			<td>107.564</td>
+			<td>106.184</td>
 			<td>3</td>
 		</tr>
 		<tr>
@@ -335,7 +323,7 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;TOTAAL</td>
-			<td>55.848.983</td>
+			<td>56.679.057</td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
@@ -343,231 +331,235 @@ Voor het begrotingsjaar 2026 worden de algemene ontvangsten van de Vlaamse Gemee
 
 ### ART 4.
 
-Voor het begrotingsjaar 2026 worden de toegewezen ontvangsten van de Vlaamse Gemeenschap geraamd op:
-<table border="1" cellspacing="0" style="border-collapse:collapse; width:800px">
+Voor het begrotingsjaar 2026 worden de toegewezen ontvangsten van de Vlaamse Gemeenschap geraamd op:<br>
+(in duizend euro)<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center"><strong>PR</strong></td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center"><strong>OMSCHRIJVING</strong></td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center"><strong>TO</strong></td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center"><strong>LIT</strong></td>
+			<td>PR</td>
+			<td>OMSCHRIJVING</td>
+			<td>TO</td>
+			<td>LIT</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">CA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">126</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>CA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>126</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">CC</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">BUDGETTAIR BELEID</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">1.550</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>CC</td>
+			<td>BUDGETTAIR BELEID</td>
+			<td>1.550</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">CD</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">FISCALITEIT</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">1.649</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>CD</td>
+			<td>FISCALITEIT</td>
+			<td>1.649</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">FA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">1.650</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>FA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>1.650</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">FD</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">KLEUTER- EN LEERPLICHTONDERWIJS</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">154.729</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>FD</td>
+			<td>KLEUTER- EN LEERPLICHTONDERWIJS</td>
+			<td>146.950</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">FE</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">HOGER ONDERWIJS</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">100</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>FE</td>
+			<td>HOGER ONDERWIJS</td>
+			<td>100</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">FF</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">DEELTIJDS KUNSTONDERWIJS EN VOLWASSENENONDERWIJS</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">99.866</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>FF</td>
+			<td>DEELTIJDS KUNSTONDERWIJS EN VOLWASSENENONDERWIJS</td>
+			<td>77.518</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">FG</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ONDERSTEUNING VAN HET ONDERWIJSVELD</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">6.409</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>FG</td>
+			<td>ONDERSTEUNING VAN HET ONDERWIJSVELD</td>
+			<td>6.409</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">GA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">400</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>GA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>400</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">GC</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ZORG</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">951</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>GC</td>
+			<td>ZORG</td>
+			<td>951</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">HA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">224</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>HA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>224</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">HB</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">BELEIDSVELDOVERSCHRIJDEND</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">69</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>HB</td>
+			<td>BELEIDSVELDOVERSCHRIJDEND</td>
+			<td>69</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">HC</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">CULTUUR</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">168</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>HC</td>
+			<td>CULTUUR</td>
+			<td>168</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">MA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">11.678</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>MA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>11.678</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">MH</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">WEGGEBONDEN MOBILITEIT EN TRANSPORT</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">74.425</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>MH</td>
+			<td>WEGGEBONDEN MOBILITEIT EN TRANSPORT</td>
+			<td>39.968</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">581</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>QA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>523</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QC</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">OMGEVING EN NATUUR</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">88.799</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QC</td>
+			<td>OMGEVING EN NATUUR</td>
+			<td>50.521</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QD</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">WONEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">2.000</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QD</td>
+			<td>WONEN</td>
+			<td>2.000</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QE</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ENERGIE</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">186.864</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QE</td>
+			<td>ENERGIE</td>
+			<td>218.476</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QF</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">DIERENWELZIJN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">1.636</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QF</td>
+			<td>DIERENWELZIJN</td>
+			<td>1.636</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QG</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ONROEREND ERFGOED</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">255</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QG</td>
+			<td>ONROEREND ERFGOED</td>
+			<td>255</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">QH</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">KLIMAAT</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">252.778</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>QH</td>
+			<td>KLIMAAT</td>
+			<td>264.477</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">3.169</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>3.169</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SD</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">JUSTITIE EN HANDHAVING</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">0</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">2</td>
+			<td>SD</td>
+			<td>JUSTITIE EN HANDHAVING</td>
+			<td>0</td>
+			<td>1,2</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SE</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ONDERSTEUNING VLAAMSE REGERING</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">12</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SE</td>
+			<td>ONDERSTEUNING VLAAMSE REGERING</td>
+			<td>12</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SK</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">INTERNE DIENSTVERLENING VLAAMSE OVERHEID</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">5.197</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SK</td>
+			<td>INTERNE DIENSTVERLENING VLAAMSE OVERHEID</td>
+			<td>5.197</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SM</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">BINNENLANDS BESTUUR EN STEDENBELEID</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">0</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SM</td>
+			<td>BINNENLANDS BESTUUR EN STEDENBELEID</td>
+			<td>0</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SN</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">BUITENLANDS BELEID</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">5</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SN</td>
+			<td>BUITENLANDS BELEID</td>
+			<td>5</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">SO</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ONTWIKKELINGSSAMENWERKING</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">200</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>SO</td>
+			<td>ONTWIKKELINGSSAMENWERKING</td>
+			<td>200</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">TA</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">APPARAATSKREDIETEN</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">3.112</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>TA</td>
+			<td>APPARAATSKREDIETEN</td>
+			<td>3.112</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">TB</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">PROVISIES</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">0</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">1</td>
+			<td>TB</td>
+			<td>PROVISIES</td>
+			<td>0</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">TC</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">ECONOMIE</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">5.000</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>TC</td>
+			<td>ECONOMIE</td>
+			<td>5.000</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">TD</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">WERK</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">21.000</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>TD</td>
+			<td>WERK</td>
+			<td>21.000</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">TJ</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">LANDBOUW EN ZEEVISSERIJ</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">1.796</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">3</td>
+			<td>TJ</td>
+			<td>LANDBOUW EN ZEEVISSERIJ</td>
+			<td>1.796</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">&nbsp;</td>
-			<td style="background-color:#ffffff; border-bottom:1px solid; border-left:1px solid; border-right:1px solid; border-top:1px solid">&nbsp;TOTAAL</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:right">926.398</td>
-			<td style="background-color:#ffffff; border-color:initial; border-style:solid; border-width:1px; text-align:center">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;TOTAAL</td>
+			<td>866.789</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART 5.
 
-Voor het begrotingsjaar 2026 worden de leningsontvangsten (littera 1) geraamd op 6.825.425.000 euro.
+Voor het begrotingsjaar 2026 worden de leningsontvangsten (littera 1) geraamd op 8.240.752.000 euro.
 
 ### ART 6.
 
@@ -587,6 +579,10 @@ De op 31 december 2025 bestaande directe en indirecte belastingen, in hoofdsom, 
 <br>
 §2. De Vlaamse Regering wordt ertoe gemachtigd, mits akkoord van de minister bevoegd voor het budgettair beleid, de algemene en toegewezen ontvangsten van de algemene middelenbegroting van de Vlaamse Gemeenschap, de aanrekeningen in de vorm van vastgestelde rechten en inningen en de openstaande saldi op basisallocaties en begrotingsartikelen van entiteiten die tijdens het begrotingsjaar 2026 gefusioneerd respectievelijk opgeheven worden, op datum van fusie of opheffing over te hevelen naar de naar aanleiding van de fusie of opheffing ontstane passende basisallocaties en begrotingsartikelen.
 
+### ART 9/1.
+
+Van de gerealiseerde ontvangsten op het begrotingsartikel FD0-1FEE4EA-IS van het Recuperatiefonds Hoger Onderwijs wordt een bedrag van 2.032.000 euro gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap.
+
 ## WELZIJN, VOLKSGEZONDHEID EN GEZIN
 
 ### ART 10.
@@ -601,7 +597,7 @@ Met toepassing van artikel 77 van het decreet houdende de Vlaamse Codex Overheid
 
 ### ART 12.
 
-Van de gerealiseerde ontvangsten op het begrotingsartikel MB0-9MHHTOD-OW van het Verkeersveiligheidsfonds wordt een bedrag van 2.400.000 euro gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap.
+Van de gerealiseerde ontvangsten op het begrotingsartikel MB0-9MHHTOD-OW van het Verkeersveiligheidsfonds wordt een bedrag van 2.568.000 euro gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap.
 
 ## OMGEVING
 
@@ -619,7 +615,7 @@ Van de gerealiseerde ontvangsten op het begrotingsartikel SA0-9SOATLD-OW van het
 
 ### ART 15.
 
-Het beschikbaar saldo op 1 januari 2026 en de gedurende het begrotingsjaar 2026 gerealiseerde ontvangsten op het Vlaams Cofinancieringsfonds ESF Projecten (middelen TB0-1TDE4AD-WT en TB0-9TDETAD-OI, en uitgaven TB0-9TDETAD-OW) worden, met een maximum van 25.902.000 euro gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap.
+Het beschikbare saldo op 1 januari 2026 en de gedurende het begrotingsjaar 2026 gerealiseerde ontvangsten op het Vlaams Cofinancieringsfonds ESF-Projecten (middelen TB0-9TDETAD-OW en TB0-9TDETAD-OI, en uitgaven TB0-1TDE4AD-WT en TB0-1TDE4AD-IS) worden, met een maximum van 25.902.000 euro, gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap.
 
 ## ALGEMEEN
 
