@@ -942,6 +942,8 @@ De afwijking bedoeld in het voorgaande lid kan bovendien slechts toegestaan word
 1° de nodige compenserende maatregelen genomen zijn en de nodige actieve instandhoudingsmaatregelen genomen zijn of worden die waarborgen dat de algehele samenhang van de speciale beschermingszone en -zones bewaard blijft;<br>
 2° de compenserende maatregelen zijn van die aard dat een evenwaardige habitat of het natuurlijk milieu ervan, van minstens een gelijkaardige oppervlakte in principe actief is ontwikkeld. De initiatiefnemer rapporteert aan het agentschap over de uitvoering van de compenserende maatregelen, ten laatste binnen een jaar na de definitieve beslissing waarbij de afwijking is toegestaan. Het agentschap neemt de gerapporteerde compenserende maatregelen op in een register. Na de ontvangst van de rapportering beslist het agentschap binnen drie maanden over de inhoud en desgevallend de verdere frequentie van de rapportering.<br>
 <br>
+Als het gebied waar de compenserende maatregelen, vermeld in het tweede lid, worden genomen, nog geen deel uitmaakt van een speciale beschermingszone, kan de Vlaamse Regering het, in afwijking van artikel 36bis, § 14, aanwijzen als een speciale beschermingszone na advies van het Instituut voor Natuur- en Bosonderzoek. Dit besluit neemt ze samen met de beslissing, vermeld in het vijfde lid. Het besluit bevat de gegevens, vermeld in artikel 36bis, § 1, tweede lid. De bepalingen van artikel 36bis, § 9, tweede tot en met vierde lid, zijn van overeenkomstige toepassing op dit besluit.<br>
+<br>
 De Vlaamse regering kan nadere regels vaststellen voor het opstellen van een passende beoordeling van de effecten van de activiteit op de habitats, de habitats van een soort en op de soort of soorten waarvoor de speciale beschermingszone is aangewezen, voor het onderzoeken van minder schadelijke alternatieven en inzake de compenserende maatregelen.<br>
 <br>
 De Vlaamse regering oordeelt over het bestaan van een dwingende reden van groot openbaar belang met inbegrip van redenen van sociale of economische aard.<br>
@@ -1019,6 +1021,16 @@ De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de verwerving 
 De Vlaamse Regering bepaalt de nadere voorwaarden van de koopplicht, vermeld in het eerste lid.<br>
 <br>
 De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.
+
+### ART 42bis.
+
+De eigenaar van een onroerend goed dat binnen het VEN of binnen een speciale beschermingszone, aangewezen door de Vlaamse Regering met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn, ligt, kan van de Vlaamse Grondenbank de verwerving van dat onroerend goed eisen, als hij aantoont dat, ten gevolge van terugkerende schade veroorzaakt door een beschermde soort, en als die schade redelijkerwijze niet kon worden voorkomen, de waardevermindering van zijn onroerend goed ernstig is, of dat de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden van de koopplicht, vermeld in het eerste lid.<br>
+<br>
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.<br>
+<br>
+Als een eigenaar van een onroerend goed deze mogelijkheid van gedwongen aankoop door de Vlaamse Grondenbank toepast, kan hij vanaf de effectieve verwerving geen aanspraak meer maken op een schadevergoeding van het Vlaamse Gewest of van de Vlaamse Grondenbank voor hetzelfde onroerend goed.
 
 ### ART. 43.
 
@@ -1329,7 +1341,34 @@ De maatregelen, vermeld in het tweede lid, kunnen alleen ambtshalve worden uitge
 
 ### ART. 52.
 
-§ 1. De schade aan gewassen, vee, bossen of visserij die wordt veroorzaakt door diersoorten die beschermd zijn krachtens artikel 51, wordt vergoed door het Mina-fonds als voldaan is aan de volgende voorwaarden : <br />1° het gaat om belangrijke en aantoonbare schade;<br />2° het gaat om schade die redelijkerwijze niet kon worden voorkomen;<br />3° er is geen afwijking verleend krachtens artikel 56, 4°, om schade te voorkomen waarvoor vergoeding wordt gevraagd.<br /><br />De Vlaamse Regering stelt nadere regels vast om de voorwaarden, vermeld in het eerste lid, te beoordelen.<br /><br />§ 2. Om aanspraak te kunnen maken op de vergoeding, vermeld in paragraaf 1, dient de schadelijder tijdig een aanvraag in bij een door de Vlaamse Regering aangewezen ambtenaar van het Agentschap voor Natuur en Bos.<br /><br />De Vlaamse Regering bepaalt de wijze waarop en de termijn waarin de aanvraag moet worden ingediend, en welke gegevens de aanvraag moet bevatten.<br /><br />§ 3. De ambtenaar, vermeld in paragraaf 2, neemt een beslissing over de aanvraag na een plaatsbezoek en het inwinnen van advies bij één of meerdere door de Vlaamse Regering aangewezen ambtenaren. Indien en in die mate dat de voorwaarden, vermeld in paragraaf 1, zijn vervuld, en op voorwaarde dat de aanvraag tijdig werd ingediend, wordt in die beslissing het bedrag vastgesteld van de schade die op grond van paragraaf 1 recht geeft op vergoeding.<br /><br />De Vlaamse Regering stelt nadere regels vast voor het onderzoek van de aanvraag en kan bepalen hoe de schade geschat moet worden. Ze bepaalt de wijze waarop en de personen aan wie de beslissing moet worden meegedeeld en welke vermeldingen de beslissing minstens moet bevatten.<br /><br />§ 4. Tegen de beslissing, vermeld in paragraaf 3, kan de aanvrager beroep indienen bij de minister.<br /><br />De Vlaamse Regering stelt de nadere regelen voor het beroep vast.<br /><br />§ 5. De beslissing, vermeld in paragraaf 3, die een bedrag heeft vastgesteld van de schade die op grond van paragraaf 1 recht geeft op vergoeding, en waartegen geen of niet tijdig een beroep werd ingediend, vormt de titel voor de vergoeding door het Mina-fonds.<br /><br />Als het beroep tijdig wordt ingediend, vormt de ministeriële beslissing, als daarin een bedrag is vastgesteld voor de schade die op grond van § 1 recht geeft op vergoeding, de titel voor de vergoeding door het Mina-fonds.<br /><br />§ 6. De Vlaamse Regering voorziet, voor de beslissing, vermeld in paragraaf 3, waartegen geen of niet tijdig beroep is ingediend, in een herzieningsprocedure ter verbetering van materiële vergissingen in die beslissing, en ter vernietiging van die beslissing als er bedrog werd gepleegd of de beslissing genomen werd op basis van valse of klaarblijkelijk onjuiste stukken of verklaringen. In geval van vernietiging wordt bij dezelfde beslissing opnieuw uitspraak gedaan over de grond van de zaak.<br /><br />De beslissing tot vernietiging of verbetering is vatbaar voor hetzelfde beroep als de vernietigde of verbeterde beslissing en vormt de titel voor de vergoeding door het Mina-fonds of geeft aanleiding tot terugbetaling van de ten onrechte ontvangen vergoedingen, zodra ze niet meer vatbaar is voor dat beroep of na de beëindiging van het beroep.
+§ 1. De schade aan gewassen, vee, bossen of visserij die wordt veroorzaakt door diersoorten die beschermd zijn krachtens artikel 51, wordt vergoed door het Mina-fonds als voldaan is aan de volgende voorwaarden :<br>
+1° het gaat om belangrijke en aantoonbare schade;<br>
+2° het gaat om schade die redelijkerwijze niet kon worden voorkomen;<br>
+3° er is geen afwijking verleend krachtens artikel 56, 4°, om schade te voorkomen waarvoor vergoeding wordt gevraagd.<br>
+<br>
+Binnen speciale beschermingszones, aangewezen door de Vlaamse Regering met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn, en binnen VEN-gebieden, kan de vergoeding beperkt worden in de tijd.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast om de voorwaarden, vermeld in het eerste lid, te beoordelen, en inzake de beperking van de vergoeding in de tijd, vermeld in het tweede lid.<br>
+<br>
+§ 2. Om aanspraak te kunnen maken op de vergoeding, vermeld in paragraaf 1, dient de schadelijder tijdig een aanvraag in bij een door de Vlaamse Regering aangewezen ambtenaar van het Agentschap voor Natuur en Bos.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop en de termijn waarin de aanvraag moet worden ingediend, en welke gegevens de aanvraag moet bevatten.<br>
+<br>
+§ 3. De ambtenaar, vermeld in paragraaf 2, neemt een beslissing over de aanvraag na een plaatsbezoek en het inwinnen van advies bij één of meerdere door de Vlaamse Regering aangewezen ambtenaren. Indien en in die mate dat de voorwaarden, vermeld in paragraaf 1, zijn vervuld, en op voorwaarde dat de aanvraag tijdig werd ingediend, wordt in die beslissing het bedrag vastgesteld van de schade die op grond van paragraaf 1 recht geeft op vergoeding.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor het onderzoek van de aanvraag en kan bepalen hoe de schade geschat moet worden. Ze bepaalt de wijze waarop en de personen aan wie de beslissing moet worden meegedeeld en welke vermeldingen de beslissing minstens moet bevatten.<br>
+<br>
+§ 4. Tegen de beslissing, vermeld in paragraaf 3, kan de aanvrager beroep indienen bij de minister.<br>
+<br>
+De Vlaamse Regering stelt de nadere regelen voor het beroep vast.<br>
+<br>
+§ 5. De beslissing, vermeld in paragraaf 3, die een bedrag heeft vastgesteld van de schade die op grond van paragraaf 1 recht geeft op vergoeding, en waartegen geen of niet tijdig een beroep werd ingediend, vormt de titel voor de vergoeding door het Mina-fonds.<br>
+<br>
+Als het beroep tijdig wordt ingediend, vormt de ministeriële beslissing, als daarin een bedrag is vastgesteld voor de schade die op grond van § 1 recht geeft op vergoeding, de titel voor de vergoeding door het Mina-fonds.<br>
+<br>
+§ 6. De Vlaamse Regering voorziet, voor de beslissing, vermeld in paragraaf 3, waartegen geen of niet tijdig beroep is ingediend, in een herzieningsprocedure ter verbetering van materiële vergissingen in die beslissing, en ter vernietiging van die beslissing als er bedrog werd gepleegd of de beslissing genomen werd op basis van valse of klaarblijkelijk onjuiste stukken of verklaringen. In geval van vernietiging wordt bij dezelfde beslissing opnieuw uitspraak gedaan over de grond van de zaak.<br>
+<br>
+De beslissing tot vernietiging of verbetering is vatbaar voor hetzelfde beroep als de vernietigde of verbeterde beslissing en vormt de titel voor de vergoeding door het Mina-fonds of geeft aanleiding tot terugbetaling van de ten onrechte ontvangen vergoedingen, zodra ze niet meer vatbaar is voor dat beroep of na de beëindiging van het beroep.
 
 ## HOOFDSTUK VII BEPALINGEN INZAKE NATUUREDUCATIE, DOELGROEPEN, PROVINCIALE, GEMEENTELIJKE EN FUNCTIONEEL GEDECENTRALISEERDE BESTUREN
 
@@ -1343,7 +1382,16 @@ De maatregelen, vermeld in het tweede lid, kunnen alleen ambtshalve worden uitge
 
 ### ART. 54bis.
 
-§ 1. Een bosgroep responsabiliseert en stimuleert in hoofdzaak de   beheerders van terreinen met het oog op het duurzaam invullen van de   ecologische, de economische en/of de sociale functie via het geïntegreerd beheer   in uitvoering van het decreet. <BR>De bosgroep beoogt ook het coördineren van   beheeractiviteiten, een basisdienstverlening ten aanzien van het beheer en de   opmaak van gezamenlijke beheerplannen.<BR><BR>Bij het invullen van hun taken   zoeken de bosgroepen naar optimale afstemming en synergiën met andere actoren,   in het bijzonder met de regionale landschappen.<BR><BR>§ 2. Een bosgroep is een   duurzaam samenwerkingsverband tussen terreinbeheerders. Alle terreinbeheerders   kunnen toetreden tot en gebruik maken van de diensten van een bosgroep. Een   bosgroep heeft het statuut van private rechtspersoonlijkheid, onder de vorm van   een vereniging zonder winstoogmerk.<BR><BR>§ 3. De provincies zijn bevoegd voor   de erkenning, subsidiëring en opvolging van de bosgroepen.<BR><BR>§ 4. Naast   financiële middelen kunnen de provincies ook infrastructuur en personeel ter   beschikking stellen.
+§ 1. Een bosgroep responsabiliseert en stimuleert in hoofdzaak de beheerders van terreinen met het oog op het duurzaam invullen van de ecologische, de economische en/of de sociale functie via het geïntegreerd beheer in uitvoering van het decreet.<br>
+De bosgroep beoogt ook het coördineren van beheeractiviteiten, een basisdienstverlening ten aanzien van het beheer en de opmaak van gezamenlijke beheerplannen.<br>
+<br>
+Bij het invullen van hun taken zoeken de bosgroepen naar optimale afstemming en synergiën met andere actoren, in het bijzonder met de regionale landschappen.<br>
+<br>
+§ 2. Een bosgroep is een duurzaam samenwerkingsverband tussen terreinbeheerders. Alle terreinbeheerders kunnen toetreden tot en gebruik maken van de diensten van een bosgroep. Een bosgroep heeft het statuut van private rechtspersoonlijkheid, onder de vorm van een vereniging zonder winstoogmerk.<br>
+<br>
+§ 3. De provincies zijn bevoegd voor de erkenning, subsidiëring en opvolging van de bosgroepen.&nbsp;De Vlaamse Regering kan in aanvullende subsidiëring voorzien ter ondersteuning van de werking van de bosgroepen als bijdrage aan de realisatie van andere specifieke Vlaamse beleidsdoelstellingen dan de beleidsdoelstellingen, vermeld in paragraaf 1.<br>
+<br>
+§ 4. Naast financiële middelen kunnen de provincies ook infrastructuur en personeel ter beschikking stellen.
 
 ### ART. 55.
 
