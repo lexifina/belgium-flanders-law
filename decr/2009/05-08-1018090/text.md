@@ -268,6 +268,8 @@ Een vergunning kan pas worden overgedragen, inclusief het overdragen dat volgt u
 § 2. Voor de Vlaamse Regering kan overgaan tot intrekking van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande intrekking en de vermelding van een termijn van ten minste negentig dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet&nbsp;en, als het een winningsvergunning voor koolwaterstoffen betreft, met het winningsplan voor koolwaterstoffen.<br>
 <br>
 Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.<br>
+<br>
+De beslissingstermijn, vermeld in het tweede lid, wordt met negentig dagen verlengd als aan de vergunninghouder bijkomende toelichting wordt gevraagd binnen de termijn, vermeld in het tweede lid.<br>
 &nbsp;
 
 ### ART. 22.
@@ -818,7 +820,9 @@ Als de Vlaamse Regering instemt met de overdracht, neemt de nieuwe vergunninghou
 <br>
 § 2. Voor de Vlaamse Regering kan overgaan tot intrekking van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande intrekking en de vermelding van een termijn van ten minste negentig dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet en, als het een winningsvergunning voor aardwarmte betreft, met het winningsplan voor aardwarmte.<br>
 <br>
-Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.
+Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.<br>
+<br>
+De beslissingstermijn, vermeld in het tweede lid, wordt met negentig dagen verlengd als aan de vergunninghouder bijkomende toelichting wordt gevraagd binnen de termijn, vermeld in het tweede lid.
 
 ### ART. 63/19.
 
