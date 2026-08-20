@@ -25,7 +25,7 @@ c) elke andere betekeningswijze die toegelaten is door de Vlaamse Regering, waar
 7° milieueffectrapport, afgekort MER: een geheel van milieu-informatie, ongeacht de drager, waarin, van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven de te verwachten aanzienlijke gevolgen voor mens en milieu in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd. In het milieueffectrapport wordt aangegeven op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden;<br>
 8° onderzoeksfase : de fase waarin een initiatief tot complex project in het licht van het te nemen voorkeursbesluit op zijn effecten wordt onderzocht;<br>
 9° procesverantwoordelijke : de door de bevoegde overheid aangewezen verantwoordelijke voor de formele processtappen tijdens de verkennings-, onderzoeks-, uitwerkings- of uitvoeringsfase van het complexe project;<br>
-10° projectbesluit : het eindbesluit van de bevoegde overheid over een complex project, genomen bij de afronding van de uitwerkingsfase en houdende vaststelling van een op uitvoeringsniveau gekozen alternatief;<br>
+10° projectbesluit : het eindbesluit van de bevoegde overheid over het geheel of over een onderdeel van een complex project, genomen bij de afronding van de uitwerkingsfase en houdende vaststelling van een op uitvoeringsniveau gekozen alternatief;<br>
 11° projectonderzoeksnota : de nota, opgemaakt bij de start van de uitwerkingsfase, ter beschrijving van het complexe project en de in het voorkeursbesluit opgenomen flankerende maatregelen, van de op uitvoeringsniveau redelijkerwijs te onderzoeken alternatieven en van de wijze waarop de effecten van het complexe project, de flankerende maatregelen en de redelijke alternatieven zullen worden onderzocht en beoordeeld;<br>
 12° speciale beschermingszone : een van de volgende gebieden :<br>
 a) een gebied, aangewezen door de Vlaamse Regering met toepassing van artikel 4 van richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand, thans richtlijn 2009/147/EG van het Europees Parlement en de Raad van 30 november 2009 inzake het behoud van de vogelstand (hierna : Vogelrichtlijn), met inbegrip van het gedeelte, vermeld in artikel 75 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, van een zone, als vermeld in artikel 1, § 3, van het besluit van de Vlaamse Regering van 17 oktober 1988 tot aanwijzing van speciale beschermingszones in de zin van artikel 4 van de richtlijn 79/409/EEG van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand;<br>
@@ -222,7 +222,7 @@ Een ontwerp van voorkeursbesluit bevat :<br>
 a) de ruimtelijke beleidsplannen of het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
 b) de voorschriften van plannen van aanleg en van ruimtelijke uitvoeringsplannen;<br>
 8° de monitoringsmaatregelen en, in voorkomend geval, de flankerende maatregelen op het detailleringsniveau van het ontwerp van voorkeursbesluit;<br>
-9° in voorkomend geval, de rechtsgevolgen, vermeld in de artikelen 28, 30, 31 en 34;<br>
+9° in voorkomend geval, een vermelding van de rechtsgevolgen, vermeld in de artikelen 28, 30, 31 en 34;<br>
 10° in voorkomend geval, de aanwijzing van één of meer instrumenten als vermeld in deel 2 van het decreet van 28 maart 2014 betreffende de landinrichting die ingezet zullen worden voor het complexe project, en de hiervoor vereiste inrichtingsnota als vermeld in hetzelfde decreet.
 
 ## Onderafdeling 4 Openbaar onderzoek
@@ -263,9 +263,11 @@ De Vlaamse Regering bepaalt de nadere regels voor de procedure tot heroverweging
 
 <p>Als een passende beoordeling werd gemaakt als vermeld in artikel 9, en gelet op de conclusies van die beoordeling, stelt de bevoegde overheid het voorkeursbesluit pas definitief vast nadat ze de zekerheid heeft verkregen dat het voorkeursbesluit niet zal leiden tot een betekenisvolle aantasting van de natuurlijke kenmerken van de speciale beschermingszone in kwestie.<br>
 <br>
-In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit toch definitief vaststellen, ondanks de negatieve conclusies van de beoordeling van de gevolgen voor het gebied, als er voor de natuurlijke kenmerken van de speciale beschermingszone geen minder schadelijke alternatieve oplossingen zijn en het project om dwingende redenen van groot openbaar belang, met inbegrip van redenen van sociale of economische aard, toch moet worden gerealiseerd. In dat geval worden alle nodige compenserende maatregelen genomen om te waarborgen dat de algehele samenhang van het coherente Europese ecologische netwerk van speciale beschermingszones, Natura 2000 genaamd, bewaard blijft. Die maatregelen impliceren de actieve ontwikkeling van een evenwaardige habitat of het natuurlijk milieu ervan met minstens een gelijkaardige oppervlakte.</p>
-
-<p>Als de speciale beschermingszone in kwestie of het deelgebied ervan een gebied met een prioritair type natuurlijke habitat of een prioritaire soort is, kunnen alleen argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of met effecten die wezenlijk gunstig zijn voor het milieu, dan wel, na advies van de Europese Commissie, andere dwingende redenen van groot openbaar belang worden aangevoerd. Een prioritair type natuurlijke habitat is een type natuurlijke habitat dat met een asterisk gemerkt is in bijlage I van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. Een prioritaire soort is een soort die met een asterisk gemerkt is in bijlage II van het voormelde decreet.</p>
+In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit toch definitief vaststellen, ondanks de negatieve conclusies van de beoordeling van de gevolgen voor het gebied, als er voor de natuurlijke kenmerken van de speciale beschermingszone geen minder schadelijke alternatieve oplossingen zijn en het project om dwingende redenen van groot openbaar belang, met inbegrip van redenen van sociale of economische aard, toch moet worden gerealiseerd. In dat geval worden alle nodige compenserende maatregelen genomen om te waarborgen dat de algehele samenhang van het coherente Europese ecologische netwerk van speciale beschermingszones, Natura 2000 genaamd, bewaard blijft. Die maatregelen impliceren de actieve ontwikkeling van een evenwaardige habitat of het natuurlijk milieu ervan met minstens een gelijkaardige oppervlakte.<br>
+<br>
+Indien het gebied waar de compenserende maatregelen, vermeld in het derde lid, worden genomen, nog geen deel uitmaakt van een speciale beschermingszone, kan de Vlaamse Regering het, in afwijking van artikel 36bis, § 14, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, aanwijzen als een speciale beschermingszone na advies van het Instituut voor Natuur- en Bosonderzoek. Dit besluit neemt zij samen met of aansluitend op de definitieve vaststelling door de bevoegde overheid van het voorkeursbesluit. Het besluit van de Vlaamse Regering waarbij het gebied waar de compenserende maatregelen worden genomen, wordt toegevoegd aan een speciale beschermingszone, bevat de gegevens vermeld in artikel 36bis, § 1, tweede lid, van het voormelde decreet. De bepalingen van artikel 36bis, § 9, tweede tot en met vierde lid, van het voormelde decreet zijn van overeenkomstige toepassing op dit besluit.<br>
+<br>
+Als de speciale beschermingszone in kwestie of het deelgebied ervan een gebied met een prioritair type natuurlijke habitat of een prioritaire soort is, kunnen alleen argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of met effecten die wezenlijk gunstig zijn voor het milieu, dan wel, na advies van de Europese Commissie, andere dwingende redenen van groot openbaar belang worden aangevoerd. Een prioritair type natuurlijke habitat is een type natuurlijke habitat dat met een asterisk gemerkt is in bijlage I van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. Een prioritaire soort is een soort die met een asterisk gemerkt is in bijlage II van het voormelde decreet.</p>
 
 <p>§ 2. Het definitief vastgestelde voorkeursbesluit heeft dezelfde indeling als vermeld in artikel 14, tweede lid.</p>
 
@@ -279,7 +281,7 @@ In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit to
 
 <p>De Vlaamse Regering kan andere wijzen bepalen waarop het publiek op de hoogte wordt gebracht van het definitief vastgestelde voorkeursbesluit.</p>
 
-<p>§ 2. Een afschrift van het definitief vastgestelde voorkeursbesluit wordt gestuurd naar :<br>
+<p>§ 2. Een afschrift van het definitief vastgestelde voorkeursbesluit wordt gestuurd naar de volgende instanties, tenzij die instantie de bevoegde overheid is:<br>
 1° de Vlaamse Regering;<br>
 2° de provincies en de gemeenten waarvan het gebied door het voorkeursbesluit geheel of ten dele wordt bestreken;<br>
 3° de instanties en bevoegde autoriteiten waaraan conform artikel 8, § 2, eerste en derde lid, en artikel 11, § 2, om advies werd verzocht.</p>
@@ -344,7 +346,7 @@ In dit artikel wordt verstaan onder:<br>
 
 <p>Op basis van de conclusies van de effectenonderzoeksrapporten worden een synthesenota en een voorontwerp van projectbesluit opgemaakt.</p>
 
-<p>§2. De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit aan de adviesinstanties, vermeld in artikel 18, §2, die uitgenodigd worden op een adviesvergadering.</p>
+<p>§2. De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit aan de adviesinstanties en in voorkomend geval de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten, vermeld in artikel 18, §2, die uitgenodigd worden op een adviesvergadering.</p>
 
 <p>De bestuursorganen, entiteiten of ambtenaren die gemachtigd zijn om in voorkomend geval de beslissingen, vermeld in artikel 40 en artikel 41 te nemen behoren in elk geval ook tot de adviesinstanties, vermeld in het eerste lid.</p>
 
@@ -387,7 +389,7 @@ b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br
 8/1° &nbsp;&nbsp; &nbsp;in voorkomend geval, stedenbouwkundige verordeningen of overeenkomsten als vermeld in artikel 2.2.5, §2, van de Vlaamse Co-dex Ruimtelijke Ordening;<br>
 9° in voorkomend geval, de acties, maatregelen, voorwaarden, lasten of instrumenten bij het alternatief dat gekozen is op uitvoeringsniveau met inbegrip van een beschrijving van alle kenmerken van het ontwerp van projectbesluit en/of de geplande maatregelen om aanzienlijke nadelige effecten op het milieu te vermijden, te voorkomen of te beperken en, als dat mogelijk is, te compenseren;<br>
 10° de monitoringsmaatregelen en, in voorkomend geval, de flankerende maatregelen op het detailleringsniveau van het ontwerp van projectbesluit;<br>
-11° in voorkomend geval, de rechtsgevolgen, vermeld in de artikelen 30, 31, 32, 33 en 34;<br>
+11° in voorkomend geval, een vermelding van de rechtsgevolgen, vermeld in de artikelen 30, 31, 32, 33 en 34;<br>
 12° in voorkomend geval, de aanwijzing van één of meer instrumenten als vermeld in deel 2 van het decreet van 28 maart 2014 betreffende de landinrichting die ingezet zullen worden voor het complex project, en de hiervoor vereiste inrichtingsnota als vermeld in hetzelfde decreet;<br>
 13° in voorkomend geval, de verschillende fasen van de uitvoering van het projectbesluit en de aanvangsdatum van elke fase.</p>
 
@@ -431,7 +433,7 @@ b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br
 
 <p>De bevoegde overheid, vermeld in artikel 6, stelt het projectbesluit definitief vast.</p>
 
-<p>De bepalingen van artikel 16, § 1, tweede tot en met vierde lid, zijn van overeenkomstige toepassing bij de beslissing over de definitieve vaststelling van het projectbesluit.</p>
+<p>De bepalingen van artikel 16, § 1, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing bij de beslissing over de definitieve vaststelling van het projectbesluit.</p>
 
 <p>Het definitief vastgestelde projectbesluit heeft dezelfde indeling als vermeld in artikel 23, derde lid en bevat bovendien een gemotiveerde conclusie over de aanzienlijke effecten van het project op het milieu. Bij het nemen van de gemotiveerde conclusie wordt rekening gehouden met de beslissing over de goedkeuring van het MER van het Vlaams expertisecentrum m.e.r., en met de adviezen en de inspraak in het kader van het projectbesluit.</p>
 
@@ -447,7 +449,7 @@ b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br
 
 <p>De Vlaamse Regering kan andere wijzen bepalen waarop het publiek op de hoogte wordt gebracht van het definitief vastgestelde projectbesluit.</p>
 
-<p>§ 2. Een afschrift van het definitief vastgestelde projectbesluit wordt gestuurd naar :<br>
+<p>§ 2. Een afschrift van het definitief vastgestelde projectbesluit wordt gestuurd naar de volgende instanties, tenzij die instantie de bevoegde overheid is:<br>
 1° de Vlaamse Regering;<br>
 2° de provincies en de gemeenten waarvan het gebied door het projectbesluit geheel of ten dele wordt bestreken;<br>
 3° de instanties en bevoegde autoriteiten waaraan conform artikel 18, § 2, en artikel 21, § 2, om advies werd verzocht.</p>
@@ -466,7 +468,11 @@ Het voorkeursbesluit kan een bouwverbod of bouwbeperkingen inhouden. Deze   word
 
 ### ART. 29.
 
-Een vergunning, machtiging of toestemming kan worden geweigerd als de   aanvraag onverenigbaar is met het voorkeursbesluit. In de gebieden waar met   toepassing van artikel 28 een bouwverbod of bouwbeperkingen opgelegd zijn, wordt   een vergunning, machtiging of toestemming geweigerd als het aangevraagde valt   onder dit verbod of deze beperkingen.<BR>
+Een vergunning, machtiging of toestemming kan worden geweigerd als de aanvraag onverenigbaar is met het voorkeursbesluit of het ontwerp projectbesluit. In de gebieden waar met toepassing van artikel 28 een bouwverbod of bouwbeperkingen opgelegd zijn, wordt een vergunning, machtiging of toestemming geweigerd als het aangevraagde valt onder dit verbod of deze beperkingen.<br>
+<br>
+Als het projectbesluit een herkenbaar onderdeel bevat dat conform artikel 23 geldt als ruimtelijk uitvoeringsplan, kan in een omgevingsvergunning worden afgeweken van stedenbouwkundige voorschriften, zodra het vergunningverlenende bestuursorgaan kennis heeft van de resultaten van het openbaar onderzoek met betrekking tot het ontwerp van projectbesluit waarmee de aangevraagde handelingen verenigbaar zijn, voor zover:<br>
+1° het ontwerp van projectbesluit de bestaande stedenbouwkundige voorschriften vervangt of van rechtswege opheft;<br>
+2° de Vlaamse Regering of de deputatie geen strijdigheid vaststelt van het ontwerp van projectbesluit met hogere plannen of andere normen.
 
 ### ART. 30.
 
@@ -546,11 +552,11 @@ Het definitief vastgestelde projectbesluit wordt in voorkomend geval van rechtsw
 3° ...<br>
 4° de vergunningen, de machtigingen en toelatingen, vermeld in de wet van 7 augustus 1931 op het behoud van monumenten en landschappen, het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 5° de conformiteitsattesten, vermeld in artikel 50 en 58 van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
-6° de machtigingen, vermeld in artikel 12, 14 en 23 van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
+6° de machtigingen, vermeld in artikel 12 en 23ter van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 7° de machtigingen, vermeld in artikel 4.3.8, § 1, derde lid, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-8° de vergunningen, machtigingen of afwijkingen, verleend bij of krachtens het Bosdecreet van 13 juni 1990, behoudens die vermeld in artikel 90bis, § 1, laatste lid;<br>
+8° de vergunningen, machtigingen of afwijkingen, verleend bij of krachtens het Bosdecreet van 13 juni 1990, behoudens die vermeld in artikel 90bis, § 1, derde lid;<br>
 9° de machtiging, vermeld in artikel 89 van het koninklijk besluit van 15 oktober 1935 houdende Algemeen reglement der scheepvaartwegen van het Koninkrijk;<br>
-10° de afwijkingen, vermeld in artikel 4 en 5 van het besluit van de Vlaam-se Regering van 25 januari 2019 betreffende de vrije stroken langs au-tosnelwegen;;<br>
+10° de afwijkingen, vermeld in artikel 4, § 2, van de wet van 12 juli 1956 tot vaststelling van het statuut der autosnelwegen, en vermeld in artikel 4 en 5 van het besluit van de Vlaamse Regering van 25 januari 2019 betreffende de vrije stroken langs autosnelwegen;;<br>
 11° de toestemmingen of machtigingen, verleend bij of krachtens het decreet van 16 april 1996 betreffende de waterkeringen.</p>
 
 <p>Het definitief vastgestelde projectbesluit geeft aan als welk van die beslissingen het geldt.</p>
