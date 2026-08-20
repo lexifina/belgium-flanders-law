@@ -96,7 +96,7 @@ De Vlaamse Regering kan nadere regels vaststellen voor het schaderamingsrapport,
 4° de berekening van de eigenaarsvergoeding, vermeld in artikel 14 van het Instrumentendecreet van 26 mei 2023;<br>
 5° de berekening van de gebruikersvergoeding, vermeld in artikel 17 van het Instrumentendecreet van 26 mei 2023;<br>
 6° het opmaken van een meerwaarderapport als vermeld in artikel 2.6.10, §2, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-7° het opmaken van een meerwaarderamingsrapport als vermeld in artikel 2.6.10, §2/1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
+7° ...<br>
 <br>
 De te verwerken informatie omvat met name de volgende categorieën van persoonsgegevens:<br>
 1° identificatiegegevens van de aanvragers of begunstigden of van de heffingsplichtige, vermeld in artikel 2.6.8 van de Vlaamse Codex Ruimtelijke Ordening, waaronder het Rijksregisternummer en, in voorkomend geval, het BIS-nummer;<br>
@@ -130,7 +130,32 @@ De landcommissie deelt de informatie, met inbegrip van persoonsgegevens, die ze 
 4° in voorkomend geval, de adviesverleners;<br>
 5° het agentschap, vermeld in artikel 7, §1;<br>
 6° de heffingsplichtige, vermeld in artikel 2.6.8 van de Vlaamse Codex Ruimtelijke Ordening;<br>
-7° de Vlaamse Belastingdienst, met het oog op de inkohiering en invordering van de planbatenheffing, vermeld in artikel 2.6.13 van de Vlaamse Codex Ruimtelijke Ordening.
+7° de Vlaamse Belastingdienst, met het oog op de inkohiering en invordering van de planbatenheffing, vermeld in artikel 2.6.13 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+§ 4. Voor de uitvoering van de taken van algemeen belang die het Instrumentendecreet van 26 mei 2023 en de uitvoeringsbesluiten ervan aan de initiatiefnemer opdragen in het kader van de planschadevergoeding, vermeld in artikel 6, 1°, van het Instrumentendecreet van 26 mei 2023, verwerkt de initiatiefnemer de informatie, met inbegrip van de persoonsgegevens, die daartoe noodzakelijk is. De initiatiefnemer doet dat als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming. Onder algemene verordening gegevensbescherming wordt verstaan:<br>
+verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). Dat houdt met name in dat de initiatiefnemer belast is met de opvolging van de aanvragen van de planschadevergoeding, met inbegrip van het bezorgen van het dossier aan de bevoegde landcommissie voor de opmaak van het schaderapport, de behandeling van de bezwaren of de vragen van de betrokkenen om gehoord te worden tot het nemen van de beslissing tot toekenning of weigering van de planschadevergoeding.<br>
+&nbsp;<br>
+De te verwerken informatie omvat met name de volgende categorieën van persoonsgegevens:<br>
+1° de identificatiegegevens van de aanvragers of begunstigden, waaronder het rijksregisternummer en, in voorkomend geval, het BIS-nummer;<br>
+2° gegevens in verband met de onroerende goederen en de percelen in verband waarmee een vergoeding wordt gevraagd, waaronder kadastrale gegevens, gegevens over erfdienstbaarheden en de verwervingswaarde;<br>
+3° gegevens in verband met persoonlijke en zakelijke rechten;<br>
+4° gegevens in verband met vergunningen en stedenbouwkundige inlichtingen;<br>
+5° gegevens die een invloed kunnen hebben op de waarde van onroerende goederen zoals de aanwezigheid van verontreiniging.<br>
+&nbsp;<br>
+De initiatiefnemer voert de taken, vermeld in het eerste lid, uit op basis van de inlichtingen die de aanvrager, de landcommissies of andere overheden verstrekken en die ze rechtstreeks inzamelen bij de instantie of persoon die erover beschikt.<br>
+&nbsp;<br>
+De gegevens die bij de aanvraag moeten worden gevoegd of die de aanvrager moet verstrekken op verzoek van een initiatiefnemer, worden rechtstreeks bij de aanvrager opgevraagd.<br>
+&nbsp;<br>
+Daarnaast kan de initiatiefnemer voor de uitoefening van zijn taken, vermeld in het eerste lid, als dat noodzakelijk is, informatie, waaronder persoonsgegevens, opvragen bij andere overheden of instanties die daarover beschikken, op voorwaarde dat de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens wordt nageleefd die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd. De persoonsgegevens die op die manier worden verkregen, en ook de instanties of overheden die de persoonsgegevens verstrekken, worden nader bepaald door de Vlaamse Regering, na advies van de bevoegde toezichthoudende autoriteit voor de verwerking van persoonsgegevens.<br>
+&nbsp;<br>
+De initiatiefnemer deelt de informatie, met inbegrip van de persoonsgegevens, die hij in het kader van dit decreet verwerkt, volgens de voorwaarden die in dit decreet zijn opgenomen, mee aan:<br>
+1° de betrokkene;<br>
+2° de aanvrager;<br>
+3° de landcommissie;<br>
+4° in voorkomend geval, de adviesverleners;<br>
+5° het agentschap, vermeld in artikel 7, § 1.<br>
+<br>
+De initiatiefnemer bewaart de persoonsgegevens conform artikel III.87, § 1/1, vierde lid, 8°, van het Bestuursdecreet van 7 december 2018.
 
 ### ART 8.
 
