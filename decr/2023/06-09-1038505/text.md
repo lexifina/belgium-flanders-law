@@ -31,7 +31,7 @@ In dit decreet wordt verstaan onder:<br>
 17° Natuurdecreet: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 18° natuurkern: een gebied als vermeld in artikel 4, §1, derde lid;<br>
 19° operationeel plan: een operationeel plan als vermeld in artikel 9;<br>
-20° parkbureau: een rechtspersoon zonder winstuitkeringsoogmerk aan wie het management van een Vlaams Park is toegewezen, vermeld in artikel 12;<br>
+20° parkbureau: een nieuwe of bestaande rechtspersoon zonder winstuitkeringsoogmerk waaraan het management van een Vlaams Park is toegewezen, vermeld in artikel 12;<br>
 21° parknota: de nota ingediend door een gebiedscoalitie waarin de kandidatuur van een Vlaams Park en de samenstelling van het parkbureau worden beschreven;<br>
 22° regionaal landschap: een private vereniging zonder winstuitkeringsoogmerk gericht op algemene landschapszorg tussen maatschappelijke en bestuurlijke actoren;<br>
 23° Vlaams Park: een Nationaal Park Vlaanderen of een Landschapspark;<br>
@@ -146,13 +146,13 @@ De Vlaamse Regering kan voor een Vlaams Park dat gewestgrensoverschrijdend is af
 <br>
 Een parkbureau kan de rechtshandelingen stellen die rechtstreeks bijdragen tot de vervulling van zijn opdrachten en de verwezenlijking van de doelstellingen van een Vlaams Park waarvan het management aan hem werden toegekend.<br>
 <br>
-De lokale overheden zijn gemachtigd om deel te nemen aan de oprichting van een parkbureau en lid te worden van de algemene vergadering ervan. De gemeenteraad van het betrokken lokaal bestuur geeft zijn akkoord voor de toetreding van de gemeente tot het parkbureau.<br>
+De lokale overheden zijn gemachtigd om deel te nemen aan de oprichting van een parkbureau en lid te worden van het bestuursorgaan ervan. De gemeenteraad van het betrokken lokaal bestuur geeft zijn akkoord voor de toetreding van de gemeente tot het parkbureau.<br>
 <br>
 In geval van een grensoverschrijdend Vlaams Park kunnen instanties met zetel buiten het Vlaamse Gewest deelnemen aan de oprichting en lid worden van het bestuursorgaan.<br>
 <br>
 §2. Het bestuursorgaan van het parkbureau is evenwichtig minstens samengesteld uit:<br>
-1° voor de helft leden die worden benoemd op individuele of gezamenlijke voordracht van de gemeenten op wier grondgebied het park gelegen is; de voorgedragen leden dienen gemeenteraadslid te zijn;<br>
-&nbsp;2° leden die zijn benoemd op individuele of gezamenlijke voordracht van de publieke of particuliere beheerders met een terrein gelegen in het Vlaams Park waaronder landbouworganisaties, natuurorganisaties, erfgoedverenigingen, streekverenigingen, private eigenaars enzovoort op voorwaarde dat zij het beheer van hun terrein hebben afgestemd op de doelstellingen van het Vlaams Park;<br>
+1° voor de helft leden die worden benoemd op individuele of gezamenlijke voordracht van de gemeenten op wier grondgebied het park gelegen is; de voorgedragen leden dienen gemeenteraadslid te zijn of hebben, in het kader van een grensoverschrijdend Vlaams Park, een functie die daarmee gelijkgesteld kan worden;<br>
+2° leden die zijn benoemd op individuele of gezamenlijke voordracht van de publieke of particuliere beheerders met een terrein gelegen in het Vlaams Park waaronder landbouworganisaties, natuurorganisaties, erfgoedverenigingen, streekverenigingen, private eigenaars enzovoort op voorwaarde dat zij het beheer van hun terrein hebben afgestemd op de doelstellingen van het Vlaams Park;<br>
 3° actoren wier medewerking nuttig is voor de realisatie van de doelstellingen van het Vlaams Park.<br>
 <br>
 Elk lid kan overeenkomstig de statuten van het parkbureau beslissen uit het bestuursorgaan van het parkbureau te stappen. Een wijziging van de samenstelling van het parkbureau wordt verwerkt in een wijziging van het masterplan of operationeel plan, vermeld in artikel 11.<br>
