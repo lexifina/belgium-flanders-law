@@ -2,16 +2,16 @@
   "codex_id": 1023233,
   "title": "Decreet van 2013-06-28 betreffende het landbouw- en visserijbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023233/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "b6643f4d80b8218011048aed94e0fdc7dacc58853b37c111df92c52dd703a7cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023233/VolledigDocument?datum=2026-08-20",
+  "source_sha256": "f8b7ff7d8e529183b2e2b89538fdc3bfd503185e22e53337ce8028a39d75ed66",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023233&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2026-08-20",
   "made": "2013-06-28",
   "gazette": "2013-09-12",
   "numac": 2013204905,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2024-04-01",
+  "in_force": "2026-08-20",
   "article_versions": 94,
-  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-08-20; future article versions excluded; article text as the API gives it"
 }

@@ -95,7 +95,7 @@ De Vlaamse Regering kan alle verplichtingen uitvoeren die voortvloeien uit de to
 
 <p>§ 1. De gegevens die binnen het toepassingsgebied, vermeld in artikel 3, aan een entiteit van&nbsp;het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, worden verstrekt, kunnen aan de andere entiteiten van het beleidsdomein ter beschikking worden gesteld als die terbeschikkingstelling aansluit bij het toepassingsgebied, vermeld in artikel 3.</p>
 
-<p>Binnen binnen het beleidsdomein, vermeld in het eerste lid, kunnen gegevens uitgewisseld worden voor de volgende doeleinden :<br>
+<p>Binnen het beleidsdomein, vermeld in het eerste lid, kunnen gegevens uitgewisseld worden voor de volgende doeleinden :<br>
 1° studie en analyse in het kader van wetenschappelijk onderzoek;<br>
 2° studie en analyse in het kader van beleidsvoorbereiding;<br>
 3° studie en analyse in het kader van beleidsondersteuning;<br>
@@ -149,7 +149,8 @@ De verwerkte persoonsgegevens kunnen de volgende categorieën van gegevens betre
 7° gegevens over persoonlijke kenmerken;<br>
 8° gerechtelijke gegevens;<br>
 9° gegevens over de gezinssamenstelling;<br>
-10° gegevens over de controle door controleorganen en onderzoeken die uitgevoerd zijn door aangewezen en erkende laboratoria.<br>
+10° gegevens over de controle door controleorganen en onderzoeken die uitgevoerd zijn door aangewezen en erkende laboratoria;<br>
+11° bedrijfsgegevens.<br>
 <br>
 Voor de identificatie van natuurlijke personen worden de volgende gegevens verwerkt:<br>
 1° het rijksregisternummer, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister is opgenomen;<br>
@@ -375,7 +376,43 @@ De Vlaamse Regering kan met het oog op het vrijwaren van de   concurrentiekracht
 
 ### ART. 29.
 
-<P>§ 1. De Vlaamse Regering kan voor de activiteiten, vermeld in artikel 3, § 1,   en voor de producten die het resultaat zijn van die activiteiten, de voorwaarden   bepalen waaronder : <BR>1° representatieve professionele organisaties,   producentenorganisaties, unies van producentenorganisaties,   producentengroeperingen, brancheorganisaties, interprofessionele organisaties en   organisaties van marktdeelnemers erkend worden, waarin uitsluitend of   niet-uitsluitend producenten, kopers, verwerkers of verdelers van bepaalde   producten of grondstoffen vertegenwoordigd zijn;<BR>2° de overeenkomsten   goedgekeurd worden die de representatieve professionele organisaties,   producentenorganisaties, unies van producentenorganisaties,   producentengroeperingen, brancheorganisaties, interprofessionele organisaties en   organisaties van marktdeelnemers vaststellen;<BR>3° aan de aangesloten leden of   andere vertegenwoordigers uit het bedrijfsleven in kwestie opgelegd wordt om een   bedrag te betalen aan representatieve professionele organisaties,   producentenorganisaties, unies van producentenorganisaties,   producentengroeperingen, brancheorganisaties, interprofessionele organisaties en   organisaties van marktdeelnemers voor de administratieve of andere kosten die   gemaakt zijn voor de uitvoering van de opdracht van de organisaties of voor de   financiering van een deelname in het kapitaal van ondernemingen van de sector in   kwestie. Voor de suikersector kunnen die kosten betaald worden in de vorm van   afhoudingen, verricht door de suikerfabrikanten op de betalingen van de   bieten;<BR>4° de partijen in onderling overleg een minnelijke oplossing kunnen   zoeken bij een geschil tussen diverse schakels in de keten en welke bijstand hen   hierbij kan verleend worden.<BR></P>  <P>§ 2. De erkende representatieve professionele organisaties,   producentenorganisaties, unies van producentenorganisaties,   producentengroeperingen, brancheorganisaties, interprofessionele organisaties en   organisaties van marktdeelnemers, vermeld in paragraaf 1, onderwerpen zich aan   het toezicht op hun boekhouding, structuren, activiteiten en doelstellingen,   alsook aan het toezicht op de toepassing van de goedgekeurde overeenkomsten van   het bedrijfsleven en gemeenschappelijke regels.<BR></P>  <P>De Vlaamse Regering bepaalt wie het toezicht, vermeld in het eerste lid,   uitoefent.<BR></P>  <P>§ 3. De overeenkomsten, vermeld in paragraaf 1, 2°, kunnen algemeen   verbindend verklaard worden onder de voorwaarden, bepaald door de Vlaamse   Regering.<BR></P>
+<p>§ 1. De Vlaamse Regering kan voor de activiteiten, vermeld in artikel 3, § 1, en voor de producten die het resultaat zijn van die activiteiten, de voorwaarden bepalen waaronder :<br>
+1° representatieve professionele organisaties, producentenorganisaties, unies van producentenorganisaties, producentengroeperingen, brancheorganisaties, interprofessionele organisaties en organisaties van marktdeelnemers erkend worden, waarin uitsluitend of niet-uitsluitend producenten, kopers, verwerkers of verdelers van bepaalde producten of grondstoffen vertegenwoordigd zijn;<br>
+2° de overeenkomsten goedgekeurd worden die de representatieve professionele organisaties, producentenorganisaties, unies van producentenorganisaties, producentengroeperingen, brancheorganisaties, interprofessionele organisaties en organisaties van marktdeelnemers vaststellen;<br>
+3° aan de aangesloten leden of andere vertegenwoordigers uit het bedrijfsleven in kwestie opgelegd wordt om een bedrag te betalen aan representatieve professionele organisaties, producentenorganisaties, unies van producentenorganisaties, producentengroeperingen, brancheorganisaties, interprofessionele organisaties en organisaties van marktdeelnemers voor de administratieve of andere kosten die gemaakt zijn voor de uitvoering van de opdracht van de organisaties of voor de financiering van een deelname in het kapitaal van ondernemingen van de sector in kwestie. Voor de suikersector kunnen die kosten betaald worden in de vorm van afhoudingen, verricht door de suikerfabrikanten op de betalingen van de bieten;<br>
+4° de partijen in onderling overleg een minnelijke oplossing kunnen zoeken bij een geschil tussen diverse schakels in de keten en welke bijstand hen hierbij kan verleend worden.</p>
+
+<p>§ 2. De erkende representatieve professionele organisaties, producentenorganisaties, unies van producentenorganisaties, producentengroeperingen, brancheorganisaties, interprofessionele organisaties en organisaties van marktdeelnemers, vermeld in paragraaf 1, onderwerpen zich aan het toezicht op hun boekhouding, structuren, activiteiten en doelstellingen, alsook aan het toezicht op de toepassing van de goedgekeurde overeenkomsten van het bedrijfsleven en gemeenschappelijke regels.</p>
+
+<p>De Vlaamse Regering bepaalt wie het toezicht, vermeld in het eerste lid, uitoefent.</p>
+
+<p>§ 3. De overeenkomsten, vermeld in paragraaf 1, 2°, kunnen algemeen verbindend verklaard worden onder de voorwaarden, bepaald door de Vlaamse Regering.<br>
+<br>
+§ 4. Representatieve unies van producentenorganisaties en brancheorganisaties kunnen op uitdrukkelijk verzoek persoonsgegevens van de marktdeelnemers binnen het toepassingsgebied waarvoor de desbetreffende organisatie een erkenning heeft gekregen of andere vertegenwoordigers uit het bedrijfsleven in kwestie bij de bevoegde entiteit opvragen om het bedrag, vermeld in paragraaf 1, 3°, te kunnen innen, of de algemeen verbindend verklaarde overeenkomsten, vermeld in paragraaf 3, te kunnen uitvoeren.<br>
+<br>
+Representatieve producentenorganisaties kunnen op uitdrukkelijk verzoek persoonsgegevens van de aangesloten leden of andere vertegenwoordigers uit het bedrijfsleven in kwestie bij de bevoegde entiteit opvragen om het bedrag, vermeld in paragraaf 1, 3°, te kunnen innen, of de algemeen verbindend verklaarde overeenkomsten, vermeld in paragraaf 3, te kunnen uitvoeren. In dat laatste geval kunnen ook de persoonsgegevens van de niet-aangesloten leden worden opgevraagd.<br>
+<br>
+Voor de doelen, vermeld in het eerste en tweede lid, treden de representatieve producentenorganisaties, unies van producentenorganisaties en brancheorganisaties op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De categorieën van de betrokken personen van wie gegevens kunnen worden verwerkt, zijn:<br>
+1° natuurlijke personen of groeperingen daarvan, rechtspersonen of groeperingen daarvan, die activiteiten verrichten of laten verrichten als vermeld in artikel 3;<br>
+2° de wettelijk verantwoordelijken, aangestelden of vertegenwoordigers van de actoren, vermeld in punt 1°.<br>
+<br>
+De categorieën van persoonsgegevens die kunnen worden verwerkt, zijn:<br>
+1° de identificatiegegevens, vermeld in artikel 7, § 5, tweede lid, 1° ;<br>
+2° de bedrijfsgegevens, vermeld in artikel 7, § 5, tweede lid, 11°.<br>
+<br>
+Alleen de personeelsleden, aangestelden of vertegenwoordigers van de betrokken organisaties of de dienstverleners waarmee de betrokken organisaties een verwerkingsovereenkomst afsloten, die belast zijn met de inning van de bedragen, vermeld in paragraaf 1, 3°, en de uitvoering van de overeenkomsten, vermeld in paragraaf 3, krijgen toegang tot de gegevens.<br>
+<br>
+De gegevens mogen niet langer bewaard worden dan noodzakelijk is voor de verwerking ervan, met een maximale bewaartermijn van tien jaar.<br>
+<br>
+De betrokken organisaties verwerken de gegevens overeenkomstig verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De betrokken organisaties nemen overeenkomstig artikel 12 van de algemene verordening gegevensbescherming passende maatregelen om de betrokkenen te informeren over de verwerking van hun persoonsgegevens conform artikel 13 en 14 van de voormelde verordening en informeren de betrokkenen over de rechten, vermeld in artikel 15 tot en met 22 en artikel 34 van de voormelde verordening.<br>
+<br>
+De betrokken organisaties nemen overeenkomstig artikel 32 van de algemene verordening gegevensbescherming, passende en technische en organisatorische maatregelen om een beveiligingsniveau te waarborgen dat conform het risico is afgestemd, zodat de persoonsgegevens onder meer beschermd zijn tegen ongeoorloofde of onrechtmatige verwerking en tegen onopzettelijk verlies, vernietiging of beschadiging.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden bepalen voor de aanvraag en de mededeling van de persoonsgegevens.</p>
 
 ### ART. 30.
 
