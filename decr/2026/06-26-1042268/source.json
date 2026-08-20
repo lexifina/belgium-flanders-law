@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042268,
+  "title": "Decreet van 2026-06-26 houdende diverse bepalingen inzake omgeving, leefmilieu en natuur, ruimtelijke ordening en landbouw",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042268/VolledigDocument?datum=2026-08-20",
+  "source_sha256": "29ae0a8f00e064c948356a72104a4b69cd38fd72ca4fc8265e8b590ba6bab8d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042268&param=informatie",
+  "as_of": "2026-08-20",
+  "made": "2026-06-26",
+  "gazette": "2026-08-10",
+  "numac": 2026005973,
+  "document_start": "2026-08-20",
+  "document_end": null,
+  "in_force": "2026-08-20",
+  "article_versions": 118,
+  "record_form": "consolidated version as in force on 2026-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
