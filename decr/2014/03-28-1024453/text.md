@@ -45,7 +45,11 @@ Dit decreet heeft tot doel de afstemming en de toepassing op   geïntegreerde wi
 
 ### ART. 1.2.1.
 
-<P>De   Vlaamse Regering stelt nadere regels vast voor de betaling van werkingsmiddelen   aan het agentschap voor wat haar taken ingevolge de uitvoering van dit decreet   betreft.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan de voorbereiding of de uitvoering van een landinrichtingsproject   of een inrichting voor een project, plan of programma   prefinancieren.</P>
+<p>De Vlaamse Regering stelt nadere regels vast voor de betaling van werkingsmiddelen aan het agentschap voor wat haar taken ingevolge de uitvoering van dit decreet betreft.</p>
+
+<p>Het agentschap kan de voorbereiding of de uitvoering van een landinrichtingsproject of een inrichting voor een project, plan of programma prefinancieren.<br>
+<br>
+Het agentschap kan gebruik maken van een toegewezen toelage om de uitvoering van werkings- en investeringskosten ingevolge de uitvoering van dit decreet, te financieren.</p>
 
 ## Deel 2. Bepalingen met betrekking tot de instrumenten en de organisatie
 
@@ -544,7 +548,7 @@ De landcommissies vervullen de opdrachten die de Vlaamse Codex Ruimtelijke Orden
 4° de berekening van de eigenaarsvergoeding, vermeld in artikel 14 van het Instrumentendecreet van 26 mei 2023;<br>
 5° de berekening van de gebruikersvergoeding, vermeld in artikel 17 van het Instrumentendecreet van 26 mei 2023;<br>
 6° het opmaken van een meerwaarderapport als vermeld in artikel 2.6.10, § 2, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-7° het opmaken van een meerwaarderamingsrapport als vermeld in artikel 2.6.10, § 2/1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
+7° ...<br>
 <br>
 De landcommissies vervullen de opdrachten die het decreet van 26 januari 2024 over de programmatische aanpak stikstof aan die commissies heeft opgedragen in het kader van het flankerend beleid bij de programmatische aanpak stikstof.</p>
 
