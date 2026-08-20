@@ -107,6 +107,16 @@ Een Vlaams voorkooprecht is op het te verkopen onroerend goed van toepassing, oo
 
 Een perceel waarop een Vlaams voorkooprecht is toegekend en bekendgemaakt, kan slechts worden verkocht nadat aan de begunstigden van het voorkooprecht de gelegenheid is gegeven om hun voorkooprecht uit te oefenen.<br /><br />Het e-voorkooploket is het unieke instrument waarmee volgens de hierna beschreven procedure :<br />1° elk, reeds ingevoerd of nog in te voeren, Vlaams voorkooprecht, ingeval van verkoop uit de hand, wordt aangeboden en uitgeoefend;<br />2° elke openbare verkoop waarop een reeds ingevoerd of nog in te voeren, Vlaams voorkooprecht van toepassing is, wordt gemeld.<br /><br />Alle kennisgevingen met betrekking tot Vlaamse voorkooprechten door middel van het e-voorkooploket gebeuren langs elektronische weg en worden bevestigd door een elektronische handtekening of een gekwalificeerd certificaat.<br /><br />De datum van de kennisgeving is de datum waarop het e-voorkooploket de aanbieding van het Vlaams voorkooprecht ontvangt.<br />
 
+### ART 11/1.
+
+De begunstigde vraagt bij de instrumenterende ambtenaar de naam en het adres van de verkoper of kandidaat-koper op als voldaan is aan al de volgende voorwaarden:<br>
+1° de begunstigde aanvaardt het aanbod conform artikel 13, eerste lid, artikel 14/1, § 2, tweede lid, of artikel 14/2, tweede lid;<br>
+2° de begunstigde is een overheidsinstantie in de zin van artikel II.18 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+Bij een openbare verkoop als vermeld in hoofdstuk V, afdeling 3, is de kandidaat-koper, vermeld in het eerste lid, de hoogst aanvaarde bieder aan wie het onroerend goed zou worden toegewezen conform artikel 14/1, § 2, vierde lid, of artikel 14/2, vijfde lid, als het voorkooprecht niet werd uitgeoefend.<br>
+<br>
+Binnen vijf werkdagen na de ontvangst van de vraag, vermeld in het eerste lid, bezorgt de instrumenterende ambtenaar de naam en het adres van de verkoper en de kandidaat-koper op digitale wijze of op papier aan de begunstigde.
+
 ## [Afdeling 2 Verkoop uit de hand (ing. decr. 21 december 2018, art. 4, I: 1 september 2018)]
 
 ### ART. 12.
