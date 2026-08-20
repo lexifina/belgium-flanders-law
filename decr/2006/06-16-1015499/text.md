@@ -143,12 +143,7 @@ De Vlaamse Grondenbank kan, overeenkomstig artikel 10, verwerven via een onderha
 
 ### ART. 14.
 
-§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving, vermeld in artikel 13, tot de overdracht, vermeld in artikel 15. Op verzoek van een administratieve overheid van het Vlaamse Gewest, kan de Vlaamse Grondenbank ook de onroerende goederen beheren waarop de administratieve overheid zakelijke rechten heeft.<br>
-<br>
-In het kader van het beheer, vermeld in het eerste lid, en in afwachting dat de goederen worden overgedragen, kunnen de onroerende goederen die vrij van gebruik zijn, in voorkomend geval na akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na één jaar maar die hernieuwd kan worden. Die verpachtingen zijn niet onderworpen aan de bepalingen van het Vlaams Pachtdecreet van 13 oktober 2023.<br>
-<br>
-§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br>
-&nbsp;
+De Vlaamse Grondenbank beheert de zakelijke rechten die ze in eigen naam en voor eigen rekening verworven heeft, vanaf de verwerving, vermeld in artikel 13 van dit decreet, tot de overdracht, vermeld in artikel 15 van dit decreet. De verworven zakelijke rechten die vrij van gebruik zijn, kunnen, in voorkomend geval na akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, door de Vlaamse Grondenbank in tijdelijk gebruik worden gegeven met een overeenkomst waarvan de looptijd tussen de Vlaamse Grondenbank en de gebruiker bedongen wordt. De overeenkomst mag maximaal een duur van vijf jaar hebben. De overeenkomst verstrijkt van rechtswege nadat de bedongen looptijd is beëindigd. De overeenkomst is niet onderworpen aan de regels voor de pacht, vermeld in het Vlaams Pachtdecreet van 13 oktober 2023.
 
 ## HOOFDSTUK IV OVERDRAGEN
 
