@@ -8,6 +8,10 @@
 
 ...
 
+### ART 187.
+
+...
+
 ### ART 203.
 
 In artikel 9, §2, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
