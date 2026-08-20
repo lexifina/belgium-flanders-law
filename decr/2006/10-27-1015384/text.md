@@ -1522,11 +1522,19 @@ Bij het beroepschrift worden, op straffe van onontvankelijkheid, de   volgende d
 
 ### ART. 149.
 
-Binnen een termijn van veertien dagen na ontvangst van het beroep, wordt de indiener van het beroep door de Vlaamse Regering of de daartoe gemachtigde ambtenaar bij aangetekende brief in kennis gesteld over de ontvankelijkheid van het beroep.<br /><br />
+Binnen een termijn van veertien dagen na ontvangst van het beroep, wordt de indiener van het beroep door de Vlaamse Regering of de daartoe gemachtigde ambtenaar in kennis gesteld over de ontvankelijkheid van het beroep.<br>
+&nbsp;
 
 ### ART. 150.
 
-§ 1. Het administratief beroep, vermeld in artikel 146, beperkt zich tot   een marginale toetsing waarbij de Vlaamse Regering uitspraak doet over de   manifeste onredelijkheid van de bestreden beslissing van de OVAM.<BR><BR>§ 2.   Binnen een termijn van negentig dagen na de verzendingsdatum van de kennisgeving   van het ontvankelijk beroep, doet de Vlaamse Regering uitspraak over het beroep.   De beslissing van de Vlaamse Regering wordt binnen tien dagen na datum van deze   beslissing bij aangetekende brief ter kennis gebracht van alle personen en   overheidsorganen die in kennis werden gesteld van het ontvankelijk   beroep.<BR><BR>§ 3. Als de uitspraak over het ingediende beroep en de   kennisgeving ervan niet gebeurt binnen de termijn, vermeld in § 2, wordt het   beroep geacht verworpen te zijn.<BR><BR>§ 4. De uitspraak wordt op de wijze,   vastgesteld krachtens artikel 51, bekendgemaakt.<BR><BR>
+§ 1. Het administratief beroep, vermeld in artikel 146, beperkt zich tot een marginale toetsing waarbij de Vlaamse Regering uitspraak doet over de manifeste onredelijkheid van de bestreden beslissing van de OVAM.<br>
+<br>
+§ 2. Binnen een termijn van negentig dagen na de verzendingsdatum van de kennisgeving van het ontvankelijk beroep, doet de Vlaamse Regering uitspraak over het beroep. De beslissing van de Vlaamse Regering wordt binnen tien dagen na datum van deze beslissing ter kennis gebracht van alle personen en overheidsorganen die in kennis werden gesteld van het ontvankelijk beroep.<br>
+<br>
+§ 3. Als de uitspraak over het ingediende beroep en de kennisgeving ervan niet gebeurt binnen de termijn, vermeld in § 2, wordt het beroep geacht verworpen te zijn.<br>
+<br>
+§ 4. De uitspraak wordt op de wijze, vastgesteld krachtens artikel 51, bekendgemaakt.<br>
+&nbsp;
 
 ### ART. 151.
 
@@ -1544,7 +1552,11 @@ Behalve in de gevallen waarvoor de beroepsprocedure in artikel 146 tot en met 15
 
 ### ART. 154.
 
-§ 1. Het beroep wordt, op straffe van niet-ontvankelijkheid, ingediend met   een aangetekende brief of afgegeven tegen ontvangstbewijs binnen een termijn van   dertig dagen na de kennisgeving van de beslissing van de OVAM overeenkomstig de   bepalingen van dit decreet.<BR><BR>Bij het beroepschrift wordt, op straffe van   onontvankelijkheid, een afschrift van de bestreden beslissing gevoegd. De   Vlaamse Regering kan bepalen welke andere documenten, op straffe van   onontvankelijkheid, bij het beroepschrift moeten worden gevoegd. <BR><BR>§ 2.   Binnen een termijn van veertien dagen na ontvangst van het beroep wordt de   indiener van het beroep door de Vlaamse Regering of de daartoe gemachtigde   ambtenaar bij aangetekende brief in kennis gesteld over de ontvankelijkheid van   het beroep.
+§ 1. Het beroep wordt, op straffe van niet-ontvankelijkheid, ingediend met een aangetekende brief of afgegeven tegen ontvangstbewijs binnen een termijn van dertig dagen na de kennisgeving van de beslissing van de OVAM overeenkomstig de bepalingen van dit decreet.<br>
+<br>
+Bij het beroepschrift wordt, op straffe van onontvankelijkheid, een afschrift van de bestreden beslissing gevoegd. De Vlaamse Regering kan bepalen welke andere documenten, op straffe van onontvankelijkheid, bij het beroepschrift moeten worden gevoegd.<br>
+<br>
+§ 2. Binnen een termijn van veertien dagen na ontvangst van het beroep wordt de indiener van het beroep door de Vlaamse Regering of de daartoe gemachtigde ambtenaar in kennis gesteld over de ontvankelijkheid van het beroep.
 
 ### ART. 155.
 
@@ -1552,7 +1564,7 @@ Behalve in de gevallen waarvoor de beroepsprocedure in artikel 146 tot en met 15
 <br>
 In de andere gevallen beperkt het administratief beroep, vermeld in artikel 153, zich tot een marginale toetsing waarbij de Vlaamse Regering uitspraak doet over de manifeste onredelijkheid van de bestreden beslissing van de OVAM of het betreffende onderdeel ervan.<br>
 <br>
-§ 2. Binnen een termijn van negentig dagen na de verzendingsdatum van de kennisgeving van het ontvankelijk beroep doet de Vlaamse Regering uitspraak over het beroep. De beslissing wordt binnen tien dagen na de datum ervan bij aangetekende brief ter kennis gebracht van alle personen en overheidsorganen die in kennis werden gesteld van het ontvankelijke beroep.<br>
+§ 2. Binnen een termijn van negentig dagen na de verzendingsdatum van de kennisgeving van het ontvankelijk beroep doet de Vlaamse Regering uitspraak over het beroep. De beslissing wordt binnen tien dagen na de datum ervan ter kennis gebracht van alle personen en overheidsorganen die in kennis werden gesteld van het ontvankelijke beroep.<br>
 <br>
 § 3. De Vlaamse Regering kan nadere regelen vaststellen voor de behandeling van het beroep.
 
@@ -1610,7 +1622,7 @@ De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een af
 
 ### ART 161bis
 
-De saneringsplichtige, vermeld in artikel 11, 22 en 132, §1, stelt op verzoek van de OVAM, financiële zekerheden tot waarborg van de uitvoering van de verplichting tot beschrijvend bodemonderzoek, bodemsanering en eventuele nazorg opgelegd door of krachtens dit decreet. De OVAM kan de aanpassing van de voormelde financiële zekerheid eisen. De Vlaamse Regering stelt nadere regels vast over het bedrag en de looptijd van de financiële zekerheden, en de wijze waarop die financiële zekerheden worden gesteld en aangepast.
+De saneringsplichtige, vermeld in artikel 11, 22, 132, § 1, en artikel 157, eerste lid, stelt op verzoek van de OVAM, financiële zekerheden tot waarborg van de uitvoering van de verplichting tot beschrijvend bodemonderzoek, bodemsanering en eventuele nazorg opgelegd door of krachtens dit decreet. De OVAM kan de aanpassing van de voormelde financiële zekerheid eisen. De Vlaamse Regering stelt nadere regels vast over het bedrag en de looptijd van de financiële zekerheden, en de wijze waarop die financiële zekerheden worden gesteld en aangepast.
 
 ## HOOFDSTUK XVII Retributies
 
@@ -1747,11 +1759,12 @@ De Vlaamse Regering verwerkt persoonsgegevens in het kader van het administratie
 <br>
 §4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
 1° de eigenaar en de gebruiker van de grond en de exploitant op de grond;<br>
-2° de rechtsvoorgangers, de rechtsopvolgers en de vertegenwoordigers van de personen, vermeld in punt 1°;<br>
+2° de rechtsvoorgangers, de rechtsopvolgers en de vertegenwoordigers&nbsp;en de contactpersonen van de personen, vermeld in punt 1°;<br>
 3° de contactpersonen van erkende organisaties;<br>
 4° de personen werkzaam bij de politiediensten en overheidsinstanties, vermeld in artikel II.28, §1, eerste lid, van het bestuursdecreet van 7 december 2018, die bevoegdheid hebben of openbare verantwoordelijkheden of functies uitoefenen inzake het leefmilieu of het waterbeleid;<br>
 5° de instrumenterende ambtenaren;<br>
-6° andere belanghebbenden.<br>
+6° andere belanghebbenden;<br>
+7° de relevante voormalige eigenaars en gebruikers van, en de relevante voormalige exploitanten op de grond waar de bodemverontreiniging tot stand gekomen is.<br>
 <br>
 §5. De verwerkte persoonsgegevens hebben betrekking op de volgende categorieën van persoonsgegevens:<br>
 1°&nbsp; contactgegevens;<br>
@@ -1771,7 +1784,7 @@ Voor de uitvoering van haar opdrachten heeft de OVAM het recht om het rijks- reg
 2°&nbsp; Europese, internationale, Belgische en Vlaamse instellingen waaraan de OVAM of de Vlaamse Regering moeten rapporteren;<br>
 3°&nbsp; toezichthouders die belast zijn met het toezicht op de bepalingen van dit decreet;<br>
 4°&nbsp; professionele raadgevers van de betrokkenen, vermeld in paragraaf 6, 1°, of van de OVAM of andere belanghebbenden;<br>
-5°&nbsp; bodemsaneringsdeskundigen of de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II;<br>
+5°&nbsp; bodemsaneringsdeskundigen, het Fonds, vermeld in artikel 82bis, 2°,&nbsp; of de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II;<br>
 6°&nbsp; derden wanneer de OVAM of de Vlaamse Regering een verplichting heeft om de persoonsgegevens te verstrekken;<br>
 7°&nbsp; de Vlaamse Milieumaatschappij;<br>
 8°&nbsp; het Departement Omgeving van de Vlaamse overheid;<br>
@@ -1815,7 +1828,9 @@ De persoonsgegevens die in het kader van het optreden van de burgemeester als be
 
 ### ART 174quater
 
-§1. De bodemsaneringsdeskundige treedt op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+§1. Deze bepaling regelt de verwerking van persoonsgegevens door de bodemsaneringsdeskundige in het kader van dit decreet en de uitvoeringsbesluiten ervan, en in het kader van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan.<br>
+<br>
+De bodemsaneringsdeskundige treedt op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
 <br>
 De verwerkingen door de bodemsaneringsdeskundige zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
 <br>
@@ -1834,7 +1849,12 @@ De verwerkingen door de bodemsaneringsdeskundige zijn noodzakelijk voor de vervu
 §4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
 1°&nbsp; de eigenaar en gebruiker van de grond;<br>
 2°&nbsp; de exploitant op de grond;<br>
-3°&nbsp; de bodemsaneringsdeskundige.<br>
+3°&nbsp; de bodemsaneringsdeskundige, zijn kwaliteitsverantwoordelijke en de persoon die beschikt over de individuele handtekeningsbevoegdheid;<br>
+4° de opdrachtgever van de verslagen, rapporten en studies die de bodemsaneringsdeskundige opmaakt in het kader van dit decreet en de uitvoeringsbesluiten ervan;<br>
+5° de uitvoerder van de bodemsaneringswerken en de uitvoerder van de maatregelen, vermeld in artikel 82octies;<br>
+6° de relevante voormalige eigenaars en gebruikers van, en de relevante voormalige exploitanten op de grond waar de bodemverontreiniging tot stand gekomen is;<br>
+7° de aanvrager, vermeld in artikel 82bis, 1° ;<br>
+8° de vertegenwoordigers en de contactpersonen van de personen, vermeld in punt 1° tot en met 7°.<br>
 <br>
 §5. De bodemsaneringsdeskundige kan de persoonsgegevens, vermeld in paragraaf 1, verstrekken aan:<br>
 1°&nbsp; de OVAM;<br>
@@ -1845,7 +1865,9 @@ De verwerkingen door de bodemsaneringsdeskundige zijn noodzakelijk voor de vervu
 
 ### ART 174quinquies
 
-§1. De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, treden op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+§1. Deze bepaling regelt de verwerking van persoonsgegevens door de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, in het kader van dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, treden op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
 <br>
 De verwerkingen door de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
 &nbsp;<br>
@@ -1860,7 +1882,8 @@ De verwerkingen door de organisaties, vermeld in titel III, hoofdstuk XIII, afde
 1° de eigenaar en gebruiker van de grond;<br>
 2°&nbsp; de exploitant op de grond;<br>
 3°&nbsp; de bodemsaneringsdeskundige;<br>
-4°&nbsp; de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II.<br>
+4°&nbsp; de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II;<br>
+5° de eindgebruiker, de initiatiefnemer, de ontvanger, de uitvoerder van de werken en de vervoerder van de bodemmaterialen, vermeld in de regeling, vastgesteld krachtens artikel 138, § 1.<br>
 <br>
 §5. De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, kunnen de persoonsgegevens, vermeld in paragraaf 3, verstrekken aan:<br>
 1°&nbsp; de OVAM;<br>
@@ -1893,6 +1916,33 @@ De verwerkingen door het Fonds, vermeld in artikel 82bis, 2°, zijn noodzakelijk
 <br>
 §6. De persoonsgegevens kunnen worden bewaard tot maximaal 10 jaar na de beëindiging van de in paragraaf 2 vermelde werkzaamheden van het Fonds, vermeld in artikel 82bis, 2°, of tot maximaal 1 jaar na het verstrijken van de toepas- selijke verjaringstermijnen als die termijnen langer zijn.<br>
 &nbsp;
+
+### ART 174septies
+
+§ 1. De erkende organisaties, vermeld in artikel 95, treden op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+<br>
+De verwerkingen door de erkende organisaties, vermeld in artikel 95, zijn noodzakelijk om de taken van algemeen belang te vervullen overeenkomstig artikel 6, lid 1, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§ 2. De erkende organisaties, vermeld in artikel 95, verwerken de persoonsgegevens in het kader van hun verplichte en facultatieve taken, vermeld in artikel 96 en 97.<br>
+<br>
+§ 3. De verwerkte persoonsgegevens hebben betrekking op de volgende gegevens:<br>
+1° identiteitsgegevens;<br>
+2° adresgegevens;<br>
+3° gegevens die verband houden met de grond en de overeenkomsten, vermeld in artikel 97.<br>
+<br>
+§ 4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover ze geïdentificeerd of identificeerbaar zijn:<br>
+1° de eigenaar en gebruiker van de grond;<br>
+2° de exploitant op de grond;<br>
+3° de bodemsaneringsdeskundige;<br>
+4° de saneringsplichtige, vermeld in artikel 11 en 22;<br>
+5° de saneringswillige, vermeld in artikel 92.<br>
+<br>
+§ 5. De erkende organisaties, vermeld in artikel 95, kunnen de persoonsgegevens, vermeld in paragraaf 3, verstrekken aan:<br>
+1° de OVAM;<br>
+2° de Vlaamse Regering;<br>
+3° derden als de erkende organisaties, vermeld in artikel 95, een wettelijke of decretale verplichting hebben om de persoonsgegevens te verstrekken.<br>
+<br>
+§ 6. De persoonsgegevens kunnen worden bewaard tot maximaal tien jaar na de beëindiging van de taken, vermeld in paragraaf 2, of tot maximaal één jaar na het verstrijken van de toepasselijke verjaringstermijnen als die termijnen langer zijn.
 
 ## TITEL VI Overgangs-, opheffings- en inwerkingtredingsbepalingen
 
