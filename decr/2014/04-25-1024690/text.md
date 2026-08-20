@@ -11,13 +11,13 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 ### ART. 2.
 
 <p>In dit decreet wordt verstaan onder:<br>
-1° betrokken publiek: elke natuurlijke persoon of rechtspersoon alsook elke vereniging, organisatie of groep met rechtspersoonlijkheid die gevolgen ondervindt of waarschijnlijk ondervindt van of belanghebbende is bij de besluitvorming over de afgifte of bijstelling van een omgevingsvergunning of van vergunningsvoorwaarden waarbij niet-gouvernementele organisaties die zich voor milieubescherming inzetten, geacht worden belanghebbende te zijn;<br>
+1° betrokken publiek: elke natuurlijke persoon of rechtspersoon alsook elke vereniging, organisatie of groep met rechtspersoonlijkheid die gevolgen ondervindt of waarschijnlijk ondervindt van of belanghebbende is bij de besluitvorming over de afgifte of bijstelling van een omgevingsvergunning of van vergunningsvoorwaarden waarbij niet-gouvernementele organisaties die zich voor milieubescherming inzetten,&nbsp;geacht worden belanghebbende te zijn;<br>
 2° beveiligde zending: een van de hiernavolgende betekeningswijzen:<br>
 a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 3° DABM: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-4° definitieve beslissing: een beslissing waartegen geen georganiseerd administratief beroep meer kan worden ingesteld en die, wat betreft het recht tot voortzetting van de exploitatie van de ingedeelde inrichting of activiteit als vermeld in artikel 70, § 1, tweede lid, en artikel 390, § 6, niet voor een eerste maal geheel of gedeeltelijk vernietigd is door de Raad van Vergunningsbetwistingen en voor zover de beslissingen in eerste en tweede administratieve aanleg de verdere uitbating toelieten. Het recht op verdere exploitatie stopt definitief wanneer de Raad van Vergunningsbetwistingen de schorsing van de vergunning uitspreekt of na een termijn van maximum vijf maand na de eerste uitspraak van de Raad van Vergunningsbetwistingen; [ZIE BELANGRIJKE OPMERKING IN COMMENTAAR IVM ART. 2, EERSTE LID, 4°]<br>
+4° definitieve beslissing: een beslissing waartegen geen georganiseerd administratief beroep meer kan worden ingesteld en die, wat betreft het recht tot voortzetting van de exploitatie van de ingedeelde inrichting of activiteit als vermeld in artikel 70, § 1, tweede lid, en artikel 390, § 6, niet voor een eerste maal geheel of gedeeltelijk vernietigd is door de Raad voor Vergunningsbetwistingen en voor zover de beslissingen in eerste en tweede administratieve aanleg de verdere uitbating toelieten. Het recht op verdere exploitatie stopt definitief wanneer de Raad voor Vergunningsbetwistingen de schorsing van de vergunning uitspreekt of na een termijn van maximum vijf maand na de eerste uitspraak van de Raad voor Vergunningsbetwistingen; [ZIE BELANGRIJKE OPMERKING IN COMMENTAAR IVM ART. 2, EERSTE LID, 4°]<br>
 5° gemeentelijke projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor het college van burgemeester en schepenen bevoegd is om in eerste administratieve aanleg een beslissing te nemen;<br>
 6° meldingsakte: het document waaruit blijkt dat de bevoegde overheid uitdrukkelijk of stilzwijgend akte heeft genomen van een melding;<br>
 7° omgevingsvergunning: de schriftelijke beslissing van de vergunningverlenende overheid houdende toelating voor een vergunningsplichtig project;<br>
@@ -762,6 +762,7 @@ In afwijking van het eerste lid kan de bevoegde overheid een omgevingsvergunning
 1° op verzoek van de vergunningsaanvrager;<br>
 2° voor projecten die uitsluitend tijdelijke inrichtingen of activiteiten omvatten, vermeld in artikel 5.2.1, § 2, tweede lid, van het DABM;<br>
 3° als de exploitatie betrekking heeft op een grondwaterwinning of een ontginning;<br>
+3° /1 voor indirecte lozingen van huishoudelijk afvalwater en bedrijfsafvalwater in grondwater zoals de Vlaamse Regering bepaalt;<br>
 4° als een omgevingsvergunning op proef noodzakelijk is;<br>
 5° met het oog op de herlokalisatie van de exploitatie van de ingedeelde inrichting of activiteit die niet verenigbaar is met de ruimtelijke bestemming;<br>
 6° als met toepassing van artikel 4.4.4 of 4.4.23 van de VCRO een omgevingsvergunning voor bepaalde duur mogelijk wordt geacht voor een project dat in strijd is met een stedenbouwkundig voorschrift;<br>
@@ -866,7 +867,7 @@ De inkomsten van de financiële lasten, vermeld in paragraaf 3, 4°, worden door
 <br>
 De bevoegde overheid kan beslissen om de bedragen van de lasten van meerdere vergunningen aan te wenden om gelijke handelingen en werken te verwezenlijken, als geen enkele bijdrage afzonderlijk zou volstaan om de verwezenlijking ervan volledig te financieren.<br>
 <br>
-§ 5. Bij een overdracht van een omgevingsvergunning blijft de overdragende partij gehouden tot de goede uitvoering van de lasten totdat de overdracht gerealiseerd is, waarop de nieuwe vergunninghouder vervolgens gehouden is de lasten uit te voeren.</p>
+§ 5. ...</p>
 
 ### ART. 76.
 
@@ -881,7 +882,7 @@ De ontvangsten uit financiële lasten, vermeld in artikel 75, verbonden aan een 
 
 ### ART. 77.
 
-§ 1. Voor de lasten in natura, vermeld in artikel 75, § 3, 1° tot en met 3°, verleent de houder van de vergunning die daarop betrekking heeft, een financiële waarborg vóór er met de werken gestart wordt.<br>
+§ 1. Voor de lasten in natura, vermeld in artikel 75, § 3, 1° tot en met 3°, verleent de houder van de vergunning die daarop betrekking heeft, een financiële waarborg vóór er met de werken gestart wordt.&nbsp;Deze verplichting geldt niet voor omgevingsvergunningen voor het verkavelen van gronden, vermeld in artikel 5, 1°, b).<br>
 <br>
 De waarborg dekt de volledige geraamde kostprijs van de lasten, vermeld in het eerste lid, behalve als kan worden vastgesteld dat de financiële toestand van de begunstigde van de vergunning dat niet toelaat. De bevoegde overheid kan die dekking verminderen tot een niveau dat aanvaardbaar is voor de financiële toestand van de begunstigde van de vergunning, maar de waarborg mag niet kleiner zijn dan de helft van de geraamde kosten van de lasten.<br>
 <br>
@@ -891,13 +892,15 @@ De waarborg kan worden vrijgemaakt naarmate de als lasten opgelegde handelingen 
 <br>
 § 2. Als de uitvoering van diverse lasten financieel wordt gewaarborgd, hanteert de bevoegde overheid één waarborg voor de totaliteit van de lasten in kwestie, waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elke last afzonderlijk.<br>
 <br>
-§ 3. Bij een overdracht van een vergunning blijft de overdragende partij ertoe gehouden borg te staan voor de goede uitvoering van de lasten totdat de nieuwe houder van de vergunning de bevoegde overheid een financiële waarborg heeft geleverd die gelijk is aan de waarborg, vermeld in paragraaf 1.<br>
+§ 3. ...<br>
 <br>
 § 4. De waarborg is in de volgende gevallen opeisbaar of van rechtswege door de bevoegde overheid verworven ten belope van de waarde van de lasten die nog niet uitgevoerd zijn:<br>
 1° bij niet-naleving van de uitvoeringstermijnen voor de lasten, vermeld in de definitief uitvoerbare vergunning, waartegen geen beroep meer mogelijk is bij de Raad voor Vergunningsbetwistingen;<br>
 2° als de vergunning waarvoor lasten werden opgelegd, vervalt na gedeeltelijk te zijn uitgevoerd.<br>
 <br>
-§ 5. De waarborg kan zonder uitvoering van de lasten alleen worden vrijgemaakt als de vergunning waarvoor de lasten werden opgelegd, vervallen is en het project niet of zelfs niet gedeeltelijk werd uitgevoerd.
+§ 5. De waarborg kan zonder uitvoering van de lasten alleen worden vrijgemaakt als de vergunning waarvoor de lasten werden opgelegd, vervallen is en het project niet of zelfs niet gedeeltelijk werd uitgevoerd.<br>
+<br>
+§ 6. Als een last als vermeld in artikel 75 niet is uitgevoerd binnen de daartoe gestelde termijn, kan de bevoegde overheid aan de schuldenaar van de last een beslissing tot toepassing van bestuursdwang betekenen, per beveiligde zending. De beslissing vermeldt dat de toepassing van bestuursdwang op kosten van de schuldenaar plaatsvindt. In de beslissing wordt een termijn gesteld waarbinnen de schuldenaar de tenuitvoerlegging kan voorkomen door de last alsnog uit te voeren. Als niet tot tijdige uitvoering wordt overgegaan, kan de bevoegde overheid ambtshalve in de uitvoering van de lasten voorzien. De schuldenaar is verplicht alle uitvoeringskosten te vergoeden, op voorlegging van een staat, opgesteld door de bevoegde overheid.
 
 ## Afdeling 2 Zakelijk karakter
 
@@ -913,7 +916,9 @@ Als de omgevingsvergunning betrekking heeft op een vergunningsplichtige exploita
 <br>
 Het vergunningsbesluit wordt als gevolg van de melding, vermeld in het tweede lid, door de bevoegde overheid aangepast&nbsp;overeenkomstig de regels die de Vlaamse Regering bepaalt.<br>
 <br>
-Als er lasten aan een omgevingsvergunning verbonden zijn, blijft de overdrager ertoe gehouden ten aanzien van de bevoegde overheid tenzij deze met de substitutie van haar schuldenaar heeft ingestemd.</p>
+Als er lasten aan een omgevingsvergunning verbonden zijn, blijft de overdrager ertoe gehouden ten aanzien van de bevoegde overheid tenzij deze met de substitutie van haar schuldenaar heeft ingestemd.<br>
+<br>
+Bij een overdracht van een vergunning blijft de overdragende partij ertoe gehouden borg te staan voor de goede uitvoering van de lasten totdat de nieuwe houder van de vergunning de bevoegde overheid een financiële waarborg heeft geleverd die gelijk is aan de waarborg, vermeld in artikel 77, § 1.</p>
 
 ## Afdeling 3 Fasering
 
@@ -943,8 +948,6 @@ d) de toezichthouder die met toepassing van titel XVI van het DABM is aangewezen
 e) de leidend ambtenaar van een adviesinstantie die met toepassing van de bepalingen, vermeld in artikel 24, eerste lid, is aangewezen om voor de ingedeelde inrichting of activiteit advies uit te brengen;<br>
 f) de leidend ambtenaar van de afdeling Milieu, bevoegd voor de omgevingsvergunning.<br>
 <br>
-Het verzoek, vermeld in punt 2°, e), wordt ingediend bij de bevoegde overheid, vermeld in artikel 15, binnen een termijn van dertig dagen voorafgaand aan de maand waarin de evaluatie, vermeld in artikel 5.4.11 van het DABM, zou plaatsvinden.<br>
-<br>
 Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de bepalingen van afdeling 4 en 5.</p>
 
 ### ART 82/1.
@@ -957,7 +960,26 @@ Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt over
 
 ### ART. 83.
 
-<P>§ 1. De bevoegde overheid, vermeld in artikel 15, kan het voorwerp of de duur   van de omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of   activiteit beperken:<BR>1° ambtshalve via een gemotiveerd initiatief;<BR>2° op   gemotiveerd verzoek van:<BR>a) het betrokken publiek;<BR>b) de leidend ambtenaar   van een adviesinstantie die met toepassing van de bepalingen, vermeld in artikel   24, eerste lid, is aangewezen om voor de ingedeelde inrichting of activiteit   advies uit te brengen.<BR></P>  <P>Het verzoek of het initiatief tot ambtshalve bijstelling, vermeld in het   eerste lid, wordt op straffe van onontvankelijkheid ingediend respectievelijk   genomen binnen een termijn van dertig dagen te rekenen vanaf de dag na de eerste   dag van de bekendmaking van het verstrijken van elke geldigheidsperiode van   twintig jaar van een omgevingsvergunning van onbepaalde duur.<BR></P>  <P>De bekendmaking, vermeld in het tweede lid, gebeurt op initiatief van de   bevoegde overheid, vermeld in artikel 15, binnen een termijn van zes maanden   voor het verstrijken van elke geldigheidsperiode van twintig jaar van een   omgevingsvergunning van onbepaalde duur. De geldigheidsperiode van twintig jaar   vangt een eerste keer aan op de dag na de datum waarop de lopende initiële   omgevingsvergunning is verleend&nbsp;of in het geval van omzetting van een   milieuvergunning naar een vergunning van onbepaalde duur op de dag van de   aktename, vermeld in artikel 390, § 2, en vervolgens telkens op de eerste dag   die volgt op de einddatum van een nieuwe twintigjarige geldigheidsperiode van   een omgevingsvergunning van onbepaalde duur.<BR></P>  <P>De Vlaamse Regering kan het indienen van een verzoek als vermeld in het   eerste lid aan bijkomende ontvankelijkheidsvoorwaarden onderwerpen.<BR></P>  <P>§ 2. De bevoegde overheid, vermeld in artikel 15, kan in haar beslissing over   het verzoek of het initiatief tot ambtshalve bijstelling als vermeld in   paragraaf 1:<BR>1° de milieuvoorwaarden wijzigen of aanvullen;<BR>2° het   voorwerp van de exploitatie van de ingedeelde inrichting of activiteit beperken   voor zover de risico's en de hinder niet via milieuvoorwaarden tot een   aanvaardbaar niveau kunnen worden herleid;<BR>3° de duur van de   omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of   activiteit beperken voor zover deze niet verder verenigbaar is met de   ruimtelijke bestemming. In dat geval zal de resterende duur van de   omgevingsvergunning niet minder dan zeven jaar bedragen.<BR></P>  <P>§ 3. Het bijstellen van de omgevingsvergunning, vermeld in dit artikel,   verloopt overeenkomstig de bepalingen van afdeling 4 en 5.<BR></P>
+<p>§ 1. De bevoegde overheid, vermeld in artikel 15, kan het voorwerp of de duur van de omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit beperken:<br>
+1° ambtshalve via een gemotiveerd initiatief;<br>
+2° op gemotiveerd verzoek van:<br>
+a) het betrokken publiek;<br>
+b) de leidend ambtenaar van een adviesinstantie die met toepassing van de bepalingen, vermeld in artikel 24, eerste lid, is aangewezen om voor de ingedeelde inrichting of activiteit advies uit te brengen.</p>
+
+<p>Het verzoek of het initiatief tot ambtshalve bijstelling, vermeld in het eerste lid, wordt op straffe van onontvankelijkheid ingediend respectievelijk genomen binnen een termijn van dertig dagen te rekenen vanaf de dag na de eerste dag van de bekendmaking van het verstrijken van elke geldigheidsperiode van twintig jaar van een omgevingsvergunning van onbepaalde duur.</p>
+
+<p>De bekendmaking, vermeld in het tweede lid, gebeurt op initiatief van de bevoegde overheid, vermeld in artikel 15, binnen een termijn van zes maanden voor het verstrijken van elke geldigheidsperiode van twintig jaar van een omgevingsvergunning van onbepaalde duur. De geldigheidsperiode van twintig jaar vangt een eerste keer aan op de dag na de datum waarop de lopende initiële omgevingsvergunning is verleend&nbsp;of in het geval van omzetting van een milieuvergunning naar een vergunning van onbepaalde duur op de dag van de aktename, vermeld in artikel 390, § 2, en vervolgens telkens op de eerste dag die volgt op de einddatum van een nieuwe twintigjarige geldigheidsperiode van een omgevingsvergunning van onbepaalde duur.</p>
+
+<p>De Vlaamse Regering kan het indienen van een verzoek als vermeld in het eerste lid aan bijkomende ontvankelijkheidsvoorwaarden onderwerpen.</p>
+
+<p>§ 2. De bevoegde overheid, vermeld in artikel 15, kan in haar beslissing over het verzoek of het initiatief tot ambtshalve bijstelling als vermeld in paragraaf 1:<br>
+1° de milieuvoorwaarden wijzigen of aanvullen;<br>
+2° het voorwerp van de exploitatie van de ingedeelde inrichting of activiteit beperken voor zover de risico's en de hinder niet via milieuvoorwaarden tot een aanvaardbaar niveau kunnen worden herleid;<br>
+3° de duur van de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit beperken voor zover deze mogelijkheid vermeld is in artikel 68, tweede lid.<br>
+<br>
+§ 2/1. Het tweede lid van paragraaf 1 geldt niet voor de gemotiveerde verzoeken tot bijstelling van het voorwerp of duur die de leidend ambtenaar van de VMM indient met het oog op de implementatie van de Europese doelstellingen van richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid.<br>
+<br>
+§ 3. Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de bepalingen van afdeling 4 en 5.</p>
 
 ## Afdeling 3 Bijstelling van de omgevingsvergunning voor het verkavelen van gronden
 
@@ -1107,7 +1129,7 @@ De termijn, vermeld in het eerste lid, 1°, kan evenwel, op verzoek van de vergu
 1° er geen sprake is van een vreemde oorzaak die niet aan de vergunninghouder kan worden toegerekend;<br>
 2° de aangevraagde en vergunde handelingen strijdig zijn met inmiddels gewijzigde stedenbouwkundige voorschriften of verkavelingsvoorschriften.<br>
 <br>
-De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de oorspronkelijke vervaltermijn van twee jaar. Bij ontstentenis van een beslissing wordt de verlenging geacht te zijn goedgekeurd. Als de verlenging wordt goedgekeurd, worden de termijnen, vermeld in het eerste lid, 3° en 4°, ook met twee jaar verlengd.</p>
+De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de oorspronkelijke vervaltermijn van twee jaar. Bij ontstentenis van een beslissing wordt de verlenging geacht te zijn goedgekeurd. Als de verlenging wordt goedgekeurd, worden de termijnen, vermeld in het eerste lid, 3°, 4°, 5° en 6°,&nbsp;ook met twee jaar verlengd.</p>
 
 <p>Als de omgevingsvergunning uitdrukkelijk melding maakt van de verschillende fasen van het bouwproject, worden de termijnen van twee, drie of vijf jaar, vermeld in het eerste lid, gerekend per fase. Voor de tweede fase en de volgende fasen worden de termijnen van verval bijgevolg gerekend vanaf de aanvangsdatum van de fase in kwestie.</p>
 
@@ -1140,7 +1162,7 @@ De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend g
 <br>
 De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1, worden geschorst tijdens het uitvoeren van de bodemsaneringswerken van een bodemsaneringsproject waarvoor de OVAM overeenkomstig artikel 50, § 1, van het Bodemdecreet van 27 oktober 2006 een conformiteitsattest heeft afgeleverd, met een maximumtermijn van drie jaar vanaf de aanvangsdatum van de bodemsaneringswerken.<br>
 <br>
-De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1, worden geschorst zolang een bekrachtigd stakingsbevel, zoals vermeld in titel VI van de VCRO, niet wordt ingetrokken, hetzij niet wordt opgeheven bij een in kracht van gewijsde gegane beslissing. De schorsing eindigt van rechtswege wanneer geen opheffing van het stakingsbevel wordt gevorderd of geen intrekking wordt gedaan binnen een termijn van twee jaar vanaf de bekrachtiging van het stakingsbevel.
+De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1, worden geschorst zolang een bekrachtigde beveiligingsmaatregel als vermeld in artikel 63, § 2, 1°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, die de staking van handelingen oplegt, niet wordt opgeheven door de bevoegde toezichthouder of herstelinstantie, hetzij niet wordt opgeheven bij een in kracht van gewijsde gegane beslissing. De schorsing eindigt van rechtswege wanneer geen opheffing van de beveiligingsmaatregel wordt gevorderd of geen opheffing ervan wordt gedaan door de bevoegde toezichthouder of herstelinstantie binnen een termijn van twee jaar vanaf de bekrachtiging van de beveiligingsmaatregel.
 
 ## Afdeling 2 Verval van de omgevingsvergunning voor het verkavelen van gronden
 
@@ -2844,6 +2866,10 @@ De inrichtingen die op de datum van de inwerkingtreding van dit decreet   vergun
 ### ART. 393.
 
 <P>Een aanvraag voor een stedenbouwkundige vergunning of een   verkavelingsvergunning, gedaan met toepassing van titel IV, hoofdstuk 7, van de   VCRO, die is ingediend voor de datum van de inwerkingtreding van dit decreet,   wordt behandeld op grond van de bepalingen die geldig waren op het tijdstip   waarop de aanvraag is ingediend.<BR></P>  <P>Als een melding voor de datum van de inwerkingtreding van dit decreet   verricht werd met toepassing van artikel 4.2.2 van de VCRO, wordt de melding   behandeld overeenkomstig de bepalingen die geldig waren op het tijdstip waarop   de melding werd ingediend.<BR></P>  <P>Tot de datum van inwerkingtreding van het decreet betreffende de organisatie   en de rechtspleging van sommige Vlaamse bestuursrechtcolleges zijn de bepalingen   van afdeling 2, 3, 5 en 6, van titel IV, hoofdstuk VIII, van de VCRO van   overeenkomstige toepassing op de behandeling van beroepen tegen beslissingen   betreffende een omgevingsvergunning, genomen in laatste administratieve   aanleg.<BR><BR>Artikel 18, tweede lid, en artikel 106 zijn niet van toepassing   voor aspecten van stedenbouwkundige handelingen waarvoor voor de datum van   inwerkingtreding van het decreet de melding is gebeurd of een   vergunningsaanvraag werd ingediend waarvoor nog geen definitieve beslissing werd   genomen of waarvoor een stedenbouwkundige vergunning werd of wordt   verleend.</P>
+
+### ART 393/1.
+
+Artikel 99, § 1, 6°, en artikel 102, § 1, eerste lid, 3°, en § 2, eerste lid, 4°, zijn van toepassing op vergunningsaanvragen die ingediend zijn vanaf 1 januari 2024.
 
 ## Afdeling 4 Overgangsbepalingen met betrekking tot milieueffect- en veiligheidsrapportage
 
