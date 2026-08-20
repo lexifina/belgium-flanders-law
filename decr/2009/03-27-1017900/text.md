@@ -110,7 +110,7 @@ c) de compensatie van kapitaalschade;<br>
 2° de gemeentelijke belasting op verwaarloosde gebouwen en woningen en de gemeentelijke of de gewestelijke heffing op ongeschikte en onbewoonbare woningen, vermeld in artikel 2.5.1.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 3° de instrumenten, vermeld in het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
 4° de Vlaamse voorkooprechten, vermeld in artikel 2, 2°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten;<br>
-5° de koopplichten, vermeld in artikel 20 van het decreet van 16 juni 2006 houdende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+5° de koopplichten, vermeld in artikel 21, § 1, van het Instrumentendecreet van 26 mei 2023;<br>
 6° het recht van wederinkoop, vermeld in artikel 5.92 van de Vlaamse Codex Wonen van 2021;<br>
 7° het sociaal beheersrecht, vermeld in boek 5, deel 7, van de Vlaamse Codex Wonen van 2021;<br>
 8° de ruilverkaveling, kavelruil, herverkaveling en landinrichting als vermeld in het decreet van 28 maart 2014 betreffende de landinrichting;<br>
