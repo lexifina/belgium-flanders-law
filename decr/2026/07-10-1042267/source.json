@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042267,
+  "title": "Decreet van 2026-07-10 houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042267/VolledigDocument?datum=2026-08-29",
+  "source_sha256": "b8ad75c2755c10b7a269eba89343ef938b52a54b141f8a5d970201cf82fb3ff4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042267&param=informatie",
+  "as_of": "2026-08-29",
+  "made": "2026-07-10",
+  "gazette": "2026-08-19",
+  "numac": 2026006115,
+  "document_start": "2026-08-29",
+  "document_end": null,
+  "in_force": "2026-08-29",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2026-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
