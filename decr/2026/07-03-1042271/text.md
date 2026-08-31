@@ -28,3 +28,9 @@ In deze paragraaf wordt verstaan onder gemeenschapsinstelling: een instelling al
 Om de dienstanciënniteit, vermeld in het eerste lid, 2°, te berekenen, wordt, in afwijking van artikel 4, §1, a), het aantal gepresteerde dagen niet met 1,2 vermenigvuldigd.<br>
 <br>
 §3. In afwijking van artikel 36, eerste lid, 1°, wordt voor het personeelslid, vermeld in paragraaf 1, voor een vaste benoeming op 1 januari 2027 de dienstanciënniteit in het ambt vastgesteld op 1 september 2026.”.
+
+### ART 90.
+
+In hetzelfde decreet worden de volgende hoofdstukken opgeheven:<br>
+1° hoofdstuk 16, dat bestaat uit artikel 36 tot en met 69;<br>
+2° hoofdstuk 17, dat bestaat uit artikel 70.
