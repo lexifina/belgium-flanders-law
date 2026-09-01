@@ -2,16 +2,16 @@
   "codex_id": 1002175,
   "title": "Besluit van de Vlaamse Regering van 1990-06-27 waarbij de voorwaarden worden vastgesteld waaronder in bepaalde gemeenschapsinstellingen voor observatie en opvoeding [en in onthaal- en oriëntatiecentra en in de observatiecentra, ressorterend onder de bijzondere jeugdbijstand] aan de leerplicht kan worden voldaan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002175/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3a4424ff10c2024ceb6b5ae6326bdf18531b537c9eb053b4c49b3510091fca43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002175/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "23252b4a10b09522bdd24203f0031a4bcf96dbb8e193174d24bbba6253b84efb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002175&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2026-09-01",
   "made": "1990-06-27",
   "gazette": "1990-08-03",
   "numac": 1990029949,
   "document_start": "1990-09-01",
   "document_end": "2026-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2026-09-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
