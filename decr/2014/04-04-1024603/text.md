@@ -202,6 +202,20 @@ Onverminderd de zittingen die plaatsvinden met toepassing van artikel 13, artike
 
 <p>Een Vlaams bestuursrechtscollege beraadslaagt achter gesloten deuren over zijn uitspraken.</p>
 
+### ART 16/2.
+
+§1. Alle processtukken worden bij de Vlaamse bestuursrechtscolleges ingediend in het Nederlands.<br>
+<br>
+Als een partij haar eerste processtuk niet indient in het Nederlands, nodigt de griffier haar met een beveiligde zending uit om het processtuk alsnog in het Nederlands in te dienen. De griffier vermeldt daarbij de sanctie, vermeld in het vierde lid.<br>
+<br>
+In het geval, vermeld in het tweede lid, wordt het processtuk ingediend binnen acht dagen na de dag van de betekening van de beveiligde zending, vermeld in het tweede lid.<br>
+<br>
+Een processtuk dat niet in het Nederlands is ingediend of, in voorkomend geval, niet binnen de termijn, vermeld in het derde lid, in het Nederlands is ingediend, wordt geacht niet te zijn ingediend.<br>
+<br>
+§2. De taal van de rechtspleging voor de Vlaamse bestuursrechtscolleges is het Nederlands. De zittingen vinden plaats in het Nederlands.<br>
+<br>
+§3. Paragraaf 1 en 2 doen geen afbreuk aan de waarborgen waarover personen in de gemeenten, vermeld in artikel 7 en 8 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, beschikken overeenkomstig artikel 16bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+
 ### ART. 17.
 
 De Vlaamse Regering stelt de nadere regels vast voor de vormvereisten en ontvankelijkheid van de verzoekschriften en voor de rechtspleging voor de Vlaamse bestuursrechtscolleges, waaronder de regels betreffende:<br>
@@ -923,7 +937,15 @@ De Vlaamse Regering bepaalt de nadere regels voor de tuchtprocedure,   waaronder
 
 ### ART. 62.
 
-<P>Als de eerste voorzitter of een effectieve bestuursrechter wordt vervolgd   wegens een misdaad of wanbedrijf of tuchtrechtelijk wordt vervolgd, kan hij in   het belang van de dienst bij wijze van ordemaatregel uit zijn ambt worden   geschorst voor de duur van de vervolging en tot de eindbeslissing is   genomen.<BR></P>  <P>De eerste voorzitter spreekt de schorsing van de effectieve bestuursrechter   uit. Het tuchtcollege, dat bestaat uit de drie oudste effectieve   bestuursrechters, spreekt de schorsing uit ten aanzien van de eerste   voorzitter.<BR></P>  <P>De effectieve bestuursrechter en de eerste voorzitter kunnen op straffe van   verval binnen een termijn van vijftien kalenderdagen na de kennisgeving van de   ordemaatregel daartegen gemotiveerd beroep instellen bij de   beroepscommissie.<BR></P>  <P>De algemene vergadering bepaalt de samenstelling van de beroepscommissie. De   eerste voorzitter en de leden van het tuchtcollege die de schorsing in eerste   instantie hebben uitgesproken kunnen geen deel uitmaken van de   beroepscommissie.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de schorsing, waaronder ten   minste de wijze waarop beroep kan worden ingesteld en de beroepsprocedure wordt   gevoerd, alsook de gevolgen die verbonden zijn aan de   schorsing.<BR></P>
+<p>Als de eerste voorzitter of een effectieve bestuursrechter wordt vervolgd wegens een misdrijf of tuchtrechtelijk wordt vervolgd, kan hij in het belang van de dienst bij wijze van ordemaatregel uit zijn ambt worden geschorst voor de duur van de vervolging en tot de eindbeslissing is genomen.</p>
+
+<p>De eerste voorzitter spreekt de schorsing van de effectieve bestuursrechter uit. Het tuchtcollege, dat bestaat uit de drie oudste effectieve bestuursrechters, spreekt de schorsing uit ten aanzien van de eerste voorzitter.</p>
+
+<p>De effectieve bestuursrechter en de eerste voorzitter kunnen op straffe van verval binnen een termijn van vijftien kalenderdagen na de kennisgeving van de ordemaatregel daartegen gemotiveerd beroep instellen bij de beroepscommissie.</p>
+
+<p>De algemene vergadering bepaalt de samenstelling van de beroepscommissie. De eerste voorzitter en de leden van het tuchtcollege die de schorsing in eerste instantie hebben uitgesproken kunnen geen deel uitmaken van de beroepscommissie.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de schorsing, waaronder ten minste de wijze waarop beroep kan worden ingesteld en de beroepsprocedure wordt gevoerd, alsook de gevolgen die verbonden zijn aan de schorsing.</p>
 
 ## Afdeling 6 Andere delen van de rechtspositieregeling van de bestuursrechter
 
