@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042222,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-05 tot vaststelling van de regels om in 2026 extra werkingsmiddelen toe te kennen in het kader van het Digiplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042222/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "f6f3dc721b33575b67a1b29e1e7474b4d5191a71d822436a7495282008835ea2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042222&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-06-05",
+  "gazette": "2026-07-31",
+  "numac": 2026005583,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
