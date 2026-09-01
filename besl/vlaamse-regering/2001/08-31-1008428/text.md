@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs en op het deeltijds beroepssecundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />De bepalingen van dit besluit die van toepassing zijn op het deeltijds beroepssecundair onderwijs zijn, met uitzondering van artikel 9, eveneens van toepassing op de deeltijdse vorming als vermeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap. In afwijking hiervan gelden evenwel voor wat het artikel 3 betreft de bepalingen van het voltijds secundair onderwijs voor zover de deeltijdse vorming de organisatie van persoonlijke ontwikkelingstrajecten betreft.<br /><br />§ 2. In dit besluit wordt onder "betrokken personen" verstaan, de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerplichtige onder hun bewaring hebben of de meerderjarige leerling zelf.
+§1. Dit besluit is van toepassing op scholen met voltijds gewoon en buitengewoon secundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br>
+<br>
+Artikel 2 en 4 van dit besluit zijn van toepassing op het onderwijs in de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht.<br>
+<br>
+§ 2. In dit besluit wordt onder "betrokken personen" verstaan, de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerplichtige onder hun bewaring hebben of de meerderjarige leerling zelf.
 
 ### ART. 2.
 
@@ -14,7 +18,15 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus van het daaropvol
 
 § 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages. Met toepassing van artikel 357/3, 357/39 en 357/58 van de Codex Secundair Onderwijs van 17 december 2010 is dit artikel niet van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
 <br>
-§ 2. In het deeltijds beroepssecundair onderwijs worden de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
+§ 2. ...<br>
+<br>
+§3. Op de lesdagen, vermeld in paragraaf 1, zijn de leerlingen tijdens de gebruikelijke schooluren aanwezig op school, behoudens gewettigde afwezigheid of onbereikbaarheid of ontoegankelijkheid van de school door overmacht. Het schoolbestuur is verantwoordelijk voor de invulling van de eventuele schooluren waarop de lessen wegvallen.<br>
+<br>
+§4. In afwijking van paragraaf 3, kan het schoolbestuur beslissen voor leerlingen van de derde graad van het voltijds gewoon en opleidingsvorm 4 buitengewoon secundair onderwijs, de kwalificatiefase en facultatieve integratiefase van opleidingsvorm 3 buitengewoon secundair onderwijs en in de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs, dat bij afwezigheid van of het gebrek aan een leerkracht, een leerlingengroep een of enkele van de gebruikelijke schooluren niet op school aanwezig hoeft te zijn. Het principe van mogelijke afwezigheid van leerlingen wordt in voorkomend geval opgenomen in het schoolreglement, met toepassing van artikel 112, eerste lid, 1°, c), van de Codex Secundair Onderwijs.<br>
+<br>
+Die afwezigheid kan alleen na voorafgaand en eenmalig te geven schriftelijk akkoord van de betrokken personen, met toepassing van artikel 111, paragraaf 1ter, van dezelfde Codex.<br>
+<br>
+Als de betrokken personen daar niet mee akkoord gaan, voorziet de school in opvang. Het schoolbestuur is verantwoordelijk voor de invulling van de opvang.
 
 ### ART. 4.
 
@@ -33,32 +45,45 @@ c) per schooljaar: 1 200;<br>
 
 ### ART. 5.
 
-<p>&nbsp;§ 1. In het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs, opleidingsvorm 4, mogen per schooljaar maximaal 30 lesdagen aan evaluatie worden besteed. Die dagen kunnen verschillen per leerlingengroep.<br>
+§1. In deze paragraaf wordt onder evaluatiedag een dag verstaan waarop de lessen worden geschorst voor een van de volgende activiteiten:<br>
+1° vooraf aangekondigde examens over grotere leerstofgehelen, met uitzondering van de bekwaamheidsproeven, opgelegd in het kader van externe certificering;<br>
+2° elk besluitvormingsproces van de klassenraad, met inbegrip van de deliberatie;<br>
+3° de evaluatiegesprekken met de leerlingen en, eventueel, de betrokken personen.<br>
 <br>
-Onder evaluatie als vermeld in het eerste lid wordt verstaan :<br>
-1° de organisatie van vooraf aangekondigde examens of proeven over grotere leerstofgehelen, met uitzondering van de bekwaamheidsproeven, opgelegd in het kader van externe certificering »;<br>
-2° elk besluitvormingsproces van de klassenraad tijdens het schooljaar, met inbegrip van de deliberatie. Zolang stages bezig zijn, kan de deliberatie voor de leerlingen in kwestie niet beëindigd worden. De deliberatie kan:<br>
-a)&nbsp;&nbsp; &nbsp;op zijn vroegst van start gaan op de vijfde laatste lesdag van de maand juni;<br>
-b)&nbsp;&nbsp; &nbsp;op zijn vroegst van start gaan op de vijfde laatste lesdag van de maand januari voor de zevende leerjaren gericht op instroom arbeidsmarkt, die eindigen op 31 januari van het lopende schooljaar;<br>
-c)&nbsp;&nbsp; &nbsp;georganiseerd worden op elk tijdstip van het schooljaar voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs.<br>
+Het aantal evaluatiedagen wordt op de volgende wijze vastgesteld:<br>
+1° in het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs, opleidingsvorm 4, met uitzondering van de 7de leerjaren die gericht zijn op instroom op de arbeidsmarkt, als examens worden georganiseerd:<br>
+maximaal vijftig halve lesdagen per schooljaar en die kunnen starten ten vroegste vijfentwintig halve lesdagen vóór de kerstvakantie, vóór de paasvakantie of vóór de laatste schooldag van het schooljaar;<br>
+2° in de 7de leerjaren die gericht zijn op instroom op de arbeidsmarkt van het voltijds gewoon secundair onderwijs en van het buitengewoon secundair onderwijs, opleidingsvorm 4, als examens worden georganiseerd: maximaal twintig halve lesdagen per semester;<br>
+3° in het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs, opleidingsvorm 4, als formatief wordt geëvalueerd en geen examens worden georganiseerd: maximaal twaalf halve lesdagen per schooljaar;&nbsp;<br>
+4° in het buitengewoon secundair onderwijs, opleidingsvorm 1, 2 en 3: maximaal twaalf halve lesdagen per schooljaar;<br>
+5° in het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs, opleidingsvorm 4, als formatieve evaluatie en examens worden gecombineerd: een aantal dat lager ligt dan vijftig halve lesdagen per schooljaar, met behoud van toepassing van punt 1°;&nbsp;<br>
+6° in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs: zoals bepaald door de school.<br>
 <br>
-Zolang stages aan gang zijn, mag evenwel de deliberatie voor de betrokken leerlingen niet beëindigd worden.<br>
+Na de examens vóór de zomervakantie kan een leerlingenstage worden georganiseerd die aan alle volgende voorwaarden voldoet:<br>
+1° de stage omvat een ononderbroken periode, aangeduid als blokstage;<br>
+2° binnen het structuuronderdeel in kwestie vormt de stage een essentiële component van het leerprogramma en vormt het bereiken van de stagedoelen een essentiële component in de leerlingenevaluatie en aansluitende studiebekrachtiging;<br>
+3° &nbsp;er is een aantoonbare reden om de stage niet in de loop maar wel bij het einde van het schooljaar te organiseren.<br>
 <br>
-3° de evaluatiegesprekken met de leerlingen en, eventueel, de betrokken personen;<br>
-4° de lesdagen tussen het laatste examen en het begin van de daaropvolgende vakantie, tenzij op die dagen onderwijsactiviteiten, die ook stages kunnen zijn, worden georganiseerd.<br>
+Bij de toepassing van de bepalingen van dit lid worden de stagedagen niet verrekend in de voorwaarde “ten vroegste vijfentwintig halve lesdagen vóór de laatste schooldag van het schooljaar”, vermeld in het tweede lid, 1° en waarnaar in het tweede lid, 5° wordt verwezen. &nbsp;&nbsp;<br>
 <br>
-Voor scholen die uitsluitend een systeem van permanente evaluatie hanteren en de examens of proeven, vermeld in het tweede lid, 1°, niet organiseren, en voor het buitengewoon secundair onderwijs, opleidingsvormen 1, 2 en 3, wordt het maximum op 9 lesdagen vastgesteld. Die dagen kunnen verschillen per leerlingengroep.<br>
+In het tweede lid, 3°, wordt verstaan onder formatieve evaluatie: permanente of gespreide evaluatie.<br>
 <br>
-§ 2. Het schoolbestuur kan beslissen dat op de dagen waarop de evaluatie, vermeld in paragraaf 1, tweede lid, 1° of 3°, wordt georganiseerd, de leerling, na akkoord van de betrokken personen, alleen tijdens zijn examens of proeven of tijdens zijn evaluatiegesprekken op school aanwezig hoeft te zijn. Als de betrokken personen daar niet mee akkoord gaan, voorziet de school in opvang. Het schoolbestuur bepaalt, na overleg met de schoolraad, de inhoudelijke invulling van de opvang.<br>
+De evaluatiedagen kunnen verschillen per structuuronderdeel of per leerlingengroep. De laatste dag voor de zomervakantie is geen evaluatiedag maar een schooldag met toepassing van de gebruikelijke schooluren.<br>
 <br>
-Het schoolbestuur kan beslissen dat op de dagen waarop de evaluatie, vermeld in paragraaf 1, tweede lid, 2°, wordt georganiseerd, de leerling, na akkoord van de betrokken personen, niet op school aanwezig hoeft te zijn. Als de betrokken personen daar niet mee akkoord gaan, voorziet de school in opvang. Het schoolbestuur bepaalt, na overleg met de schoolraad, de inhoudelijke invulling van de opvang.</p>
+Het besluitvormingsproces, vermeld in het eerste lid, 2°, voldoet aan de volgende voorwaarden:<br>
+1° het start op zijn vroegst op de vierde laatste evaluatiedag voorafgaand aan de kerstvakantie of de paasvakantie;<br>
+2° het start op zijn vroegst op de vierde laatste evaluatiedag voorafgaand aan de zomervakantie;<br>
+3° het start op zijn vroegst op de vierde laatste evaluatiedag van de maand januari voor de 7de leerjaren die gericht zijn op instroom op de arbeidsmarkt, die eindigen op 31 januari van het lopende schooljaar;<br>
+4° het kan niet beëindigd worden zolang stages voor de leerlingen in kwestie aan de gang zijn;<br>
+5° het wordt georganiseerd op elk tijdstip van het schooljaar voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs.<br>
+<br>
+§2. Het schoolbestuur kan beslissen dat op de dagen waarop de evaluatie, vermeld in paragraaf 1, eerste lid, 1° of 3°, wordt georganiseerd, de leerling, na akkoord van de betrokken personen, alleen tijdens zijn examens of tijdens de evaluatiegesprekken op school aanwezig hoeft te zijn. Als de betrokken personen daar niet mee akkoord gaan, voorziet de school in opvang. Het schoolbestuur is verantwoordelijk voor de invulling van de opvang.<br>
+<br>
+Het schoolbestuur kan beslissen dat op de dagen waarop de evaluatie, vermeld in paragraaf 1, eerste lid, 2°, wordt georganiseerd, de leerling, na akkoord van de betrokken personen, niet op school aanwezig hoeft te zijn. Als de betrokken personen daar niet mee akkoord gaan, voorziet de school in opvang. Het schoolbestuur is verantwoordelijk voor de invulling van de opvang.
 
 ### ART. 6.
 
-De volgende dagen waarop de lessen kunnen worden geschorst, worden vastgelegd:<br>
-1° 1 halve dag per schooljaar om, bij het begin ervan, administratieve en onthaalformaliteiten voor te bereiden. Deze halve dag kan verschillen per leerlingengroep;<br>
-2° 1 dag per schooljaar voor het houden van een pedagogische studiedag voor leraars. Deze dag kan verschillen per leerlingengroep;<br>
-3° 1 halve dag onmiddellijk na parlementaire, provinciale of gemeentelijke verkiezingen in die scholen waar stem- en/of stemopnemingsbureaus waren gevestigd.
+...
 
 ### ART. 7.
 
@@ -69,7 +94,7 @@ De volgende vakantieperiodes worden vastgelegd:<br>
 4° de paasvakantie, die begint op de eerste maandag van april en 2 weken duurt. Indien Pasen in de maand maart valt, dan begint de paasvakantie op de maandag na Pasen. Indien Pasen na 15 april valt, dan begint de paasvakantie op de tweede maandag vóór Pasen;<br>
 5° de zomervakantie, die begint op 1 juli en eindigt op 31 augustus;<br>
 6° 11 november, paasmaandag, hemelvaartsdag en de dag nadien, 1 mei, pinkstermaandag;<br>
-7° voor het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs: 1 volledige of 2 halve facultatieve vakantiedag(en), eventueel verschillend per vestigingsplaats. Voor het buitengewoon secundair onderwijs: 2 volledige of 4 halve facultatieve vakantiedagen, eventueel verschillend per vestigingsplaats.
+7° ...
 
 ### ART. 8.
 
@@ -84,7 +109,11 @@ Overeenkomstig artikel 19 van het decreet van 10 juni 2016 tot regeling van bepa
 
 ### ART. 9.
 
-§ 1. De vastlegging door de inrichtende macht van de organisatie van het   schooljaar per school op basis van de bepalingen van artikel 3 tot en met 8,   vindt uiterlijk op 30 juni van het voorafgaande schooljaar plaats:<BR>1° na   onderhandeling in het bevoegde orgaan;<BR>2° na advies van de schoolraad voor   wat betreft het gemeenschapsonderwijs en van de participatieraad voor wat   betreft het gesubsidieerd onderwijs.<BR><BR>In afwijking van de datum, vermeld   in het eerste lid, vindt de vastlegging van de organisatie van het schooljaar   2013-2014 uiterlijk op 20 september 2013 plaats.<BR><BR>§ 2. De toepassing van §   1 op de stages, heeft slechts betrekking op de grote krachtlijnen ervan en niet   op de individuele stageovereenkomsten.
+§ 1. De vastlegging door de inrichtende macht van de organisatie van het schooljaar per school op basis van de bepalingen van artikel 3 tot en met 8, vindt uiterlijk op 30 juni van het voorafgaande schooljaar plaats:<br>
+1° na onderhandeling in het bevoegde orgaan;<br>
+2° na advies van de schoolraad voor wat betreft het gemeenschapsonderwijs en van de participatieraad voor wat betreft het gesubsidieerd onderwijs.<br>
+<br>
+§ 2. De toepassing van § 1 op de stages, heeft slechts betrekking op de grote krachtlijnen ervan en niet op de individuele stageovereenkomsten.
 
 ### ART. 10.
 
