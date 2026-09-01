@@ -580,14 +580,14 @@ De semi-internaten die kiezen om de uren samen te leggen, richten daarvoor een o
 ### ART IV.1.
 
 De specifieke projecten of instellingen die in dit deel IV worden behandeld zijn :<br>
-1° diensten met onderwijsbehoeften,<br>
-2° kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig hoofdstedelijk gebied Brussel,<br>
-3° voor- en nabewaking in de Nederlandstalige basisscholen van het gemeenschapsonderwijs in tweetalige gebied Brussel-hoofdstad,<br>
-4° cultuureducatie<br>
-5° leerlingenvervoer,<br>
-6° schoolboekhouding,<br>
-7° speciale onderwijsleermiddelen in het volwassenen- en hoger onderwijs,<br>
-8° Europese en internationale programma’s,<br>
+1° diensten met onderwijsbehoeften;<br>
+2° kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig hoofdstedelijk gebied Brussel;<br>
+3° ...;<br>
+4° cultuureducatie;<br>
+5° leerlingenvervoer;<br>
+6° schoolboekhouding;<br>
+7° speciale onderwijsleermiddelen in het volwassenen- en hoger onderwijs;<br>
+8° Europese en internationale programma’s;<br>
 9° tijdelijke projecten kunstinitiatie;<br>
 10° centrale organisatie synchroon internet onderwijs.<br>
 &nbsp;
@@ -712,54 +712,30 @@ De Vlaamse Regering bepaalt de regelen met betrekking tot de vermindering of de 
 
 ### ART IV.19.
 
-Vanaf 2 januari 2003 kunnen in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig gebied Brussel-Hoofdstad enkel personeelsleden worden aangeworven binnen de geldende normen die de Vlaamse Regering heeft vastgelegd houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen.<br>
-<br>
-Vanaf 1 januari 2017 wordt de op 1 juni 2016 door de Vlaamse onderwijsbegroting gefinancierde personeelsformatie van 811 uren in het ambt van verpleger en 5832 uren in het ambt van kinderverzorger als vast benoemd of contractueel titularis in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijk gebied Brussel geleidelijk afgebouwd.<br>
-<br>
-Telkens wanneer een vast benoemde of contractueel aangestelde titularis uit dienst treedt, vermindert het toegestane volume financierbare uren met het aantal financierbare uren dat betrokkene presteerde.<br>
-<br>
-Deze afbouwregeling geldt totdat het aantal uren dat gefinancierd wordt binnen de begroting Onderwijs nog 2880 uren, voor de totaliteit van de beide ambten van verpleger en kinderverzorger, bedraagt.<br>
-<br>
-Telkens een vast benoemde of contractueel aangestelde titularis voltijds of deeltijds afwezig is voor een periode en het totaal aantal gefinancierde uren niet gedaald is tot onder de 2880 uren, voor de totaliteit van de beide ambten van verpleger en kinderverzorger, kan geen vervanger worden aangesteld die een salaris ontvangt van het agentschap onderwijsdiensten.<br>
-<br>
-De middelen die jaarlijks vrijkomen door toepassing van het derde en het vijfde lid worden geherinvesteerd in de onderwijsbegroting.
+...
 
 ### ART IV.20.
 
-§1. De personeelsleden die aan- of tewerkgesteld zijn als titularis van een betrekking van verpleger of kinderverzorger in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig gebied Brussel-Hoofdstad kunnen op 1 september 2002 vast benoemd worden onder volgende voorwaarden :<br>
-1° Belg of onderdaan zijn van een lidstaat van de Europese Unie, de EVA (Europese Vrijhandelsassociatie) of in het bezit zijn van een vrijstelling verleend door de Vlaamse Regering;<br>
-2° burgerlijke en politieke rechten of een vrijstelling van de Vlaamse Regering genieten en in het bezit zijn van een attest van goed gedrag en zeden dat niet langer dan één jaar tevoren werd afgegeven.<br>
-De vrijstelling van burgerlijke en politieke rechten gaat steeds samen met de vrijstelling bedoeld in 1° hiervoor;<br>
-3° voldoen aan de taalwetten;<br>
-4° op 31 augustus 2002 720 dagen dienstanciënniteit bezitten. De berekening van de dienstanciënniteit gebeurt overeenkomstig de bepalingen van artikel 4 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs. In afwijking van artikel 4, §1, b), van hetzelfde decreet wordt het aantal dagen gepresteerd in een betrekking die niet de helft bedraagt van het aantal uren, vereist voor een betrekking met volledige dienstprestaties, niet met de helft verminderd. De diensten gepresteerd in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig gebied Brussel-Hoofdstad worden beschouwd als diensten gepresteerd zoals bepaald in artikel 4 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
-5° de betrekking in hoofdambt uitoefenen;<br>
-6° op 31 december 2001 aan- of tewerkgesteld zijn.<br>
+§1. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en de uitvoeringsbesluiten zijn van toepassing op de vastbenoemde personeelsleden in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+§2. Voor de vastbenoemde personeelsleden, vermeld in paragraaf 1, die wegens ontstentenis van betrekking ter beschikking zijn gesteld, gelden de verplichtingen tot reaffectatie of wedertewerkstelling voor het gewoon basisonderwijs en het buitengewoon onderwijs, zoals vastgelegd in het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage. Voor de toepassing van het voormelde besluit wordt het ambt van kinderverzorger beschouwd als “hetzelfde ambt” van kinderverzorger in het gewoon basisonderwijs en in het buitengewoon onderwijs en wordt het ambt van verpleger beschouwd als “hetzelfde ambt” van verpleger in het buitengewoon onderwijs.<br>
 &nbsp;<br>
-De vaste benoeming op 1 september 2002 is beperkt tot het volume van de betrekking waarvoor het personeelslid als titularis was aan- of tewerkgesteld.<br>
-Onder titularis van een betrekking wordt verstaan: het personeelslid dat als eerste in een concrete betrekking een aanstelling of tewerkstelling heeft gekregen.<br>
-Deze betrekking wordt niet vacant verklaard.<br>
-&nbsp;<br>
-§2. Na toepassing van §1 worden de personeelsleden, aan- of tewerkgesteld in een kinderdagverblijf van het gemeenschapsonderwijs in het tweetalig gebied Brussel-Hoofdstad, die voldoen aan de voorwaarden van 1° tot en met 6° van §1, eerste lid, op hun verzoek op 1 januari 2003 vast benoemd in een vacante betrekking. Deze vaste benoeming is beperkt tot het volume van de opdracht waarvoor het personeelslid op 31 december 2001 is aan- of tewerkgesteld als verpleger of kinderverzorger in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad.<br>
-De personeelsleden moeten aan de voorwaarde van 4° van §1, eerste lid, voldoen op 31 december 2002.<br>
-De vacante betrekkingen worden vastgesteld in functie van de op 1 september 2002 geldende normen die de Vlaamse regering heeft vastgelegd houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen. De betrekkingen die tussen 1 september 2002 en 1 januari 2003 vacant worden ten gevolge van de pensionering of de terbeschikkingstelling voorafgaand aan het rustpensioen van de titularis kunnen eveneens vacant worden verklaard.<br>
-De raad van bestuur deelt vóór 15 oktober 2002, aan de personeelsleden die de voorwaarden voor vaste benoeming vervullen, de vacante betrekkingen mee, samen met een beschrijving van de wijze waarop de kandidaturen voor vaste benoeming moeten worden ingediend.<br>
-&nbsp;<br>
-§3. Voor de vaste benoemingen zoals bedoeld in §2 heeft het personeelslid dat op 31 augustus 2002 over de grootste dienstanciënniteit beschikt, voorrang. De dienstanciënniteit wordt berekend zoals bepaald in §1, 4°.<br>
-&nbsp;<br>
-§4. Met ingang van de datum van vaste benoeming zijn de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en de uitvoeringsbesluiten op bedoelde personeelsleden van toepassing.<br>
-In afwijking van het eerste lid zijn, voor de vaste benoemingen zoals bedoeld in §2, de bepalingen van artikel 36ter, §2, van het decreet van 27 maart 1991 betreffende de rechtspositie van de personeelsleden van het gemeenschapsonderwijs, niet van toepassing.<br>
-&nbsp;<br>
-§5. Onverminderd de bepalingen van dit hoofdstuk zijn alle bepalingen van toepassing die gelden voor de personeelsleden die vast benoemd zijn in het ambt van kinderverzorger in het gewoon basisonderwijs en in het ambt van verpleger in het buitengewoon basisonderwijs. Voor de toepassing van de regelgeving met betrekking tot vaste benoeming, affectatie en mutatie wordt :<br>
-1° het ambt van kinderverzorger zoals bedoeld in deze afdeling niet beschouwd als hetzelfde ambt van kinderverzorger in het gewoon en buitengewoon onderwijs;<br>
-2° het ambt van verpleger zoals bedoeld in deze afdeling niet beschouwd als hetzelfde ambt van verpleger in het buitengewoon onderwijs.<br>
-&nbsp;<br>
-§6. Voor de toepassing van de regelgeving met betrekking tot de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling, gelden de normen die de Vlaamse Regering heeft vastgelegd houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen. De personeelsleden bedoeld in §1 die wegens ontstentenis van betrekking ter beschikking zijn gesteld voor minder dan de helft van een volledige betrekking, zijn niet verplicht om een reaffectatie of wedertewerkstelling te aanvaarden. Het ambt van kinderverzorger of verpleger zoals bedoeld in deze afdeling wordt, voor de toepassing van de regelgeving inzake reaffectatie en tewerkstelling, beschouwd als hetzelfde ambt van kinderverzorger in het gewoon en buitengewoon onderwijs, respectievelijk het hetzelfde ambt van verpleger in het buitengewoon onderwijs.
+§3. Aan de vastbenoemde personeelsleden, vermeld in paragraaf 1, worden de volgende salarisschalen toegekend:<br>
+1°&nbsp;&nbsp; &nbsp;salarisschaal 143 voor wie in het ambt van kinderverzorger is aangesteld op basis van een vereist of voldoend geacht bekwaamheidsbewijs;<br>
+2°&nbsp;&nbsp; &nbsp;salarisschaal 229 voor wie in het ambt van kinderverzorger is aangesteld op basis van een ander bekwaamheidsbewijs;<br>
+3°&nbsp;&nbsp; &nbsp;salarisschaal 337 voor wie in het ambt van verpleger is aangesteld.<br>
+<br>
+Als het aldus vastgestelde salaris lager is dan het salaris dat het personeelslid genoot op 1 september 2002, blijft het dit laatste salaris genieten totdat het een ten minste gelijk salaris verkrijgt overeenkomstig de salarisschalen, vermeld in het eerste lid.<br>
+<br>
+De salarisschalen, vermeld in het eerste lid, zijn vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+<br>
+De bekwaamheidsbewijzen, vermeld in het eerste lid, zijn deze die de Vlaamse Regering vastlegt voor het overeenkomstige ambt in het gewoon of buitengewoon onderwijs.<br>
+<br>
+§4. De prestatieregeling van de vastbenoemde personeelsleden, vermeld in paragraaf 1, bedraagt voor een volledige betrekking 36 uren per week.
 
 ### ART IV.21.
 
-Onverminderd de in artikel IV.19 bedoelde normen worden de personeelsleden die in de Brusselse peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs tewerkgesteld zijn als verpleger of kinderverzorger en die niet benoemd zijn bij toepassing van het voorgaande artikel, §1 en §2, door de scholengroep 8-Brussel aangeworven als contractuele personeelsleden waarop de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.<br>
-&nbsp;<br>
-De Vlaamse Regering wordt gemachtigd om bijkomende ambten vast te leggen. De personeelsleden die in deze ambten worden tewerkgesteld, worden eveneens aangeworven als contractuele personeelsleden waarop de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.
+...
 
 ### ART IV.22.
 
@@ -767,60 +743,45 @@ De Vlaamse Regering wordt gemachtigd om bijkomende ambten vast te leggen. De per
 
 ### ART IV.23.
 
-§1.Tot een door de Vlaamse Regering nader te bepalen datum betaalt de Vlaamse Gemeenschap rechtstreeks het salaris uit aan de personeelsleden bedoeld in dit hoofdstuk, overeenkomstig volgende bepalingen :<br>
-1° aan de personeelsleden bedoeld in dit hoofdstuk worden de volgende salarisschalen toegekend :<br>
-a) salarisschaal 143 voor wie in het ambt van kinderverzorger is aangesteld op basis van een vereist of voldoend geacht bekwaamheidsbewijs;<br>
-b) salarisschaal 229 voor wie in het ambt van kinderverzorger is aangesteld op basis van een ander bekwaamheidsbewijs;<br>
-c) salarisschaal 337 voor wie in het ambt van verpleger is aangesteld.<br>
-Indien het aldus vastgestelde salaris lager is dan het salaris dat het personeelslid genoot &nbsp;op 1 september 2002, blijft het dit laatste salaris genieten totdat het een ten minste gelijk salaris bekomt overeenkomstig bovenvermelde salarisschalen.<br>
-De bovenvermelde bekwaamheidsbewijzen zijn deze die de Vlaamse Regering vastlegt voor het overeenkomstige ambt in het gewoon - of buitengewoon onderwijs.<br>
-Met behoud van de toepassing van artikel IV.21, wordt de Vlaamse Regering gemachtigd om de bekwaamheidsbewijzen voor alle ambten vast te leggen of te wijzigen. Zij wordt eveneens gemachtigd om de salarisschalen hiervoor vast te leggen of te wijzigen.<br>
-2° De prestatieregeling van de personeelsleden bedoeld in dit hoofdstuk bedraagt voor een volledige betrekking 36 uren per week.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering bepaalt de nadere regels met betrekking tot bezoldiging van de personeelsleden bedoeld in artikel IV.21 en IV.22.
+...
 
 ### ART IV.24.
 
-In hoofde van de personeelsleden, tewerkgesteld als kinderverzorger of verpleger in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig gebied Brussel-Hoofdstad, wordt de geldelijke en administratieve toestand gedurende de periode van hun tewerkstelling tot en met 31 december 2002 als definitief verworven beschouwd. Uit deze periode kunnen geen gevolgen voortvloeien voor de personeelsleden en schoolbesturen met betrekking tot bezoldiging.
+...
 
 ### ART IV.25.
 
-De kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig gebied Brussel-Hoofdstad worden in voorkomend geval verbonden aan de basisscholen van de scholengroep 8 - Brussel.
+...
 
-## Hoofdstuk 4 Personeelsleden tewerkgesteld in de voor- en nabewaking in de nederlandstalige basisscholen van het gemeenschapsonderwijs in tweetalige gebied Brussel-Hoofdstad
+## Hoofdstuk 4 ...
 
 ### IV.26.
 
-In de Nederlandstalige basisscholen van het gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad kunnen personeelsleden worden tewerkgesteld als opvoeder voor- en nabewaking. Deze personeelsleden worden aangesteld bij en door de scholengroep van het gemeenschapsonderwijs die bevoegd is voor voormelde scholen. De personeelsleden worden aangeworven als contractuele personeelsleden op wie de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.
+...
 
 ### ART IV.27.
 
-De Vlaamse Gemeenschap kent jaarlijks aan de in artikel IV.26 vermelde scholengroep maximaal 27 voltijdse betrekkingen toe van opvoeder voor- en nabewaking. De Vlaamse Regering is gemachtigd het aantal voltijdse betrekkingen te wijzigen.
+...
 
 ### ART IV.28.
 
-De prestatieregeling van de hier bedoelde personeelsleden bedraagt 36 uren per week voor een voltijdse betrekking.
+...
 
 ### ART IV.29.
 
-De personeelsleden bedoeld in artikel IV.26 kunnen vervangen worden onder dezelfde voorwaarden als deze vastgelegd voor de personeelsleden van het onderwijs. De vervangers worden eveneens aangeworven als contractuele personeelsleden op wie de wet van 3 juli 1978 van toepassing is.
+...
 
 ### ART IV.30.
 
-§1. Het Vlaams Ministerie van Onderwijs en Vorming betaalt rechtstreeks het salaris uit aan de personeelsleden bedoeld in artikel IV.26. Aan de personeelsleden worden de volgende salarisschalen toegekend :<br>
-- salarisschaal 143 voor de houders van een bekwaamheidsbewijs van ten minste hoger secundair onderwijs zoals vermeld in het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de weddenschalen het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs;<br>
-- salarisschaal 158 voor de houders van een bekwaamheidsbewijs van ten minste bachelor zoals vermeld in het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de weddenschalen het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs.<br>
-De personeelsleden die sinds 1 januari 1997 ononderbroken aangesteld geweest zijn op basis van een diploma van ten minste lager secundair onderwijs en de salarisschaal 143 toegekend kregen, behouden die salarisschaal.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering is gemachtigd om de voormelde salarisschalen te vervangen of te wijzigen.
+...
 
 ### ART IV.31.
 
-De Vlaamse Regering is gemachtigd de vakantieregeling voor de personeelsleden bedoeld in artikel IV.26 vast te leggen. In afwachting blijft de huidige regeling van kracht.
+...
 
 ### ART IV.32.
 
-In hoofde van de personeelsleden aangesteld als opvoeder voor- en nabewaking in de Nederlandstalige basisscholen van het gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad, wordt de geldelijke en administratieve toestand gedurende hun periode van tewerkstelling tot en met 31 december 2013 als definitief verworven beschouwd. Uit deze periode kunnen geen gevolgen voortvloeien voor de personeelsleden en schoolbesturen met betrekking tot bezoldiging.
+...
 
 ## Hoofdstuk 5 Cultuureducatie in het onderwijs
 
@@ -907,7 +868,7 @@ Het werkplan, vermeld in het eerste en tweede lid, is minstens één schooljaar 
 <br>
 § 4. De werking van het leerlingenvervoer in de regio's, vermeld in paragraaf 1, wordt gemonitord door de Vlaamse Regering.<br>
 <br>
-§ 5. De overgangsregeling zoals omschreven in dit artikel zal vier schooljaren gelden vanaf het schooljaar 2022-2023.<br>
+§ 5. De overgangsregeling zoals omschreven in dit artikel zal vier schooljaren gelden vanaf het schooljaar 2022-2023 en wordt voor twee schooljaren verlengd vanaf het schooljaar 2026-2027.<br>
 <br>
 De overgangsregeling kan eerder beëindigd worden door de Vlaamse Regering indien er een nieuw regelgevend kader voor het leerlingenvervoer in werking treedt.
 
@@ -1701,6 +1662,8 @@ Het in strijd met bestaande wettelijke, decretale of reglementaire bepalingen to
 ### ART V.65.
 
 Inzake toegekende salarissen, voorschotten daarop en vergoedingen, toelagen of uitkeringen, die een toebehoren van de salarissen vormen of ermee gelijkstaan, zijn de door de Vlaamse Gemeenschap ten onrechte uitbetaalde sommen voorgoed vervallen, als de terugbetaling daarvan niet is gevraagd aan de schoolbesturen of hun personeelsleden binnen een termijn van twee jaar te rekenen van de eerste januari van het jaar van de betaling, in de vorm zoals bepaald in artikel 16, §2, eerste lid, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<br>
+In afwijking van het eerste lid zijn de ten onrechte uitbetaalde sommen voorgoed vervallen, als de terugbetaling daarvan niet is gevraagd aan de schoolbesturen of hun personeelsleden binnen een termijn van één jaar, te rekenen van de eerste januari van het jaar van de betaling, als het salaris foutief berekend werd als gevolg van een administratieve fout van de betalende overheid, waarbij deze laatste tijdig beschikte over alle nodige informatie. Dit lid is enkel van toepassing wanneer er sprake is van foutief berekend salaris. Het is niet van toepassing wanneer het personeelslid ten onrechte een salaris heeft ontvangen voor prestaties die niet werden geleverd, of wanneer het personeelslid voor een onderbreking van zijn opdracht recht heeft op een socialezekerheidsuitkering.<br>
 &nbsp;<br>
 Te rekenen vanaf de vraag bedoeld in het eerste lid kan het onverschuldigde bedrag worden teruggevorderd gedurende de termijn die in artikel 16, §2, tweede lid, van vermelde wet is bepaald.<br>
 &nbsp;<br>
@@ -2054,7 +2017,7 @@ Elektronische kopieën die worden opgemaakt en bewaard conform het eerste lid, b
 
 ### ART VI.10.
 
-§1. De Vlaamse Regering biedt een informaticatoepassing aan, die tot doel heeft dat leerlingen zich kunnen identificeren om digitale leermiddelen en toepassingen te gebruiken waarvoor identificatie nodig is. Via de voormelde informaticatoepassing melden leerlingen zich aan bij verschillende dienstenleveranciers met hetzelfde account. De school bepaalt welke leermiddelen of toepassingen de leerling gebruikt. De dienstenleveranciers vragen het gebruik van de informaticatoepassing aan bij de verwerkingsverantwoordelijke, vermeld in paragraaf 2. Tijdens die aanvraagprocedure en tijdens de uitvoering worden de verwerkingen beoordeeld die de dienstenleveranciers beogen of uitvoeren.<br>
+§1. De Vlaamse Regering biedt een informaticatoepassing aan, die tot doel heeft dat leerlingen zich kunnen identificeren om digitale leermiddelen en toepassingen te gebruiken waarvoor identificatie nodig is. Via de voormelde informaticatoepassing melden leerlingen zich aan bij verschillende dienstenleveranciers met hetzelfde account.&nbsp;De informaticatoepassing voorziet ook in de mogelijkheid om leerlinggegevens te delen met verschillende applicaties via een Application Programming Interface, afgekort API. Per applicatie geeft het schoolbestuur, of de instelling daartoe ge-machtigd, zijn toestemming voor welke leerlingen de gegevens gedeeld kunnen worden. De school bepaalt welke leermiddelen of toepassingen de leerling gebruikt. De dienstenleveranciers vragen het gebruik van de informaticatoepassing aan bij de verwerkingsverantwoordelijke, vermeld in paragraaf 2. Tijdens die aanvraagprocedure en tijdens de uitvoering worden de verwerkingen beoordeeld die de dienstenleveranciers beogen of uitvoeren.<br>
 <br>
 §2. De entiteit die door de Vlaamse Regering wordt belast met de voorbereiding van het Vlaamse onderwijsbeleid, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming). De voormelde verwerkingsverantwoordelijke verwerkt de gegevens om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust.<br>
 <br>
@@ -2071,7 +2034,7 @@ Elektronische kopieën die worden opgemaakt en bewaard conform het eerste lid, b
 <br>
 De gegevens van de auditlogs en technische logs worden beheerd door de instantie die instaat voor het Vlaamse toegangsen gebruikersbeheer, als verwerker.<br>
 <br>
-§5. De betrokkenen zijn de leerlingen die het leermiddel of de toepassing moeten gebruiken in het kader van hun onderwijs. De dienstenleveranciers zijn de ontvangers van de gegevens die noodzakelijk zijn voor het doel van de identificatie van de gebruikers of de controle van de gebruiksvoorwaarden. De dienstenleveranciers ontvangen de voor­ en achternaam en de unieke identificator voor de informaticatoepassing, tenzij ze tijdens de aanvraagprocedure aantonen dat ze gerechtigd zijn om ook andere gegevens te ontvangen.<br>
+§5. De betrokkenen zijn de leerlingen die het leermiddel of de toepassing moeten gebruiken in het kader van hun onderwijs. De dienstenleveranciers zijn de ontvangers van de gegevens die noodzakelijk zijn om de gebruikers te identificeren, om de gebruiksvoorwaarden te controleren of voor enkel de leerlinggegevensdeling. De dienstenleveranciers ontvangen de voor­ en achternaam en de unieke identificator voor de informaticatoepassing, tenzij ze tijdens de aanvraagprocedure aantonen dat ze gerechtigd zijn om ook andere gegevens te ontvangen.<br>
 &nbsp;<br>
 §6. De gegevens worden door de verwerkingsverantwoordelijke niet langer bewaard dan twaalf jaar nadat het leerlingenaccount is aangemaakt. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, neemt de nodige maatregelen om de juistheid van de persoonsgegevens te garanderen. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren en neemt met het oog op transparantie en de garantie van de rechten van de betrokkenen, vermeld in paragraaf 5, in de communicatie met de voormelde betrokkenen of hun onderwijsinstelling een verwijzing op naar de vindplaats van de privacyverklaring.
 
@@ -2085,7 +2048,7 @@ Bij het Vlaams Ministerie van Onderwijs en Vorming wordt een onafhankelijke comm
 
 ### ART VII.2.
 
-De Commissie bestaat uit een kamer voor het basisonderwijs en een kamer voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, voorgezeten door één onafhankelijke persoon die aangesteld wordt door de Vlaamse Regering en bijgestaan door één ambtenaar van het Vlaams Ministerie van Onderwijs en Vorming, die fungeert als secretaris.<br>
+De Commissie bestaat uit een kamer voor het basisonderwijs en een kamer voor het secundair onderwijs, de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, voorgezeten door één onafhankelijke persoon die aangesteld wordt door de Vlaamse Regering en bijgestaan door één ambtenaar van het Vlaams Ministerie van Onderwijs en Vorming, die fungeert als secretaris.<br>
 Iedere kamer omvat :<br>
 1° een lid dat voldoet aan de voorwaarden gesteld in artikel 205 van het Gerechtelijk Wetboek;<br>
 2° een deskundige op het gebied van de consumentenbescherming;<br>
@@ -2106,8 +2069,8 @@ De Commissie stelt binnen een maand na haar instelling haar reglement van orde o
 ### ART VII.5.
 
 De Commissie beslist over de gegrondheid van klachten van belanghebbenden inzake :<br>
-1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet basisonderwijs van 25 februari 1997, artikel 35 van de codificatie betreffende het secundair onderwijs, en artikel 8, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, de bijdrageregeling, bedoeld in artikel 27bis en 27ter, §1, van het decreet basisonderwijs van 25 februari 1997, en de regeling met betrekking tot persoonlijke bijdrage, bedoeld in artikel 38 tot en met 41 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
-2° de bepalingen van artikel 51 van het decreet basisonderwijs van 25 februari 1997, van artikel 7 tot en met artikel 10 van de codificatie betreffende het secundair onderwijs, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikel II.48 tot en met II.52 van deze codificatie, van artikelen 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en van artikelen 48 tot en met 52 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+1° de internationaalrechtelijke en grondwettelijke beginselen over de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet basisonderwijs van 25 februari 1997, artikel 35 van de Codex Secundair Onderwijs van 17 december 2010, artikel 32 van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht en artikel 8, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, de bijdrageregeling, vermeld in artikel 27bis en 27ter, §1, van het decreet basisonderwijs van 25 februari 1997, en de regeling met betrekking tot persoonlijke bijdrage, vermeld in artikel 38 tot en met 41 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+2° de bepalingen van artikel 51 van het decreet basisonderwijs van 25 februari 1997, van artikel 7 tot en met artikel 10 van de Codex Secundair Onderwijs van 17 december 2010, van artikel 30 en 31 van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikel II.48 tot en met II.52 van deze codificatie, van artikel 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en van artikel 48 tot en met 52 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
 3° de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluitvormingsprocedures bedoeld in artikel 18 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.<br>
 &nbsp;<br>
 Wanneer zij oordeelt dat een klacht gegrond is, kan zij beslissen om :<br>
@@ -2173,7 +2136,7 @@ De Vlaamse Regering bepaalt de nadere regelen inzake de ontvankelijkheid en proc
 
 Voor de toepassing van dit deel VIII wordt verstaan onder :<br>
 &nbsp;<br>
-1° anderstalige nieuwkomer: de leerling bedoeld in artikel 2, 2°, van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs, respectievelijk artikel 4, §1, van het besluit van de Vlaamse Regering van 24 mei 2002 betreffende de organisatie van een onthaaljaar voor anderstalige nieuwkomers in het voltijds secundair onderwijs;<br>
+1° anderstalige nieuwkomer: de leerling, vermeld in artikel 3, 4°quater, van het decreet basisonderwijs van 25 februari 1997, respectievelijk de leerling, vermeld in artikel 3, 2°/1, a) en c), van de Codex Secundair Onderwijs van 17 december 2010;<br>
 2° ...;<br>
 3° ...;<br>
 4° leerling: elke onderwijszoekende die voldoet aan de bij of krachtens wet of decreet bepaalde toelatingsvoorwaarden of overeenkomstig artikel 252 van de codificatie betreffende het secundair onderwijs als vrije leerling wordt beschouwd;<br>
@@ -2213,13 +2176,13 @@ c) vereniging waar armen het woord nemen;<br>
 7° een vertegenwoordiger van het Agentschap Integratie en Inburgering;<br>
 8° een vertegenwoordiger van de integratiedienst;<br>
 9° een vertegenwoordiger van het schoolopbouwwerk;<br>
-10° een vertegenwoordiger van het betrokken gemeentebestuur of de betrokken gemeentebesturen-in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
+10° een vertegenwoordiger van het betrokken college van burgemeester en schepenen of de colleges van burgemeester en schepenen of in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
 <br>
 De Vlaamse Regering bepaalt welke organen worden belast met de coördinatie van het aanduiden van de in het eerste lid, 4°, 5°, 6°, b) en c), en 7°, bedoelde participanten. De in het eerste lid, 1°, 2°, 3°, 4°, 5°, 7°, 8° en 10°, bedoelde participanten duiden bij een eerste samenkomst de in het eerste lid, 6°, a), b) en c), en 9°, bedoelde participanten aan. Zij worden daartoe samengeroepen door de in paragraaf 3 bedoelde deskundige.<br>
 <br>
 Het totaal aantal participanten, vermeld in het eerste lid, 4° tot en met 10°, is steeds kleiner dan het totaal aantal participanten, vermeld in het eerste lid, 1° tot en met 3°.<br>
 <br>
-§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen.<br>
+§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen, vermeld in paragraaf 1, eerste lid, 10°.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de voorzitter wordt vergoed.<br>
 <br>
@@ -2245,7 +2208,7 @@ c) vereniging waar armen het woord nemen;<br>
 8° een vertegenwoordiger van het Agentschap Integratie en Inburgering;<br>
 9° een vertegenwoordiger van de integratiedienst;<br>
 10° een vertegenwoordiger van het schoolopbouwwerk;<br>
-11° een vertegenwoordiger van het betrokken gemeentebestuur of de betrokken gemeentebesturen - in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
+11° een vertegenwoordiger van het betrokken college van burgemeester en schepenen of de colleges van burgemeester en schepenen of in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
 <br>
 De Vlaamse Regering bepaalt welke organen worden belast met de coördinatie van het aanduiden van de in het eerste lid, 4°, 5°, 6°, 7°, b) en c), en 8°, bedoelde participanten.<br>
 <br>
@@ -2253,7 +2216,7 @@ De in het eerste lid, 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9° en 11°, bedoelde p
 <br>
 Het totaal aantal participanten, vermeld in het eerste lid, 4° tot en met 11°, is steeds kleiner dan het totaal aantal participanten, vermeld in het eerste lid, 1° tot en met 3°.<br>
 <br>
-§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen.<br>
+§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen, vermeld in paragraaf 1, eerste lid, 11°.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de voorzitter wordt vergoed.<br>
 <br>
@@ -2270,7 +2233,7 @@ De deskundige kan niet worden aangesteld als voorzitter.<br>
 &nbsp;Een lokaal overlegplatform basisonderwijs heeft volgende opdrachten:<br>
 1° het opmaken van een omgevingsanalyse inzake ongelijke onderwijskansen binnen het werkingsgebied. De participanten van het lokaal overleg leveren daartoe de noodzakelijke kwantitatieve en kwalitatieve gegevens;<br>
 2° het maken van afspraken inzake het nastreven van de doelstellingen inzake gelijke kansen;<br>
-3° het maken van afspraken inzake de opvang, het aanbod en de toeleiding van leerlingen naar het onthaalonderwijs voor anderstalige nieuwkomers en de opvolging van gewezen anderstalige nieuwkomers in het gefinancierd of gesubsidieerd onderwijs;<br>
+3° het maken van afspraken inzake de opvang, het aanbod en de toeleiding van anderstalige nieuwkomers naar de taalheldklas of het onthaalonderwijs voor anderstalige nieuwkomers en de opvolging van anderstalige nieuwkomers bij hun doorstroom naar het regulier aanbod in het gefinancierd of gesubsidieerd onderwijs;<br>
 4° het maken van afspraken inzake de uitoefening van de bemiddelingsbevoegdheid;<br>
 5° het maken van afspraken over de toepassing van de voorrang zoals bepaald in hoofdstuk IV/1 en hoofdstuk IV/3 van het decreet basisonderwijs;<br>
 6° het maken van afspraken over de communicatie over het inschrijvingsbeleid van de scholen en de afstemming ervan op de communicatie door de Vlaamse overheid;<br>
@@ -2345,7 +2308,7 @@ De samenstelling, vermeld in het eerste lid, geldt ook als de Commissie voor het
 
 ### ART VIII.9.
 
-De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen tot en met het schooljaar 2022-2023 in het gewoon onderwijs en tot en met het schooljaar 2026-2027 in het buitengewoon onderwijs conform artikel 37quater decies en 37sedecies van het decreet basisonderwijs van 25 februari 1997, en artikel 110/14 en 110/16 van de Codex Secundair Onderwijs van 17 december 2010. De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen voor het schooljaar 2023-2024 en verder in het gewoon onderwijs en voor het schooljaar 2027-2028 en verder in het buitengewoon onderwijs conform artikel 37/14, 37/33, 37/34, 37/68, 37/69 en 37/70 van het decreet basisonderwijs van 25 februari 1997, en artikel 253/10, 253/28, 253/30, 253/31, 235/59, 253/60 en 253/61 van de Codex Secundair Onderwijs van 17 december 2010, en ook bij een weigering of een uitschrijving op basis van een inschrijving in een andere school conform artikel 37/43/4 van het decreet basisonderwijs van 25 februari 1997 en artikel 295/15 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen tot en met het schooljaar 2022-2023 in het gewoon onderwijs en tot en met het schooljaar 2028-2029 in het buitengewoon onderwijs conform artikel 35, 37quater decies en 37sedecies van het decreet basisonderwijs van 25 februari 1997, en artikel 110/14, 110/16 en 118 van de Codex Secundair Onderwijs van 17 december 2010. De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen voor het schooljaar 2023-2024 en verder in het gewoon onderwijs en voor het schooljaar 2029-2030 en verder in het buitengewoon onderwijs conform artikel 37/14, 37/33, 37/34, 37/68, 37/69 en 37/70 van het decreet basisonderwijs van 25 februari 1997, en artikel 253/10, 253/28, 253/30, 253/31, 235/59, 253/60 en 253/61 van de Codex Secundair Onderwijs van 17 december 2010, en ook bij een weigering of een uitschrijving op basis van een inschrijving in een andere school conform artikel 37/43/4 van het decreet basisonderwijs van 25 februari 1997 en artikel 295/15 van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
 Tegen een uitspraak van de Commissie staat geen beroep open bij de Vlaamse Regering.
 
@@ -2534,6 +2497,29 @@ De onderwijsinspectie en bevoegde diensten van de Vlaamse Gemeenschap zijn verwe
 §6. Als de onderwijsinspectie inschat dat de ontwikkelingskansen of de integriteit van een leerplichtige die onder het stelsel van huisonderwijs valt, niet gevrijwaard zijn, dan verstrekt de onderwijsinspectie de persoonsgege-vens, vermeld in paragraaf 2, aan de gemandateerde voorzieningen, vermeld in hoofdstuk 8, afdeling 2, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
 <br>
 De onderwijsinspectie en de gemandateerde voorzieningen zijn verwerkingsverantwoordelijke voor de gegevens. De onderwijsinspectie zorgt ervoor dat de overgedragen persoonsgegevens correct zijn.
+
+## DEEL X/4 BIJZONDERE MAATREGELEN IN HET KADER VAN DE CAPACITEITSPROBLEMATIEK IN TYPE 2 IN HET GEWOON EN BUITENGEWOON ONDERWIJS
+
+### X/4.1.
+
+§1. Vanaf het begrotingsjaar 20TT, dat start in 2026, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon of buitengewoon basisonderwijs, en aan scholen voor gewoon of buitengewoon secundair onderwijs voor het schooljaar 20TT-1 – 20TT, dat start in 2026-2027, die op de eerste schooldag van oktober van 20TT-1 voldoen aan de volgende voorwaarden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de school van gewoon of buitengewoon basisonderwijs of de school van gewoon of buitengewoon secundair onderwijs heeft op de eerste schooldag van oktober van 20TT-1 ten minste zeven regelmatige leerlingen meer dan op de eerste schooldag van februari van 20TT-1 met een IAC-verslag type 2 in het basison-derwijs of een IAC-verslag opleidingsvorm 1, type 2 of opleidingsvorm 2, type 2 in het secundair onderwijs, waarbij de extra leerlingen van beide opleidingsvor-men per school samen worden geteld;<br>
+2°&nbsp;&nbsp; &nbsp;de hoofdvestigingsplaats van de school ligt in een onderwijszone waar in het gewoon en buitengewoon basisonderwijs en in het gewoon en buitengewoon secundair onderwijs samen het aantal regelmatige leerlingen met een IAC-verslag type 2 en een IAC-verslag opleidingsvorm 1, type 2 en opleidingsvorm 2, type 2, op de eerste schooldag van oktober van 20TT-1 hoger is dan op de eerste schooldag van februari van 20TT-1;<br>
+3°&nbsp;&nbsp; &nbsp;er is geen gelijktijdige daling van leerlingen met een IAC-verslag type 2 en een IAC-verslag type 2, opleidingsvorm 1, en een IAC-verslag type 2, opleidingsvorm 2, in een of meer andere scholen van hetzelfde onderwijsniveau en hetzelfde schoolbestuur die in dezelfde gemeente liggen als de hoofdvestigingsplaats van de begunstigde school, waarbij de omvang van de daling toelaat aan laatstgenoemde school om de norm, vermeld in 1°, te bereiken.<br>
+<br>
+§2. Voor de maatregel, vermeld in paragraaf 1, wordt vanaf 2026 jaarlijks in een bedrag van 6 miljoen euro voorzien. Dit bedrag wordt vanaf het begrotingsjaar 2027 geïndexeerd volgens artikel 85bis, §3, tweede lid, 2°, van het decreet basisonderwijs van 25 februari 1997. De Vlaamse Regering kan binnen de beschikbare begrotingskredieten het bedrag verhogen.<br>
+<br>
+Het extra werkingsbudget per school voor gewoon of buitengewoon basisonderwijs en per school voor gewoon of buitengewoon secundair onderwijs voor het schooljaar in kwestie is het resultaat van de vermenigvuldiging van het aantal bijkomende regelmatige leerlingen met een IAC-verslag type 2 en een IAC-verslag opleidingsvorm 1, type 2 of opleidingsvorm 2, type 2, in de school op de eerste schooldag van oktober van 20TT-1 ten opzichte van het aantal regelmatige leerlingen in de school voor gewoon of buitengewoon basisonderwijs en in de school voor gewoon of buitengewoon secundair onderwijs met een IAC-verslag type 2 en een IAC-verslag opleidingsvorm 1, type 2 of opleidingsvorm 2, type 2 op de eerste schooldag van februari van 20TT-1 met het werkingsbudget waarin is voorzien binnen de begroting, vermeld in dit artikel, gedeeld door het totale aantal bijkomende regelmatige leerlingen met een IAC-verslag type 2 en een IAC-verslag opleidingsvorm 1, type 2 of opleidingsvorm 2, type 2, op de eerste schooldag van oktober van 20TT-1 in alle scholen voor gewoon of buitengewoon basisonderwijs en in alle scholen voor gewoon of buitengewoon secundair onderwijs die voldoen aan de voorwaarden, vermeld in paragraaf 1, ten opzichte van het aantal regelmatige leerlingen met een IAC-verslag type 2 en een IAC-verslag opleidingsvorm 1, type 2 of opleidingsvorm 2, type 2, op de eerste schooldag van februari van 20TT-1 in alle scholen voor gewoon of buitengewoon basisonderwijs en in alle scholen voor gewoon of buitengewoon secundair onderwijs die voldoen aan de voorwaarden, vermeld in paragraaf 1.<br>
+<br>
+Het bedrag dat een school voor buitengewoon basisonderwijs of gewoon basisonderwijs per bijkomende regelmatige leerling ontvangt, kan niet hoger zijn dan 19.278 euro. Het bedrag dat een school voor buitengewoon secundair onderwijs of gewoon secundair onderwijs per bijkomende regelmatige leerling ontvangt, kan niet hoger zijn dan 26.234 euro.&nbsp;<br>
+<br>
+De bedragen, vermeld in het derde lid, worden vanaf het begrotingsjaar 2027 geïndexeerd, voor het basisonderwijs conform artikel 85bis, §3, tweede lid, 2°, van het decreet basisonderwijs van 25 februari 1997 en voor het secundair onderwijs conform artikel 324, §3, tweede lid, 2°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Scholen van gewoon en buitengewoon basisonderwijs en gewoon en buitengewoon secundair onderwijs die voor het schooljaar 20TT-1 – 20TT die tellen of hertellen op de eerste schooldag van oktober komen voor het schooljaar in kwestie niet in aanmerking voor het extra werkingsbudget, vermeld in dit artikel.<br>
+<br>
+Leerlingen die permanent onderwijs aan huis volgen als vermeld in artikel 35 van het decreet basisonderwijs van 25 februari 1997 en artikel 118 van de Codex Secundair Onderwijs van 17 december 2010, komen niet in aanmerking voor het extra werkingsbudget, vermeld in dit artikel.&nbsp;<br>
+<br>
+Het extra werkingsbudget voor het schooljaar in kwestie wordt aan de schoolbesturen vóór 1 februari van het schooljaar in kwestie betaald.
 
 ## DEEL XI BEPALINGEN INZAKE CODIFICATIE VAN ONDERWIJSREGELGEVING
 
