@@ -111,6 +111,10 @@ Als er na de vaststelling van de gevolgen van de aandoening waaruit de specifiek
 <br>
 De maatregelen, vermeld in het eerste en tweede lid, gelden met behoud van de toepassing van de terugvordering van de onverschuldigd betaalde toelagen in het kader van het gezinsbeleid, vermeld in artikel 103 van het Groeipakketdecreet van 2018, de handhaving ten aanzien van de burgers, vermeld in artikel 130 tot en met 171 van het voormelde decreet, en de strafbepalingen, vermeld in artikel 189 tot en met 191 van het voormelde decreet.”.
 
+### ART 15.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 januari 2024, worden in hoofdstuk 4, artikel 21 tot 26 en 32 tot 43 opgeheven.
+
 ### ART 16.
 
 In artikel 21 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 maart 2021 en 28 januari 2022, worden de volgende wijzigingen aangebracht:<br>
