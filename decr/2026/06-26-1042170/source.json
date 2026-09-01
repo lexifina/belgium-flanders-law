@@ -2,16 +2,16 @@
   "codex_id": 1042170,
   "title": "Decreet van 2026-06-26 tot wijziging van het Groeipakketdecreet van 2018, wat de selectieve participatietoeslag in het secundair onderwijs betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042170/VolledigDocument?datum=2026-07-20",
-  "source_sha256": "34b3a6f9ade8c0aff00aa687e8a9fb8735f098ecc021b3d65a493c587a2dcce0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042170/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "6cae0c5d014abf14c9a97eff2b041173a81bf6edd14f0ab968c94df2abafd5d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042170&param=informatie",
-  "as_of": "2026-07-20",
+  "as_of": "2026-09-01",
   "made": "2026-06-26",
   "gazette": "2026-07-10",
   "numac": 2026005177,
   "document_start": null,
   "document_end": null,
-  "in_force": "2026-07-20",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2026-07-20; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
