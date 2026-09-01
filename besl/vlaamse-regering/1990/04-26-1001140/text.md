@@ -113,7 +113,8 @@ Het eerste lid is niet van toepassing op :<br>
 2° de personeelsleden van het administratief personeel van de semi-internaten;<br>
 3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
 4° de personeelsleden van de Centra voor Basiseducatie;<br>
-5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.
+5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn;<br>
+6° de personeelsleden van de GI-school.
 
 ### ART. 7.
 
@@ -195,7 +196,8 @@ Het eerste lid is niet van toepassing op :<br>
 2° de personeelsleden van het administratief personeel van de semi-internaten;<br>
 3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
 4° de personeelsleden van de Centra voor Basiseducatie;<br>
-5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.
+5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn;<br>
+6° de personeelsleden van de GI-school.
 
 ## HOOFDSTUK IV [GEMEENSCHAPPELIJKE BEPALINGEN (verv. BVR 30 augustus 2016, art. 14, I: 1 september 2017)]
 
