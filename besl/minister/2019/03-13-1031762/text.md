@@ -44,6 +44,8 @@ Ter uitvoering van artikel 8, tweede lid, van het besluit van 13 juli 2018 worde
 <br>
 Als het onverschuldigd betaalde bedrag hoger dan 1.000 euro is, legt de uitbetalingsactor de vraag tot vaststelling van de goede trouw voor aan het agentschap voor bindend advies, met uitzondering van de vragen tot vaststelling van de goede trouw op basis van de categorie van behartenswaardigheid, vermeld in paragraaf 2, eerste lid, 2°, als de behartenswaardige gezondheidstoestand door de uitbetalingsactor kan worden bevestigd op basis van een authentieke bron als vermeld in artikel 1, 2°, van het Besluit Gegevensverwerking Toelagen Gezinsbeleid van 19 juli 2019. Het agentschap richt daarvoor een commissie op.<br>
 <br>
+Het grensbedrag van 1.000 euro, vermeld in het tweede lid, is gekoppeld aan het spilindexcijfer 103,04 (basis 2013= 100) en wordt jaarlijks in september geïndexeerd conform artikel 4 van het Groeipakketdecreet van 2018.<br>
+<br>
 De procedure voor de vaststelling van de goede trouw wordt bepaald door het agentschap.<br>
 <br>
 §2. De vaststelling van de goede trouw, vermeld in paragraaf 1, wordt gedaan op basis van een van de volgende categorieën van behartenswaardigheid:<br>
