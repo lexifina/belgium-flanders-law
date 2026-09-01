@@ -114,18 +114,7 @@ De Vlaamse Regering bepaalt de nadere regels over de uitvoering van het inspirat
 
 ### ART 11.
 
-Het agentschap&nbsp;kent een kwaliteitslabel toe aan organisatoren van kleuteropvang die dat kwaliteitslabel aanvragen en die voldoen aan de kwaliteitsvoorwaarden.<br>
-<br>
-De kwaliteitsvoorwaarden, vermeld in het eerste lid, hebben minimaal betrekking op de volgende elementen:<br>
-1° het aanbod van buitenschoolse activiteiten;<br>
-2° de toegankelijkheid, met bijzondere aandacht voor kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
-3° de kwaliteitsvolle interacties tussen de medewerkers en de kinderen, waarbij de medewerkers beschikken over de nodige competenties en voldoende kennis van het Nederlands;<br>
-4° de organisator controleert bij de aanstelling van elke persoon die werkzaam is in de kinderopvanglocatie het goed en zedelijk gedrag van de betrokkene, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt. Artikel 3, tweede tot en met vijfde lid, artikel 4, eerste lid, en artikel 5 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister, vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe personen werkzaam in de kinderopvanglocatie, is daarbij van toepassing. Daarenboven beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon;<br>
-5° het gebruik van het Nederlands.<br>
-<br>
-De Vlaamse Regering kan aanvullende voorwaarden bepalen.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot het kwaliteits-label, waaronder het toezicht op de naleving van de kwaliteitsvoorwaarden.
+....
 
 ### ART 11/1.
 
@@ -164,7 +153,9 @@ De Vlaamse Regering bepaalt de nadere regels voor de toekenning van de subsidie,
 
 De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd, zijn van toepassing met uitzondering van artikel 9 van dat decreet.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor de periodieke plan- en rapporteringsverplichtingen die van toepassing zijn voor de Vlaamse Gemeenschapscommissie.
+De Vlaamse Regering bepaalt de nadere regels voor de periodieke plan- en rapporteringsverplichtingen die van toepassing zijn voor de Vlaamse Gemeenschapscommissie.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de monitoring van het aanbod en het gebruik, de opvolging en de terugvordering van subsidies.
 
 ## HOOFDSTUK 4. Verwerking van persoonsgegevens
 
@@ -172,33 +163,11 @@ De Vlaamse Regering bepaalt de nadere regels voor de periodieke plan- en rapport
 
 § 1. Het agentschap, de toezichthouders, organisatoren en lokale besturen, verwerken alle noodzakelijke persoonsgegevens over organisatoren, medewerkers, kinderen en hun gezinnen die gebruikmaken van buitenschoolse activiteiten, om de doelstellingen, geformuleerd in artikel 3, te kunnen realiseren.<br>
 <br>
-§ 2. De organisatoren van kleuteropvang verwerken met het oog op de toekenning van een kwaliteitslabel als vermeld in artikel 11, de volgende categorieën van persoonsgegevens over de medewerkers van kleuteropvang en over de kinderen en hun gezinnen die gebruikmaken van kleuteropvang:<br>
-1° identificatiegegevens van de kinderen;<br>
-2° gegevens over de gezondheid van de kinderen;<br>
-3° gegevens over de kwetsbaarheid van de gezinnen;<br>
-4° gegevens over de deelname van kinderen aan het aanbod buitenschoolse activiteiten;<br>
-5° identificatiegegevens, gegevens over de competenties en de voldoende kennis van het Nederlands van medewerkers;<br>
-6° gegevens over het uittreksel uit het strafregister, vermeld in artikel 11, tweede lid, 4°.<br>
+§ 2. ...<br>
 <br>
-De organisatoren van kleuteropvang zijn de verwerkingsverantwoordelijken voor bovenvermelde persoonsgegevens. Zij bezorgen de gegevens uit punt 1° tot en met punt 3°, punt 5° en punt 6° aan het agentschap met het oog op de toepassing en de handhaving van de kwaliteitsvoorwaarden, vermeld in artikel 11.<br>
+§ 3. ...<br>
 <br>
-De persoonsgegevens, vermeld in het eerste lid, 1° tot en met 4°, worden bewaard tot vijf jaar nadat het kind geen gebruik meer maakt van kleuteropvang bij de betrokken organisator. De persoonsgegevens in het eerste lid, 5° en 6°, worden bewaard tot vijf jaar nadat de medewerker niet langer verbonden is aan de betrokken organisator van kleuteropvang.<br>
-<br>
-§ 3. Het agentschap verwerkt met het oog op de toepassing en de handhaving van de kwaliteitsvoorwaarden, vermeld in artikel 11, de volgende categorieën van persoonsgegevens van medewerkers van kleuteropvang, kinderen en gezinnen die gebruikmaken van kleuteropvang en van organisatoren van kleuteropvang:<br>
-1° identificatiegegevens van de organisator van kleuteropvang en gegevens over de kwaliteitsvoorwaarden, vermeld in artikel 11, tweede lid, waaraan deze organisator moet voldoen;<br>
-2° de gegevens uit paragraaf 2, eerste lid, 1° tot en met 3°, 5° en 6°.<br>
-<br>
-Het agentschap is de verwerkingsverantwoordelijke voor de bovenvermelde persoonsgegevens.<br>
-<br>
-De persoonsgegevens voorzien in het eerste lid worden bewaard tot vijf jaar na de verwerking ervan.<br>
-<br>
-§ 4. De toezichthouders verwerken met het oog op de toepassing en de handhaving van de kwaliteitsvoorwaarden, vermeld in artikel 11, de volgende categorieën van persoonsgegevens van medewerkers, kinderen en gezinnen die gebruikmaken van kleuteropvang en van organisatoren van kleuteropvang:<br>
-1° identificatiegegevens van de organisator van kleuteropvang en gegevens over de kwaliteitsvoorwaarden, vermeld in artikel 11, tweede lid, waaraan deze organisator moet voldoen;<br>
-2° de gegevens uit paragraaf 2, eerste lid, 1° tot en met 6°.<br>
-<br>
-De toezichthouders zijn verwerkingsverantwoordelijken voor de bovenvermelde persoonsgegevens.<br>
-<br>
-De persoonsgegevens voorzien in het eerste lid worden bewaard tot drie jaar nadat hun verslag in het kader van het toezicht definitief is geworden.<br>
+§ 4. ...<br>
 <br>
 § 5. Organisatoren verwerken op vraag van het lokaal bestuur, in het kader van de regie buitenschoolse activiteiten, vermeld in artikel 4, en de toekenning van subsidies, vermeld in artikel 12, de volgende categorieën van persoonsgegevens van de kinderen en hun gezinnen die gebruikmaken van buitenschoolse activiteiten en de medewerkers:<br>
 1° identificatiegegevens van de kinderen;<br>
@@ -210,7 +179,7 @@ De persoonsgegevens voorzien in het eerste lid worden bewaard tot drie jaar nada
 <br>
 De organisatoren zijn verwerkingsverantwoordelijken voor de bovenvermelde persoonsgegevens. De organisator bezorgt deze persoonsgegevens aan het lokaal bestuur, op vraag van het lokaal bestuur en dit in het kader van hun regie inzake buitenschoolse activiteiten.<br>
 <br>
-De persoonsgegevens, vermeld in het eerste lid, 1° tot en met 4°, worden bewaard tot vijf jaar nadat het kind geen gebruik meer maakt van buitenschoolse activiteiten bij de betrokken organisator. De persoonsgegevens, vermeld in het eerste lid, 5° en 6°, worden bewaard tot vijf jaar nadat de medewerker niet langer verbonden is aan de betrokken organisator.<br>
+De persoonsgegevens, vermeld in het eerste lid, 1° tot en met 4°, worden bewaard tot vijf jaar nadat het kind geen gebruik meer maakt van buitenschoolse activiteiten bij de betrokken organisator. De persoonsgegevens, vermeld in het eerste lid, 5°, worden bewaard tot vijf jaar nadat de medewerker niet langer verbonden is aan de betrokken organisator.<br>
 <br>
 § 6. Lokale besturen verwerken met het oog op de vervulling van de regie van buitenschoolse activiteiten, de volgende categorieën van persoonsgegevens over de kinderen en hun gezinnen die gebruikmaken van buitenschoolse activiteiten en medewerkers:<br>
 1° identificatiegegevens van de organisator en gegevens over de voorwaarden waaraan deze organisator moet voldoen;<br>
@@ -218,7 +187,7 @@ De persoonsgegevens, vermeld in het eerste lid, 1° tot en met 4°, worden bewaa
 <br>
 Het lokaal bestuur is de verwerkingsverantwoordelijke voor de bovenvermelde persoonsgegevens.<br>
 <br>
-De persoonsgegevens voorzien in het eerste lid worden bewaard tot vijf jaar na de verwerking ervan.<br>
+De persoonsgegevens voorzien in het eerste lid, met uitzondering van 6°,&nbsp;worden bewaard tot vijf jaar na de verwerking ervan.<br>
 <br>
 § 7. Lokale besturen, en desgevallend de actor aangeduid overeenkomstig artikel 8, tweede lid, verwerken met het oog op de organisatie van het lokaal samenwerkingsverband, vermeld in artikel 7, identificatiegegevens van organisatoren, of de persoon die deze vertegenwoordigt, die deel uitmaken van het samenwerkingsverband.<br>
 <br>
@@ -271,13 +240,19 @@ De Vlaamse Regering bepaalt de nadere regels die van toepassing zijn gedurende d
 
 ### ART 17/1.
 
-Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, krijgen de lokale besturen van de gemeenten die een substantieel subsidieverlies lijden ten opzichte van de subsidies die op grond van artikel 17, eerste lid, aan de organisatoren werden verleend, een gedeeltelijke compensatie. Dit gedurende een periode van vier jaar.<br>
+Nadat de overgangstermijn, vermeld in artikel 17, eerste lid, is afgelopen, krijgen de lokale besturen van de gemeenten die een subsidieverlies lijden ten opzichte van de subsidies die op grond van artikel 17, eerste lid, aan de organisatoren werden verleend, een compensatie. De compensatie wordt toegekend gedurende een periode van vijf jaar.<br>
 <br>
-Van het totale beschikbare budget voor de subsidie, vermeld in artikel 12, wordt 10% ingezet voor deze compensatie.<br>
+Nadat de overgangstermijn, vermeld in artikel 17, eerste lid, is afgelopen, worden de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, gedurende een periode van vijf jaar niet toegepast bij de bepaling van het subsidiebedrag. Het subsidiebedrag wordt wel mee gebaseerd op het aandeel kinderen met een sociale toeslag of een zorgtoeslag.<br>
 <br>
-Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, worden de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, niet toegepast bij de bepaling van het subsidiebedrag, maar wordt het subsidiebedrag wel mee gebaseerd op het kansarmoedepercentage in verhouding tot het aantal gezinnen binnen de gemeente. Dit gedurende een periode van vier jaar.<br>
+In het tweede lid wordt verstaan onder:<br>
+1° kinderen met een sociale toeslag:<br>
+a)&nbsp;&nbsp; &nbsp;voor de Vlaamse Gemeenschap: de kinderen, vermeld in artikel 18, tweede lid, 1°, van het Groeipakketdecreet van 2018;<br>
+b)&nbsp;&nbsp; &nbsp;voor het tweetalige gebied Brussel-Hoofdstad: de kinderen met een schooltoeslag van wie de gezinsinkomsten lager liggen dan het bedrag, vermeld in artikel 18, tweede lid, 1°, van het voormelde decreet;<br>
+2°&nbsp;&nbsp; &nbsp;kinderen met een zorgtoeslag:<br>
+a)&nbsp;&nbsp; &nbsp;voor de Vlaamse Gemeenschap: de kinderen, vermeld in artikel 16, §1, van het voormelde decreet;<br>
+b)&nbsp;&nbsp; &nbsp;voor het tweetalige gebied Brussel-Hoofdstad: de kinderen die een extra toeslag krijgen voor een kind met een handicap, boven op de kinderbijslag.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels, minstens de uitwerking van de compensatieregeling en wat verstaan wordt onder het kansarmoedepercentage, vermeld in het derde lid.
+De Vlaamse Regering bepaalt de nadere regels voor de uitwerking van de compensatieregeling.
 
 ## Afdeling 2. Wijzigingsbepalingen
 
