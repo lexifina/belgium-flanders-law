@@ -13273,7 +13273,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:1237px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1237px">
 	<tbody>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:399px"><strong>module</strong></td>
@@ -14936,7 +14936,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:1024px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1024px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:351px"><strong>module </strong></td>
@@ -19705,7 +19705,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 <a name="_Hlk167798834">19° Met ingang van 1 februari 2024 kan de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module: </a><br>
 <br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:1177px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1177px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:359px"><strong>module </strong></td>
@@ -20053,7 +20053,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 <br>
 a) de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:1044px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1044px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:359px"><strong>module </strong></td>
@@ -20124,7 +20124,7 @@ a) de hieronder in de linkerkolom vermelde module individueel geconcordeerd word
 <br>
 b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:920px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:920px">
 	<tbody>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:459px"><strong>opleiding</strong></td>
@@ -20180,7 +20180,7 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:998px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:998px">
 	<tbody>
 		<tr>
 			<td colspan="2" style="height:19px; width:500px"><strong>module </strong></td>
@@ -21145,7 +21145,15 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Engels voor assistent goederenvervoer</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1 &nbsp; &nbsp; &nbsp;</td>
 			<td colspan="2" style="height:19px; width:488px">Engels voor transport en logistiek</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Frans voor assistent goederenvervoer&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1</td>
@@ -21153,7 +21161,15 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Engels voor assistent goederenvervoer</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
 			<td colspan="2" style="height:19px; width:488px">Engels voor transport en logistiek</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Frans voor assistent goederenvervoer</td>
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
@@ -21163,12 +21179,7 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 </table>
 <br>
 23° Met ingang van 1 februari 2026 kan:<br>
-&nbsp;
-<ol>
-	<li>de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:</li>
-</ol>
-&nbsp;
-
+&nbsp;a) de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module: &nbsp;
 <table border="1" cellspacing="0" style="border-collapse:collapse; width:992px">
 	<tbody>
 		<tr>
@@ -21205,14 +21216,8 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 		</tr>
 	</tbody>
 </table>
-&nbsp;
+&nbsp; b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:
 
-<ol>
-	<li>de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:</li>
-</ol>
-<br>
-<br>
-&nbsp;
 <table border="1" cellspacing="0" style="border-collapse:collapse; width:904px">
 	<tbody>
 		<tr>
@@ -21229,5 +21234,29 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 		</tr>
 	</tbody>
 </table>
+<br>
+24° Met ingang van 1 september 2026 kan de module, vermeld in de linkerkolom, individueel geconcordeerd worden naar de module, vermeld in de rechterkolom:<br>
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:653px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:304px"><strong>module </strong></td>
+			<td style="height:19px; width:349px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:304px">&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:349px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:304px">Programmeerlogica en databanken</td>
+			<td style="height:19px; vertical-align:bottom; width:349px">Content visualiseren met lay-out en typografie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:304px">Programmeerlogica en databanken</td>
+			<td style="height:19px; vertical-align:bottom; width:349px">Digitaal Design”.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
 <br>
 &nbsp;
