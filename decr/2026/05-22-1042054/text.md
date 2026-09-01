@@ -41,6 +41,12 @@ Aan artikel 28, §1, van hetzelfde decreet, gewijzigd bij het decreet van 22 maa
 4° de vergoeding voor iedere schade veroorzaakt door een ongunstige behandeling die gebaseerd is op meerdere beschermde kenmerken als vermeld in artikel 15bis, waarvan één kenmerk het geslacht is, of door andere relevante factoren;<br>
 5° de rente op achterstallige betalingen.”.
 
+### ART 7.
+
+In hetzelfde decreet wordt een artikel 33bis ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 33bis. Het plegen van beloningsdiscriminatie, vermeld in artikel 20, derde lid, jegens een persoon, een groep, een gemeenschap of de leden ervan wordt bestraft met een straf van niveau 1.”.
+
 ### ART 8.
 
 In artikel 35bis van hetzelfde decreet, ingevoegd bij het decreet van 22 maart 2024, worden de volgende wijzigingen aangebracht:<br>
