@@ -2,16 +2,16 @@
   "codex_id": 1042159,
   "title": "Besluit van de Vlaamse Regering van 2026-05-29 tot wijziging van diverse bepalingen inzake energie en klimaat",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042159/VolledigDocument?datum=2026-07-20",
-  "source_sha256": "4aec3ddc2961e4974359ce9b98fa563ea903448635298dd6fe1e042469c77fbe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042159/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "2792b05e9145065b756a78d01e4b96536dd9ef9d32cf020a08d27c54798753c6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042159&param=informatie",
-  "as_of": "2026-07-20",
+  "as_of": "2026-09-01",
   "made": "2026-05-29",
   "gazette": "2026-07-10",
   "numac": 2026005059,
   "document_start": "2026-07-20",
   "document_end": null,
-  "in_force": "2026-07-20",
-  "article_versions": 63,
-  "record_form": "consolidated version as in force on 2026-07-20; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 68,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

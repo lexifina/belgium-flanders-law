@@ -306,6 +306,41 @@ In artikel 9.1.30, §2, tweede lid, 2°, van hetzelfde besluit, ingevoegd bij he
 
 In artikel 9.2.11, §4, tweede lid, 3°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 december 2022, wordt het getal “vijf” vervangen door het getal “zes”.
 
+### ART 43.
+
+In artikel 9.3.1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 juli 2021 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 december 2025, worden volgende wijzigingen aangebracht:<br>
+1° de woorden “notariële overdracht” worden telkens vervangen door de zinsnede “verkoop, ruil, schenking of inbreng in een rechtspersoon”;<br>
+2° in paragraaf 1, tweede lid, worden de woorden “worden overgedragen” vervangen door de zinsnede “worden verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+3° in paragraaf 1, tweede lid, worden de woorden “wordt overgedragen” vervangen door de zinsnede “wordt verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+4° in paragraaf 2, eerste lid, wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon”;<br>
+5° in paragraaf 2, tweede lid, punt 1°, a), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+6° in paragraaf 2, tweede lid, punt 1°, b), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+7° in paragraaf 2, tweede lid, punt 2°, a), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+8° in paragraaf 2, tweede lid, punt 2°, b), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+9° in paragraaf 2, tweede lid, punt 3°, a), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+10° in paragraaf 2, tweede lid, punt 3°, b), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+11° in paragraaf 2, tweede lid, punt 4°, a), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+12° in paragraaf 2, tweede lid, punt 4°, b), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+13° in paragraaf 2, tweede lid, punt 5°, a), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+14° in paragraaf 2, tweede lid, punt 5°, b), wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarbij niet op alle eenheden een recht van erfpacht of opstal wordt gevestigd of overgedragen”;<br>
+15° in paragraaf 4 wordt het woord “overgedragen” vervangen door de zinsnede “verkocht, geruild, geschonken of ingebracht in een rechtspersoon of waarop in totaliteit een recht van erfpacht of opstal wordt gevestigd of overgedragen”.
+
+### ART 44.
+
+In artikel 9.3.2 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 juli 2021 en gewijzigd bij de besluiten van 8 juli 2022, 16 juni 2023 en 12 december 2025 worden de woorden “notariële overdracht” &nbsp;vervangen door de zinsnede “verkoop, ruil, schenking of inbreng in een rechtspersoon”.
+
+### ART 45.
+
+In artikel 9.3.4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juli 2022 en gewijzigd bij de besluiten van de Vlaamse Regering van 16 juni 2023, 3 mei 2024 en 12 december 2025 worden de woorden “notariële overdracht” telkens vervangen door de zinsnede “verkoop, ruil, schenking of inbreng in een rechtspersoon”.
+
+### ART 46.
+
+In artikel 9.3.5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juli 2022 en gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 2022, 16 juni 2023 en 12 december 2025 worden de woorden “notariële overdracht” &nbsp;vervangen door de zinsnede “verkoop, ruil, schenking of inbreng in een rechtspersoon”.
+
+### ART 47.
+
+In artikel 9.3.7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juli 2022 en gewijzigd bij het besluit van de Vlaamse Regering van 12 december 2025, worden de woorden “notariële overdracht” vervangen door de zinsnede “verkoop, ruil, schenking of inbreng in een rechtspersoon”.
+
 ### ART 48.
 
 In artikel 9.4.1 van hetzelfde besluit, ingevoegd bij het besluit van 12 december 2025 worden een tweede tot en met vierde lid ingevoegd, die luiden als volgt:&nbsp;<br>
