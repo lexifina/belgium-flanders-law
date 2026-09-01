@@ -77,6 +77,11 @@ Aan artikel 32, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van
 
 ## Hoofdstuk 3. Wijziging van het besluit van de Vlaamse Regering van 9 september 2022 over de lerarenbonus
 
+### ART 6.
+
+Aan artikel 2, §3, van het besluit van de Vlaamse Regering van 9 september 2022 over de lerarenbonus wordt een punt 8° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“8° het ambt van kleuteronderwijzer of het ambt van kleuteronderwijzer ASV.”.
+
 ## Hoofdstuk 4. Slotbepalingen
 
 ### ART 7.
