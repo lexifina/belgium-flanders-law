@@ -21,6 +21,7 @@ c) gesubsidieerd vrij centrum: een centrum dat opgericht is door privaatrechteli
 7° gesubsidieerd centrum: een centrum van het vrij onderwijs of van het officieel onderwijs, met uitzondering van het gemeenschapsonderwijs, dat voldoet aan de voorwaarden om door de Vlaamse Gemeenschap gesubsidieerd te worden, vermeld in dit decreet;<br>
 8° gewogen leerlingenaantal: het aantal leerlingen van een centrum berekend conform afdeling 6 van dit decreet;<br>
 9° gezondheid: een toestand van lichamelijk, geestelijk en sociaal welbevinden bij de mens zoals bepaald in het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+9°/1 GI-school: de school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht;<br>
 10° inspectie: de onderwijsinspectie vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
 11° kernactiviteit: een aangeduide hulpactiviteit van het centrum als instrument om de opdrachten uit te voeren:<br>
 a) signaalfunctie: indien het centrum noden vaststelt in de leerlingenpopulatie of een probleem of onregelmatigheid vaststelt in het beleid op leerlingenbegeleiding brengt het centrum de school hiervan op de hoogte;<br>
@@ -33,16 +34,16 @@ g) handelingsgericht advies: het centrum geeft advies aan de leerling, de ouders
 h) draaischijffunctie: het centrum zet deze activiteit in als het aanbod van een centrum ontoereikend is. In dat geval wordt de leerling op basis van een indicatiestelling van een centrum doorverwezen naar een schoolextern aanbod. Het centrum zorgt hierbij - in gedeelde verantwoordelijkheid met het schoolextern aanbod - voor een warme toeleiding naar het schoolextern aanbod en terugkoppeling van het extern aanbod naar de school in functie van een afstemming op het onderwijstraject en de leerlingenbegeleiding. Het centrum werkt hiervoor samen met relevante partners;<br>
 12° leerplicht: de leerplicht vermeld in artikel 1 van de wet van 29 juni 1983 betreffende de leerplicht;<br>
 13° lokaal comité: het lokale overleg- of onderhandelingsorgaan dat bevoegd is voor de arbeidsvoorwaarden en de personeelsaangelegenheden;<br>
-14° leerling: een leerling in het basis- of secundair onderwijs en het stelsel leren en werken;<br>
+14° leerling: een leerling in het basis- of secundair onderwijs, de GI-school en het stelsel leren en werken;<br>
 15° leerlingenbegeleiding: een geheel van preventieve en begeleidende maatregelen. Leerlingenbegeleiding situeert zich op vier domeinen: de onderwijsloopbaan, leren en studeren, psychisch en sociaal functioneren en preventieve gezondheidszorg. De maatregelen vertrekken steeds vanuit een geïntegreerde en holistische benadering voor de vier begeleidingsdomeinen en dit vanuit een continuüm van zorg;<br>
-16° ouders: de personen die het ouderlijke gezag uitoefenen of in rechten of in feiten de minderjarige onder hun bewaring hebben zoals vermeld in artikel 3, 41°, van het decreet basisonderwijs van 25 februari 1997 en artikel 3, 32°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+16° ouders: de personen die het ouderlijke gezag uitoefenen of in rechten of in feiten de minderjarige onder hun bewaring hebben zoals vermeld in artikel 3, 41°, van het decreet basisonderwijs van 25 februari 1997, artikel 2, 1°/2, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht en artikel 3, 32°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
 17° regelmatige leerling: een regelmatige leerling zoals vermeld in artikel 20 van het decreet basisonderwijs van 25 februari 1997, en artikel 252, § 1, van de Codex Secundair Onderwijs van 17 december 2010;<br>
-18° school: een pedagogisch geheel in het basis- of secundair onderwijs of in het stelsel van leren en werken onder leiding van één directeur als vermeld in artikel 3, 49°, van het decreet basisonderwijs van 25 februari 1997, of artikel 3, 38°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+18° school: een pedagogisch geheel in het basis- of secundair onderwijs of in het stelsel van leren en werken onder leiding van één directeur als vermeld in artikel 3, 49°, van het decreet basisonderwijs van 25 februari 1997, of artikel 3, 38°, van de Codex Secundair Onderwijs van 17 december 2010 of de GI-school;<br>
 19° schooljaar: de periode van 1 september tot en met 31 augustus;<br>
 20° systematisch contact: een periodiek contact waarop de leerling en het centrum in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
-21° uitbreiding van zorg: fase in het zorgcontinuüm zoals gedefinieerd in punt 53° bis van artikel 3 van het decreet basisonderwijs en in punt 44° /1 van artikel 3 van de Codex Secundair Onderwijs;<br>
-22° verhoogde zorg: fase in het zorgcontinuüm zoals vermeld in artikel 3, 55° bis, van het decreet basisonderwijs van 25 februari 1997, of artikel 3, 45° /1, van de Codex Secundair Onderwijs van 17 december 2010;<br>
-23° zorgcontinuüm: de opeenvolging van fasen van zorg in de organisatie van de onderwijsomgeving, vermeld in artikel 3, 59°, van het decreet basisonderwijs van 25 februari 1997, en artikel 3, 47° /2, van de Codex Secundair Onderwijs van 17 december 2010.
+21° uitbreiding van zorg: fase in het zorgcontinuüm zoals gedefinieerd in punt 53° bis van artikel 3 van het decreet basisonderwijs en in punt 44° /1 van artikel 3 van de Codex Secundair Onderwijs en in artikel 2, 21°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht;<br>
+22° verhoogde zorg: fase in het zorgcontinuüm zoals vermeld in artikel 3, 55° bis, van het decreet basisonderwijs van 25 februari 1997, of artikel 3, 45° /1, van de Codex Secundair Onderwijs van 17 december 2010 of in artikel 2, 22°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht;<br>
+23° zorgcontinuüm: de opeenvolging van fasen van zorg in de organisatie van de onderwijsomgeving, vermeld in artikel 3, 59°, van het decreet basisonderwijs van 25 februari 1997, en artikel 3, 47° /2, van de Codex Secundair Onderwijs van 17 december 2010 en in artikel 2, 23°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht.
 
 ### ART 3.
 
@@ -87,13 +88,19 @@ Ter versterking van de verhoogde zorg van de school zet het centrum de kernactiv
 <br>
 In de fase uitbreiding van zorg bespreekt het centrum met de school en de leerling de hulpvraag en bepaalt het centrum handelingsgericht welke kernactiviteit het zal inzetten om de hulpvraag te beantwoorden.<br>
 <br>
-De Vlaamse Regering kan de verdere operationalisering van de kernactiviteit draaischijffunctie bepalen.
+De Vlaamse Regering kan de verdere operationalisering van de kernactiviteit draaischijffunctie bepalen.<br>
+<br>
+Het centrum beslist, in de fase van uitbreiding van zorg na een vraag van de ouders, in het kader van handelingsgerichte diagnostiek over de toekenning en de duur van het recht op permanent onderwijs aan huis voor een leerling als vermeld in artikel 35 van het decreet basisonderwijs van 25 februari 1997, en artikel 118 van de Codex Secundair Onderwijs van 17 december 2010.
 
 ### ART 6.
 
 § 1. Centra begeleiden alle leerlingen, die ingeschreven zijn in een school die de Vlaamse Gemeenschap erkent, financiert of subsidieert.<br>
 <br>
 § 2. Als een leerling van school verandert, behoudt het centrum zijn bevoegdheid en verantwoordelijkheid voor die leerling tot de leerling is ingeschreven in een andere school. Als een leerling tijdens een bepaalde periode niet ingeschreven is in een school, behoudt het centrum zijn bevoegdheid en verantwoordelijkheid voor die leerling tot het einde van de periode van niet-inschrijving.<br>
+<br>
+Als een leerling een onderwijstraject volgt in de GI-school, wordt het centrum dat samenwerkingsafspraken heeft met de GI-school, bevoegd en verantwoordelijk voor die leerling.<br>
+<br>
+Als een leerling een onderwijstraject volgt in de GI-school en gelijktijdig ingeschreven is in een andere school die samenwerkingsafspraken heeft met een ander centrum, blijft het centrum dat samenwerkingsafspraken heeft met de GI-school, bevoegd en verantwoordelijk voor die leerling tot het einde van de periode van het onderwijstraject van die leerling in de GI-school. Beide centra werken samen voor de leerlingenbegeleiding van de leerling.<br>
 <br>
 § 3. In het kader van de controle op de leerplicht begeleiden de centra in afwijking van paragraaf 1 ook leerplichtigen die, behalve in geval van huisonderwijs, niet zijn ingeschreven in een school als vermeld in paragraaf 1, of die zijn ingeschreven maar die de school niet regelmatig bezoeken. Die begeleiding heeft tot doel leerplichtigen opnieuw in te schakelen in het onderwijsproces zodat ze opnieuw voldoen aan de bepalingen over de leerplicht.<br>
 <br>
@@ -528,6 +535,10 @@ Het extra werkingsbudget wordt ten laatste in december van het lopende schooljaa
 Vanaf het begrotingsjaar 2024 wordt het extra werkingsbudget van maximaal 7.562.000 euro geïndexeerd conform de bepaling opgenomen in artikel 29, §1, vijfde lid.<br>
 &nbsp;
 
+### ART 32/3.
+
+De leerlingen van de GI-school worden niet meegerekend bij de berekening van het werkingsbudget van de CLB’s volgens de bepalingen van dit decreet.
+
 ## Afdeling 5. Programmatie en rationalisatie
 
 ### ART 33.
@@ -682,6 +693,10 @@ De betrekkingen die met de overgedragen omkaderingsgewichten worden opgericht vo
 Een centrum kan geen personeelsleden vast benoemen, muteren of definitief affecteren op basis van omkaderingsgewichten die een ander centrum overgedragen heeft of op basis van omkaderingsgewichten die conform artikel 42 overgedragen zijn aan een permanente ondersteuningscel, een regionale ondersteuningscel of aan een netoverstijgende regionale ondersteuningscel. De betrekkingen die op basis van deze omkaderingsgewichten worden opgericht komen niet in aanmerking voor vacantverklaring.<br>
 <br>
 Het bestuur bezorgt voor de controle aan de bevoegde diensten van de Vlaamse Regering een verklaring op erewoord, waarin het aangeeft het verbod vermeld in het eerste lid in acht te zullen nemen. De niet-naleving van het voormelde verbod heeft tot gevolg dat de vaste benoeming, mutatie of definitieve affectatie geen uitwerking heeft ten aanzien van de overheid.
+
+### ART 43/1.
+
+De leerlingen van de GI-school worden niet meegerekend voor de berekening van de omkaderingsgewichten van de CLB’s volgens de bepalingen van dit decreet.
 
 ### ART 44.
 
