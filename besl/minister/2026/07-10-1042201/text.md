@@ -16,6 +16,21 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN EN ARMOEDEBESTRIJDING, CULTUUR EN GELIJKE KANSEN BESLUIT:
 
+### ART 1.
+
+In titel 1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, het laatst gewijzigd bij het ministerieel besluit van 23 oktober 2025, wordt een hoofdstuk 3/1, dat bestaat uit artikel 5/1, ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk 3/1. Berekening van de kinderopvangprestaties<br>
+<br>
+Art. 5/1. Voor de toepassing van artikel 7/2, eerste lid, van het Subsidiebesluit van 22 november 2013 worden alle geregistreerde kinderopvangprestaties van de baby’s en peuters enerzijds, en van de buitenschoolse kinderen anderzijds, opgeteld per kinderopvanglocatie voor een volledig kalenderjaar.&nbsp;<br>
+<br>
+Bij de berekening, vermeld in het eerste lid, tellen de kinderopvangprestaties op de volgende wijze mee:<br>
+1° een kinderopvangprestatie van minstens vijf uur telt voor 100%;<br>
+2° een kinderopvangprestatie van minstens drie uur maar minder dan vijf uur telt voor 60%;<br>
+3° een kinderopvangprestatie van minder dan drie uur telt voor 40%.<br>
+<br>
+Voor de kinderopvanglocatie gezinsopvang die geen volledig kalenderjaar vergund &nbsp;is, die bepaalde periodes het statuut niet-actief heeft, zoals vermeld in artikel 28, tweede lid, van het Procedurebesluit van 9 mei 2014 of wiens vergunning voor een bepaalde periode geschorst is, wordt het te realiseren aantal kinderopvangprestaties, vermeld in artikel 7/2, eerste lid, 2°, van het Subsidiebesluit van 22 november 2013, verhoudingsgewijs verminderd, rekening houdend met de periode dat de kinderopvanglocatie vergund en actief was.”.
+
 ### ART 2.
 
 In artikel 7, §1, tweede lid, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 november 2017, worden de volgende wijzigingen aangebracht:<br>
