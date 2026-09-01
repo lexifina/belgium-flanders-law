@@ -2,16 +2,16 @@
   "codex_id": 1037841,
   "title": "Ministerieel besluit van 2022-12-20 houdende de samenstelling van de Vlaamse Opleidingscommissie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037841/VolledigDocument?datum=2026-05-01",
-  "source_sha256": "5f14d7204052d0f2754e7fa8b28ed8b69db3d8c31ddaa5e79bec4e123ee90e43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037841/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "6c1c8001744662a28d60163949fde938c2dff308edb538ccfb95bb120732a4fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037841&param=informatie",
-  "as_of": "2026-05-01",
+  "as_of": "2026-09-01",
   "made": "2022-12-20",
   "gazette": "2023-02-09",
   "numac": 2022043336,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2026-05-01",
+  "in_force": "2026-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2026-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

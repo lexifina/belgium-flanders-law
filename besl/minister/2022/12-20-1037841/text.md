@@ -40,7 +40,7 @@ Worden tot effectieve afgevaardigden van de representatieve werknemersorganisati
 
 Worden tot plaatsvervangende afgevaardigden van de representatieve werkgeversorganisaties benoemd:<br>
 - Mevrouw Sonja Teughels<br>
-- De heer Philippe Van Walleghem<br>
+- Mevrouw Lien Verhulst<br>
 - Mevrouw Soetkin Crabbe<br>
 &nbsp;
 
