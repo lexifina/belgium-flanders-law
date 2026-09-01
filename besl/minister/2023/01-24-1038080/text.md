@@ -86,7 +86,18 @@ a)&nbsp;&nbsp; &nbsp;artikel 5, artikel 17 tot en met 19 en artikel 24 van het d
 b)&nbsp;&nbsp; &nbsp;artikel 1 tot en met artikel 6 van het besluit van de Vlaamse Regering van 17 juli 2015 tot toekenning van taken en kerntaken aan een vereniging zonder winstoogmerk als vermeld in artikel 25, § 1, eerste lid, 3°, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
 30° de voorwaarden voor de Vlaamse Gemeenschapscommissie, vermeld in:<br>
 a)&nbsp;&nbsp; &nbsp;artikel 4 tot en met artikel 8 van het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie;&nbsp;<br>
-b)&nbsp;&nbsp; &nbsp;artikel 2 tot en met artikel 29 van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie.
+b)&nbsp;&nbsp; &nbsp;artikel 2 tot en met artikel 29 van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie;<br>
+31° de voorwaarden voor de gevangenissen, vermeld in:<br>
+a)&nbsp;&nbsp; &nbsp;artikel 2 tot en met 20 van het samenwerkingsakkoord van 22 november 2023 tussen de Federale Staat en de Vlaamse Gemeenschap en het Vlaamse Gewest inzake de hulp- en dienstverlening aan gedetineerden;<br>
+b)&nbsp;&nbsp; &nbsp;artikel 17, 18, 36 en 92 van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat;<br>
+c)&nbsp;&nbsp; &nbsp;artikel 19, 38 en 39 van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden;<br>
+d)&nbsp;&nbsp; &nbsp;artikel 3 tot en met 12 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden;<br>
+e)&nbsp;&nbsp; &nbsp;artikel 11 tot en met 14, artikel 21 tot en met 25 en artikel 28 van de wet van 23 maart 2019 betreffende de organisatie van de penitentiaire diensten en van het statuut van het penitentiair personeel;<br>
+f)&nbsp;&nbsp; &nbsp;artikel 23 en artikel 31 van het koninklijk besluit van 12 augustus 2024 betreffende de uitvoering van artikel 37 van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat en tot wijziging van het koninklijk besluit van 31 juli 2017 tot uitvoering van de artikelen 20, § 2, tweede lid, 78, eerste lid, 80, tweede lid, 86, eerste lid, 87, § 2/1, 89, eerste lid, en 96 eerste lid, van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat;<br>
+32° de voorwaarden voor de onderhoudsorganisaties en onderhouds-opleidingsorganisaties uit de luchtvaartsector, vermeld in:<br>
+a)&nbsp;&nbsp; &nbsp;punt 145.A.20, 145.A.30, 145.A.35, 145.A.65, 145.A.70 en punt 147.A.105, 147.A.125, 147.A.130, 147.A.140, 147.A.145 en punt 66.A.10, 66.A.25 en 66.A.30 van verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen;<br>
+b)&nbsp;&nbsp; &nbsp;bijlage III van uitvoeringsverordening (EU) 2023/989 van de Commissie van 22 mei 2023 tot wijziging van Verordening (EU) nr. 1321/2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen, en tot rectificatie van die verordening;<br>
+c)&nbsp;&nbsp; &nbsp;artikel 3:55 tot en met 3:97 van het Wetboek van vennootschappen en verenigingen van 23 maart 2019.
 
 ### ART 2.
 
