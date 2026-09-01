@@ -8,7 +8,22 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ## Hoofdstuk 2. Wijzigingen van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie
 
+### ART 2.
+
+In artikel 5, §2, 2°, a), van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, ingevoegd bij het decreet van 1 maart 2019, wordt de zinsnede “, toekennen van een kwaliteitslabel” opgeheven.
+
+### ART 3.
+
+In artikel 6/1 van hetzelfde decreet, ingevoegd bij het decreet van 3 mei 2019, wordt het derde lid vervangen door wat volgt:<br>
+<br>
+“Het agentschap kan meewerken aan de ontwikkeling van een inspiratiekader om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren.<br>
+Onder inspiratiekader wordt verstaan: een hulpmiddel om lokale besturen en partners van buitenschoolse activiteiten te ondersteunen bij het lokaal beleid over buitenschoolse activiteiten.”.
+
 ## Hoofdstuk 3. Wijziging van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers
+
+### ART 4.
+
+In artikel 12, tweede lid, 1° en 2°, van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vervangen bij het decreet van 20 april 2012 en gewijzigd bij de decreten van 3 mei 2019 en 24 juni 2022, wordt de zinsnede “een kwaliteitslabel,” opgeheven.
 
 ## Hoofdstuk 4. Wijzigingen van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten
 
@@ -47,6 +62,10 @@ Onder inspiratiekader wordt verstaan: een hulpmiddel om lokale besturen en partn
 <br>
 De Vlaamse Regering bepaalt de nadere regels over de uitvoering van het inspiratiekader en de subsidie voor ondersteuning.”.
 
+### ART 9.
+
+Artikel 11 van hetzelfde decreet, gewijzigd bij de decreten van 21 mei 2021 en 19 april 2024, wordt opgeheven.
+
 ### ART 10.
 
 Aan hoofdstuk 2, afdeling 3, van hetzelfde decreet, gewijzigd bij de decreten van 21 mei 2021 en 19 april 2024, wordt een artikel 11/1 toegevoegd, dat luidt als volgt:<br>
@@ -75,6 +94,19 @@ In artikel 12 van hetzelfde decreet, gewijzigd bij het decreet van 6 mei 2022, w
 “Het lokaal bestuur besteedt de subsidie, vermeld in het eerste lid, aan de opdrachten, vermeld in artikel 4, eerste lid. Daarbij besteedt het lokaal bestuur minstens 33 procent van de subsidie aan het erkend aanbod buitenschoolse activiteiten specifiek voor kleuters, vermeld in artikel 4, eerste lid, 3°.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de toekenning van de subsidie, vermeld in het eerste lid, waaronder de definitie van kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte. De Vlaamse Regering bepaalt ook de wijze waarop de subsidie wordt uitbetaald.”.
+
+### ART 12.
+
+Aan artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 6 mei 2022, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering bepaalt de nadere regels voor de monitoring van het aanbod en het gebruik, de opvolging en de terugvordering van subsidies.”.
+
+### ART 13.
+
+In artikel 14 van hetzelfde decreet, gewijzigd bij het decreet van 21 mei 2021, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 tot en met paragraaf 4 wordt opgeheven;<br>
+2° in paragraaf 5, derde lid, wordt de zinssnede “en 6°” opgeheven;<br>
+3° in paragraaf 6, derde lid, wordt tussen het woord “lid” en het woord “worden” de zinsnede “, met uitzondering van 6°,” ingevoegd.
 
 ### ART 14.
 
@@ -105,6 +137,24 @@ Vanaf 1 oktober 2025 kan een organisator geen aanvraag voor een kwaliteitslabel 
 Het blijft mogelijk voor een organisator of een kandidaat-organisator om, na overleg met het lokaal bestuur en op voorwaarde van onderlinge toestemming, de gesubsidieerde activiteit volledig of gedeeltelijk over te nemen van een andere organisator.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels die van toepassing zijn gedurende de overgangstermijn, minstens met betrekking tot kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en met betrekking tot de eventuele inkorting van de overgangstermijn.”.
+
+### ART 16.
+
+Artikel 17/1 van hetzelfde decreet, ingevoegd bij het decreet van 6 mei 2022, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 17/1. Nadat de overgangstermijn, vermeld in artikel 17, eerste lid, is afgelopen, krijgen de lokale besturen van de gemeenten die een subsidieverlies lijden ten opzichte van de subsidies die op grond van artikel 17, eerste lid, aan de organisatoren werden verleend, een compensatie. De compensatie wordt toegekend gedurende een periode van vijf jaar.<br>
+<br>
+Nadat de overgangstermijn, vermeld in artikel 17, eerste lid, is afgelopen, worden de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, gedurende een periode van vijf jaar niet toegepast bij de bepaling van het subsidiebedrag. Het subsidiebedrag wordt wel mee gebaseerd op het aandeel kinderen met een sociale toeslag of een zorgtoeslag.<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1° kinderen met een sociale toeslag:<br>
+&nbsp; a) voor de Vlaamse Gemeenschap: de kinderen, vermeld in artikel 18, tweede lid, 1°, van het Groeipakketdecreet van 2018;<br>
+&nbsp; b) voor het tweetalige gebied Brussel-Hoofdstad: de kinderen met een schooltoeslag van wie de gezinsinkomsten lager liggen dan het bedrag, vermeld in artikel 18, tweede lid, 1°, van het voormelde decreet;<br>
+2° kinderen met een zorgtoeslag:<br>
+&nbsp; a) voor de Vlaamse Gemeenschap: de kinderen, vermeld in artikel 16, §1, van het voormelde decreet;<br>
+&nbsp; b) voor het tweetalige gebied Brussel-Hoofdstad: de kinderen die een extra toeslag krijgen voor een kind met een handicap, boven op de kinderbijslag.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de uitwerking van de compensatieregeling.”.
 
 ## Hoofdstuk 5. Slotbepalingen
 
