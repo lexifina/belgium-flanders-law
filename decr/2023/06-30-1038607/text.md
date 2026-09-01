@@ -9,7 +9,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 In dit decreet wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 2° betrokken persoon: de persoon die het voorwerp van bespreking is op een casusoverleg;<br>
-3° casusoverleg: een overleg als vermeld in artikel 458ter van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld.
+3° casusoverleg: een overleg als vermeld in artikel 353, §2, van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld.
 
 ### ART 3.
 
@@ -21,7 +21,7 @@ Dit decreet is van toepassing op casusoverleg dat georganiseerd wordt, hetzij bi
 1° de verwerking van die persoonsgegevens past in hun deelname aan een casusoverleg;<br>
 2° de verwerking is noodzakelijk om een van de volgende doelstellingen van het casusoverleg te realiseren:<br>
 &nbsp; a) de fysieke en psychische integriteit van de betrokken persoon of van derden beschermen;<br>
-&nbsp; b) de misdrijven, vermeld in boek 2, titel Iter, van het Strafwetboek, of de misdrijven die zijn gepleegd in het raam van een criminele organisatie als vermeld in artikel 324bis van het Strafwetboek, voorkomen;<br>
+&nbsp; b) de misdrijven, vermeld in boek II, titel 4, hoofdstuk 1, van het Strafwetboek, of de misdrijven die zijn gepleegd in het raam van een criminele organisatie als vermeld in artikel 406 van het Strafwetboek, voorkomen;<br>
 3° de organisatie wordt door een bepaalde expertise of door haar kennis van de betrokken persoon geacht een noodzakelijke bijdrage te kunnen leveren aan een geïndividualiseerde casusgerichte opvolging.<br>
 <br>
 §2. De organisaties, vermeld in paragraaf 1, verwerken de persoonsgegevens, vermeld in artikel 5, eerste lid, van dit decreet, conform artikel 6, lid 1, e), van de algemene verordening gegevensbescherming.<br>
@@ -59,7 +59,7 @@ De persoonsgegevens, vermeld in het eerste lid, kunnen op de volgende wijzen wor
 3° de organisaties, vermeld in artikel 4, §1, die deelnemen aan een casusoverleg, kunnen persoonsgegevens delen met de organisator van het casusoverleg als dat noodzakelijk is om de aanmelding van een casus te realiseren;<br>
 4° de persoonsgegevens kunnen worden ontvangen door politiediensten als vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt, het openbaar ministerie, het directoraat-generaal Penitentiaire Inrichtingen en andere federale actoren indien zij door een bepaalde expertise of door hun kennis van de betrokken persoon geacht worden een noodzakelijke bijdrage te kunnen leveren aan een geïndividualiseerde casusgerichte opvolging.<br>
 &nbsp;<br>
-Voor de dossieromgeving, vermeld in het derde lid, 2°, worden passende maatregelen voor de beveiliging genomen, waaronder het voorzien in een behoorlijk gebruikers- en toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 458ter, §2, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van de algemene verordening gegevensbescherming. In voorkomend geval worden de maatregelen toegepast, vermeld in artikel 9 en 10, §2, van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
+Voor de dossieromgeving, vermeld in het derde lid, 2°, worden passende maatregelen voor de beveiliging genomen, waaronder het voorzien in een behoorlijk gebruikers- en toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 353, §2, vierde lid, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van de algemene verordening gegevensbescherming. In voorkomend geval worden de maatregelen toegepast, vermeld in artikel 9 en 10, §2, van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
 <br>
 De persoonsgegevens die verkregen zijn in het kader van een casusoverleg, worden niet langer bewaard dan noodzakelijk is voor het doeleinde van de gegevensverwerking, vermeld in artikel 4, §1, 2°. De maximale bewaartermijn zal alleszins niet langer dan 30 jaar na afsluiting van het dossier zijn, tenzij bepaalde toepasselijke regelgeving een langere maximale bewaartermijn vooropstelt. Als persoonsgegevens conform artikel 5, derde lid, 2°, worden opgenomen in een gezamenlijke dossieromgeving, bepalen de deelnemers voor de start van het eerste casusoverleg een maximale bewaartermijn voor de persoonsgegevens die bewaard worden in de gezamenlijke dossieromgeving.
 
