@@ -247,6 +247,19 @@ In artikel 11.2.1 van hetzelfde decreet, het laatst gewijzigd bij het decreet va
 Die meldingsplicht omvat de identificatie van de bijbehorende afnemers, met het oog op de handhaving van de krachtens artikel 10.1.2 opgelegde verplichtingen voor de opmaak van het energieprestatiecertificaat voor niet-residentiële gebouwen.<br>
 De gegevens, vermeld in het eerste lid, worden opgenomen in de databank, vermeld in artikel 12.5.1.".
 
+### ART 36.
+
+In artikel 11.2/2.1 van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020 en gewijzigd bij de decreten van 17 december 2021, 18 maart 2022, 23 december 2022 en 10 november 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "notariële overdracht" telkens vervangen door de zinsnede "verkoop, ruil, schenking of inbreng in een rechtspersoon";<br>
+2° in paragraaf 1, tweede lid, worden de woorden "notarieel overgedragen" vervangen door de zinsnede "verkocht, geruild, geschonken of ingebracht in een rechtspersoon";<br>
+3° aan paragraaf 1, eerste lid, wordt de volgende zin toegevoegd:<br>
+"Als er een minimaal energieprestatieniveau opgelegd wordt aan een gebouw of gebouweenheid, kan de Vlaamse Regering bepalen dat dat energieprestatieniveau behaald kan worden op een groep van gebouwen of gebouweenhe-den, ook als die gebouwen of gebouweenheden niet betrokken waren in een notariële overdracht in volle eigendom of het vestigen of overdragen van een opstalrecht of erfpachtrecht.";<br>
+4° in paragraaf 1 wordt het zesde lid vervangen door wat volgt:<br>
+"In geval van een verkoop, ruil of schenking tussen gehuwden of wettelijk samenwonenden van een deel van het residentieel gebouw waarin ze beiden hun hoofdverblijfplaats hebben en behouden, is er geen verplichting als vermeld in het eerste lid.";<br>
+5° er wordt een zevende lid toegevoegd, dat luidt als volgt:<br>
+"Bij een onteigening, afgehandeld door het federaal comité tot aankoop van onroerende goederen of door de dienst, bevoegd voor vastgoedtransacties binnen de Vlaamse Belastingdienst, is er geen verplichting als vermeld in het eerste lid.";<br>
+6° in paragraaf 2, eerste lid, worden de woorden "notarieel overdraagt" vervan-gen door de zinsnede "verkoopt, ruilt, schenkt of inbrengt in een rechtspersoon".
+
 ### ART 37.
 
 In artikel 12.2.1, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 mei 2024, wordt tussen de zinsnede “elke waterstofproducent en verbruiker van waterstof,” en de woorden “elke energieleverancier” de zinsnede “elke energieverbruiker met een verbruik van minstens 10 terajoule,” ingevoegd.
