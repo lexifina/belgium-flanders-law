@@ -231,7 +231,7 @@ De voorzitter van de gemeenteraad brengt de Raad voor Verkiezingsbetwistingen, a
 <br>
 § 2. De vervallenverklaring heeft pas gevolg vanaf de kennisgeving aan het gemeenteraadslid van de uitspraak van het verval door de gemeenteraad of de Raad voor Verkiezingsbetwistingen. De vervallenverklaring tast de geldigheid van de eerdere beslissingen van de gemeenteraad niet aan.<br>
 <br>
-§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een gevangenisstraf van acht dagen tot een jaar en met geldboete van zesentwintig euro tot vijfhonderd euro.
+§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een straf van niveau 1 waarbij in afwijking van artikel 36, negende lid, 1°, van het Strafwetboek het maximum van de geldboete 4.000 euro bedraagt.
 
 ### ART 10.
 
@@ -264,7 +264,7 @@ Het verkozen gemeenteraadslid dat zich op het ogenblik van zijn installatie als 
 <br>
 Een gemeenteraadslid dat tijdens zijn mandaat in een met zijn mandaat onverenigbare situatie terechtkomt en dat binnen vijftien dagen na het tot hem gerichte verzoek van de voorzitter van de gemeenteraad geen einde maakt aan die situatie, wordt door de gemeenteraad vervallen verklaard van zijn mandaat, overeenkomstig artikel 9, § 1, tweede lid, § 2 en § 3, nadat het betrokken gemeenteraadslid is gehoord.<br>
 <br>
-Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een gevangenisstraf van acht dagen tot een jaar en met geldboete van zesentwintig euro tot vijfhonderd euro.
+Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een straf van niveau 1 waarbij in afwijking van artikel 36, negende lid, 1°, van het Strafwetboek het maximum van de geldboete 4.000 euro bedraagt.
 
 ### ART 12.
 
@@ -439,7 +439,7 @@ De briefwisseling gericht aan de voorzitter van de gemeenteraad en die bestemd i
 <br>
 § 4. De gemeenteraadsleden, alsook alle andere personen die krachtens de wet of het decreet de besloten vergaderingen van de gemeenteraad bijwonen, zijn tot geheimhouding verplicht.<br>
 <br>
-Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de gemeenteraadsleden, alsook van alle andere personen als vermeld in het eerste lid wegens schending van het beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.<br>
+Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de gemeenteraadsleden, alsook van alle andere personen als vermeld in het eerste lid wegens schending van het beroepsgeheim, overeenkomstig artikel 352 van het Strafwetboek.<br>
 <br>
 § 5. Het inzagerecht en het bezoekrecht van de gemeenteraadsleden, vermeld in paragraaf 1 tot en met 3, geldt ook voor de autonome gemeentebedrijven van de gemeente.
 
@@ -2521,7 +2521,7 @@ Elke handeling of gedraging die een tekortkoming aan de beroepsplichten uitmaakt
 <br>
 § 2. De gemeenteraad kan de voorwaarden en de grenzen vaststellen van de tuchtstraffen, vermeld in paragraaf 1. De inhouding van salaris en de schorsing met inhouding van salaris mogen respectievelijk een termijn van zes maanden en een jaar niet overschrijden.<br>
 <br>
-De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdaad zijn omschreven.<br>
+De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdrijf waarop een straf van niveau 4, 5, 6, 7 of 8 is gesteld, zijn omschreven.<br>
 <br>
 Elke tuchtstraf die een inhouding van salaris inhoudt, mag niet hoger zijn dan de begrenzing, vermeld in artikel 23, tweede lid, van de wet van 12 april 1965 betreffende de bescherming van het loon van de werknemers.<br>
 <br>
@@ -3701,7 +3701,7 @@ Het verzoek wordt ingediend met een verzoekschrift en een of meerdere petitielij
 <br>
 Het verzoekschrift bevat de volgende vermeldingen:<br>
 1° de naam van de gemeente;<br>
-2° de tekst van artikel 196 van het Strafwetboek;<br>
+2° de tekst van artikel 451 van het Strafwetboek;<br>
 3° de vraag of vragen waarop de voorgenomen volksraadpleging betrekking heeft;<br>
 4°&nbsp;de voornaam, de achternaam, de geboortedatum, het rijksregisternummer en het adres&nbsp;van de personen die het initiatief nemen tot de volksraadpleging.<br>
 <br>
@@ -4738,7 +4738,7 @@ De vergaderingen van de raad van bestuur zijn niet openbaar. De gedetailleerde n
 <br>
 Op verzoek van een raadslid vraagt het deelnemende bestuur aan de vereniging om de notulen en alle stukken waarnaar in de notulen wordt verwezen, elektronisch ter beschikking te stellen. De vereniging stelt de gevraagde stukken elektronisch ter beschikking aan het deelnemende bestuur en het deelnemende bestuur bezorgt ze aan het raadslid.<br>
 <br>
-Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de raadsleden wegens schending van het beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.
+Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de raadsleden wegens schending van het beroepsgeheim, overeenkomstig artikel 352 van het Strafwetboek.
 
 ### ART 407.
 
@@ -5058,7 +5058,7 @@ De vergaderingen van de raad van bestuur zijn niet openbaar. De gedetailleerde n
 <br>
 Op verzoek van een raadslid vraagt het deelnemende bestuur om de notulen en alle stukken waarnaar in de notulen wordt verwezen, elektronisch ter beschikking te stellen. De vereniging stelt de gevraagde stukken elektronisch ter beschikking aan het deelnemende bestuur en het deelnemende bestuur bezorgt ze aan het raadslid.<br>
 <br>
-Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de raadsleden wegens schending van het beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.<br>
+Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de raadsleden wegens schending van het beroepsgeheim, overeenkomstig artikel 352 van het Strafwetboek.<br>
 <br>
 Aan de vergaderingen van de raad van bestuur wordt deelgenomen door ten hoogste vijf rechtstreeks door verschillende gemeenten aangewezen afgevaardigden die lid zijn met raadgevende stem. Deze afgevaardigden worden niet meegeteld in het maximumaantal leden van de raad van bestuur, vermeld in artikel 434, § 1. De statuten vermelden de criteria die bepalend zijn voor de wijze van aanwijzing van die afgevaardigden, die altijd raadsleden zijn die in de betrokken gemeenten verkozen zijn op een lijst waarvan geen enkele verkozene deel uitmaakt van het college van burgemeester en schepenen.
 
