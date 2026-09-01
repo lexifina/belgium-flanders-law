@@ -7440,7 +7440,7 @@ Een persoon die met bedrieglijk opzet of met het oogmerk om te schaden de bepali
 
 ### ART. 3.15.3.0.3.
 
-Een persoon die een valse getuigenis aflegt, die als tolk of als   deskundige een valse verklaring aflegt, of die een of meer getuigen, deskundigen   of tolken in een van de informatiegevallen die toegelaten zijn met toepassing   van artikel 3.5.4.0.1, 3.5.8.0.1, 3.13.1.3.1 en 3.13.1.3.5, verleidt, wordt   gestraft overeenkomstig de bepalingen van artikel 220 tot en met 224 van het   Strafwetboek.
+Een persoon die een valse getuigenis aflegt, die als tolk of als deskundige een valse verklaring aflegt, of die een of meer getuigen, deskundigen of tolken in een van de informatiegevallen die toegelaten zijn met toepassing van artikel 3.5.4.0.1, 3.5.8.0.1, 3.13.1.3.1 en 3.13.1.3.5, verleidt, wordt gestraft overeenkomstig de bepalingen van artikel 647 tot en met 649 van het Strafwetboek.
 
 ### ART. 3.15.3.0.4.
 
@@ -7448,7 +7448,7 @@ De niet-verschijning of de weigering om te getuigen in de onderzoeken die toegel
 
 ### ART. 3.15.3.0.5.
 
-De schending van het beroepsgeheim, vermeld in artikel 3.19.0.0.2, wordt   gestraft conform artikel 458 van het Strafwetboek.
+De schending van het beroepsgeheim, vermeld in artikel 3.19.0.0.2, wordt gestraft conform artikel 352 van het Strafwetboek.
 
 ### ART. 3.15.3.0.6.
 
@@ -7484,7 +7484,7 @@ De personen die beschuldigd zijn als daders of als medeplichtigen van misdrijven
 
 ### ART 3.15.3.0.12.
 
-Met behoud van de toepassing van hoofdstuk VII van boek 1 van het Strafwetboek wordt de persoon die, op welke plaats en onder welke vorm ook, in het openbaar of op een andere wijze, spelen of weddenschappen organiseert of exploiteert, aan die organisatie of aan die exploitatie deelneemt door spelen of weddenschappen aan te bieden of door rechtstreeks of met hulp van een tussenpersoon te spelen of te wedden, of zich aanbiedt om gelden die bestemd zijn tot de dienst van spelen of van weddenschappen in ontvangst te nemen, ze inzamelt of ze stort, beschouwd als dader, mededader of medeplichtige van de overtredingen van de bepalingen van deze codex inzake de belasting op de spelen en weddenschappen, of van de uitvoeringsbesluiten ervan.
+Met behoud van de toepassing van boek I, hoofdstuk 3, afdeling 1, van het Strafwetboek wordt de persoon die, op welke plaats en onder welke vorm ook, in het openbaar of op een andere wijze, spelen of weddenschappen organiseert of exploiteert, aan die organisatie of aan die exploitatie deelneemt door spelen of weddenschappen aan te bieden of door rechtstreeks of met hulp van een tussenpersoon te spelen of te wedden, of zich aanbiedt om gelden die bestemd zijn tot de dienst van spelen of van weddenschappen in ontvangst te nemen, ze inzamelt of ze stort, beschouwd als dader, mededader of medeplichtige van de overtredingen van de bepalingen van deze codex inzake de belasting op de spelen en weddenschappen, of van de uitvoeringsbesluiten ervan.
 
 ### ART 3.15.3.0.13.
 
