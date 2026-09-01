@@ -115,6 +115,14 @@ Bij de beoordeling van het zwaarwichtig tekort, vermeld in het tweede lid, houdt
 <br>
 De uitsluiting van bepaalde functies voor seizoenafhankelijke activiteiten wordt uiterlijk om de twee jaar herzien.”.
 
+### ART 9.
+
+In artikel 44 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+“4° een bewijs dat de retributie, vermeld in artikel 81/1, is betaald.”;<br>
+2° aan het tweede lid wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+“3° een bewijs dat de retributie, vermeld in artikel 81/1, is betaald.”.
+
 ### ART 10.
 
 Aan artikel 45 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2021, worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
@@ -146,11 +154,36 @@ In artikel 63 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 3° tussen het vierde en vijfde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
 “Het document, vermeld in het eerste lid, 5°, is niet vereist voor de aanvraag voor functies waarvoor een structureel tekort bestaat, zoals vermeld in artikel 18, §2.”.
 
+### ART 13.
+
+In artikel 65, §2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 maart 2024, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden de woorden “de de periode” vervangen door de woorden “de periode”;<br>
+2° er wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+“3° een bewijs van betaling van de retributie, vermeld in artikel 81/1.”.
+
 ### ART 14.
 
 Aan artikel 76, §2, van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Met toepassing van het eerste lid wordt een toelating tot arbeid voor een middengeschoolde functie uitgereikt op basis van artikel 18, als de werknemer niet ingeschaald wordt als ongeschoolde arbeidskracht.”.
+
+### ART 15.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 26 april 2024, wordt een hoofdstuk 12/1, dat bestaat uit artikel 81/1, ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk 12/1. Retributie<br>
+<br>
+Art. 81/1. §1. Voor elke aanvraag voor een toelating tot arbeid die is ingediend conform hoofdstuk 9, wordt een retributie betaald.<br>
+<br>
+§2. Een aanvraag zonder of met onvolledige betaling van de retributie, vermeld in paragraaf 1, kan aangevuld worden conform artikel 19, §2, van het samenwerkingsakkoord van 2 februari 2018.<br>
+<br>
+Als de betaling van de retributie, vermeld in paragraaf 1, niet of onvolledig is uitgevoerd binnen de termijn van 15 dagen conform artikel 19, §2, van het samenwerkingsakkoord van 2 februari 2018, wordt de aanvraag afgesloten zonder gevolg.<br>
+<br>
+Geen enkele terugbetaling van de retributie, vermeld in paragraaf 1, is mogelijk.<br>
+<br>
+§3. De minister legt het bedrag van de retributie, vermeld in paragraaf 1, vast. Dat bedrag wordt jaarlijks op 1 januari aangepast, op basis van het gemiddelde indexcijfer van de consumptieprijsindex van het voorafgaande jaar met als basisindex de index die van toepassing is op 1 januari 2026. Het resultaat van de aanpassing wordt naar boven op de euro afgerond.<br>
+<br>
+De minister deelt het bedrag van de retributie mee aan de Vlaamse Regering.”.
 
 ## Hoofdstuk 2. Slotbepalingen
 
