@@ -540,24 +540,24 @@ Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals
 
 ### ART 32.
 
-Een selectieve participatietoeslag secundair onderwijs kan worden toegekend aan een rechthebbende leerling als vermeld in artikel 24, die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor secundair onderwijs of aan een rechthebbende leerling die de leertijd zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap volgt in een door de Vlaamse Regering erkend centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
+Een selectieve participatietoeslag secundair onderwijs kan worden toegekend aan een rechthebbende leerling als vermeld in artikel 24, die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor secundair onderwijs of aan een rechthebbende leerling die de leertijd zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap volgt in een door de Vlaamse Regering erkend centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen of aan een rechthebbende leerling die een structuuronderdeel van het gewoon secundair onderwijs of buitengewoon secundair onderwijs volgt in de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht.
 
 ### ART 33.
 
 § 1. De selectieve participatietoeslag secundair onderwijs is meeneembaar voor rechthebbende leerlingen van het secundair onderwijs die in het buitenland of in een andere gemeenschap secundair onderwijs volgen, op voorwaarde dat er voor de in het buitenland of in een andere gemeenschap gevolgde studierichting of opleiding geen equivalente opleiding bestaat in een onderwijsinstelling of een centrum als vermeld in artikel 32, en op voorwaarde dat de onderwijsinstelling, de studierichting of de opleiding erkend is door de bevoegde overheid in de gemeenschap of het land in kwestie. Onder meeneembaarheid wordt verstaan, het krijgen van een selectieve participatietoeslag secundair onderwijs voor een studieprogramma of opleiding, gevolgd in een andere gemeenschap of in het buitenland.<br>
 <br>
-Artikel 34, 35, tweede lid, en 48, § 3 en § 6, zijn niet van toepassing op rechthebbende leerlingen die in het buitenland secundair onderwijs volgen.<br>
+Artikel 34, 35, tweede lid, en 48, §3, §3/1 en §6, zijn niet van toepassing op rechthebbende leerlingen die in het buitenland secundair onderwijs volgen.<br>
 <br>
 § 2. Om te bepalen of er een equivalente opleiding bestaat als vermeld in paragraaf 1, baseert de uitbetalingsactor zich op het bindende advies van NARIC-Vlaanderen, vermeld in artikel 5, 26°, van het decreet van 8 juni 2007.
 
 ### ART 34.
 
 § 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag secundair onderwijs toegekend in een van de volgende gevallen:<br>
-1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling of centrum als vermeld in artikel 32;<br>
+1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling, een centrum of de GI-school als vermeld in artikel 32;<br>
 2° hij is ongewettigd afwezig geweest;<br>
-3° tijdens het schooljaar uiterlijk 21 kalenderdagen na de datum van uitschrijving uit een instelling voor secundair onderwijs of uit de leertijd in een centrum zoals bedoeld in artikel 32 is hij niet opnieuw ingeschreven in een instelling voor secundair onderwijs of in de leertijd in een centrum zoals bedoeld in artikel 32.<br>
+3° tijdens het schooljaar uiterlijk 21 kalenderdagen na de datum van uitschrijving uit een instelling voor secundair onderwijs of uit de leertijd in een centrum&nbsp;of aan het einde van een onderwijstraject in de GI-school zoals bedoeld in artikel 32 is hij niet opnieuw ingeschreven in een instelling voor secundair onderwijs of in de leertijd in een centrum, of is hij niet gestart in een onderwijstraject in de GI-school zoals bedoeld in artikel 32.<br>
 <br>
-In afwijking van het eerste lid, 3°, behoudt de rechthebbende leerling in het secundair onderwijs die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is in een instelling voor secundair onderwijs of een centrum zoals bedoeld in artikel 32, zijn toelage, op voorwaarde dat hij in de loop van dat schooljaar zijn kwalificatie behaalde.<br>
+In afwijking van het eerste lid, 3°, behoudt de rechthebbende leerling in het secundair onderwijs&nbsp;en in de GI-school als vermeld in artikel 32 die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is in een instelling voor secundair onderwijs&nbsp;of de GI-school als vermeld in artikel 32, of een centrum zoals bedoeld in artikel 32, zijn toelage, op voorwaarde dat hij in de loop van dat schooljaar zijn kwalificatie behaalde.<br>
 <br>
 §1/1. In afwijking van paragraaf 1, eerste lid, wordt aan een rechthebbende leerling als vermeld in artikel 24 die ingeschreven is in het zevende leerjaar, vermeld in artikel 133/7, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, van wie de aan het begin van het schooljaar bepaalde duurtijd eindigt op de laatste schooldag van het eerste semester van het schooljaar in kwestie, wordt geen selectieve participatietoeslag secundair onderwijs toegekend in een van de volgende gevallen:<br>
 1°&nbsp;&nbsp; &nbsp;hij is op de laatste schooldag van het eerste semester van het schooljaar in kwestie niet ingeschreven in een onderwijsinstelling als vermeld in artikel 32;<br>
@@ -583,7 +583,7 @@ In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het
 ### ART 36.
 
 § 1. Om het recht op en het bedrag van een selectieve participatietoeslag in het secundair onderwijs vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
-1° welke leerlingen in welk structuuronderdeel zijn ingeschreven in een onderwijsinstelling of een centrum als vermeld in artikel 32;<br>
+1° welke leerlingen in welk structuuronderdeel zijn ingeschreven in een onderwijsinstelling, een centrum of de GI-school als vermeld in artikel 32;<br>
 2° de datum van inschrijving;<br>
 3° de datum van eventuele uitschrijving;<br>
 4° welke leerlingen ongewettigd afwezig zijn geweest als vermeld in artikel 34, § 2 tot en met § 4,.<br>
@@ -722,13 +722,17 @@ De minimale selectieve participatietoeslag bedraagt 121,01 euro.<br>
 
 ### ART 48.
 
-§ 1. Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs wordt eerst nagegaan of de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs&nbsp;of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs zit, vervolgens of de rechthebbende leerling, vermeld in artikel 24, voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 38, vervolgens of de leerling in het derde leerjaar van de derde graad van het technisch secundair onderwijs of beroepsonderwijs zit.<br>
+§1. Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs wordt eerst nagegaan of de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs&nbsp;of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs zit, vervolgens of de rechthebbende leerling, vermeld in artikel 24, voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 38, vervolgens of de leerling in het zevende leerjaar gericht op instroom arbeidsmarkt zit.<br>
 <br>
-§ 2. Voor gehuwde, zelfstandige of alleenstaande rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs is het bedrag van de volledige selectieve participatietoeslag gelijk aan 3.268,73 euro.<br>
+§2. Voor gehuwde, zelfstandige of alleenstaande rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs is het bedrag van de volledige selectieve participatietoeslag gelijk aan 3.268,73 euro.<br>
 <br>
 De minimale selectieve participatietoeslag bedraagt 712,98 euro.<br>
 <br>
-§ 3. Voor rechthebbende leerlingen als vermeld in artikel 24, in het derde leerjaar van de derde graad van het voltijds technisch secundair onderwijs en het voltijds beroepssecundair onderwijs bedraagt de volledige selectieve participatietoeslag:<br>
+§2/1. In afwijking van paragraaf 2 bedraagt voor de rechthebbende leer-lingen, vermeld in paragraaf 2, die ingeschreven zijn in het zevende leerjaar gericht op instroom arbeidsmarkt en voor wie de duurtijd van de opleiding één semester omvat in het schooljaar in kwestie, de volledige selectieve participatietoeslag 1634,37 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt 356,49 euro.<br>
+<br>
+§3. Voor rechthebbende leerlingen als vermeld in artikel 24, in het zevende leerjaar gericht op instroom arbeidsmarkt bedraagt de volledige selectieve participatietoeslag:<br>
 1° 1.861,09 euro voor interne leerlingen;<br>
 2° 1.132,07 euro voor externe leerlingen.<br>
 <br>
@@ -738,7 +742,17 @@ De minimale selectieve participatietoeslag bedraagt:<br>
 1° 725,16 euro voor interne leerlingen;<br>
 2° 280,60 euro voor externe leerlingen.<br>
 <br>
-§ 4. Voor andere rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs dan de leerlingen, vermeld in paragraaf 2 en 3, bedraagt de volledige selectieve participatietoeslag:<br>
+§3/1. In afwijking van paragraaf 3 bedraagt voor de rechthebbende leerlingen, vermeld in paragraaf 3, voor wie de duurtijd van de opleiding één semester omvat in het schooljaar in kwestie, de volledige selectieve participatietoeslag:<br>
+1°&nbsp;&nbsp; &nbsp;930,55 euro voor interne leerlingen;<br>
+2°&nbsp;&nbsp; &nbsp;566,04 euro voor externe leerlingen.<br>
+<br>
+De uitzonderlijke selectieve participatietoeslag voor externe leerlingen bedraagt 664,62 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt:<br>
+1°&nbsp;&nbsp; &nbsp;362,58 euro voor interne leerlingen;<br>
+2°&nbsp;&nbsp; &nbsp;140,30 euro voor externe leerlingen.<br>
+<br>
+§4. Voor andere rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs dan de leerlingen, vermeld in paragraaf 2 tot en met 3/1, bedraagt de volledige selectieve participatietoeslag:<br>
 1° 1550,86 euro voor interne leerlingen;<br>
 2° 943,30 euro voor externe leerlingen.<br>
 <br>
@@ -748,19 +762,21 @@ De minimale selectieve participatietoeslag bedraagt:<br>
 1° 604,31 euro voor interne leerlingen;<br>
 2° 233,75 euro voor externe leerlingen.<br>
 <br>
-§ 5. Voor rechthebbende leerlingen als vermeld in artikel 24, in stelsel leren en werken zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap bedraagt een volledige selectieve participatietoeslag 537,45 euro.<br>
+§5. Voor rechthebbende leerlingen als vermeld in artikel 24, in stelsel leren en werken zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap bedraagt een volledige selectieve participatietoeslag 537,45 euro.<br>
 <br>
 De uitzonderlijke selectieve participatietoeslag bedraagt 693,34 euro.<br>
 <br>
 De minimale selectieve participatietoeslag bedraagt 196,55 euro.<br>
 <br>
-§ 6. Voor rechthebbende leerlingen als vermeld in artikel 24, ingeschreven in de opleiding Verpleegkunde van het hoger beroepsonderwijs of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs, bedraagt de volledige selectieve participatietoeslag:<br>
+§6. Voor rechthebbende leerlingen als vermeld in artikel 24, ingeschreven in de opleiding Verpleegkunde van het hoger beroepsonderwijs of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs, bedraagt de volledige selectieve participatietoeslag:<br>
 1° 3.640,66 euro voor interne leerlingen;<br>
 2° 1.212,27 euro voor externe leerlingen.<br>
 <br>
 De minimale selectieve participatietoeslag bedraagt 829,80 euro.<br>
 <br>
-§ 7. Het uiteindelijke bedrag van de selectieve participatietoeslag wordt afgerond tot twee cijfers na de komma.
+§7. Het uiteindelijke bedrag van de selectieve participatietoeslag wordt afgerond tot twee cijfers na de komma.<br>
+<br>
+§8. In dit artikel wordt verstaan onder het zevende leerjaar gericht op instroom arbeidsmarkt: het 7de leerjaar gericht op instroom arbeidsmarkt, vermeld in artikel 133/7, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010.
 
 ## Titel 2. ...
 
