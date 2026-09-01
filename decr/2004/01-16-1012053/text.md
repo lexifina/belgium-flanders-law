@@ -274,7 +274,7 @@ Dit decreet doet geen afbreuk aan de toepassing van internationale verdragen.<br
 
 ### ART. 29.
 
-Elke overtreding van de bepalingen van dit decreet wordt gestraft met de straffen, gesteld in artikelen 315, 340, 453 en 526 van het Strafwetboek.
+Elke overtreding van de bepalingen van dit decreet wordt gestraft met de straffen, gesteld in artikel 368 tot en met 370, 517 en 658 van het Strafwetboek.
 
 ### ART. 30.
 
