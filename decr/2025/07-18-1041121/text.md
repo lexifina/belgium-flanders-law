@@ -334,6 +334,16 @@ In artikel 168/4, §2, van dezelfde codex, ingevoegd bij het decreet van 14 juli
 <br>
 “De opleiding Verpleegkunde van het hoger beroepsonderwijs wordt experimenteel georganiseerd op basis van een modulaire structuur, een duurtijd en volgorde van modules, en competenties die de Vlaamse Regering bepaalt.”.
 
+### ART 42.
+
+In artikel 175 van dezelfde codex, het laatst gewijzigd bij het decreet van 14 juli 2023, worden de volgende wijzigingen aangebracht:<br>
+1° een paragraaf 2/1 wordt toegevoegd, die luidt als volgt:<br>
+“§2/1. In afwijking van paragraaf 1 en 2 komt een school niet in aanmer-king voor financiering of subsidiëring als aan al de volgende voorwaarden is voldaan:<br>
+1° de toepasbare rationalisatienorm wordt bereikt maar gelijktijdig is er een daling van de schoolbevolking in een of meer andere secundaire scholen van hetzelfde schoolbestuur die in dezelfde of een aangrenzende gemeente liggen als de gemeente waarin een vestigingsplaats van de nieuwe school is ligt;<br>
+2° de daling, vermeld in punt 1°, bedraagt, in voorkomend geval voor alle scholen samen, ten minste 50 % van de toepasbare rationalisatienorm.”;<br>
+2° in paragraaf 3, 3°, b), worden de woorden “studiegebieden of” opgeheven;<br>
+3° in paragraaf 4 wordt de zinsnede “, vermeld in §1, §2 en §3,” vervangen door de woorden “als vermeld in dit artikel”.
+
 ### ART 43.
 
 Artikel 189 van dezelfde codex, gewijzigd bij het decreet van 7 juli 2023, wordt opgeheven.
