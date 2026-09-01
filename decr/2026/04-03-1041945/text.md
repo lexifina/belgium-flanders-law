@@ -131,6 +131,18 @@ Aan artikel 3.14.2.0.1 van hetzelfde decreet, gewijzigd bij het decreet van 26 a
 <br>
 “De kosten voor de verzending met een aangetekende brief van de aanmaning tot betaling, vermeld in het eerste en tweede lid, zijn ten laste van de belastingschuldige.”.
 
+### ART 25.
+
+In artikel 3.15.3.0.3 van hetzelfde decreet wordt de zinsnede “artikel 220 tot en met 224 van het Strafwetboek” vervangen door de zinsnede “artikel 647 tot en met 649 van het Strafwetboek”.
+
+### ART 26.
+
+In artikel 3.15.3.0.5 van hetzelfde decreet wordt de zinsnede “conform artikel 458 van het Strafwetboek” vervangen door de zinsnede “conform artikel 352 van het Strafwetboek”.
+
+### ART 27.
+
+In artikel 3.15.3.0.12 van hetzelfde decreet, ingevoegd bij het decreet van 7 december 2018, wordt de zinsnede “hoofdstuk VII van boek 1 van het Strafwetboek” vervangen door de zinsnede “boek I, hoofdstuk 3, afdeling 1, van het Strafwetboek”.
+
 ## Hoofdstuk 4. Wijziging van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus
 
 ### ART 28.
