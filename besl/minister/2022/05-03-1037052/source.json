@@ -2,16 +2,16 @@
   "codex_id": 1037052,
   "title": "Ministerieel besluit van 2022-05-03 tot aanduiding van een schutkring in functie van wolvenschade",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037052/VolledigDocument?datum=2026-03-04",
-  "source_sha256": "5980faba05c917a644db2a75a8b9175292900b2dc40c29fad34f7862b1a456eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037052/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "01f4bf845b9814feec174c47cd8b3b83db9b73ee6a581d93a49529541fc7901a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037052&param=informatie",
-  "as_of": "2026-03-04",
+  "as_of": "2026-09-01",
   "made": "2022-05-03",
   "gazette": "2022-05-18",
   "numac": 2022032032,
   "document_start": "2022-06-01",
   "document_end": "2022-11-30",
-  "in_force": "2026-03-04",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2026-03-04; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

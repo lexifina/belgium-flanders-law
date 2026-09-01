@@ -33,7 +33,11 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART Enig artikel.
 
-In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 maart 2026 tot en met 31 augustus 2026 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid.<br>
+...
+
+### ART 1.
+
+In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 september 2026 tot en met 28 februari 2027 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid in de provincie Antwerpen.<br>
 <br>
 De schutkring wordt aangeduid voor de volgende gemeenten:<br>
 1° Essen;<br>
@@ -49,3 +53,36 @@ De schutkring wordt aangeduid voor de volgende gemeenten:<br>
 11° Kapellen;<br>
 12° Stabroek;<br>
 13° Antwerpen.
+
+### ART 2.
+
+In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 september 2026 tot en met 28 februari 2027 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid in de provincie Limburg.&nbsp;<br>
+<br>
+De schutkring wordt aangeduid voor de volgende gemeenten:<br>
+1° As;<br>
+2° Balen;<br>
+3° Beringen;<br>
+4° Bocholt;<br>
+5° Bree;<br>
+6° Dessel;<br>
+7° Dilsen-Stokkem;<br>
+8° Geel;<br>
+9° Genk;<br>
+10° Hamont-Achel;<br>
+11° Hechtel-Eksel;<br>
+12° Heusden-Zolder;<br>
+13° Houthalen-Helchteren;<br>
+14° Kinrooi;<br>
+15° Lanaken;<br>
+16° Leopoldsburg;<br>
+17° Lommel;<br>
+18° Maaseik;<br>
+19° Maasmechelen;<br>
+20° Meerhout;<br>
+21° Mol;<br>
+22° Oudsbergen;<br>
+23° Peer;<br>
+24° Pelt;<br>
+25° Tessenderlo-Ham;<br>
+26° Zonhoven;<br>
+27° Zutendaal.
