@@ -127,6 +127,10 @@ De Vlaamse Regering bepaalt de nadere regels over de rapportering aan het orgaan
 <br>
 De uitvoering van de maatregelen, vermeld in het eerste lid, omvat een analyse van de bestaande genderneutrale systemen voor functiewaardering en indeling of de invoering van dergelijke systemen, om ervoor te zorgen dat directe of indirecte beloningsdiscriminatie op grond van geslacht wordt uitgesloten.
 
+### ART 10.
+
+Een inbreuk op een verplichting voor een werkgever als vermeld in dit decreet wordt bestraft met een straf van niveau 1.
+
 ## Hoofdstuk 3. Wijzigingen van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid
 
 ### ART 11.
