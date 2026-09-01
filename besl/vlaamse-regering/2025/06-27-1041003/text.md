@@ -32,16 +32,6 @@ In artikel 2, §1, van het besluit van de Vlaamse Regering van 21 december 2018 
 6° lerende netwerken;<br>
 7° intervisie.”.
 
-### ART 2.
-
-Aan artikel 22 van het hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2023, worden een vierde, vijfde en zesde lid toegevoegd, die luiden als volgt:<br>
-<br>
-“In afwijking van het eerste lid, worden voor het schooljaar 2025-2026 werknemers die minder dan 80% zijn tewerkgesteld of gemiddeld minder dan 28 uur per week werken, uitgesloten van de toepassing van hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985.&nbsp;<br>
-<br>
-In afwijking van het tweede lid, wordt voor het schooljaar 2025-2026 aan de werknemer een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand maart die voorafgaat aan het opleidingsjaar, op voorwaarde dat die minstens 80 % bedraagt van een voltijdse tewerkstelling.<br>
-<br>
-In afwijking van het derde lid, heeft voor het schooljaar 2025-2026, in afwijking van het vijfde lid, de werknemer die in de maand maart die voorafgaat aan het opleidingsjaar geen contractuele tewerkstellingsbreuk heeft van minstens 80%, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 80% bedraagt van een voltijdse tewerkstelling.”.
-
 ### ART 3.
 
 In hetzelfde besluit wordt een artikel 22/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
@@ -50,12 +40,6 @@ In hetzelfde besluit wordt een artikel 22/1 ingevoegd, dat luidt als volgt:&nbsp
 1° de gebruiker valt onder het toepassingsgebied bepaald in of krachtens artikel 108 §1 van de wet van 22 januari 1985;<br>
 2° het uitzendbureau moet de ontvangen terugbetaling doorstorten aan de gebruiker;<br>
 3° het uitzendbureau mag aan de gebruiker een administratieve kost aanrekenen voor het indienen van de terugbetalingsaanvraag, maar mag geen percentage van de ontvangen terugbetaling achterhouden. Het afsprakenkader met betrekking tot de administratieve kost moet transparant en op voorhand opgenomen worden in een overeenkomst tussen het uitzendbureau en de gebruiker.”.
-
-### ART 4.
-
-Aan artikel 38 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 januari 2025, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
-<br>
-“In afwijking van het eerste lid bedraagt voor het schooljaar 2025-2026 het forfaitair bedrag per uur Vlaams opleidingsverlof voor de terugbetaling aan de werkgever 14,91 euro.”.
 
 ### ART 5.
 
