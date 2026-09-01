@@ -2,16 +2,16 @@
   "codex_id": 1040680,
   "title": "Besluit van de Vlaamse Regering van 2025-03-14 tot goedkeuring van curriculumdossiers voor de structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt van het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040680/VolledigDocument?datum=2025-04-07",
-  "source_sha256": "5177e336b89a3639a30397f46c53378492370136a1806cfdbcd4667b6f7243bc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040680/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "e1461f9db15faa1d0729f69411a737abe21c40981a661cf566a86c9819b93103",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040680&param=informatie",
-  "as_of": "2025-04-07",
+  "as_of": "2026-09-01",
   "made": "2025-03-14",
   "gazette": "2025-03-28",
   "numac": 2025002442,
   "document_start": "2025-04-07",
   "document_end": null,
-  "in_force": "2025-04-07",
+  "in_force": "2026-09-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2025-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

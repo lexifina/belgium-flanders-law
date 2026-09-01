@@ -52,10 +52,30 @@ De Vlaamse minister, bevoegd voor onderwijs en vorming en de Vlaamse minister, b
 
 ### BIJLAGE 1.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2025/03/28_2.pdf#page=3">Curriculumdossiers van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK4</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2025/03/28_2.pdf#page=3">Curriculumdossiers van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK4</a><br>
+<br>
+*Bij besluit van de Vlaamse Regering van 28 november 2025 worden&nbsp;de curriculumdossiers van de volgende structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK 4 van het secundair onderwijs met ingang van 1 september 2026 vervangen door de curriculumdossiers van de structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK 4 van het secundair onderwijs die <a href="https://www.ejustice.just.fgov.be/mopdf/2025/12/12_1.pdf#page=64">hier zijn opgenomen</a>:<br>
+1°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industrieel uitvoeringstekenaar;<br>
+2°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meettechnieker;<br>
+3°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vliegtuigtechnieker B1;<br>
+4°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vliegtuigtechnieker B2.
 
 ### BIJLAGE 2.
 
 <a href="https://www.ejustice.just.fgov.be/mopdf/2025/03/28_2.pdf#page=111">Curriculumdossiers van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK3</a><br>
+<br>
+*Bij besluit van de Vlaamse Regering van 28 november 2025 worden de curriculumdossiers van de volgende structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK 3 van het secundair onderwijs met ingang van 1 september 2026 vervangen door de curriculumdossiers van de structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK 3 van het secundair onderwijs die <a href="https://www.ejustice.just.fgov.be/mopdf/2025/12/12_1.pdf#page=78">hier zijn opgenomen</a>:<br>
+1°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Barman;<br>
+2°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kinderbegeleider (duaal);<br>
+3°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mecanicien tuin-, park- en bosmachines;<br>
+4°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sommelier;<br>
+5°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verzorgende-zorgkundige (duaal).<br>
+<br>
+*Bij besluit van de Vlaamse Regering van 28 november 2025 worden de curriculumdossiers van de volgende structuuronderdelen van de 7de leerjaren gericht op instroom arbeidsmarkt na een behaalde OK 3 van het secundair onderwijs met ingang van 1 september 2026 opgeheven:<br>
+1°&nbsp;&nbsp; &nbsp;Geautomatiseerde diamantbewerking en kwaliteitsanalist;<br>
+2°&nbsp;&nbsp; &nbsp;IJsbereider;<br>
+3°&nbsp;&nbsp; &nbsp;Installateur gebouwenautomatisering (duaal);<br>
+4°&nbsp;&nbsp; &nbsp;Suiker- en marsepeinbewerker.<br>
+<br>
 <br>
 &nbsp;
