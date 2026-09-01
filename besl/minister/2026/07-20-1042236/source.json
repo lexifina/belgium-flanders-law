@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042236,
+  "title": "Ministerieel besluit van 2026-07-20 tot wijziging van het ministerieel besluit van 24 januari 2023 tot bepaling van de lijst met wettelijke kwaliteitssystemen die zijn ingericht door overheden ter uitvoering van artikel 6 van het besluit van de Vlaamse Regering van 24 mei 2019 tot uitvoering van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie, wat betreft de opname in de lijst van de voorwaarden voor gevangenissen en voor onderhoudsorganisaties en onderhouds-opleidingsorganisaties uit de luchtvaartsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042236/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "de35d1962e9754645bed6b5a5df0231a092d64bbb7c3e2f88f1be43afe0f6ce8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042236&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-07-20",
+  "gazette": "2026-08-05",
+  "numac": 2026005710,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
