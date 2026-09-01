@@ -158,6 +158,13 @@ Een subsidie voor de versterking van het medewerkersbeleid kan worden toegekend 
 
 ### ART 7/2.
 
+Als een organisator een subsidie, vermeld in dit besluit, toegekend kreeg door het agentschap, kan de organisator deze subsidie slechts behouden als:<br>
+1° voor de specifieke dienstverlening in de kinderopvanglocaties met een vergunning voor groepsopvang minstens de helft van de kinderopvangprestaties per jaar in elke kinderopvanglocatie in de subsidiegroep waar de organisator de specifieke dienstverlening realiseert, betrekking hebben op de kinderopvang van baby’s en peuters;<br>
+2° voor de specifieke dienstverlening in de kinderopvanglocaties gezinsopvang, per jaar minstens 220 kinderopvangprestaties in elke kinderopvanglocatie in de subsidiegroep waar de organisator de specifieke dienstverlening realiseert, betrekking hebben op de kinderopvang van baby’s en peuters;<br>
+3° in afwijking van punt 1° en 2°, kan de organisator voor de specifieke dienstverlening in de kinderopvanglocaties gezinsopvang of groepsopvang door samenwerkende onthaalouders, waar de organisator op 1 maart 2026 exclusief buitenschoolse opvang realiseert met kinderbegeleiders in het specifiek sociaal statuut voor onthaalouders, de subsidies, vermeld in dit besluit, behouden tot en met 31 december 2031, op voorwaarde dat de organisator voldoet aan de subsidievoorwaarden en aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 19, 20, 21, 3° en 4°, van het voormelde besluit.<br>
+<br>
+De minister bepaalt de manier waarop de kinderopvangprestaties, vermeld in het eerste lid, worden berekend en de gegevens die bezorgd moeten worden.<br>
+<br>
 Als een organisator een subsidie voor groepsopvang, vermeld in dit besluit, toegekend kreeg door het agentschap, kan de organisator deze subsidie slechts behouden, als in de kinderopvanglocatie groepsopvang in de subsidiegroep waar de organisator de specifieke dienstverlening realiseert, minstens op de helft van de openingsdagen en -uren van het jaar minstens negen kinderen gelijktijdig aanwezig zijn.<br>
 <br>
 Als een organisator een subsidie, vermeld in dit besluit, toegekend kreeg door het agentschap, kan de organisator deze subsidie slechts behouden als de organisator de acties of projecten realiseert waartoe die zich heeft geëngageerd in de aanvraag van de subsidiebelofte, die de organisator heeft ingediend naar aanleiding van een oproep in het kader van artikel 57 van het Procedurebesluit van 9 mei 2014, en die tot resultaat hadden dat de organisator de subsidiebelofte, vermeld in artikel 72 van het Procedurebesluit van 9 mei 2014, en de subsidietoekenning, vermeld in artikel 103 van het Procedurebesluit van 9 mei 2014, heeft gekregen.<br>
@@ -406,7 +413,7 @@ Als de organisator niet voldoet aan de voorwaarden, vermeld in het tweede lid, k
 
 ### ART 27/2.
 
-De organisator die beschikt over subsidies voor inkomenstarief voor gezinsopvang of groepsopvang, gerealiseerd door samenwerkende onthaalouders, kan de subsidies, vermeld in dit besluit, ook inzetten in locaties waar uitsluitend buitenschoolse opvang wordt aangeboden, op voorwaarde dat de organisator voldoet aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 19, 20, 21, 3° en 4°, van het voormelde besluit. De organisator vraagt voor die locaties een vergunning aan.
+...
 
 ### ART 27/3.
 
