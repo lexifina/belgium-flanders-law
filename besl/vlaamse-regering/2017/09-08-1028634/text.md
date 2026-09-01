@@ -41,7 +41,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°<br>
+Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:355px">
 	<tbody>
@@ -319,7 +319,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -1405,7 +1405,19 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Dendermonde Hulpgevangenis</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
@@ -1420,7 +1432,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Gent</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -1498,7 +1510,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Dendermonde</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -1540,7 +1552,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Gent</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -1633,7 +1645,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Oudenaarde</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -2077,13 +2089,16 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Pajottegem</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Mechelen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -2290,7 +2305,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Genk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante zorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
@@ -2401,7 +2416,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -2566,7 +2581,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante zorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
@@ -2713,7 +2728,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Centraal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Leuven Centraal</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -2782,7 +2797,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Hulp</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Leuven Hulp</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -2888,6 +2903,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
@@ -3583,7 +3601,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -3685,7 +3703,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Centraal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Leuven Centraal</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -3757,7 +3775,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Tongeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Tongeren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -4342,13 +4360,13 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Gent</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -4528,7 +4546,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Gent</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -4606,7 +4624,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Oudenaarde</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -4894,7 +4912,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ruiselede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Ruiselede</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -5119,10 +5137,16 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
@@ -5488,13 +5512,13 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Brugge - Penitentiair Centrum</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Brugge - Penitentiair Centrum</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ruiselede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Ruiselede</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -5920,7 +5944,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante zorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
@@ -5995,19 +6019,22 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Gent</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -6055,7 +6082,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hoogstraten</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Hoogstraten</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -6097,7 +6124,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Mechelen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
@@ -6145,13 +6172,13 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Turnhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Turnhout</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Wortel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Wortel</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -6340,6 +6367,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Antwerpen Nieuwe Gevangenis</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>29389 - CVO Encora 029389</strong></td>
 		</tr>
 		<tr>
@@ -6358,7 +6391,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante zorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
@@ -6367,7 +6400,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Bibliotheek-, archief en documentatiekunde</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bibliotheek-, archief- en documentatiekunde</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
@@ -6430,13 +6463,19 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Antwerpen Nieuwe Gevangenis</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
@@ -6859,7 +6898,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -6922,7 +6961,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -7027,7 +7066,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -7051,7 +7090,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -7249,7 +7288,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
@@ -7588,7 +7627,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Merksplas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Merksplas</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -7672,7 +7711,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Turnhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Turnhout</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -7717,7 +7756,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Wortel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Wortel</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
@@ -7760,6 +7799,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Retie</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
@@ -7864,6 +7906,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
@@ -7897,6 +7942,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>41285 - GO! CVO Brussel</strong></td>
 		</tr>
 		<tr>
@@ -7924,10 +7972,10 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
@@ -7999,7 +8047,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
@@ -8032,7 +8080,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
@@ -8236,7 +8284,13 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Antwerpen Nieuwe Gevangenis</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
@@ -8245,7 +8299,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Antwerpen</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -8408,6 +8462,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante zorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
@@ -8590,7 +8647,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -8626,7 +8683,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Dendermonde</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -8687,6 +8744,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
@@ -8917,6 +8977,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortemark</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Middelkerke</strong></td>
 		</tr>
 		<tr>
@@ -8974,7 +9040,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Ieper</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -9089,6 +9155,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
@@ -9283,6 +9352,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
@@ -9325,7 +9397,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Brugge</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -9370,6 +9442,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
@@ -9388,7 +9463,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI: Gevangenis Ieper</strong></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
@@ -9398,6 +9473,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Poperinge</strong></td>
