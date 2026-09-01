@@ -6,19 +6,20 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied lederbewerking, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 tot en met 3, die bij dit besluit zijn gevoegd.<br /><br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied lederbewerking, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1, bijlage&nbsp; 3 en bijlage 4, die bij dit besluit zijn gevoegd.<br>
+&nbsp;
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+...
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Lederbewerking BSO3, heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleidingen Schoenhersteller, Schoenmaker-ontwerper en Marokijnbewerker.<br /><br />
+...
 
 ### ART. 4.
 
-De modulaire opleiding Lederbewerking BSO3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.<br /><br />
+...
 
 ### ART. 5.
 
@@ -39,3 +40,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE 3
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_2.pdf#page=86" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+
+### BIJLAGE 4
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2026/10/22_1.pdf#page=98">Bijlage 8</a>
