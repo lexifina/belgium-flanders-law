@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042163,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-19 tot wijziging van diverse besluiten van het beleidsdomein Onderwijs en Vorming, wat betreft de besparingen in het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042163/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "250d5fa0355e04bcefd75fb6b357b92fca4112c1c4dfcbd9a5083c69d652a7f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042163&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-06-19",
+  "gazette": "2026-07-07",
+  "numac": 2026005107,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
