@@ -297,7 +297,32 @@ In artikel 196sexies, § 1, van het decreet van 15 juni 2007 betreffende het vol
 <br>
 "Ten laste van het begrotingsjaar 2026 worden 14.540,37 aanvullende leraarsuren, 212,66 aanvullende punten en een bedrag van 266.863,97 euro aan werkingsmiddelen toegekend aan de centra voor volwassenenonderwijs, en worden 40 aanvullende vte's, 659,47 aanvullende punten en een bedrag van 489.666,91 euro aan werkingsmiddelen toegekend aan de centra voor basiseducatie.".
 
+### ART 9.
+
+Aan titel IX, hoofdstuk II, afdeling III, van hetzelfde decreet, het laatst gewij zigd bij het decreet van 19 december 2025, wordt een artikel 196quinquiesdecies toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 196quinquiesdecies. In afwijking van artikel 107, § 1, wordt het totale volume van leraarsuren en punten voor alle studiegebieden samen die verdeeld moeten worden, met uitzondering van de studiegebieden Nederlands tweede taal richtgraad 1 en 2 en Nederlands tweede taal richtgraad 3 en 4, voor het schooljaar 2026-2027 zonder toepassing van het groeipercentage, vermeld in artikel 107, § 1, eerste lid, 1° of 2°, respectievelijk op 2.136.593,03 leraarsuren en 37.602 punten vastgelegd.<br>
+<br>
+Met behoud van de toepassing van de afwijking voor het schooljaar 2026-2027, vermeld in het eerste lid, blijft het referentiepunt, vermeld in artikel 107, § 1, tijdens dat schooljaar de evolutie van de gewogen financieringspunten volgen en behoudt het zijn geldigheid voor de toepassing van het groeipercentage in het daaropvolgende schooljaar.".
+
 ## Afdeling 3. Subsidies voor taalversterkende initiatieven
+
+### ART 10.
+
+De Vlaamse Regering kan, binnen de perken van de begrotingskredieten die daarvoor zijn voorzien, middelen toekennen voor initiatieven die bijdragen aan de versterking van de Nederlandse taalvaardigheid van kinderen en jongeren.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden, de wijze van toekenning en de modaliteiten voor de inzet van de middelen, vermeld in het eerste lid. De Vlaamse Regering kan een beheersovereenkomst voor telkens maximaal vier jaar sluiten met de gekozen organisatie of organisaties. De Vlaamse Regering bepaalt daarbij de inhoud van de beheersovereenkomst, waaronder de opdrachten van de betrokken organisatie of organisaties en de voorwaarden voor de toekenning van middelen. De Vlaamse Regering motiveert bij elke nieuwe beheersovereenkomst haar keuze voor de specifieke organisaties waaraan ze de subsidie toekent.<br>
+<br>
+De middelen, vermeld in het eerste lid, worden minstens ingezet voor een van de volgende doelstellingen:<br>
+1° taalstimulerende activiteiten;<br>
+2° ondersteuning van ouders en andere actoren in hun rol bij taalverwerving;<br>
+3° kennisontwikkeling, innovatie en verspreiding van expertise inzake taalstimulering.<br>
+<br>
+Bij de toekenning van de middelen, vermeld in het eerste lid, baseert de Vlaamse Regering zich minstens op:<br>
+1° de mate waarin het initiatief aantoonbaar bijdraagt aan de versterking van de Nederlandse taalvaardigheid van kinderen en jongeren, in samenhang met de geldende onderwijsdoelen;<br>
+2° de kwaliteit, haalbaarheid en wetenschappelijke onderbouwing van de voorgestelde aanpak;<br>
+3° de wijze waarop het initiatief duurzaam wordt verankerd en afgestemd met relevante onderwijs- en andere betrokken actoren;<br>
+4° de organisatie van interne kwaliteitszorg, met inbegrip van duidelijke en meetbare doelstellingen.
 
 ## Afdeling 4. Wijziging aan de begeleidende maatregelen bij het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur
 
@@ -307,7 +332,42 @@ In het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastr
 
 ## Afdeling 5. Extra werkingsbudget voor professionalisering en de aankoop van didactisch materiaal in het kleuteronderwijs ter ondersteuning van de implementatie van minimumdoelen in het kleuteronderwijs
 
+### ART 12.
+
+Aan hoofdstuk VII, afdeling 2, onderafdeling D, van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 26 april 2024, wordt een rubriek 10° toegevoegd, die luidt als volgt:<br>
+<br>
+"10° Extra werkingsbudget voor professionalisering en de aankoop van didactisch materiaal in het kleuteronderwijs ter ondersteuning van de minimumdoelen in het kleuteronderwijs".
+
+### ART 13.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 21 november 2025, wordt aan rubriek 10°, toegevoegd bij artikel 12, een artikel 87octies toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 87octies. In het begrotingsjaar 2026 wordt er, ter ondersteuning van de implementatie van de minimumdoelen in het kleuteronderwijs, een extra werkingsbudget toegekend aan scholen voor gewoon basisonderwijs met kleuteronderwijs en scholen buitengewoon basisonderwijs met kleuteronderwijs. Het extra werkingsbudget wordt ingezet voor de professionalisering van het personeel en de aankoop van didactisch materiaal in het kleuteronderwijs.<br>
+<br>
+Het extra werkingsbudget, vermeld in het eerste lid, kan tot en met 30 juni 2028 worden gebruikt voor de doelstelling, vermeld in het eerste lid.<br>
+<br>
+Voor de maatregel, vermeld in het eerste lid, is een budget van 13.552.000 euro voorzien.<br>
+<br>
+Het extra werkingsbudget per school is het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters op de eerste schooldag van februari 2026 of voor scholen opgericht op 1 september 2026 de eerste schooldag van oktober 2026 in de school met het binnen de begroting voorziene werkingsbudget, vermeld in het derde lid, gedeeld door het totale aantal regelmatige kleuters in de scholen voor gewoon basisonderwijs en scholen voor buitengewoon basisonderwijs op de eerste schooldag van februari 2026 of voor scholen opgericht op 1 september 2026 de eerste schooldag van oktober 2026.<br>
+<br>
+Het bedrag van het extra werkingsbudget, vermeld in het eerste lid, wordt uitbetaald voor 31 december 2026.".
+
 ## Afdeling 6. Schrappen forfaitaire deel globale puntenenveloppe
+
+### ART 14.
+
+In artikel 25 van de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 19 april 2024, wordt paragraaf 11 opgeheven.
+
+### ART 15.
+
+In artikel 29, § 1, derde lid, van dezelfde codex, wordt punt 1° vervangen door wat volgt:<br>
+"1° als het aantal punten van de 10% voorafname minder bedraagt dan het aantal punten volgens het hierna volgend aantal regelmatige leerlingen dat de scholengemeenschap telt op 1 februari van het voorgaande schooljaar, mag de 10% voorafname worden overschreden tot het hierna volgend aantal punten:<br>
+a) van 900 tot en met 3999 leerlingen: 120 punten;<br>
+b) van 4000 tot en met 6499 leerlingen: 180 punten;<br>
+c) van 6500 tot en met 7999 leerlingen: 240 punten;<br>
+d) van 8000 tot en met 9499 leerlingen: 300 punten;<br>
+e) van 9500 tot en met 10.999 leerlingen: 360 punten;<br>
+f) 11.000 leerlingen of meer: 420 punten;".
 
 ## Afdeling 7. Financiering opleidingen bachelor en master Tandheelkunde Vrije Universiteit Brussel
 
@@ -384,6 +444,24 @@ De taalmiddelen, vermeld in het tweede lid, worden verdeeld over de hogescholen 
 § 2. De hogescholen en universiteiten die taalmiddelen als vermeld in paragraaf 1, tweede lid, ontvangen, rapporteren over de door hen genomen initiatieven en de effecten en de resultaten ervan. De instellingen dienen daarvoor een beknopt inhoudelijk rapport in bij de Vlaamse minister, bevoegd voor onderwijs, uiterlijk op 1 april van het daaropvolgende begrotingsjaar. De instellingen nemen de verantwoording over de besteding van de taalmiddelen, vermeld in paragraaf 1, tweede lid, op in hun jaarrekening, vermeld in artikel IV.83.".
 
 ## Afdeling 11. Verlenging van een tijdelijke maatregel voor scholen voor basis- en secundair onderwijs in het tweetalige gebied Brussel-Hoofdstad in het kader van het lerarentekort
+
+### ART 20.
+
+In artikel 130, § 2, vierde lid, van het decreet basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 18 juli 2025, worden de volgende wijzigingen aangebracht:<br>
+1° in de inleidende zinnen wordt de zinsnede "tijdens het schooljaar 2025-2026" vervangen door de zinsnede "tijdens het schooljaar 2026-2027" en wordt de zinsnede "vanaf 1 september 2025" vervangen door de zinsnede "vanaf 1 september 2026";<br>
+2° in punt 2 wordt de zinsnede "op 31 augustus 2025" vervangen door de zinsnede "op 31 augustus 2026".
+
+### ART 21.
+
+In artikel 211, § 4, derde lid, van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 18 juli 2025, worden de volgende wijzigingen aangebracht:<br>
+1° in de inleidende zinnen wordt de zinsnede "tijdens het schooljaar 2025-2026" vervangen door de zinsnede "tijdens het schooljaar 2026-2027" en wordt de zinsnede "vanaf 1 september 2025" vervangen door de zinsnede "vanaf 1 september 2026";<br>
+2° in punt 2 wordt de zinsnede "op 31 augustus 2025" vervangen door de zinsnede "op 31 augustus 2026".
+
+### ART 22.
+
+In artikel 308/3, derde lid, van dezelfde codex, ingevoegd bij het decreet van 18 juli 2025, worden de volgende wijzigingen aangebracht:<br>
+1° in de inleidende zinnen wordt de zinsnede "tijdens het schooljaar 2025-2026" vervangen door de zinsnede "tijdens het schooljaar 2026-2027" en wordt de zinsnede "vanaf 1 september 2025" vervangen door de zinsnede "vanaf 1 september 2026";<br>
+2° in punt 2 wordt de zinsnede "op 31 augustus 2025" vervangen door de zinsnede "op 31 augustus 2026".
 
 ## HOOFDSTUK 7. Inwerkingtreding
 
