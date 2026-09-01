@@ -37,7 +37,7 @@ a) de maximale dienstanciënniteit die een personeelslid gedurende een schooljaa
 b) de perioden waarin het personeelslid zich in de stand van terbeschikkingstelling wegens ziekte bevindt, ook als dienstanciënniteit worden beschouwd;<br>
 7° Federatie Centra voor Basiseducatie: de belangenorganisatie van de centra voor basiseducatie;<br>
 8° kamer van beroep: de kamer van beroep, vermeld in artikel 69 van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs;<br>
-9° leeftijdsgrens: het einde van het schooljaar waarin het personeelslid de wettelijke pensioenleeftijd bereikt;<br>
+9° ...;<br>
 10° lokaal onderhandelingscomité: het lokale overleg- of onderhandelingsorgaan dat bevoegd is op het vlak van arbeidsvoorwaarden en personeelsaangelegenheden;<br>
 11° Medex: de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, Medische Expertise, cel Pensioenen;<br>
 12° opdracht: de prestaties, uitgedrukt in uren per week, die een personeelslid verricht in een bepaald ambt in een centrum;<br>
@@ -160,6 +160,12 @@ Het personeelslid in dienstactiviteit heeft recht op een salaris, een verhoging 
 ### ART 17.
 
 De Vlaamse Regering bepaalt de voorwaarden waaronder een personeelslid een verlof dat gelijkgesteld is met dienstactiviteit, kan opnemen.
+
+### ART 17/1.
+
+Als het centrumbestuur voor een tijdelijk of vastbenoemd personeelslid voor wie volgens artikel 41 van de arbeidswet van 16 maart 1971 een risico is vastgesteld, geen toepassing kan maken van de maatregelen, vermeld in artikel 42, §1, eerste lid, 1° of 2°, van de voormelde wet, moet het centrumbestuur dat personeelslid belasten met in haar toestand toelaatbare pedagogische taken of, als het personeelslid niet in het bezit is van een pedagogisch bekwaamheidsbewijs, met in haar toestand toelaatbare administratieve taken in een niet-organieke betrekking in haar ambt in het centrum waar het personeelslid is aangesteld. Daarbij geldt steeds dat de afstand over de openbare weg tussen de standplaats als vermeld in artikel 31, §3 en artikel 40, §3 en de plaats van tewerkstelling waar het personeelslid wordt belast met de hiervoor vermelde taken, nooit meer dan 25 kilometer mag bedragen. Dat geldt niet als het per-soneelslid ermee instemt om over een grotere afstand ingezet te worden.<br>
+<br>
+Tijdens de periode waarin het personeelslid met een niet-organieke betrekking als vermeld in het eerste lid wordt belast, is het personeelslid in dienstactiviteit. Het personeelslid blijft titularis van haar betrekking, behoudt daarbij haar salaris en kan worden vervangen hetzij volgens artikel 128ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs voor de vervanging van een leraar basiseducatie, hetzij volgens de gebruikelijke vervangingsregeling voor de vervanging van ande-re ambten dan de leraar basiseducatie.
 
 ### ART 18.
 
@@ -287,14 +293,14 @@ Een tijdelijke aanstelling eindigt van rechtswege en zonder opzegging voor het g
 5° als het personeelslid na een geoorloofde afwezigheid zonder geldige reden, behalve in geval van overmacht, zijn dienst niet hervat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft;<br>
 6° als het personeelslid zonder geldige reden zijn betrekking verlaat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft;<br>
 7° als het personeelslid zich bevindt in de gevallen waarin de toepassing van de burgerlijke wetten en van de strafwetten de ambtsneerlegging tot gevolg heeft;<br>
-8° als het personeelslid met rustpensioen gaat wegens het bereiken van de leeftijdsgrens, tenzij het betrokken personeelslid en het centrumbestuur overeenkomen de aanstelling te verlengen, telkens met maximaal één schooljaar;<br>
+8° ...;<br>
 9° bij de terugkeer van de titularis van de betrekking of van het personeelslid dat hem tijdelijk vervangt;<br>
 10° bij ontslag wegens dringende reden;<br>
 11° uiterlijk op het einde van de termijn waarvoor het personeelslid is aangesteld;<br>
 12° als het personeelslid wordt toegelaten tot het definitieve vroegtijdige pensioen wegens gezondheidsredenen of lichamelijke ongeschiktheid;<br>
 13° uiterlijk op het einde van het schooljaar. Deze bepaling is evenwel niet van toepassing op de personeelsleden die tijdelijk aangesteld zijn voor onbepaalde duur.<br>
 <br>
-Om tegemoet te komen aan een tekort op de arbeidsmarkt, kan de Vlaamse Regering de voorwaarden bepalen waaronder een definitief gepensioneerde na de leeftijdsgrens, vermeld in het eerste lid, 8°, als tijdelijk personeelslid in een wervingsambt kan worden aangesteld. Die aanstelling gebeurt met behoud van de toepassing van hoofdstuk 9 van dit decreet. Het personeelslid wordt altijd aangesteld voor bepaalde duur en verwerft geen recht op een tijdelijke aanstelling van onbepaalde duur.
+Om tegemoet te komen aan een tekort op de arbeidsmarkt, kan de Vlaamse Regering de voorwaarden bepalen waaronder een definitief gepensioneerde als tijdelijk personeelslid in een wervingsambt kan worden aangesteld. Die aanstelling gebeurt met behoud van de toepassing van hoofdstuk 9 van dit decreet. Het personeelslid wordt altijd aangesteld voor bepaalde duur en verwerft geen recht op een tijdelijke aanstelling van onbepaalde duur.
 
 ### ART 33.
 
@@ -416,7 +422,7 @@ Een vaste benoeming eindigt van rechtswege en zonder opzegging voor het geheel o
 4° hij zich bevindt in de gevallen waarin de toepassing van de burgerlijke wetten en van de strafwetten de ambtsneerlegging tot gevolg heeft;<br>
 5° hij wordt toegelaten tot het definitieve vroegtijdige pensioen wegens gezondheidsredenen of lichamelijke ongeschiktheid;<br>
 6° hij na terugroeping in actieve dienst zonder gegronde redenen weigert de door het centrumbestuur aangewezen betrekking te bekleden;<br>
-7° hij met rustpensioen gaat wegens het bereiken van de leeftijdsgrens, tenzij het betrokken personeelslid en het centrumbestuur overeenkomen de aanstelling te verlengen, telkens met maximaal één schooljaar.<br>
+7° ...<br>
 <br>
 Het ontslag wordt ter kennis gebracht van het personeelslid. Die kennisgeving kan op straffe van nietigheid alleen gebeuren hetzij met een aangetekende brief die uitwerking heeft op de derde werkdag na de datum van de verzending ervan, hetzij bij gerechtsdeurwaardersexploot, met dien verstande dat het personeelslid die nietigheid niet kan dekken en dat ze door de rechter van ambtswege wordt vastgesteld.<br>
 <br>
@@ -579,7 +585,7 @@ Een vaste benoeming eindigt van rechtswege en zonder opzeg voor het geheel of ee
 4° hij zich bevindt in de gevallen waarin de toepassing van de burgerlijke wetten en van de strafwetten de ambtsneerlegging tot gevolg heeft;<br>
 5° hij wordt toegelaten tot het definitieve vroegtijdige pensioen wegens gezondheidsredenen of lichamelijke ongeschiktheid;<br>
 6° hij na terugroeping in actieve dienst zonder gegronde redenen weigert de door het centrumbestuur aangewezen betrekking te bekleden;<br>
-7° hij met rustpensioen gaat wegens het bereiken van de leeftijdsgrens, tenzij het betrokken personeelslid en het centrumbestuur overeenkomen de aanstelling te verlengen, telkens met maximaal één schooljaar.<br>
+7° ...<br>
 <br>
 Deze beëindiging wordt ter kennis gebracht van de directeur. Die kennisgeving kan op straffe van nietigheid alleen gedaan worden met een aangetekende brief die uitwerking heeft op de derde werkdag na de datum van de verzending ervan, hetzij bij gerechtsdeurwaardersexploot, met dien verstande dat het personeelslid die nietigheid niet kan dekken en dat ze door de rechter van ambtswege wordt vastgesteld.<br>
 <br>
@@ -940,6 +946,34 @@ Die kennisgeving kan alleen gedaan worden, hetzij met een aangetekende brief die
 Het centrumbestuur betaalt de verbrekingsvergoeding met eigen middelen.<br>
 <br>
 § 5. Met het oog op het onderbrengen van het vastbenoemde personeelslid onder de werkloosheidsverzekering, de ziekteverzekering en de moederschapsbescherming betaalt het Vlaams Ministerie van Onderwijs en Vorming tijdens de opzegtermijnen of op de verbrekingsvergoeding de desbetreffende werkgevers- en werknemersbijdragen. Als die niet volstaan, betaalt het Vlaams Ministerie van Onderwijs en Vorming de nog benodigde werkgevers- en werknemersbijdragen.
+
+### ART 88/1.
+
+In afwijking van artikel 86, § 1, kan het centrumbestuur de aanstelling of benoeming beëindigen van een personeelslid dat de wettelijke pensioenleeftijd bereikt heeft. In afwijking van artikel 88, § 1 neemt het centrumbestuur daarbij een opzeggingstermijn in acht die maximaal 26 weken bedraagt. Het centrumbestuur en het personeelslid kunnen een kortere opzeggingstermijn overeenkomen. De opzegging wordt gemotiveerd.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, kan het personeelslid bij het voltooien van de opzeggingstermijn voortwerken tot het einde van de maand waarin het personeelslid de opzeggingstermijn volbracht heeft.<br>
+<br>
+De opzeggingstermijn, vermeld in het eerste lid, gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag. Het ontslag wordt betekend met een aangetekende brief en heeft uitwerking op de derde dag na de verzending.<br>
+<br>
+Het centrumbestuur kan beslissen dat het ontslag onmiddellijk ingaat. In dat geval betaalt het centrumbestuur een verbrekingsvergoeding die gelijk is aan het salaris dat overeenstemt met de duur van de berekende opzeggingstermijn.<br>
+<br>
+Artikel 88, § 5 is niet van toepassing op een ontslag van een personeelslid dat de wettelijke pensioenleeftijd heeft bereikt.
+
+### ART 88/2.
+
+Het centrumbestuur mag de tijdelijke aanstelling of vaste benoeming van een personeelslid, met toepassing van artikel 88/1 van dit decreet, niet eenzijdig beëindigen om redenen die vreemd zijn aan de uitoefening door het personeelslid volgens de geldende regelgeving van een van de volgende rechten:<br>
+1°&nbsp;&nbsp; &nbsp;het recht op omstandigheidsverlof naar aanleiding van de bevalling;<br>
+2°&nbsp;&nbsp; &nbsp;het recht op loopbaanonderbreking voor ouderschapsverlof;<br>
+3°&nbsp;&nbsp; &nbsp;het recht op afwezigheid voor verminderde prestaties voor zorgdoeleinden;<br>
+4°&nbsp;&nbsp; &nbsp;het recht om een flexibele werkregeling aan te vragen;<br>
+5°&nbsp;&nbsp; &nbsp;het recht om een nevenactiviteit uit te oefenen, binnen de grenzen van de cumulatieregeling en de regeling rond onverenigbaarheden van het centrumbestuur;<br>
+6°&nbsp;&nbsp; &nbsp;het recht op een ambtswijziging of om werk met meer voorspelbare en zekere arbeidsvoorwaarden te vragen.<br>
+<br>
+Het verbod, vermeld in het eerste lid, gaat in op de dag van de aanvraag van een van de rechten, vermeld in het eerste lid, met uitzondering van het recht op loopbaanonderbreking voor ouderschapsverlof dat ingaat op de dag van de geboorte van het kind.&nbsp;<br>
+<br>
+Het centrumbestuur deelt het personeelslid schriftelijk mee wat de redenen voor het ontslag zijn.&nbsp;<br>
+<br>
+Als de ingeroepen redenen niet vreemd zijn aan de uitoefening van een recht, als vermeld in het eerste lid, waarvan het personeelslid gebruik maakt of als er geen reden voor het ontslag is opgegeven, als vermeld in het derde lid, betaalt het centrumbestuur aan het personeelslid aanvullend op de opzegtermijn of -vergoeding een forfaitaire vergoeding die gelijk is aan het brutoloon voor zes maanden. Die forfaitaire vergoeding kan bij het ontslag van een personeelslid niet samen genoten worden met andere vergoedingen die in het kader van een bijzondere beschermingsprocedure tegen ontslag zijn bepaald.
 
 ### ART 89.
 
