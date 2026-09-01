@@ -934,13 +934,13 @@ In het eerste lid wordt verstaan onder&nbsp;<br>
 1°&nbsp;&nbsp; &nbsp;onderneming: een onderneming uit de publieke of private profit- of non-profitsector;<br>
 2°&nbsp;&nbsp; &nbsp;organisatie: een organisatie uit de publieke of private profit- of non-profitsector.
 
-## HOOFDSTUK IV Toekennen van de premie, [bepaald in artikel 113decies, § 3 (verv. BVR 9 november 2018, art. 8, I: 1 september 2019)], van het decreet
+## HOOFDSTUK IV Toekennen van de premie, bepaald in artikel 113decies, §4, 2°, van het decreet
 
 ### ART. 7.
 
-&nbsp;§ 1. Nadat de cursist voor de eerste keer het diploma van het secundair onderwijs heeft behaald van een opleiding, vermeld in artikel 41, § 4, 2° en 2° bis, van het decreet, wordt aan de cursist een premie toegekend die gelijk is aan het inschrijvingsgeld dat hij bij de eerste inschrijving voor de modules van deze opleiding heeft betaald overeenkomstig artikel 113novies van het decreet. In voorkomend geval wordt de premie beperkt tot het begrensd inschrijvingsgeld.<br>
+&nbsp;§ 1. Nadat de cursist voor de eerste keer het diploma van het secundair onderwijs heeft behaald van een opleiding, vermeld in artikel 41, § 4, 1° tot en met 2°quater, van het decreet, wordt aan de cursist een premie toegekend die gelijk is aan het inschrijvingsgeld dat hij bij de inschrijving voor de modules van deze opleiding waarvoor hij de eerste keer slaagde heeft betaald overeenkomstig artikel 113novies van het decreet. In voorkomend geval wordt de premie beperkt tot het begrensd inschrijvingsgeld.<br>
 <br>
-§ 2. De premie, vermeld in artikel 110, § 4, 2°, van het decreet, wordt enkel toegekend voor de opleidingen, vermeld in § 1, die gestart worden vanaf 1 september 2007.<br>
+§ 2. ...<br>
 &nbsp;
 
 ### ART. 8.
