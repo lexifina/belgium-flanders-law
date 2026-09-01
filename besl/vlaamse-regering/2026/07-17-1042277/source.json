@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042277,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 over de organisatie van de GI-school en het personeel in de GI-school",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042277/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "9aa1f7d25fb024a0502b35850164d3b193b5fe5544118a249a5b854c7d3ac69b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042277&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-07-17",
+  "gazette": "2026-08-21",
+  "numac": 2026006204,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
