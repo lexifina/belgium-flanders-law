@@ -597,11 +597,13 @@ De werkgever of, in voorkomend geval, de werknemer voegt bij het formulier, verm
 De werkgever voegt de volgende documenten bij het formulier, vermeld in artikel 41:<br>
 1° een fotokopie van zijn identiteitsbewijs of dat van zijn volmachthouder;<br>
 2° in geval van detachering, een kopie van het document, afgegeven door de buitenlandse instelling, dat verklaart dat de socialezekerheidswetgeving van dat land van toepassing blijft tijdens de tewerkstelling op het Belgische grondgebied, of, als een internationale overeenkomst daarover ontbreekt, een verklaring van de Rijksdienst voor Sociale Zekerheid dat de voorwaarden om onderworpen te zijn aan het Belgische stelsel voor werknemers, niet vervuld zijn;<br>
-3° als de aanvraag betrekking heeft op de uitoefening van een gereglementeerd beroep, de documenten waaruit blijkt dat de werknemer voldoet aan de voorwaarden voor de uitoefening van dat beroep.<br>
+3° als de aanvraag betrekking heeft op de uitoefening van een gereglementeerd beroep, de documenten waaruit blijkt dat de werknemer voldoet aan de voorwaarden voor de uitoefening van dat beroep;<br>
+4° een bewijs dat de retributie, vermeld in artikel 81/1, is betaald.<br>
 <br>
 Bij een hernieuwing worden de volgende stukken bij het formulier, vermeld in artikel 41, gevoegd:<br>
 1° een fotokopie van de loonfiches of loonafrekeningen voor de volledige periode van de toelating tot arbeid die verstrijkt, of een fotokopie van de individuele rekening na een volledig kalenderjaar waarin de betrokkene heeft gewerkt;<br>
-2° het bewijs van inschrijving in het Limosakadaster als de aanvraag gaat over een detachering binnen het toepassingsgebied van titel IV, hoofdstuk 8, van de programmawet (I) van 27 december 2006.
+2° het bewijs van inschrijving in het Limosakadaster als de aanvraag gaat over een detachering binnen het toepassingsgebied van titel IV, hoofdstuk 8, van de programmawet (I) van 27 december 2006;<br>
+3° een bewijs dat de retributie, vermeld in artikel 81/1, is betaald.
 
 ### ART 45.
 
@@ -787,8 +789,9 @@ De aanvraag wordt ingediend met een formulier waarvoor de bevoegde overheid een 
 De onderdaan van een derde land vult de aanvraag naar behoren in en ondertekent het gedateerde formulier.<br>
 <br>
 § 2. De werknemer voegt naast de documenten, vermeld in artikel 43, de volgende documenten bij het formulier, vermeld in paragraaf 1:<br>
-1° een fotokopie van de loonfiches of loonafrekeningen voor de de periode van de laatste zes maanden van de recentste toelating tot arbeid, die de aanvraag tot toelating tot arbeid van onbepaalde duur voorafgaat;<br>
-2° een fotokopie van de lopende arbeidsovereenkomst of, bij het ontbreken daarvan, om het even welk ander document, aan de hand waarvan de onderdaan van een derde land aantoont dat hij over voldoende bestaansmiddelen beschikt, overeenkomstig artikel 61/25-5, § 1, 2° van de wet van 15 december 1980.
+1° een fotokopie van de loonfiches of loonafrekeningen voor de periode van de laatste zes maanden van de recentste toelating tot arbeid, die de aanvraag tot toelating tot arbeid van onbepaalde duur voorafgaat;<br>
+2° een fotokopie van de lopende arbeidsovereenkomst of, bij het ontbreken daarvan, om het even welk ander document, aan de hand waarvan de onderdaan van een derde land aantoont dat hij over voldoende bestaansmiddelen beschikt, overeenkomstig artikel 61/25-5, § 1, 2° van de wet van 15 december 1980;<br>
+3° een bewijs van betaling van de retributie, vermeld in artikel 81/1.
 
 ### ART 66.
 
@@ -969,6 +972,22 @@ De persoonsgegevens worden beveiligd volgens de dataclassificatie en beveiliging
 ### ART 81.
 
 De persoonsgegevens die opgevraagd worden in toepassing van dit besluit worden slechts zo lang bewaard als nodig voor het uitreiken van de arbeidsvergunning, de arbeidskaart en de eventuele hernieuwing van de toelating tot arbeid.
+
+## HOOFDSTUK 12/1. Retributie
+
+### ART 81/1.
+
+§1. Voor elke aanvraag voor een toelating tot arbeid die is ingediend conform hoofdstuk 9, wordt een retributie betaald.<br>
+<br>
+§2. Een aanvraag zonder of met onvolledige betaling van de retributie, vermeld in paragraaf 1, kan aangevuld worden conform artikel 19, §2, van het samenwerkingsakkoord van 2 februari 2018.<br>
+<br>
+Als de betaling van de retributie, vermeld in paragraaf 1, niet of onvolledig is uitgevoerd binnen de termijn van 15 dagen conform artikel 19, §2, van het samenwerkingsakkoord van 2 februari 2018, wordt de aanvraag afgesloten zonder gevolg.<br>
+<br>
+Geen enkele terugbetaling van de retributie, vermeld in paragraaf 1, is mogelijk.<br>
+<br>
+§3. De minister legt het bedrag van de retributie, vermeld in paragraaf 1, vast. Dat bedrag wordt jaarlijks op 1 januari aangepast, op basis van het gemiddelde indexcijfer van de consumptieprijsindex van het voorafgaande jaar met als basisindex de index die van toepassing is op 1 januari 2026. Het resultaat van de aanpassing wordt naar boven op de euro afgerond.<br>
+<br>
+De minister deelt het bedrag van de retributie mee aan de Vlaamse Regering.
 
 ## HOOFDSTUK 13. Wijzigingsbepaling
 
