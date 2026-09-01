@@ -14,7 +14,7 @@ In dit besluit wordt verstaan onder:<br>
 1° advocaat: een persoon die als advocaat ingeschreven is op de lijst van de stagiairs, het tableau van de Orde der Advocaten of een onderdaan van een lidstaat van de Europese Unie die, volgens de bepalingen van het Gerechtelijk Wetboek, gerechtigd is het beroep van advocaat uit te oefenen of een titel van advocaat te voeren;<br>
 2° afschrift: een fotokopie, een digitale kopie of de toegang tot een document via het digitaal platform;<br>
 3° beschikking: de beslissing van de voorzitter van het College, van de kamervoorzitter of een bestuursrechter, die alleen betrekking heeft op procedurele aangelegenheden;<br>
-4° bestreden beslissing of besluit: een beslissing als vermeld in artikel 2, 7°, van het decreet;<br>
+4° bestreden beslissing: een beslissing als vermeld in artikel 2, 7°, van het decreet;<br>
 5° beveiligde zending: een van de betekeningswijzen als vermeld in artikel 2, 8°, van het decreet;<br>
 6° College: een Vlaams Bestuursrechtscollege als vermeld in artikel 2, 1°, van het decreet;<br>
 7° decreet: het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges;<br>
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 4.
 
-De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, de Codex Hoger Onderwijs van 11 oktober 2013, het decreet van 25 april 2014 betreffende de omgevingsvergunning,&nbsp;het decreet van 25 april 2014 betreffende complexe projecten, het Vlaams Onteigeningsdecreet van 24 februari 2017, het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en dit besluit.
+De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, de Codex Hoger Onderwijs van 11 oktober 2013, het decreet van 25 april 2014 betreffende de omgevingsvergunning, het Vlaams Onteigeningsdecreet van 24 februari 2017, het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en dit besluit.
 
 ### ART. 5.
 
@@ -106,7 +106,7 @@ Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, gee
 <br>
 § 2. De griffier kan de neerlegging van afschriften van het verzoekschrift, overtuigingsstukken of processtukken bevelen.<br>
 <br>
-§ 3. Het administratief dossier bevat de bestreden beslissing of het bestreden besluit, de stukken op grond waarvan die beslissing of besluit is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing of het besluit door het bestuur aan de verzoeker.<br>
+§ 3. Het administratief dossier bevat de bestreden beslissing de stukken op grond waarvan die beslissing is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing door het bestuur aan de verzoeker.<br>
 <br>
 Het administratief dossier dat aan het College gericht is, bevat een inventaris van de stukken, die conform die inventaris genummerd zijn.<br>
 <br>
@@ -193,6 +193,18 @@ De Dienst van de Bestuursrechtscolleges houdt een logboek bij van de tijdstippen
 
 Met het oog op de beoordeling van de zaak kan het College rechtstreeks   briefwisseling voeren met alle partijen, besturen en derden en hen alle nuttige   inlichtingen en stukken vragen.<BR>
 
+## Onderafdeling 8. Tolken ter zitting
+
+### ART 12/1.
+
+De partij die aannemelijk maakt dat ze de Nederlandse taal onvoldoende beheerst, kan zich ter zitting laten bijstaan door een tolk.&nbsp;<br>
+<br>
+De kamervoorzitter wijst de beëdigde tolk aan uit het Nationaal Register van beëdigd vertalers, tolken en vertalers-tolken.<br>
+<br>
+De griffier maakt melding van de bijstand van een partij door een tolk in het proces-verbaal van de zitting.<br>
+<br>
+De kosten van de tolk zijn ten laste van het Fonds Bestuursrechtscolleges.
+
 ## Afdeling 2 Procedureverloop
 
 ## Onderafdeling 1 Het indienen van een verzoekschrift
@@ -223,7 +235,7 @@ Als de verzoeker een rechtspersoon is, vermeldt ze in het verzoekschrift in voor
 ### ART. 16.
 
 De verzoeker voegt in voorkomend geval de volgende documenten bij het verzoekschrift:<br>
-1° een afschrift van de bestreden beslissing of&nbsp;het bestreden besluit, dan wel een verklaring van de verzoeker dat hij niet in het bezit is van een dergelijk afschrift;<br>
+1° een afschrift van de bestreden beslissing een verklaring van de verzoeker dat hij niet in het bezit is van een dergelijk afschrift;<br>
 2° als de verzoeker een rechtspersoon is en hij geen raadsman heeft die advocaat is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daarvoor bevoegde orgaan beslist heeft in rechte te treden;<br>
 3° de schriftelijke volmacht van zijn raadsman als hij geen advocaat is;<br>
 4° de overtuigingsstukken die in de inventaris zijn vermeld en overeenkomstig die inventaris genummerd zijn.
@@ -238,7 +250,7 @@ De verzoeker voegt in voorkomend geval de volgende documenten bij het verzoeksch
 1° de stukken, vermeld in artikel 16, 2°, niet gevoegd zijn bij het verzoekschrift dat uitgaat van een rechtspersoon;<br>
 2° het verzoekschrift niet is ondertekend door de verzoeker of zijn raadsman;<br>
 3° het verzoekschrift geen adreskeuze bevat overeenkomstig artikel 7, § 1;<br>
-4° er geen afschrift van de bestreden beslissing of&nbsp;het bestreden besluit, dan wel een verklaring van de verzoeker dat hij niet in het bezit is van een dergelijk afschrift, bij het verzoekschrift gevoegd is;<br>
+4° er geen afschrift van de bestreden beslissing of een verklaring van de verzoeker dat hij niet in het bezit is van een dergelijk afschrift, bij het verzoekschrift gevoegd is;<br>
 5° de schriftelijke volmacht, vermeld in artikel 16, 3°, niet bij het verzoekschrift gevoegd is;<br>
 6° de stukken, vermeld in artikel 16, 4°, niet bij het verzoekschrift gevoegd zijn;<br>
 7° er geen inventaris bij het verzoekschrift gevoegd is van de overtuigingsstukken die allemaal overeenkomstig die inventaris genummerd zijn.<br>
@@ -474,12 +486,12 @@ De tussenkomende partij voegt bij haar schriftelijke uiteenzetting:<br>
 ### ART 26/5.
 
 In de volgende gevallen wordt de schriftelijke uiteenzetting geacht niet te zijn ingediend:<br>
-1° de stukken, vermeld in artikel 26/4, derde lid, 1°, zijn in voorkomend geval niet bij de schriftelijke uiteenzetting gevoegd;<br>
+1° de stukken, vermeld in artikel 26/4, vierde lid, 1°, zijn in voorkomend geval niet bij de schriftelijke uiteenzetting gevoegd;<br>
 2° de schriftelijke uiteenzetting is niet ondertekend door de tussenkomende partij of haar raadsman;<br>
 3° de schriftelijke uiteenzetting bevat geen adreskeuze overeenkomstig artikel 7, §1;<br>
 4° de schriftelijke uiteenzetting vermeldt het rolnummer van de vordering niet of bevat geen verklaring dat de tussenkomende partij het rolnummer niet kent;<br>
-5° de schriftelijke volmacht, vermeld in artikel 26/4, derde lid, 2°, is niet bij de schriftelijke uiteenzetting gevoegd;<br>
-6° de stukken, vermeld in artikel 26/4, derde lid, 3°, zijn niet bij de schriftelijke uiteenzetting gevoegd;<br>
+5° de schriftelijke volmacht, vermeld in artikel 26/4, vierde lid, 2°, is niet bij de schriftelijke uiteenzetting gevoegd;<br>
+6° de stukken, vermeld in artikel 26/4, vierde lid, 3°, zijn niet bij de schriftelijke uiteenzetting gevoegd;<br>
 7° de inventaris van de overtuigingsstukken, die conform die inventaris genummerd zijn, is niet bij de schriftelijke uiteenzetting gevoegd.<br>
 &nbsp;&nbsp; &nbsp;<br>
 De griffier stelt, in voorkomend geval, de tussenkomende partij in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen, die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
@@ -562,11 +574,7 @@ De kamervoorzitter verklaart de debatten voor gesloten en neemt de zaak in beraa
 
 ### ART 26/13.
 
-De partij die aannemelijk maakt dat ze de taal van de rechtspleging onvoldoende beheerst, kan zich ter zitting laten bijstaan door een vertaler-tolk. Daarvan maakt de griffier een proces-verbaal op.<br>
-&nbsp;&nbsp; &nbsp; &nbsp;<br>
-De kamervoorzitter duidt de vertaler-tolk aan uit de lijst van de beëdigde vertalers-tolken die ter beschikking ligt op de griffie van de rechtbank van eerste aanleg in Brussel.<br>
-&nbsp;&nbsp; &nbsp; &nbsp;<br>
-De kosten van de vertaler-tolk zijn ten laste van het College.
+...
 
 ## Onderafdeling 4. Arrest waarbij uitspraak wordt gedaan over de vordering tot schorsing bij hoogdringendheid of over de vordering tot schorsing bij uiterst dringende noodzakelijkheid
 
@@ -798,7 +806,7 @@ De griffier betekent de beschikking aan de partijen en, in voorkomend geval, aan
 
 ### ART. 43.
 
-<P>De partij die aannemelijk maakt dat ze de taal van de rechtspleging   onvoldoende beheerst, kan zich ter zitting laten bijstaan door een   vertaler-tolk. Daarvan maakt de griffier proces-verbaal op.<BR></P>  <P>De kamervoorzitter duidt de vertaler-tolk aan uit de lijst van de beëdigde   vertalers-tolken die ter beschikking ligt op de griffie van de rechtbank van   eerste aanleg in Brussel.<BR></P>  <P>De kosten van de vertaler-tolk zijn ten laste van het   College.<BR></P>
+<p>...</p>
 
 ## Onderafdeling 6 Beraadslaging en uitspraak
 
@@ -938,9 +946,9 @@ Dit deel is van toepassing op de beroepen die worden ingediend tegen :<br>
 1° registratiebeslissingen, als vermeld in artikel 4.8.2, 3°, van de Vlaamse Codex Ruimtelijke Ordening;<br>
 2° vergunningsbeslissingen en aktenames of niet-aktenames van een melding, als vermeld in artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 3° definitieve onteigeningsbesluiten, conform artikel 43 en 44 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
-4° besluiten tot definitieve vaststelling van gewestelijke, provinciale en gemeentelijke ruimtelijke uitvoeringsplannen als vermeld in artikel 4.8.2, 1°, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-5° besluiten tot definitieve vaststelling van gewestelijke, provinciale en gemeentelijke stedenbouwkundige verordeningen als vermeld in artikel 4.8.2, 2°, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-6° definitief vastgestelde voorkeursbesluiten en definitief vastgestelde projectbesluiten als vermeld in artikel 45 van het decreet van 25 april 2014 betreffende complexe projecten.
+4° ...;<br>
+5° ...;<br>
+6° ...
 
 ## HOOFDSTUK 2 Rechtspleging
 
@@ -978,18 +986,9 @@ De griffier betekent met een beveiligde zending een afschrift van het verzoeksch
 1°&nbsp;&nbsp; &nbsp;de verweerder;<br>
 2°&nbsp;&nbsp; &nbsp;de belanghebbenden bij de zaak, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken;<br>
 3°&nbsp;&nbsp; &nbsp;de vergunninghouder of de persoon die de melding heeft verricht en die wordt vermeld in de bestreden beslissing of in de bestreden aktename of niet-aktename;<br>
-4°&nbsp;&nbsp; &nbsp;de personen die zich als belanghebbenden bij de zaak hebben aangemeld, conform het derde en het vierde lid.<br>
+4°&nbsp;&nbsp; &nbsp;...<br>
 <br>
-Als het verzoekschrift een vordering tot schorsing bij hoogdringendheid bevat, betekent de griffier het afschrift binnen een ordetermijn van twintig dagen, die ingaat de dag na de dag waarop de griffie het verzoekschrift heeft ontvangen. Die ordetermijn geldt niet in een verkorte procedure als vermeld in artikel 59/2.<br>
-<br>
-Als een verzoekschrift tegen een besluit als vermeld in artikel 54, 4° tot en met 6°, wordt ingediend, laat de griffier in het Belgisch Staatsblad een bericht in het Nederlands bekendmaken dat al de volgende gegevens bevat:<br>
-1°&nbsp;&nbsp; &nbsp;het besluit waarvan de vernietiging of de schorsing bij hoogdringendheid wordt gevorderd;<br>
-2°&nbsp;&nbsp; &nbsp;de datum van de bekendmaking van het besluit;<br>
-3°&nbsp;&nbsp; &nbsp;het rolnummer waaronder het beroep is ingeschreven;<br>
-4°&nbsp;&nbsp; &nbsp;de termijn waarin personen zich kunnen aanmelden als belanghebbende bij de zaak.<br>
-<br>
-De termijn, vermeld in het derde lid, 4°, bedraagt twintig dagen vanaf de dag die volgt op de bekendmaking van het beroep in het Belgisch Staatsblad, vermeld in het derde lid.<br>
-&nbsp;
+Als het verzoekschrift een vordering tot schorsing bij hoogdringendheid bevat, betekent de griffier het afschrift binnen een ordetermijn van twintig dagen, die ingaat de dag na de dag waarop de griffie het verzoekschrift heeft ontvangen. Die ordetermijn geldt niet in een verkorte procedure als vermeld in artikel 59/2.
 
 ## [Afdeling 2 Verkorte procedures (verv. BVR 21 april 2017, art. 27, I: 24 april 2017)]
 
@@ -1090,12 +1089,12 @@ De vergunninghouder die wordt vermeld in de bestreden beslissing, of de persoon 
 ### ART. 61.
 
 In de volgende gevallen wordt de schriftelijke uiteenzetting geacht niet te zijn ingediend:<br>
-1° de stukken, vermeld in artikel 60, derde lid, 1°, zijn in voorkomend geval niet bij de schriftelijke uiteenzetting gevoegd;<br>
+1° de stukken, vermeld in artikel 60, vierde lid, 1°, zijn in voorkomend geval niet bij de schriftelijke uiteenzetting gevoegd;<br>
 2° de schriftelijke uiteenzetting is niet ondertekend door de tussenkomende partij of haar raadsman;<br>
 3° de schriftelijke uiteenzetting bevat geen adreskeuze overeenkomstig artikel 7, § 1;<br>
 4° de schriftelijke uiteenzetting vermeldt het rolnummer van de vordering niet of bevat geen verklaring dat de tussenkomende partij het rolnummer niet kent;<br>
-5° de schriftelijke volmacht, vermeld in artikel 60, derde lid, 2°, is niet bij de schriftelijke uiteenzetting gevoegd;<br>
-6° de stukken, vermeld in artikel 60, derde lid, 3°, zijn niet bij de schriftelijke uiteenzetting gevoegd;<br>
+5° de schriftelijke volmacht, vermeld in artikel 60, vierde lid, 2°, is niet bij de schriftelijke uiteenzetting gevoegd;<br>
+6° de stukken, vermeld in artikel 60, vierde lid, 3°, zijn niet bij de schriftelijke uiteenzetting gevoegd;<br>
 7° de inventaris van de overtuigingsstukken, die conform die inventaris genummerd zijn, is niet bij de schriftelijke uiteenzetting gevoegd.<br>
 <br>
 De griffier stelt, in voorkomend geval, de tussenkomende partij in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen, die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
@@ -1201,15 +1200,13 @@ De griffier zendt onmiddellijk een afschrift van het arrest waarbij uitspraak wo
 
 ### ART 68/1.
 
-In geval van de schorsing van een besluit als vermeld in artikel 54, 4° tot en met 6°, beveelt het College dat de schorsing, de datum van de uitspraak en het rolnummer worden bekendgemaakt in dezelfde vorm als het geschorste besluit. Hetzelfde geldt voor het arrest dat de schorsing opheft of wijzigt.<br>
-<br>
-De bekendmaking, vermeld in het eerste lid, gebeurt onmiddellijk door de verwerende partij.
+...
 
 ## Onderafdeling 5 Verzoek tot voortzetting
 
 ### ART. 69.
 
-<p>Als het College&nbsp;de vordering tot schorsing heeft ingewilligd met toepassing van deze afdeling, kan de verweerder of tussenkomende partij een verzoek tot voortzetting van de rechtspleging indienen binnen een vervaltermijn van&nbsp;dertig dagen. Als er geen verzoek tot voortzetting wordt ingediend, kan het College volgens de versnelde rechtspleging, vermeld in onderafdeling 6, de bestreden beslissing of het bestreden besluit vernietigen.</p>
+<p>Als het College&nbsp;de vordering tot schorsing heeft ingewilligd met toepassing van deze afdeling, kan de verweerder of tussenkomende partij een verzoek tot voortzetting van de rechtspleging indienen binnen een vervaltermijn van&nbsp;dertig dagen. Als er geen verzoek tot voortzetting wordt ingediend, kan het College volgens de versnelde rechtspleging, vermeld in onderafdeling 6, de bestreden beslissing vernietigen.</p>
 
 <p>Als het College de vordering tot schorsing heeft verworpen, kan de verzoeker een verzoek tot voortzetting indienen binnen een vervaltermijn van&nbsp;dertig dagen. Als de verzoeker geen verzoek tot voortzetting indient, geldt ten aanzien van hem een&nbsp;vermoeden van afstand van geding.</p>
 
@@ -1225,15 +1222,15 @@ Als een vervaltermijn voor het indienen van een nota in het kader van de vorderi
 
 ### ART. 71.
 
-<p>Als het College&nbsp;de vordering tot schorsing heeft ingewilligd met toepassing van deze afdeling en de verweerder of de tussenkomende partij binnen de vervaltermijn, vermeld in artikel 69, eerste lid, geen verzoek tot voortzetting van de rechtspleging heeft ingediend, deelt de griffier de partijen met een beveiligde zending mee dat de kamer uitspraak zal doen over de vordering tot vernietiging van de bestreden beslissing of het bestreden besluit.</p>
+<p>Als het College&nbsp;de vordering tot schorsing heeft ingewilligd met toepassing van deze afdeling en de verweerder of de tussenkomende partij binnen de vervaltermijn, vermeld in artikel 69, eerste lid, geen verzoek tot voortzetting van de rechtspleging heeft ingediend, deelt de griffier de partijen met een beveiligde zending mee dat de kamer uitspraak zal doen over de vordering tot vernietiging van de bestreden beslissing.</p>
 
 <p>De verweerder of de tussenkomende partij beschikt over een vervaltermijn van vijftien dagen, die ingaat op de dag na de mededeling bij beveiligde zending, vermeld in het eerste lid, om te vragen te worden gehoord.</p>
 
-<p>Als geen van die partijen vraagt te worden gehoord, kan de kamer de bestreden beslissing of het bestreden besluit onmiddellijk vernietigen.</p>
+<p>Als geen van die partijen vraagt te worden gehoord, kan de kamer de bestreden beslissing onmiddellijk vernietigen.</p>
 
 <p>Als een partij vraagt te worden gehoord, deelt de griffier de plaats, de dag en het tijdstip van de zitting mee.</p>
 
-<p>Nadat de partijen werden gehoord, kan de kamer de bestreden beslissing&nbsp;of het bestreden besluit onmiddellijk vernietigen of beslissen dat de rechtspleging wordt voortgezet.</p>
+<p>Nadat de partijen werden gehoord, kan de kamer de bestreden beslissing onmiddellijk vernietigen of beslissen dat de rechtspleging wordt voortgezet.</p>
 
 ### ART. 72.
 
@@ -1410,9 +1407,7 @@ De griffier betekent een afschrift van het arrest aan de partijen en zendt, in v
 
 ### ART 91/1.
 
-In geval van vernietiging van een besluit als vermeld in artikel 54, 4° tot en met 6°, beveelt het College dat de vernietiging, de datum van de uitspraak en het rolnummer worden bekendgemaakt in dezelfde vorm als het besluit dat is vernietigd.<br>
-<br>
-De bekendmaking, vermeld in het eerste lid, gebeurt onmiddellijk door de verwerende partij.
+...
 
 ## Afdeling 6 Tussengeschillen
 
@@ -1467,7 +1462,7 @@ De griffier betekent een afschrift van het standpunt van een partij aan de ander
 1° het akkoord van de partijen;<br>
 2° de identiteit van de bemiddelaar;<br>
 3° de inhoud van de opdracht van de bemiddelaar;<br>
-4° de termijn van de opdracht, die maximaal zes maanden bedraagt en die ingaat op de dag na de betekening, vermeld in het vierde lid;<br>
+4° de termijn van de opdracht, die maximaal zes maanden bedraagt en die ingaat op de dag na de betekening, vermeld in het tweede lid;<br>
 5° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn, vermeld in punt 4°, is.<br>
 6° het bedrag van de verschuldigde bemiddelingsvergoeding.</p>
 
@@ -1851,11 +1846,7 @@ In afwijking van de procedurekalender, vermeld in artikel 112/7, kan de kamer de
 
 ### ART 112/19.
 
-De partij die aannemelijk maakt dat ze de taal van de rechtspleging onvoldoende beheerst, kan zich op de zitting laten bijstaan door een vertaler-tolk. Daarvan maakt de griffier proces-verbaal op.<br>
-<br>
-De kamervoorzitter wijst een vertaler-tolk aan uit de lijst van de beëdigde vertalers-tolken die ter beschikking ligt op de griffie van de rechtbank van eerste aanleg in Brussel.<br>
-<br>
-De kosten van de vertaler-tolk zijn ten laste van het College.
+...
 
 ## [Onderafdeling 6. Beraadslaging en uitspraak (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
