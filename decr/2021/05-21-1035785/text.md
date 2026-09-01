@@ -9,9 +9,9 @@ Dit decreet regelt gewest- en gemeenschapsaangelegenheden.
 In dit decreet wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 2° casus: een casus als vermeld in artikel 3, § 2, van de wet van 30 juli 2018;<br>
-3° casusoverleg: een overleg als vermeld in artikel 458ter van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld;<br>
+3° casusoverleg: een overleg als vermeld in artikel 353, §2, van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld;<br>
 4° deelnemer: een lid van een dienst of een voorziening of een door de Vlaamse Gemeenschap of het Vlaamse Gewest gesubsidieerde organisatie als vermeld in artikel 3, dat op uitnodiging van een burgemeester of een door hem aangestelde vertegenwoordiger deelneemt aan een casusoverleg binnen een LIVC R;<br>
-5° doelstelling van de LIVC R: de voorkoming van terroristische misdrijven als vermeld in titel Iter van het boek II van het Strafwetboek, overeenkomstig artikel 2, eerste lid, van de wet van 30 juli 2018;<br>
+5° doelstelling van de LIVC R: de voorkoming van terroristische misdrijven als vermeld in boek II, titel 4, hoofdstuk 1, van het Strafwetboek;<br>
 6° LIVC R: een lokale integrale veiligheidscel inzake radicalisme, extremisme en terrorisme als vermeld in artikel 2 van de wet van 30 juli 2018;<br>
 7° wet van 30 juli 2018: de wet van 30 juli 2018 tot oprichting van lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme.
 
@@ -47,7 +47,7 @@ De leden van andere diensten en voorzieningen die behoren tot de bevoegdheden va
 
 ### ART 4.
 
-De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in artikel 3, kunnen op vrijwillige basis deelnemen aan een casusoverleg binnen een LIVC R als een burgemeester of een door hem aangestelde vertegenwoordiger hen daarvoor uitnodigt conform artikel 3, § 1, tweede lid, van de wet van 30 juli 2018. Een genodigde die niet wenst deel te nemen aan het casusoverleg, bezorgt een gemotiveerd antwoord aan de burgemeester of de door hem aangestelde vertegenwoordiger. Dit gemotiveerde antwoord dient niet verstrekt te worden indien de genodigde een vrijwilliger als vermeld in artikel 3, 2°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, is. Het gemotiveerde antwoord valt onder de geheimhoudingsplicht, vermeld in artikel 458ter, § 2, van het Strafwetboek.
+De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in artikel 3, kunnen op vrijwillige basis deelnemen aan een casusoverleg binnen een LIVC R als een burgemeester of een door hem aangestelde vertegenwoordiger hen daarvoor uitnodigt conform artikel 3, § 1, tweede lid, van de wet van 30 juli 2018. Een genodigde die niet wenst deel te nemen aan het casusoverleg, bezorgt een gemotiveerd antwoord aan de burgemeester of de door hem aangestelde vertegenwoordiger. Dit gemotiveerde antwoord dient niet verstrekt te worden indien de genodigde een vrijwilliger als vermeld in artikel 3, 2°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, is. Het gemotiveerde antwoord valt onder de geheimhoudingsplicht, vermeld in artikel 353, §2, vierde lid, van het Strafwetboek.
 
 ### ART 5.
 
@@ -55,7 +55,7 @@ De rol van de deelnemers tijdens een casusoverleg binnen een LIVC R is, met beho
 
 ### ART 6.
 
-Deelnemers kunnen conform artikel 458ter van het Strafwetboek tijdens een casusoverleg binnen een LIVC R slechts informatie delen voor zover die informatie relevant en proportioneel is in functie van de finaliteit van het casusoverleg, met name de voorkoming van terroristische misdrijven als vermeld in titel Iter van boek II van het Strafwetboek.<br>
+Deelnemers kunnen conform artikel 353, §2, van het Strafwetboek tijdens een casusoverleg binnen een LIVC R slechts informatie delen voor zover die informatie relevant en proportioneel is in functie van de finaliteit van het casusoverleg, met name de voorkoming van terroristische misdrijven als vermeld in boek II, titel 4, hoofdstuk 1, van het Strafwetboek.<br>
 <br>
 Deelnemers zijn vrij om te bepalen welke informatie ze delen tijdens een casusoverleg binnen een LIVC R in functie van de finaliteit van het casusoverleg, vermeld in het eerste lid.
 
@@ -63,13 +63,13 @@ Deelnemers zijn vrij om te bepalen welke informatie ze delen tijdens een casusov
 
 De personen die uitgenodigd zijn voor een casusoverleg binnen een LIVC R, kunnen zich op de LIVC R laten vertegenwoordigen door een vaste afgevaardigde.<br>
 <br>
-Het lid van de dienst, de voorziening of de gesubsidieerde organisatie, vermeld in artikel 3, dat rechtstreeks betrokken is bij de persoon waarover op het LIVC R een casusoverleg wordt georganiseerd, kan ten overstaan van de vaste afgevaardigde, voorafgaand aan en met het oog op deelname aan het casusoverleg, de daartoe noodzakelijke informatie meedelen, zonder dat deze mededeling strafbaar wordt gesteld conform artikel 458 van het Strafwetboek. Door deze informatie-uitwisseling wordt de vaste afgevaardigde onderworpen aan dezelfde reglementering en contractuele voorwaarden als het betreffende lid dat informatie verstrekt, zijnde de toepasselijke bepalingen inzake gegevensbescherming, het ambtsgeheim, de discretieplicht en het beroepsgeheim.<br>
+Het lid van de dienst, de voorziening of de gesubsidieerde organisatie, vermeld in artikel 3, dat rechtstreeks betrokken is bij de persoon waarover op het LIVC R een casusoverleg wordt georganiseerd, kan ten overstaan van de vaste afgevaardigde, voorafgaand aan en met het oog op deelname aan het casusoverleg, de daartoe noodzakelijke informatie meedelen, zonder dat deze mededeling strafbaar wordt gesteld conform artikel 352 van het Strafwetboek. Door deze informatie-uitwisseling wordt de vaste afgevaardigde onderworpen aan dezelfde reglementering en contractuele voorwaarden als het betreffende lid dat informatie verstrekt, zijnde de toepasselijke bepalingen inzake gegevensbescherming, het ambtsgeheim, de discretieplicht en het beroepsgeheim.<br>
 <br>
-De vaste afgevaardigde kan ten overstaan van het lid van de dienst, de voorziening of de gesubsidieerde organisatie, vermeld in artikel 3, dat rechtstreeks betrokken is bij de persoon waarover op het LIVC R een casusoverleg wordt georganiseerd, na het casusoverleg informatie uit het casusoverleg met betrekking tot de op het casusoverleg besproken persoon meedelen. Door deze informatie-uitwisseling wordt het betreffende lid voor wat betreft de meegedeelde geheimen onderworpen aan de geheimhoudingsplicht, vermeld in artikel 458ter, § 2, van het Strafwetboek.
+De vaste afgevaardigde kan ten overstaan van het lid van de dienst, de voorziening of de gesubsidieerde organisatie, vermeld in artikel 3, dat rechtstreeks betrokken is bij de persoon waarover op het LIVC R een casusoverleg wordt georganiseerd, na het casusoverleg informatie uit het casusoverleg met betrekking tot de op het casusoverleg besproken persoon meedelen. Door deze informatie-uitwisseling wordt het betreffende lid voor wat betreft de meegedeelde geheimen onderworpen aan de geheimhoudingsplicht, vermeld in artikel 353, §2, vierde lid, van het Strafwetboek.
 
 ### ART 8.
 
-De leden van de diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, kunnen, met het oog op bespreking op een casusoverleg binnen een LIVC R, casussen aanmelden bij de burgemeester of de door hem aangestelde vertegenwoordiger. De informatie die wordt uitgewisseld in het kader van deze aanmelding valt onder de geheimhoudingsplicht, vermeld in artikel 458ter, § 2, van het Strafwetboek.
+De leden van de diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, kunnen, met het oog op bespreking op een casusoverleg binnen een LIVC R, casussen aanmelden bij de burgemeester of de door hem aangestelde vertegenwoordiger. De informatie die wordt uitgewisseld in het kader van deze aanmelding valt onder de geheimhoudingsplicht, vermeld in artikel 353, §2, vierde lid, van het Strafwetboek.
 
 ### ART 9.
 
@@ -102,7 +102,7 @@ De verwerking van de persoonsgegevens, vermeld in paragraaf 1, kan ook de verwer
 <br>
 § 3. De diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, en de gemeenten, treden elk individueel op als verwerkingsverantwoordelijke met betrekking tot de verwerking van de persoonsgegevens, vermeld in paragraaf 1.<br>
 <br>
-De diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, en de gemeenten, nemen de passende maatregelen ter beveiliging van de persoonsgegevens, waaronder het voorzien in een behoorlijk gebruikers- en toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 458ter, § 2, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van de algemene verordening gegevensbescherming. In voorkomend geval worden de maatregelen, vermeld in artikel 9 en 10, § 2, van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, toegepast.<br>
+De diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, en de gemeenten, nemen de passende maatregelen ter beveiliging van de persoonsgegevens, waaronder het voorzien in een behoorlijk gebruikers- en toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 353, §2, vierde lid, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van de algemene verordening gegevensbescherming. In voorkomend geval worden de maatregelen, vermeld in artikel 9 en 10, § 2, van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, toegepast.<br>
 <br>
 De Vlaamse Regering kan de maatregelen, vermeld in het tweede lid, nader bepalen.<br>
 <br>
@@ -114,7 +114,7 @@ De maximale bewaartermijn, vermeld in het eerste lid, kan worden verlengd tot ee
 
 Met toepassing van artikel 23, lid 1, a), c), d) en i), van de algemene verordening gegevensbescherming kunnen de diensten, voorzieningen en gesubsidieerde organisaties, vermeld in artikel 3, en de gemeenten, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 21 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van dit decreet als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het zevende lid.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt vanaf het ogenblik dat de betrokkene het voorwerp uitmaakt van een aanmelding conform artikel 8 van dit decreet, tot na afloop van de bewaartermijn, vermeld in artikel 9, § 4, van dit decreet, op voorwaarde dat de niet-toepassing van de verplichtingen en de rechten, vermeld in artikel 12 tot en met 21 van de voormelde verordening, een noodzakelijke en evenredige maatregel is ter voorkoming van terroristische misdrijven bedoeld in titel Iter van het boek II van het Strafwetboek, en ter waarborging van de belangen vermeld in artikel 23, lid 1, a), c), d) of i), van de algemene verordening gegevensbescherming.<br>
+De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt vanaf het ogenblik dat de betrokkene het voorwerp uitmaakt van een aanmelding conform artikel 8 van dit decreet, tot na afloop van de bewaartermijn, vermeld in artikel 9, § 4, van dit decreet, op voorwaarde dat de niet-toepassing van de verplichtingen en de rechten, vermeld in artikel 12 tot en met 21 van de voormelde verordening, een noodzakelijke en evenredige maatregel is ter voorkoming van terroristische misdrijven, vermeld in boek II, titel 4, hoofdstuk 1, van het Strafwetboek, en ter waarborging van de belangen vermeld in artikel 23, lid 1, a), c), d) of i), van de algemene verordening gegevensbescherming.<br>
 <br>
 De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft enkel betrekking op de gegevens die gedeeld of verkregen worden in het kader van een casusoverleg binnen een LIVC R of in het kader van een aanmelding, conform artikel 8 van dit decreet.<br>
 <br>

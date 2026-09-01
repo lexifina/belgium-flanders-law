@@ -2,16 +2,16 @@
   "codex_id": 1035785,
   "title": "Decreet van 2021-05-21 houdende de machtiging van de Vlaamse deelnemers aan en de regeling van de modaliteiten van deelname aan de lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035785/VolledigDocument?datum=2021-07-19",
-  "source_sha256": "1698b5add6d26908c4a75a343af249fb7fd1f51797d6898ef1501daa7efbedfd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035785/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "806717cb830f11ace144bad7ae3ab73cd46412d283cac79191f4ee29bde1f902",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035785&param=informatie",
-  "as_of": "2021-07-19",
+  "as_of": "2026-09-01",
   "made": "2021-05-21",
   "gazette": "2021-07-09",
   "numac": 2021031630,
   "document_start": "2021-07-19",
   "document_end": null,
-  "in_force": "2021-07-19",
+  "in_force": "2026-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
