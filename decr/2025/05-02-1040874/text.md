@@ -192,7 +192,7 @@ De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftel
 
 ### ART 13.
 
-De personeelsleden van het Agentschap Justitie en Handhaving die betrokken zijn bij de operationele werking van het Meldpunt GOG, zijn onderworpen aan het beroepsgeheim conform artikel 458 van het Strafwetboek.
+De personeelsleden van het Agentschap Justitie en Handhaving die betrokken zijn bij de operationele werking van het Meldpunt GOG, zijn onderworpen aan het beroepsgeheim conform artikel 352 van het Strafwetboek.
 
 ### ART 14.
 
