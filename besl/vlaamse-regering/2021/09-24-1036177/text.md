@@ -56,6 +56,10 @@ Artikel 27/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Reg
 <br>
 "Art. 27/2. De organisator die beschikt over subsidies voor inkomenstarief voor gezinsopvang of groepsopvang, gerealiseerd door samenwerkende onthaalouders, kan de subsidies, vermeld in dit besluit, ook inzetten in locaties waar uitsluitend buitenschoolse opvang wordt aangeboden, op voorwaarde dat de organisator voldoet aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 19, 20, 21, 3° en 4°, van het voormelde besluit. De organisator vraagt voor die locaties een vergunning aan.".
 
+### ART 5.
+
+Artikel 27/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juni 2017 en hersteld bij dit besluit, wordt opgeheven.
+
 ### ART 6.
 
 In artikel 30 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 april 2015, worden tussen het eerste en het tweede lid twee leden ingevoegd, die luiden als volgt:<br>
