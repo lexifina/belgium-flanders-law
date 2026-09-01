@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042270,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van bijlage 1 bij het besluit van de Vlaamse Regering van 8 september 2017 betreffende de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs, wat betreft nieuwe onderwijsbevoegdheden en overheveling van onderwijsbevoegdheden op 1 september 2026",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042270/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "06b069581db34437b1209cefd1cb9ccf5691d212eb0a72d9b62c2b9f95357fd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042270&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-07-10",
+  "gazette": "2026-08-13",
+  "numac": 2026005999,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
