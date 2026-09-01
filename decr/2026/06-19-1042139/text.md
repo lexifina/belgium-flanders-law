@@ -83,6 +83,45 @@ In artikel III.41bis van dezelfde codex, ingevoegd bij het decreet van 3 juli 20
 
 ## Hoofdstuk 4. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
+### ART 11.
+
+In artikel IV.1 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, gewijzigd bij het decreet van 5 april 2019, wordt punt 3° opgeheven.
+
+### ART 12.
+
+Artikel IV.19 van dezelfde codificatie, gewijzigd bij het decreet van 16 juni 2017, wordt opgeheven.
+
+### ART 13.
+
+Artikel IV.20 van dezelfde codificatie wordt vervangen door wat volgt:<br>
+<br>
+“Art. IV.20. §1. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en de uitvoeringsbesluiten zijn van toepassing op de vastbenoemde personeelsleden in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+§2. Voor de vastbenoemde personeelsleden, vermeld in paragraaf 1, die wegens ontstentenis van betrekking ter beschikking zijn gesteld, gelden de verplichtingen tot reaffectatie of wedertewerkstelling voor het gewoon basisonderwijs en het buitengewoon onderwijs, zoals vastgelegd in het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage. Voor de toepassing van het voormelde besluit wordt het ambt van kinderverzorger beschouwd als “hetzelfde ambt” van kinderverzorger in het gewoon basisonderwijs en in het buitengewoon onderwijs en wordt het ambt van verpleger beschouwd als “hetzelfde ambt” van verpleger in het buitengewoon onderwijs.<br>
+&nbsp;<br>
+§3. Aan de vastbenoemde personeelsleden, vermeld in paragraaf 1, worden de volgende salarisschalen toegekend:<br>
+1° salarisschaal 143 voor wie in het ambt van kinderverzorger is aangesteld op basis van een vereist of voldoend geacht bekwaamheidsbewijs;<br>
+2° salarisschaal 229 voor wie in het ambt van kinderverzorger is aangesteld op basis van een ander bekwaamheidsbewijs;<br>
+3° salarisschaal 337 voor wie in het ambt van verpleger is aangesteld.<br>
+<br>
+Als het aldus vastgestelde salaris lager is dan het salaris dat het personeelslid genoot op 1 september 2002, blijft het dit laatste salaris genieten totdat het een ten minste gelijk salaris verkrijgt overeenkomstig de salarisschalen, vermeld in het eerste lid.<br>
+<br>
+De salarisschalen, vermeld in het eerste lid, zijn vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+<br>
+De bekwaamheidsbewijzen, vermeld in het eerste lid, zijn deze die de Vlaamse Regering vastlegt voor het overeenkomstige ambt in het gewoon of buitengewoon onderwijs.<br>
+<br>
+§4. De prestatieregeling van de vastbenoemde personeelsleden, vermeld in paragraaf 1, bedraagt voor een volledige betrekking 36 uren per week.”.
+
+### ART 14.
+
+In dezelfde codificatie worden de volgende artikelen opgeheven:<br>
+1° artikel IV.21;<br>
+2° artikel IV.23 tot en met IV.25.
+
+### ART 15.
+
+In deel IV van dezelfde codificatie, het laatst gewijzigd bij het decreet van 18 juli 2025, wordt hoofdstuk 4, dat bestaat uit artikel IV.26 tot en met IV.32, opgeheven.
+
 ## Hoofdstuk 5. Slotbepalingen
 
 ### ART 16.
