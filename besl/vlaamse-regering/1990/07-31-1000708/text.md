@@ -24,50 +24,41 @@ Vanaf 1 september 1990 wordt aan elke school een aantal wekelijkse uren-leraar t
 1° elke leerling genereert een coëfficiënt uren-leraar naargelang van het gevolgde structuuronderdeel als vermeld in bijlage 1. Bijlage 1 vermeldt ook voor elk structuuronderdeel van de tweede en de derde graad de discipline waarin dat structuuronderdeel is ondergebracht voor de vaststelling van de financiering, als dat van toepassing is;<br>
 2° per afzonderlijke leerlingengroep genereert elke leerling een extra coëfficiënt uren-leraar op de volgende wijze, die gebaseerd is op degressiviteit:<br>
 a) leerlingengroep eerste graad: eerste leerjaar A + tweede leerjaar A:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,65;<br>
-2) schijf van 26 tot en met 50 leerlingen: 0,35;<br>
-3) schijf van 51 tot en met 100 leerlingen: 0,20;<br>
-4) schijf vanaf de 101ste leerling: nihil;<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,585;<br>
+2) schijf van 26 tot en met 50 leerlingen: 0,315;<br>
+3) schijf van 51 tot en met 100 leerlingen: 0,18;<br>
 b) leerlingengroep eerste graad: eerste leerjaar B + tweede leerjaar B:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,60;<br>
-2) schijf van 26 tot en met 50 leerlingen: 0,30;<br>
-3) schijf van 51 tot en met 100 leerlingen: 0,15;<br>
-4) schijf vanaf de 101ste leerling: nihil;<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,54;<br>
+2) schijf van 26 tot en met 50 leerlingen: 0,27;<br>
+3) schijf van 51 tot en met 100 leerlingen: 0,135;<br>
 c) leerlingengroep onthaaljaar:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,65;<br>
-2) schijf van 26 tot en met 50 leerlingen: 0,35;<br>
-3) schijf van 51 tot en met 100 leerlingen: 0,20;<br>
-4) schijf vanaf de 101ste leerling: nihil;<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,585;<br>
+2) schijf van 26 tot en met 50 leerlingen: 0,315;<br>
+3) schijf van 51 tot en met 100 leerlingen: 0,18;<br>
 d) leerlingengroep tweede graad ASO:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,45;<br>
-2) schijf van 26 tot en met 50 leerlingen: 0,25;<br>
-3) schijf van 51 tot en met 100 leerlingen: 0,15;<br>
-4) schijf vanaf de 101ste leerling: nihil;<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,405;<br>
+2) schijf van 26 tot en met 50 leerlingen: 0,225;<br>
+3) schijf van 51 tot en met 100 leerlingen: 0,135;<br>
 e) leerlingengroep tweede graad TSO:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,50;<br>
-2) schijf van 26 tot en met 75 leerlingen: 0,30;<br>
-3) schijf van 76 tot en met 150 leerlingen: 0,10;<br>
-4) schijf vanaf de 151ste leerling: nihil;<br>
-f) leerlingengroep tweede graad BSO:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,60;<br>
-2) schijf van 26 tot en met 75 leerlingen: 0,30;<br>
-3) schijf van 76 tot en met 150 leerlingen: 0,15;<br>
-4) schijf vanaf de 151ste leerling: nihil;<br>
-g) leerlingengroep derde graad ASO met inbegrip van, binnen de modernisering, de 7de leerjaren gericht op het hoger onderwijs en behoren tot de discipline modern:<br>
 1) schijf van 1 tot en met 25 leerlingen: 0,45;<br>
-2) schijf van 26 tot en met 50 leerlingen: 0,25;<br>
-3) schijf van 51 tot en met 100 leerlingen: 0,15;<br>
-4) schijf vanaf de 101ste leerling: nihil;<br>
+2) schijf van 26 tot en met 75 leerlingen: 0,27;<br>
+3) schijf van 76 tot en met 150 leerlingen: 0,09;<br>
+f) leerlingengroep tweede graad BSO:<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,54;<br>
+2) schijf van 26 tot en met 75 leerlingen: 0,27;<br>
+3) schijf van 76 tot en met 150 leerlingen: 0,135;<br>
+g) leerlingengroep derde graad ASO met inbegrip van, binnen de modernisering, de 7de leerjaren gericht op het hoger onderwijs en die behoren tot de discipline modern:<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,405;<br>
+2) schijf van 26 tot en met 50 leerlingen: 0,225;<br>
+3) schijf van 51 tot en met 100 leerlingen: 0,135;<br>
 h) leerlingengroep derde graad TSO:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,50;<br>
-2) schijf van 26 tot en met 75 leerlingen: 0,30;<br>
-3) schijf van 76 tot en met 150 leerlingen: 0,10;<br>
-4) schijf vanaf de 151ste leerling: nihil;<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,45;<br>
+2) schijf van 26 tot en met 75 leerlingen: 0,27;<br>
+3) schijf van 76 tot en met 150 leerlingen: 0,09;<br>
 i) leerlingengroep derde graad BSO met inbegrip van, binnen de modernisering, de 7de leerjaren gericht op instroom arbeidsmarkt:<br>
-1) schijf van 1 tot en met 25 leerlingen: 0,60;<br>
-2) schijf van 26 tot en met 75 leerlingen: 0,30;<br>
-3) schijf van 76 tot en met 150 leerlingen: 0,15;<br>
-4) schijf vanaf de 151ste leerling: nihil.<br>
+1) schijf van 1 tot en met 25 leerlingen: 0,54;<br>
+2) schijf van 26 tot en met 75 leerlingen: 0,27;<br>
+3) schijf van 76 tot en met 150 leerlingen: 0,135<br>
 <br>
 § 2. Het aantal uren-leraar dat berekend wordt conform paragraaf 1, wordt op de volgende wijze verhoogd voor scholen met hoofdvestigingsplaats in het tweetalige gebied Brussel-Hoofdstad die behoren tot een scholengemeenschap of met hoofdvestigingsplaats in een gemeente met minder dan 125 inwoners per km2, waarbij de verhoging behouden blijft gedurende vier schooljaren nadat de norm van 125 inwoners per km2 is overschreden:<br>
 1° 0,10 uren-leraar per leerling van de eerste graad;<br>
