@@ -84,9 +84,37 @@ De volgende omstandigheden geven aanleiding tot ambts- of mandaatsbeëindiging:<
 6° beëindiging wegens afwezigheid door ziekte van meer dan 666 werkdagen wanneer de definitieve ongeschiktheid werd vastgesteld door de administratieve gezondheidsdienst op voorstel van het controle orgaan ingesteld krachtens artikel 4;<br>
 7° beëindiging wegens afwezigheid door ziekte van meer dan&nbsp;365 kalenderdagen vanaf de dag dat de betrokkene de leeftijd van 63 jaar heeft bereikt;<br>
 8° de beëindiging na een voortdurende onverenigbaarheid als vermeld in artikel V.17/1, derde lid, van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-9° het ontslag na evaluatie als vermeld in artikel V.46 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+9° het ontslag na evaluatie als vermeld in artikel V.46 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+10° het ontslag om dringende redenen.<br>
 <br>
 De vanaf 1 januari 1994 geregistreerde dagen afwezigheid door ziekte worden meegerekend bij de vaststelling van het totaal aantal ziektedagen.
+
+### ART 3/1.
+
+Het universiteitsbestuur kan elk lid van het academisch personeel zonder opzegging om dringende redenen ontslaan. Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van de aanstelling of benoeming onmiddellijk en definitief onmogelijk maakt. Het ontslag mag geen afbreuk doen aan de bescherming van de academische vrijheid van het personeelslid.<br>
+<br>
+Wanneer het universiteitsbestuur kennis heeft van feiten die aanleiding kunnen geven tot een ontslag om dringende redenen van een personeelslid, nodigt het dat personeelslid uit om gehoord te worden. De uitnodiging vermeldt dat het gaat om een procedure in het kader van een mogelijk ontslag om dringende redenen. Het personeelslid wordt binnen vijf werkdagen na de dag van de kennisgeving van de uitnodiging gehoord. Het horen van het personeelslid kan mondeling of schriftelijk uitgeoefend worden. Het personeelslid heeft het recht om mondeling gehoord te worden. Het personeelslid mag zich tijdens het horen laten bijstaan door een persoon naar keuze of kan zich, in geval van gewettigde verhindering, laten vertegenwoordigen door een persoon naar keuze.<br>
+<br>
+Vanaf het moment van de kennisgeving van de uitnodiging om gehoord te worden, wordt het dienstverband van het personeelslid geschorst met behoud van loon.<br>
+<br>
+Binnen drie werkdagen als vermeld in artikel V.1, 3°, van de Codex Hoger Onderwijs van 11 oktober 2013 na het horen van het personeelslid, vermeld in het tweede lid, of na afloop van de termijn om gehoord te worden, brengt het universiteitsbestuur het betrokken personeelslid op de hoogte van de beslissing het personeelslid om dringende redenen te ontslaan. Het universiteitsbestuur brengt het personeelslid op een van de volgende manieren op de hoogte van de ontslagbeslissing:<br>
+1° door afgifte van een geschrift aan het personeelslid, dat tekent voor ontvangst;<br>
+2° bij aangetekend schrijven;<br>
+3° bij deurwaardersexploot.<br>
+<br>
+Binnen drie werkdagen volgend op de dag van de ontslagbeslissing, vermeld in het derde lid, brengt het universiteitsbestuur het personeelslid bij aangetekend schrijven of bij deurwaardersexploot op de hoogte van de dringende redenen die aanleiding geven tot het ontslag.<br>
+<br>
+Het betrokken personeelslid kan binnen zes werkdagen vanaf de eerste werkdag na de kennisgeving van de motivering, vermeld in het vijfde lid, bij een aangetekend schrijven een gemotiveerd bezwaarschrift indienen bij een onafhankelijke beroepsinstantie. De beroepsinstantie spreekt zich uit over de gegrondheid van het ontslag om dringende redenen binnen twintig werkdagen na de ontvangst van het bezwaarschrift. De kennisgeving van de beslissing van de beroepsinstantie aan het personeelslid gebeurt bij aangetekend schrijven of bij deurwaardersexploot.<br>
+<br>
+Voor de berekening van de in het zesde lid vermelde beroepstermijn heeft het aangetekend schrijven uitwerking op de derde werkdag na de datum van de verzending.<br>
+<br>
+Het ontslag om dringende redenen heeft uitwerking:<br>
+1° wanneer het betrokken personeelslid niet of niet tijdig een bezwaarschrift indient tegen de beslissing om het personeelslid te ontslaan;<br>
+2° wanneer de in het zesde lid vermelde beroepsinstantie het ontslag bevestigt.<br>
+<br>
+Wanneer de in het zesde lid vermelde beroepsinstantie het ontslag ongegrond verklaart of wanneer de beroepsinstantie geen uitspraak doet binnen de beroepstermijn eindigt de in het derde lid vermelde schorsing van het dienstverband van het betrokken personeelslid.<br>
+<br>
+Bij een ontslag om dringende redenen van benoemde personeelsleden betaalt het universiteitsbestuur de werkgevers- en werknemersbijdragen die nodig zijn om het betrokken personeelslid in de werkloosheidsverzekering, de ziekteverzekering, met inbegrip van de sector uitkeringen en de moederschapsbescherming, op te nemen. De duur van de periode die gedekt is door de betaling van werkgevers- en werknemersbijdragen voor de werkloosheidsverzekering en de ziekteverzekering, met inbegrip van de sector uitkeringen mag de duur van de benoeming van het ontslagen personeelslid niet overschrijden.
 
 ## AFDELING 4 DE REGELING VAN HET ONDERZOEK NAAR DE LICHAMELIJKE GESCHIKTHEID EN HET GENEESKUNDIG ONDERZOEK
 
