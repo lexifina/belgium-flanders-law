@@ -2,16 +2,16 @@
   "codex_id": 1029763,
   "title": "Besluit van de Vlaamse Regering van 2018-06-01 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029763/VolledigDocument?datum=2025-09-01",
-  "source_sha256": "f5ebc06f2e60b1ca5af0b9f36e17bc376eab7f02e071b7551b36a65fed178a91",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029763/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "b3b191add92a340418aa697a55f89d8e15bf2b2baa7221db2acc7cce6e6d4a90",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029763&param=informatie",
-  "as_of": "2025-09-01",
+  "as_of": "2026-09-01",
   "made": "2018-06-01",
   "gazette": "2018-09-28",
   "numac": 2018013865,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2025-09-01",
+  "in_force": "2026-09-01",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

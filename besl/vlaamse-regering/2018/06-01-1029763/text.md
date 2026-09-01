@@ -16172,21 +16172,21 @@ De bestaande structuuronderdelen worden door wijziging aan de lijst basisopties 
 
 ### BIJLAGE 10
 
-Bijlage 10. Specifieke aanbodbeperkingen voor niche-structuuronderdelen<br>
+Specifieke aanbodbeperkingen voor nichestructuuronderdelen<br>
 <br>
-<u>Structuuronderdeel Defensie en veiligheid</u>: 16 scholen, waarvan 8 scholen van het officieel onderwijs en 8 scholen van het vrij onderwijs.<br>
+<u>Structuuronderdeel Defensie en veiligheid</u>: 16 scholen, waarvan 8 scholen van het officieel onderwijs en 8 scholen van het vrij onderwijs.&nbsp;<br>
 <br>
-<u>Structuuronderdeel Integrale veiligheid</u>: 16 scholen, waarvan 8 scholen van het officieel onderwijs en 8 scholen van het vrij onderwijs. De organiserende scholen moeten, voor de aanvang van het oprichtingsschooljaar, van de federale minister, bevoegd voor binnenlandse zaken, de erkenning van de opleiding hebben verkregen met toepassing van de vigerende federale regelgeving ter zake en in overeenstemming met de afspraken ter zake tussen de Vlaamse minister, bevoegd voor het onderwijs, en de desbetreffende federale minister. Het behoud van de organisatie van de opleiding is afhankelijk van de periodieke bevestiging van die erkenning.<br>
+<u>Structuuronderdeel Integrale veiligheid</u>: 16 scholen, waarvan 8 scholen van het officieel onderwijs en 8 scholen van het vrij onderwijs. De organiserende scholen moeten voor de aanvang van het oprichtingsschooljaar van de federale minister, bevoegd voor binnenlandse zaken, een erkenning voor de opleiding hebben gekregen met toepassing van de vigerende federale regelgeving ter zake en in overeenstemming met de afspraken ter zake tussen de Vlaamse minister, bevoegd voor het onderwijs, en de desbetreffende federale minister. Het behoud van de organisatie van de opleiding is afhankelijk van de periodieke bevestiging van die erkenning.<br>
 <br>
-<u>Structuuronderdelen met in de benaming de component ‘Topsport’</u>: kunnen enkel worden georganiseerd door de volgende scholen:<br>
-118406&nbsp; Atlas College Genk 3 - 3600 Genk<br>
-29306&nbsp; Het Gymnasion - 2610 Antwerpen<br>
-41665&nbsp; GO! middenschool 1 Leuven - 3000 Leuven<br>
-112292&nbsp; GO! atheneum Leuven - 3000 Leuven<br>
-44107&nbsp; GO! Next sportschool 1ste graad - 3500 Hasselt<br>
-44172&nbsp; GO! Next sportschool 2de en 3de graad - 3500 Hasselt<br>
-43273&nbsp; GO! atheneum Voskenslaan Gent - 9000 Gent<br>
-44669&nbsp; GO! middenschool Voskenslaan Gent - 9000 Gent<br>
-42201&nbsp; GO! technisch atheneum Brugge - 8200 Brugge<br>
-33704&nbsp; Het College - 1800 Vilvoorde<br>
-&nbsp;
+<u>Structuuronderdelen met in de benaming de component ‘Topsport’ (uitbreiding met 1 school vanaf 1 september 2026)</u>: kunnen alleen worden georganiseerd door de volgende scholen:<br>
+118406 Atlas College Genk 3 - 3600 Genk<br>
+29306&nbsp;Het Gymnasion - 2610 Antwerpen<br>
+41665&nbsp;GO! middenschool 1 Leuven - 3000 Leuven<br>
+112292 GO! atheneum Leuven - 3000 Leuven<br>
+44107&nbsp;GO! Next sportschool 1ste graad - 3500 Hasselt<br>
+44172&nbsp;GO! Next sportschool 2de en 3de graad - 3500 Hasselt<br>
+43273&nbsp;GO! atheneum Voskenslaan Gent - 9000 Gent<br>
+44669&nbsp;GO! middenschool Voskenslaan Gent - 9000 Gent<br>
+42201&nbsp;GO! technisch atheneum Brugge - 8200 Brugge<br>
+33704&nbsp;Het College - 1800 Vilvoorde<br>
+33746&nbsp;Het College Eerste graad - 1800 Vilvoorde (vanaf 1 september 2026)
