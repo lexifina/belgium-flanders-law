@@ -6,20 +6,22 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Grafische technieken, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage III, bijlage V tot en met XIII en bijlage XV tot en met XVIII, die als bijlagen bij dit besluit zijn gevoegd.<br>
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Grafische technieken, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage III, bijlage V tot en met XIII en bijlage XVI tot en met XVIII, die als bijlagen bij dit besluit zijn gevoegd.<br>
 &nbsp;
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br /><br />
+...
 
 ### ART. 3.
 
-De modulaire opleidingen « Digitaal drukker TSO 3 », « Offsetdrukker rotatie TSO 3 », « Webdesigner TSO 3 », « Webontwikkelaar TSO 3 », « Webserverbeheerder TSO 3 » en « Multimedia operator TSO 3 » leiden tot een diploma secundair onderwijs als aan de voorwaarden, vermeld in artikel 41, § 4, 2° of 3°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, is voldaan.<br /><br />
+...<br>
+&nbsp;
 
 ### ART. 4.
 
-De hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema's kunnen bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden :<br />1° « Desktoppublishing BSO 4 », goedgekeurd op 3 november 1999;<br />2° « Digitale communicatie BSO 4 », goedgekeurd op 3 november 1999;<br />3° « Drukken BSO 4 », goedgekeurd op 3 november 1999;<br />4° « Elektronische paginaopmaak en multimedia TSO 3 », goedgekeurd op 31 mei 2002;<br />5° « Multimedia BSO 4 », goedgekeurd op 3 november 1999;<br />6° « Tekstvervaardiging - offsetdrukken BSO 3 », goedgekeurd op 3 juni 1991;<br />7° « Toegepaste grafische technieken TSO 3 », goedgekeurd op 3 juni 1991;<br />8° « Websitebouwen BSO 4 », goedgekeurd op 31 mei 2001;<br />9° « Werktekenen BSO 4 », goedgekeurd op 3 november 1999.<br /><br />
+...<br>
+&nbsp;
 
 ### ART. 5.
 
