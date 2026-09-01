@@ -4679,13 +4679,13 @@ Wanneer er actieve ventilatie noodzakelijk is, zoals voor het afvoeren van dampe
 <br>
 In situaties waarin de mestkelder niet wordt leeggepompt bij de start van de leegstand, worden enkel die dagen als leegstandsdagen beschouwd waarop de ventilatie in de stal of stalafdeling volledig is uitgeschakeld of tot een minimaal debiet is beperkt, zodat er geen actieve luchtstroming aanwezig is.<br>
 <br>
-Aangezien een variabel aantal ronden over de jaren heen mogelijk is (bv. 3 ronden over 2 jaar), kan het aantal leegstandsdagen per jaar fluctueren. &nbsp;<br>
+Aangezien een variabel aantal ronden over de jaren heen mogelijk is (bv. 3 ronden over 2 jaar), kan het aantal leegstandsdagen per jaar fluctueren.&nbsp;Het minimum aantal dagen leegstand over een periode van 2 kalenderjaren moet over om het even welke twee opeenvolgende kalenderjaren steeds worden behaald.<br>
 <br>
 Eisen aan het gebruik &nbsp;<br>
 1° Voorwaarden &nbsp;<br>
-a.&nbsp;&nbsp; &nbsp;De stal of stalafdeling waarop de maatregel van toepassing is, dient volledig vrij te zijn van dieren&nbsp;<br>
-b.&nbsp;&nbsp; &nbsp;De vloer dient volledig te worden ontdaan van mest en organisch materiaal &nbsp;<br>
-c.&nbsp;&nbsp; &nbsp;De kelderemissie moet verwaarloosbaar zijn, zie uitvoering van de maatregel. De stal of stalafdeling dient volledig uitgeschakeld te zijn of tot een minimaal debiet beperkt te worden, zodat er geen actieve luchtstroming ontstaat<br>
+a. De stal of stalafdeling waarop de maatregel van toepassing is, dient volledig vrij te zijn van dieren&nbsp;<br>
+b. De vloer dient volledig te worden ontdaan van mest en organisch materiaal &nbsp;<br>
+c. De kelderemissie moet verwaarloosbaar zijn, zie uitvoering van de maatregel. De ventilatie in de stal of stalafdeling dient volledig uitgeschakeld te zijn of tot een minimaal debiet beperkt te worden, zodat er geen actieve luchtstroming ontstaat<br>
 2° Registratie &nbsp;<br>
 De veehouder noteert in een logboek de start- en einddatum van de periode waarin de stal of stalafdeling volledig aan de voorwaarden van leegstand voldoet en wanneer deze periode stopt.&nbsp;<br>
 <br>
@@ -4695,37 +4695,38 @@ Het logboek is volledig ingevuld.&nbsp;<br>
 <br>
 Tijdens de leegstandsperiode zijn geen dieren aanwezig in de stal of stalafdeling waarop de maatregel van toepassing is. &nbsp;<br>
 <br>
-Het minimum aantal dagen leegstand tussen 2 rondes, zoals opgenomen in onderstaande tabel, moet worden gerespecteerd<br>
+Het minimum aantal dagen leegstand, zoals opgenomen in onderstaande tabel, wordt steeds gerespecteerd<br>
 <br>
 De vloer dient volledig vrij te zijn van mest en organisch materiaal. &nbsp;<br>
 <br>
 Als de mestkelder niet wordt leeggepompt dient de ventilatie in de stal of stalafdeling volledig uitgeschakeld te zijn of tot een minimaal debiet beperkt, zodat er geen actieve luchtstroming aanwezig is. &nbsp;<br>
 <br>
-Op elk moment moet de veehouder kunnen aantonen dat het minimum aantal dagen leegstand werd aangehouden. Dit kan aangetoond worden via leverings-, facturatie- en slachtdocumenten of via het dierregister. De documenten worden tot 5 jaar na het projectjaar in kwestie bewaard en worden op verzoek van de controlerende overheid voorgelegd. &nbsp;<br>
+Op elk moment moet de veehouder kunnen aantonen dat het minimum aantal dagen leegstand werd aangehouden. Dit kan aangetoond worden via leverings-, facturatie- en slachtdocumenten of via het dierregister. De documenten worden tot 5 jaar na het kalenderjaar in kwestie bewaard en worden op verzoek van de controlerende overheid voorgelegd. &nbsp;<br>
 &nbsp;<br>
 7.1.28.5. Emissiereductie &nbsp;<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:541px">
 	<tbody>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; vertical-align:bottom; width:234px">Minimum aantal dagen leegstand op jaarbasis over de jaren heen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:24px; vertical-align:bottom; width:123px">Reductie (%)</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:24px; vertical-align:middle; width:234px">Minimum aantal dagen leegstand over een periode van twee kalenderjaren</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:24px; vertical-align:middle; width:123px">Reductie (%)</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">38</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">75</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:123px">5</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">46</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">92</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:123px">7,5</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">55</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:234px">110</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:123px">10</td>
 		</tr>
 	</tbody>
 </table>
-*Het minimaal aantal dagen leegstand werd voor praktijktoepassing omgerekend naar een minimaal aantal dagen leegstand tussen 2 rondes uitgaande van 224 dagen (8 maanden) De gebruikte formule: minimum aantal dagen leegstand op jaarbasis over de jaren heen * 224/ (365 – minimum aantal dagen leegstand op jaarbasis over de jaren heen)
+<br>
+Het minimum aantal dagen leegstand over een periode van 2 kalenderjaren moet over om het even welke twee opeenvolgende kalenderjaren steeds worden behaald.
 
 ### ART 7.1.29.
 
