@@ -24,7 +24,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder personeelslid:<br>
-1° de personeelsleden, vermeld in artikel 2, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, die aangesteld zijn in een wervingsambt van het basis- of secundair onderwijs;<br>
+1° de personeelsleden, vermeld in artikel 2, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, die aangesteld zijn in een wervingsambt van het basis- of secundair onderwijs, met inbegrip van de GI-school;<br>
 2° de personeelsleden, vermeld in artikel 4, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, die aangesteld zijn in een wervingsambt van het basis- of secundair onderwijs.
 
 ### ART 2.
@@ -40,12 +40,13 @@ In dit besluit wordt verstaan onder personeelslid:<br>
 4° het ambt van leraar, belast met het praktisch vak bouw, elektriciteit, hout, en mechanica, vermeld in artikel 5 en artikel 5bis van het voormelde besluit;<br>
 5° het ambt van leraar beroepsgerichte vorming met specialiteiten bouw, hout en mechanica vermeld in artikel 2, §4 van het besluit van de Vlaamse regering van 14 maart 2003 betreffende de concordantie van de specialiteiten in opleidingsvorm 3 van het buitengewoon secundair onderwijs;<br>
 6° de ambten van leermeester godsdienst of leermeester niet-confessionele zedenleer in het basisonderwijs;<br>
-7° de ambten van godsdienstleraar of leraar niet-confessionele zedenleer in het secundair onderwijs.
+7° de ambten van godsdienstleraar of leraar niet-confessionele zedenleer in het secundair onderwijs;<br>
+8° het ambt van kleuteronderwijzer of het ambt van kleuteronderwijzer ASV.
 
 ### ART 3.
 
 De personeelsleden kunnen een lerarenbonus krijgen of hebben recht op een lerarenbonus als vermeld in artikel 2, als ze voldoen aan al de volgende voorwaarden:<br>
-1° minstens een halftijdse aanstelling hebben in een ambt van het gewoon of buitengewoon basis- of secundair onderwijs van minstens 105 aaneensluitende kalenderdagen;<br>
+1° minstens een halftijdse aanstelling hebben in een ambt van het gewoon of buitengewoon basis- of secundair onderwijs, met inbegrip van de GI-school van minstens 105 aaneensluitende kalenderdagen;<br>
 2° ingeschreven zijn in een lerarenopleiding, vermeld in artikel II.111 van de Codex Hoger Onderwijs;<br>
 3° aangesteld zijn in een of meer betrekkingen die samen minstens de helft van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties. Als het personeelslid een betrekking heeft in meer dan één instelling, wordt de lerarenbonus opgenomen in de instelling waar het personeelslid de grootste opdracht uitoefent.
 
