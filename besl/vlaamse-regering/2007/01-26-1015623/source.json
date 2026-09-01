@@ -2,16 +2,16 @@
   "codex_id": 1015623,
   "title": "Besluit van de Vlaamse Regering van 2007-01-26 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Mode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015623/VolledigDocument?datum=2007-02-01",
-  "source_sha256": "5a15077405e8f48db74f833d57cf5cb413e62358ef39aa07b37b63472a0ea221",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015623/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "9f6a44333e1e5a0908b53ef3cda2b437b684e09ba92a875c4ba3eac245aff05b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015623&param=informatie",
-  "as_of": "2007-02-01",
+  "as_of": "2026-09-01",
   "made": "2007-01-26",
   "gazette": "2007-03-13",
   "numac": 2007035334,
   "document_start": "2007-02-01",
   "document_end": null,
-  "in_force": "2007-02-01",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2007-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

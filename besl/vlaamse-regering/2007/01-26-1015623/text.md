@@ -6,15 +6,17 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 1999 tot regeli
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mode, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I tot en met XIII, die als bijlagen bij dit besluit zijn gevoegd.<br /><br />
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mode, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I tot en met bijlage IV en bijlage VIII tot en met bijlage XIV, die als bijlagen bij dit besluit zijn gevoegd.<br>
+&nbsp;
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br /><br />
+...
 
 ### ART. 3.
 
-Het hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema kan bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden :<br />1° "Kleding - kleermaken dames BSO 3", goedgekeurd op 3 juni 1991. <br /><br />
+...<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -75,3 +77,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE 13.
 
 <a href="https://www.ejustice.just.fgov.be/mopdf/2007/03/13_2.pdf#page=91">Bijlage XIII</a>
+
+### BIJLAGE 14
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2026/10/22_1.pdf#page=41">Bijlage XIV</a>
