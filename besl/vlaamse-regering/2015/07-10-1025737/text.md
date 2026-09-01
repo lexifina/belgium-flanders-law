@@ -16,7 +16,15 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 2.
 
-&nbsp;Het attest voor toelating tot   buitengewoon onderwijs type 5 bevat de volgende elementen :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de identificatiegegevens van de leerling : voornaam, achternaam, geboortedatum,   adres;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de identificatiegegevens van de ouders : voornaam, achternaam en   adres;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de identificatiegegevens van de school voor gewoon of buitengewoon onderwijs   waar de leerling ingeschreven is : naam, adres en instellingsnummer, met   inbegrip van het studieaanbod dat de leerling er volgt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de identificatiegegevens van de voorziening waar onderwijs van type 5 aangeboden   wordt : naam, adres en instellingsnummer, en voor- en achternaam van de   behandelende geneesheer van de medische of psychiatrische voorziening, van het   preventorium of van de directeur van de residentiële setting;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de datum van de ondertekening van het attest, de ingangsdatum van het attest en   de handtekening van de behandelende geneesheer of directeur, vermeld in punt 4°   ;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de motivering waarom :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de medische, psychiatrische of residentiële opvang of begeleiding niet toelaat   dat het kind of de jongere voltijds in een school voor gewoon of buitengewoon   onderwijs de lessen kan volgen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het kind of de jongere behoefte heeft aan een individueel of geïndividualiseerd   aanbod dat in een residentiële omgeving verstrekt moet worden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het attest voor toelating tot buitengewoon onderwijs type 5 bevat de volgende elementen :<br>
+1° de identificatiegegevens van de leerling : voornaam, achternaam, geboortedatum, adres;<br>
+2° de identificatiegegevens van de ouders : voornaam, achternaam en adres;<br>
+3° de identificatiegegevens van de school voor gewoon of buitengewoon onderwijs waar de leerling ingeschreven is : naam, adres en instellingsnummer, met inbegrip van het studieaanbod dat de leerling er volgt;<br>
+4° de identificatiegegevens van de voorziening waar onderwijs van type 5 aangeboden wordt : naam, adres en instellingsnummer, en voor- en achternaam van de behandelende arts van de medische of psychiatrische voorziening, van het preventorium of van de directeur van de residentiële setting;<br>
+5° de datum van de ondertekening van het attest, de ingangsdatum van het attest en de handtekening van de behandelende arts of directeur, vermeld in punt 4° ;<br>
+6° de motivering waarom :<br>
+a) de medische, psychiatrische of residentiële opvang of begeleiding niet toelaat dat het kind of de jongere voltijds in een school voor gewoon of buitengewoon onderwijs de lessen kan volgen;<br>
+b) het kind of de jongere behoefte heeft aan een individueel of geïndividualiseerd aanbod dat in een residentiële omgeving verstrekt moet worden.
 
 ### ART. 3.
 
@@ -32,17 +40,21 @@ Bij   het Agentschap voor Onderwijsdiensten wordt een Vlaamse Bemiddelingscommis
 
 ### ART. 5.
 
-<P>De   Commissie bestaat uit een afgevaardigde van de representatieve organisaties van   de centra voor leerlingenbegeleiding, de representatieve verenigingen van   inrichtende machten, het GO! Onderwijs van de Vlaamse Gemeenschap en van de   erkende ouderverenigingen. De Commissie wordt voorgezeten door een erkende   bemiddelaar. De Commissie wordt bijgestaan door een personeelslid van het   Agentschap voor Onderwijsdiensten, die fungeert als secretaris.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister stelt de voorzitter en de plaatsvervangende voorzitter, de effectieve   en plaatsvervangende leden aan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   leden van de Commissie genieten de burgerlijke en politieke rechten en bieden   alle waarborgen met het oog op een onafhankelijke uitoefening van hun   opdracht.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De Commissie bestaat uit een afgevaardigde van de representatieve organisaties van de centra voor leerlingenbegeleiding, de representatieve verenigingen van inrichtende machten, het GO! Onderwijs van de Vlaamse Gemeenschap en van het aanspreekpunt voor ouderbetrokkenheid en ouderparticipatie. De Commissie wordt voorgezeten door een erkende bemiddelaar. De Commissie wordt bijgestaan door een personeelslid van het Agentschap voor Onderwijsdiensten, die fungeert als secretaris.</p>
+
+<p>De minister stelt de voorzitter en de plaatsvervangende voorzitter van de Commissie aan. De representatieve organisaties van de centra voor leerlingenbegeleiding, de representatieve verenigingen van de inrichtende machten, het GO! Onderwijs van de Vlaamse Gemeenschap en het aanspreekpunt voor ouderbetrokkenheid en ouderparticipatie wijzen jaarlijks een afgevaardigde en een plaatsvervanger aan.</p>
+
+<p>De leden van de Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen met het oog op een onafhankelijke uitoefening van hun opdracht.</p>
 
 ### ART. 6.
 
-<p>De leden van de Commissie hebben een mandaat van zes jaar. Het mandaat is eenmaal hernieuwbaar.</p>
+<p>De voorzitter van de Commissie heeft een mandaat van zes jaar. Het mandaat is eenmaal hernieuwbaar.</p>
 
 <p>Met behoud van de toepassing van de bepalingen van het eerste lid eindigt het mandaat :<br>
 1° in geval van ontslagneming;<br>
 2° als niet meer voldaan is aan de aanstellingsvoorwaarden.</p>
 
-<p>Bij de vroegtijdige beëindiging van het mandaat van effectief lid, voltooit de plaatsvervanger als effectief lid de lopende mandaatperiode van zijn voorganger. De minister wijst een nieuwe plaatsvervanger aan.</p>
+<p>Bij de vroegtijdige beëindiging van het mandaat, voltooit de plaatsvervanger de lopende mandaatperiode van zijn voorganger. De minister wijst een nieuwe plaatsvervanger aan.</p>
 
 <p>De Commissie behoudt haar bevoegdheden tot de nieuwe Commissie is samengesteld.</p>
 
@@ -86,7 +98,7 @@ Een bemiddelingsverzoek is ontvankelijk:<br>
 
 <p>Zodra de Commissie ingeschakeld wordt, brengt de voorzitter of zijn gemandateerde de betrokken partijen op de hoogte van de datum van behandeling en nodigt hen uit om, voorafgaand aan het bemiddelingsgesprek en uiterlijk op het door de voorzitter bepaald tijdstip, elementen ter bespreking te bezorgen.</p>
 
-<p>De voorzitter nodigt alleen de leden van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de erkende ouderverenigingen uit, die behoren tot het net waartoe het betreffende centrum voor leerlingenbegeleiding en de school waarvoor het bemiddelingsverzoek is ingediend, behoren.</p>
+<p>De voorzitter nodigt alleen de leden van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten&nbsp;en van het GO! Onderwijs van de Vlaamse Gemeenschap uit, die behoren tot het net waartoe het betreffende centrum voor leerlingenbegeleiding en de school waarvoor het bemiddelingsverzoek is ingediend, behoren.</p>
 
 ### ART. 13.
 
@@ -94,7 +106,7 @@ Om   haar werkzaamheden te kunnen uitoefenen, kan de Commissie documenten over d
 
 ### ART. 14.
 
-Een&nbsp;bemiddelingsgesprek kan plaatsvinden als de voorzitter of de plaatsvervangende voorzitter aanwezig is en ten minste één lid van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de erkende ouderverenigingen.
+Een&nbsp;bemiddelingsgesprek kan plaatsvinden als de voorzitter of de plaatsvervangende voorzitter aanwezig is en ten minste één lid van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van het aanspreekpunt voor ouderbetrokkenheid en ouderparticipatie.
 
 ### ART. 15.
 
