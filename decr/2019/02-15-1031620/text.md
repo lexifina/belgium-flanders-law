@@ -13,7 +13,7 @@ In dit decreet wordt verstaan onder:<br>
 1°/1 agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 1°/2 bemiddeling: het overleg tussen de minderjarige verdachte of de minderjarige delictpleger, de ouders, de opvoedingsverantwoordelijken, het slachtoffer en de personen die ten aanzien van het minderjarig slachtoffer het ouderlijk gezag uitoefenen of de opvoedingsverantwoordelijken, om hen de mogelijkheid te bieden, samen en met de hulp van een onpartijdige bemiddelaar, onder meer aan de relationele en materiële gevolgen van een jeugddelict tegemoet te komen;<br>
 2° betrokken personen: de minderjarige verdachte, de minderjarige delictpleger, de ouders, de opvoedingsverantwoordelijken, het slachtoffer en de personen die ten aanzien van het minderjarige slachtoffer het ouderlijk gezag uitoefenen of de opvoedingsverantwoordelijken;<br>
-2°/1 casusoverleg: een overleg als vermeld in artikel 458ter van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld in het kader van een integrale en multidisciplinaire ketenaanpak jeugddelinquentie voor de minderjarige verdachte of delictpleger en zijn gezin;<br>
+2°/1 casusoverleg: een overleg als vermeld in artikel 353, §2, van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld in het kader van een integrale en multidisciplinaire ketenaanpak jeugddelinquentie voor de minderjarige verdachte of delictpleger en zijn gezin;<br>
 2°/1/1 diensten voor herstelgerichte en constructieve afhandeling: voorzieningen van categorie 5, vermeld in artikel 2, §1, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
 2°/2 &nbsp;elektronische monitoring: de reactie waarbij met technologische middelen vanop een afstand de naleving van locatiegeboden en -verboden wordt gecontroleerd in combinatie met een begeleiding op maat van de minderjarige;<br>
 3° gemeenschapsdienst: de onbezoldigde prestatie voor een aantal uren, opgelegd door de jeugdrechter of jeugdrechtbank als reactie op een delict;<br>
@@ -93,7 +93,7 @@ De daden, handelingen of nalatigheid waarvan de persoon, vermeld in het eerste l
 
 Behoudens samenhang met vervolgingen wegens andere misdrijven dan die hieronder bepaald, nemen de op grond van het gemene recht bevoegde rechtbanken, kennis van de vorderingen van het openbaar ministerie jegens personen ouder dan zestien jaar en beneden achttien jaar op het ogenblik van het plegen van de feiten, wegens overtreding van:<br>
 1° de bepalingen van de wetten en verordeningen betreffende het wegverkeer;<br>
-2° de artikelen 418, 419 en 420 van het Strafwetboek voor zover er samenhang is met een overtreding van de onder punt 1° bedoelde wetten en verordeningen;<br>
+2° artikel 106, 107, 107/1, 217 en 218 van het Strafwetboek voor zover er samenhang is met een overtreding van de onder punt 1° bedoelde wetten en verordeningen;<br>
 3° de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen.<br>
 <br>
 Indien uit de debatten voor de rechtbanken, vermeld in het voorgaande lid, blijkt dat een reactie op grond van het voorliggende decreet geschikter is, kunnen die gerechten de zaak bij een met redenen omklede beslissing uit handen geven en ze naar het openbaar ministerie verwijzen met het oog op de vorderingen voor de jeugdrechtbank als daartoe grond bestaat.
@@ -359,13 +359,13 @@ Een herstelrechtelijk aanbod verdient de voorkeur.&nbsp;Als de jeugdrechter geen
 3° voorwaarden;<br>
 3°/0 een elektronische monitoring, gecombineerd met begeleiding;<br>
 3/1° de minderjarige verdachte toevertrouwen aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
-3°/2 de minderjarige verdachte toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van maximaal veertien dagen;<br>
+3°/2 de minderjarige verdachte toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van veertien dagen;<br>
 4° de minderjarige verdachte toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten oriëntatie van maximaal een maand;<br>
 5° de minderjarige verdachte toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal drie maanden opeenvolgend.<br>
 <br>
 De maatregelen, vermeld in het eerste lid, 1° tot en met 3° /1, verdienen de voorkeur boven het toevertrouwen van de minderjarige aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
 <br>
-Als de jeugdrechter een maatregel als vermeld in het eerste lid, 1° tot en met 5°, uitspreekt, bepaalt hij de maximumduur ervan. De duur van een maand, vermeld in het eerste lid, 4° en 5°, is dertig dagen.&nbsp;<br>
+Als de jeugdrechter een maatregel als vermeld in het eerste lid, 1° tot en met 3/1°, 4° en 5°, uitspreekt, bepaalt hij de maximumduur ervan. De duur van een maand, vermeld in het eerste lid, 4° en 5°, is dertig dagen.&nbsp;<br>
 <br>
 Alle maatregelen, vermeld in het eerste lid, betrekken op een actieve wijze de ouders of de opvoedingsverantwoordelijken en andere relevante personen uit de leefomgeving van de minderjarige verdachte.<br>
 <br>
@@ -383,7 +383,7 @@ De termijn van de voorbereidende rechtspleging wordt geschorst:<br>
 <br>
 § 2. In de volgende gevallen kan van de duur, vermeld in paragraaf 1, eerste lid, worden afgeweken door de jeugdrechter:<br>
 1° het onderzoek naar de feiten&nbsp;of een deskundigenonderzoek naar de persoonlijkheid van de minderjarige verdachte is nog niet afgerond;<br>
-2° het jeugddelict waarvan de minderjarige verdacht wordt het te hebben gepleegd, betreft een feit dat, als het zou zijn gepleegd door een meerderjarige, in de zin van het Strafwetboek of de bijzondere wetten, een opsluiting van vijf jaar of een zwaardere straf tot gevolg kan hebben.<br>
+2° het jeugddelict waarvan de minderjarige verdacht wordt het te hebben gepleegd, betreft een feit dat, als het zou zijn gepleegd door een meerderjarige, in de zin van het Strafwetboek of de bijzondere wetten, een straf van niveau 4 of hoger tot gevolg kan hebben.<br>
 <br>
 In het geval één voorwaarde, vermeld in het eerste lid, 1° of 2°, vervuld is, bedraagt de maximumduur van de voorbereidende rechtspleging twaalf maanden.<br>
 <br>
@@ -548,11 +548,21 @@ Als de jeugdrechter de opgelegde voorwaarden herroept omdat de minderjarige verd
 
 ### ART 25/0
 
-De jeugdrechter kan in de gevallen waarin een maatregel als vermeld in artikel 20, §2, eerste lid, 4° of 5°, wordt overwogen, een elektronische monitoring, gecombineerd met begeleiding, opleggen nadat de sociale dienst de opdracht heeft gekregen om een gemotiveerde inhoudelijke en technische inschatting over de uitvoerbaarheid van elektronische monitoring, te maken.<br>
+De jeugdrechter kan een elektronische monitoring, gecombineerd met begeleiding, opleggen nadat de sociale dienst de opdracht heeft gekregen om een gemotiveerde inhoudelijke en technische inschatting over de uitvoerbaarheid van elektronische monitoring te maken.<br>
 <br>
 De elektronische monitoring kan ook als modaliteit of ter ondersteuning van een maatregel als vermeld in artikel 20, §2, eerste lid, 1° tot en met 3°, worden opgelegd.<br>
 <br>
-Een elektronische monitoring kan niet worden opgelegd indien het jeugddelict een feit betreft als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 398 tot en met 404 juncto 410, 417/11 tot en met 417/22 en 417/25 tot en met 417/37 van het Strafwetboek of een feit betreft als vermeld in artikel 2bis, §4, b), van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen, voor zover de feiten betrekking hebben op de invoer, de uitvoer, de vervaardiging, de verkoop of het te koop stellen van de in dat artikel bedoelde middelen en stoffen en voor zover ze daden betreffen van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging, in de hoedanigheid van leidend persoon.<br>
+Voor de toepassing van het eerste en het tweede lid zijn de voorwaarden, vermeld in artikel 26, §2, eerste lid, 1° en 2°, en tweede lid, van overeenkomstige toepassing. Ten aanzien van een minderjarige verdachte die tussen twaalf en &nbsp;<br>
+veertien jaar oud is op het ogenblik van de feiten, zijn de voorwaarden, vermeld in artikel 26, §3, eerste lid, 1° en 2°, en tweede lid, van overeenkomstige toepassing.<br>
+<br>
+Een elektronische monitoring kan niet worden opgelegd als het jeugddelict een van de volgende feiten betreft:<br>
+1°&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 3, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+2°&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 301, 308, 321, 330, 335, 337, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 469, §3, 2°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek;<br>
+3°&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 134, 136 tot en met 149, 151 tot en met 168, 171 tot en met 174, 177 tot en met 179, 182 of 183 van het Strafwetboek;<br>
+4°&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+5°&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 82, 83, 85 tot en met 90 van het Strafwetboek;<br>
+6°&nbsp;&nbsp; &nbsp;een feit, strafbaar op grond van artikel 2bis, §4, b), van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen, voor zover dat feit betrekking heeft op de invoer, de uitvoer, de vervaardiging, de verkoop of het te koop stellen van de middelen en stoffen, vermeld in artikel 2bis van de voormelde wet, en voor zover dat feit een daad is van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging als vermeld in artikel 405 van het Strafwetboek, of van een criminele organisatie als vermeld in artikel 409 van het Strafwetboek, in de hoedanigheid van leidend persoon;<br>
+7° &nbsp;een feit als vermeld in artikel 117, 125, 130 of 201 van het Strafwetboek.<br>
 <br>
 De jeugdrechter houdt bij het opleggen van elektronische monitoring in het bijzonder rekening met het feit of het jeugddelict een gevaar vormt voor de fysieke of psychische integriteit van de persoon of de personen met wie de minderjarige verdachte op het verblijfsadres zal samenwonen.<br>
 <br>
@@ -573,10 +583,9 @@ De maximale duur van de maatregel, vermeld in het eerste lid, bedraagt zes maand
 
 ### ART 25/2
 
-De jeugdrechter kan een minderjarige die veertien jaar of ouder is op het ogenblik van de feiten toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van maximaal veertien dagen als vermeld in artikel 20, §2, eerste lid, 3°/2. De voorwaarden, vermeld in artikel 26,<br>
-§2, 1°, 2° en 3°, zijn van overeenkomstige toepassing.<br>
+De jeugdrechter kan een minderjarige die veertien jaar of ouder is op het ogenblik van de feiten toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van veertien dagen als vermeld in artikel 20, §2, eerste lid, 3°/2. De voorwaarden, vermeld in artikel 26, §2, eerste lid, 1° tot en met 3°, en tweede lid, zijn van overeenkomstige toepassing.<br>
 <br>
-Ten aanzien van een minderjarige die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, kan deze maatregel worden uitgesproken onder de voorwaarden, vermeld in artikel 26, §3, 1°, 2° en 3°.<br>
+Ten aanzien van een minderjarige die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, kan deze maatregel worden uitgesproken onder de voorwaarden, vermeld in artikel 26, §3, eerste lid, 1° tot en met 3°, en tweede lid.<br>
 &nbsp;
 
 ## Onderafdeling 6. De gesloten oriëntatie in een afdeling van een gemeenschapsinstelling
@@ -587,15 +596,19 @@ Ten aanzien van een minderjarige die tussen twaalf en veertien jaar oud is op he
 <br>
 § 2. De jeugdrechter kan ten aanzien van minderjarigen die veertien jaar of ouder zijn op het ogenblik van de feiten, een plaatsing in een afdeling van een gemeenschapsinstelling bevelen voor een oriëntatie als vermeld in paragraaf 1, als aan de volgende cumulatieve voorwaarden voldaan is en deze voorwaarden in de beschikking van de jeugdrechter omstandig beschreven zijn:<br>
 1° er zijn voldoende ernstige aanwijzingen dat verder onderzoek noodzakelijk is;<br>
-2° de minderjarige wordt ervan verdacht een jeugddelict te hebben gepleegd dat, als het zou zijn gepleegd door een meerderjarige, in de zin van het Strafwetboek of de bijzondere wetten een correctionele hoofdgevangenisstraf van drie jaar of een zwaardere straf tot gevolg kan hebben;<br>
+2° de minderjarige wordt ervan verdacht een jeugddelict te hebben gepleegd dat, als het zou zijn gepleegd door een meerderjarige, in de zin van het Strafwetboek of de bijzondere wetten een straf van niveau 3 of hoger tot gevolg kan hebben;<br>
 3° er bestaan dringende, ernstige en uitzonderlijke omstandigheden die betrekking hebben op de vereisten van bescherming van de openbare veiligheid;<br>
 4° een gesloten oriëntatie is noodzakelijk.<br>
 <br>
+In afwijking van het eerste lid, 2°, kan de jeugdrechter ten aanzien van de minderjarige ook een plaatsing bevelen als de minderjarige ervan verdacht wordt een jeugddelict te hebben gepleegd dat een feit betreft als vermeld in artikel 109, 166, 168, 174, 179, 185, 195, 196 juncto 9, 202, 1°, artikel 218, 232, 2°, artikel 258 juncto 9, 259 juncto 9, 265 juncto 9, 293 juncto 9, 294 juncto 9, 333, 337, 362, 404, derde lid, artikel 465, 466 juncto 9, 467 juncto 9, 468 juncto 9, 479 juncto 9, 488 juncto 9, 502 juncto 9, 505, 517, tweede lid, artikel 518, 1°, artikel 524, 525, 528, 530, 531, 533, 558, tweede lid, 3°, artikel 562, 610, 613, 644, derde lid, artikel 662, 684 of 685/2 van het Strafwetboek of een feit als vermeld in artikel 23, vijfde lid, van de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens.<br>
+<br>
 § 3. De jeugdrechter kan een plaatsing in een afdeling van een gemeenschapsinstelling bevelen ten aanzien van een minderjarige die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, als aan de volgende cumulatieve voorwaarden voldaan is en deze voorwaarden in de beschikking van de jeugdrechter omstandig beschreven zijn:<br>
 1° er zijn voldoende ernstige aanwijzingen dat verder onderzoek noodzakelijk is;<br>
-2° het jeugddelict waarvoor de minderjarige vervolgd wordt, kan, als hij meerderjarig zou zijn, in de zin van het Strafwetboek of de bijzondere wetten, een straf van vijf tot tien jaar opsluiting of een zwaardere straf tot gevolg hebben;<br>
+2° het jeugddelict waarvoor de minderjarige vervolgd wordt, kan, als hij meerderjarig zou zijn, in de zin van het Strafwetboek of de bijzondere wetten, een straf van niveau 4 of hoger tot gevolg hebben;<br>
 3° er bestaan dringende, ernstige en uitzonderlijke omstandigheden die betrekking hebben op de vereisten van bescherming van de openbare veiligheid;<br>
 4° een gesloten oriëntatie is noodzakelijk.<br>
+<br>
+In afwijking van het eerste lid, 2°, kan de jeugdrechter ten aanzien van de minderjarige ook een plaatsing bevelen als het jeugddelict waarvoor de minderjarige vervolgd wordt een feit betreft als vermeld in artikel 109, 110, 120, 129, 146, tweede lid, tweede streepje, artikel 147, eerste lid, tweede streepje, artikel 148, tweede streepje, artikel 149, tweede streepje, artikel 171, 173, 177 tot en met 179, 183, 195, 196, 198, 2°, artikel 199, eerste lid, 2°, artikel 200, eerste lid, 2°, artikel 201, eerste lid, 2°, artikel 202, 1° en 2°, artikel 233, 301, 319, 334, 362, 371, §3, 6°, a), artikel 376, 383, §1, eerste streepje, artikel 384, 393, 402, 412, 417, 466, 467, 468, 470, 505,&nbsp;506, 507, tweede lid, artikel 509, 510, 517, 518, 543, 558, tweede lid, 2° en 3°, artikel 559, tweede lid, 3°, artikel 562, 597, 605, 608, 610, 611, 615 of 645 van het Strafwetboek of een feit als vermeld in artikel 2bis, §2, van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen.<br>
 <br>
 § 4. Tijdens de gesloten oriëntatie van een minderjarige, vermeld in paragraaf 1, staan een multidisciplinaire screening en risicotaxatie centraal. De gevoerde onderzoeken resulteren in het formuleren van een oriëntatievoorstel aan de jeugdrechter.<br>
 <br>
@@ -725,11 +738,20 @@ De jeugdrechtbank voorziet tegelijk in een vervangende sanctie voor het geval da
 
 ### ART 34/0
 
-De jeugdrechtbank kan in de gevallen waarin een sanctie als vermeld in artikel 29, §2, eerste lid, 7° of 8°, wordt overwogen, een elektronische monitoring, gecombineerd met begeleiding, opleggen nadat de sociale dienst de opdracht heeft gekregen om een gemotiveerde inhoudelijke en technische inschatting over de uitvoerbaarheid van elektronische monitoring te maken.<br>
+De jeugdrechtbank kan een elektronische monitoring, gecombineerd met begeleiding, opleggen nadat de sociale dienst de opdracht heeft gekregen om een gemotiveerde inhoudelijke en technische inschatting over de uitvoerbaarheid van elektronische monitoring te maken.<br>
 <br>
-De elektronische monitoring kan ook als modaliteit of ter ondersteuning van een sanctie als vermeld in artikel 29, §2, eerste lid, 3° tot en met 5°, worden opgelegd.<br>
-&nbsp;<br>
-Een elektronische monitoring kan niet worden opgelegd indien het jeugddelict een feit betreft als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 398 tot en met 404 juncto 410, 417/11 tot en met 417/22 en 417/25 tot en met 417/37 van het Strafwetboek of een feit betreft als vermeld in artikel 2bis, §4, b), van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen, voor zover de feiten betrekking hebben op de invoer, de uitvoer, de vervaardiging, de verkoop of het te koop stellen van de in dat artikel bedoelde middelen en stoffen en voor zover ze daden betreffen van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging, in de hoedanigheid van leidend persoon.<br>
+De elektronische monitoring, vermeld in het eerste lid, kan ook als modaliteit of ter ondersteuning van een sanctie als vermeld in artikel 29, §2, eerste lid, 3° tot en met 5°, worden opgelegd.<br>
+<br>
+Voor de toepassing van het eerste en het tweede lid zijn de voorwaarden, vermeld in artikel 26, §2, eerste lid, 2°, en tweede lid, van overeenkomstige toepassing. Ten aanzien van een minderjarige delictpleger die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, zijn de voorwaarden, vermeld in artikel 26, §3, eerste lid, 2°, en tweede lid, van overeenkomstige toepassing.<br>
+<br>
+Een elektronische monitoring kan niet worden opgelegd als het jeugddelict een van de volgende feiten betreft:<br>
+1°&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 3, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+2°&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 301, 308, 321, 330, 335, 337, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 469, §3, 2°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek;<br>
+3°&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 134, 136 tot en met 149, 151 tot en met 168, 171 tot en met 174, 177 tot en met 179, 182 of 183 van het Strafwetboek;<br>
+4°&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+5°&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 82, 83, 85 tot en met 90 van het Strafwetboek;<br>
+6°&nbsp;&nbsp; &nbsp;een feit, strafbaar op grond van artikel 2bis, §4, b), van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen, voor zover dat feit betrekking heeft op de invoer, de uitvoer, de vervaardiging, de verkoop of het te koop stellen van de middelen en stoffen, vermeld in artikel 2bis van de voormelde wet, en voor zover dat feit een daad is van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging als vermeld in artikel 405 van het Strafwetboek, of van een criminele organisatie als vermeld in artikel 409 van het Strafwetboek, in de hoedanigheid van leidend persoon;<br>
+7° &nbsp;een feit als vermeld in artikel 117, 125, 130 of 201 van het Strafwetboek.<br>
 <br>
 De jeugdrechtbank houdt bij het opleggen van elektronische monitoring in het bijzonder rekening met het feit of het jeugddelict een gevaar vormt voor de fysieke of psychische integriteit van de persoon of de personen met wie de minderjarige delictpleger op het verblijfsadres zal samenwonen.<br>
 <br>
@@ -752,19 +774,19 @@ De duur van de maatregel, vermeld in artikel 20, § 2, 3° /1, waardoor een mind
 
 ### ART 35.
 
-De jeugdrechtbank kan een minderjarige delictpleger die veertien jaar of ouder is op het ogenblik van de feiten toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van veertien dagen als vermeld in artikel 29, §2, eerste lid, 6°. De voorwaarden, vermeld in artikel 26, §2, 1°, 2° en 3°, zijn van overeenkomstige toepassing.<br>
+De jeugdrechtbank kan een minderjarige delictpleger die veertien jaar of ouder is op het ogenblik van de feiten toevertrouwen aan kortverblijf in een afdeling binnen een gemeenschapsinstelling voor een periode van veertien dagen als vermeld in artikel 29, §2, eerste lid, 6°. De voorwaarden, vermeld in artikel 26, §2, eerste lid, 2° en 3°, en tweede lid, zijn van overeenkomstige toepassing.<br>
 <br>
-Ten aanzien van een minderjarige delictpleger die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, kan deze maatregel worden uitgesproken onder de voorwaarden, vermeld in artikel 26, §3, 1°, 2° en 3°.<br>
-<br>
-De sanctie, vermeld in het eerste lid, kan alleen in uitzonderlijke omstandigheden worden uitgesproken ten aanzien van personen die jonger dan veertien jaar zijn. De voorwaarden, vermeld in artikel 26, §2, 2° en 3°, en §3, 2° en 3°, zijn van overeenkomstige toepassing.
+Ten aanzien van een minderjarige delictpleger die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, kan deze sanctie worden uitgesproken onder de voorwaarden, vermeld inartikel 26, §3, eerste lid, 2° en 3°, en tweede lid.
 
 ## Onderafdeling 8. De gesloten begeleiding in een afdeling van een gemeenschapsinstelling
 
 ### ART 36.
 
-De jeugdrechtbank kan een minderjarige delictpleger toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van drie, zes of negen maanden als vermeld in artikel 29, § 2, eerste lid, 7°.<br>
+De jeugdrechtbank kan een minderjarige delictpleger toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van drie, zes of negen maanden als vermeld in artikel 29, § 2, eerste lid, 7°.&nbsp;De voorwaarden, vermeld in artikel 26, §2, eerste lid, 2° en 3°, en tweede lid, zijn van overeenkomstige toepassing.<br>
 <br>
-De sanctie, vermeld in het eerste lid, kan alleen in uitzonderlijke omstandigheden worden uitgesproken ten aanzien van personen die jonger zijn dan veertien jaar. De bepalingen van artikel 27, §3 en §4 zijn overeenkomstig van toepassing.<br>
+Ten aanzien van een minderjarige delictpleger die tussen twaalf en veertien jaar oud is op het ogenblik van de feiten, kan de sanctie, vermeld in het eerste lid, worden uitgesproken onder de voorwaarden, vermeld in artikel 26, §3, eerste lid, 2° en 3°, en tweede lid.<br>
+<br>
+Artikel 27, §3, is van overeenkomstige toepassing.<br>
 <br>
 De jeugdrechtbank bepaalt de duur van de gesloten begeleiding in haar vonnis.<br>
 <br>
@@ -772,42 +794,72 @@ Wanneer de minderjarige delictpleger tijdens de voorbereidende rechtspleging ree
 
 ### ART 37.
 
-§ 1. De jeugdrechtbank kan een minderjarige delictpleger toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal twee, vijf of zeven jaar als vermeld in artikel 29, § 2, eerste lid, 8°. De maximumduur kan niet meer bedragen dan de strafmaat die voorzien is als zou het feit zijn gepleegd door een meerderjarige. Elke maatregel voorzien in artikel 20, § 2, 4°, tot het toevertrouwen aan een gesloten afdeling in de gemeenschapsinstelling voor een gesloten oriëntatie en artikel 20, § 2, 5°, tot het toevertrouwen aan een gesloten afdeling in de gemeenschapsinstelling voor een gesloten begeleiding ondergaan ten gevolge van het jeugddelict dat tot het opleggen van deze sanctie aanleiding geeft, wordt toegerekend op de duur van de opgelegde sanctie.<br>
+§1. De jeugdrechtbank kan een minderjarige delictpleger toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal twee, vijf of zeven jaar als vermeld in artikel 29, § 2, eerste lid, 8°. De maximumduur kan niet meer bedragen dan de strafmaat die voorzien is als zou het feit zijn gepleegd door een meerderjarige. Elke maatregel voorzien in artikel 20, § 2, 4°, tot het toevertrouwen aan een gesloten afdeling in de gemeenschapsinstelling voor een gesloten oriëntatie en artikel 20, § 2, 5°, tot het toevertrouwen aan een gesloten afdeling in de gemeenschapsinstelling voor een gesloten begeleiding ondergaan ten gevolge van het jeugddelict dat tot het opleggen van deze sanctie aanleiding geeft, wordt toegerekend op de duur van de opgelegde sanctie.<br>
 <br>
 De sanctie, vermeld in het eerste lid, kan alleen in de uitzonderlijke omstandigheden, vermeld in paragraaf 4, tweede en derde lid, worden uitgesproken ten aanzien van personen die nog geen zestien jaar waren op het ogenblik van het plegen van het jeugddelict.<br>
 <br>
-§ 2. De sanctie, vermeld in paragraaf 1, wordt uitgesproken met een bijzonder met redenen omkleed vonnis, en kan alleen worden uitgesproken als aan al de volgende voorwaarden cumulatief voldaan is:<br>
+§2.&nbsp;De sanctie, vermeld in paragraaf 1, wordt uitgesproken met een bijzonder met redenen omkleed vonnis, en kan alleen worden uitgesproken als aan al de volgende voorwaarden cumulatief voldaan is:<br>
 1° de minderjarige delictpleger is zestien jaar of meer op het ogenblik van het plegen van het jeugddelict;<br>
 2° er is een vermoeden van schuldbekwaamheid aanwezig. Het betreft een weerlegbaar vermoeden, rekening houdend met de persoonlijkheid en maturiteit van voormelde minderjarige en zijn sociale context;<br>
-3° elke andere sanctie is ongepast of heeft gefaald;<br>
-4° het jeugddelict dat de voormelde minderjarige gepleegd heeft, is een feit als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 400, 401, 417/2, 417/3, 417/7, 417/11, 417/12 tot en met 417/17, 417/25 tot en met 417/41, 428, §5, en artikel 468 tot en met 475 van het Strafwetboek, voor zover deze strafbaar zijn met meer dan vijf jaar opsluiting of het is een poging om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek, te plegen;<br>
-5° de fysieke en psychische integriteit van voormelde minderjarige of van derden is in gevaar;<br>
-6° een gesloten begeleiding is noodzakelijk.<br>
+3° &nbsp;elke andere sanctie is ongepast of heeft gefaald;<br>
+4° het jeugddelict dat de voormelde minderjarige gepleegd heeft, betreft een van de volgende feiten:<br>
+a)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+b)&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+c)&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 107/1, 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, eerste lid, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 308, 321, 330, 335, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+d)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 82, 83, 85 tot en met 90, 112 tot en met 117, 121 tot en met 125, 138 tot en met 149, 152 tot en met 164, 172, 198, 3°, artikel 408, 409 of 469 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+e)&nbsp;&nbsp; &nbsp;een poging om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen;<br>
+f)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 120, 134, 165 tot en met 168, 196, 467 of 468 van het Strafwetboek;<br>
+5°&nbsp;&nbsp; &nbsp;de fysieke en psychische integriteit van voormelde minderjarige of van derden is in gevaar;<br>
+6°&nbsp;&nbsp; &nbsp;een gesloten begeleiding is noodzakelijk<br>
 <br>
-§ 3. De sanctie, vermeld in paragraaf 1, houdt een gesloten begeleiding binnen een afdeling van een gemeenschapsinstelling in, gericht op begeleiding en re-integratie.<br>
+§3. De sanctie, vermeld in paragraaf 1, houdt een gesloten begeleiding binnen een afdeling van een gemeenschapsinstelling in, gericht op begeleiding en re-integratie.<br>
 <br>
-§ 4. In afwijking van paragraaf 2, 1°, kan de jeugdrechtbank de sanctie, vermeld in paragraaf 1, bevelen ten aanzien van minderjarige delictplegers die nog geen zestien jaar waren op het ogenblik van het plegen van het jeugddelict.<br>
+§4. In afwijking van paragraaf 2, 1°, kan de jeugdrechtbank de sanctie, vermeld in paragraaf 1, bevelen ten aanzien van minderjarige delictplegers die nog geen zestien jaar waren op het ogenblik van het plegen van het jeugddelict.<br>
 <br>
-Als de cumulatieve voorwaarden, vermeld in paragraaf 2, 2°, 3°, 5° en 6°, vervuld zijn, en als het jeugddelict gepleegd is door een minderjarige die op het ogenblik van de feiten minstens twaalf jaar was en de volle leeftijd van veertien jaar nog niet had bereikt, kan de sanctie, vermeld in paragraaf 1, alleen worden opgelegd als het jeugddelict dat de voormelde minderjarige gepleegd heeft een feit is als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 417/11, 417/12 tot en met 417/17 en 475 van het Strafwetboek, en de voormelde feiten strafbaar zijn met meer dan tien jaar opsluiting of het is een poging om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek te plegen van het Strafwetboek. De maximale duur van de sanctie bedraagt twee jaar. De minderjarige delictpleger wordt geplaatst in de voorbehouden capaciteit, vermeld in artikel 40, § 3, eerste lid, van dit decreet.<br>
+Als de cumulatieve voorwaarden, vermeld in paragraaf 2, 2°, 3°, 5° en 6°, vervuld zijn, en als het jeugddelict gepleegd is door een minderjarige die op het ogenblik van de feiten minstens twaalf jaar was en de volle leeftijd van veertien jaar nog niet had bereikt, kan de sanctie, vermeld in paragraaf 1, alleen worden opgelegd als het jeugddelict dat de voormelde minderjarige gepleegd heeft een van de volgende feiten betreft:<br>
+1° een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+2° &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+3°&nbsp; een feit dat de dood tot gevolg heeft als vermeld in artikel 118, 126, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 321, 413, §2, artikel 414, eerste lid, 1°, artikel 469, §3, 2°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+4° een feit als vermeld in artikel 82, 83, 85 tot en met 90, 139 tot en met 149 of 409 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+5° een poging om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen;<br>
+6° een feit als vermeld in artikel 138, 144, eerste, derde en vierde streepje, of artikel 408 van het Strafwetboek.<br>
 <br>
-Als de cumulatieve voorwaarden, vermeld in paragraaf 2, 2°, 3°, 5° en 6°, vervuld zijn, en als het jeugddelict gepleegd is door een minderjarige die op het ogenblik van de feiten minstens veertien jaar was en de volle leeftijd van zestien jaar nog niet had bereikt, kan de sanctie, vermeld in paragraaf 1, alleen worden opgelegd als het jeugddelict dat de voormelde minderjarige gepleegd heeft een feit is als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 417/11, 417/12 tot en met 417/17 en 475 van het Strafwetboek, en de voormelde feiten strafbaar zijn met meer dan tien jaar opsluiting of het is een poging om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek te plegen van het Strafwetboek. De maximale duur van de sanctie bedraagt vijf jaar.<br>
+De maximale duur van de sanctie bedraagt twee jaar. De minderjarige delictpleger wordt geplaatst in de voorbehouden capaciteit, vermeld in artikel 40, §3, eerste lid.<br>
 <br>
-§ 5. De minderjarige delictpleger, vermeld in paragraaf 2, eerste lid, en paragraaf 4, tweede en derde lid, verschijnt halfjaarlijks, persoonlijk voor de jeugdrechtbank met het oog op de evaluatie van de opgelegde sanctie en in voorkomend geval voor het uitwerken en opleggen van een vervolgtraject.<br>
+Als de cumulatieve voorwaarden, vermeld in paragraaf 2, 2°, 3°, 5° en 6°, vervuld zijn, en als het jeugddelict gepleegd is door een minderjarige die op het ogenblik van de feiten minstens veertien jaar was en de volle leeftijd van zestien jaar nog niet had bereikt, kan de sanctie, vermeld in paragraaf 1, alleen worden opgelegd als het jeugddelict dat de voormelde minderjarige gepleegd heeft een van de volgende feiten betreft:<br>
+1°&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+2°&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+3°&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 118, 126, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 321, 413, §2, artikel 414, eerste lid, 1°, artikel 469, §3, 2°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+4° een feit als vermeld in artikel 82, 83, 85 tot en met 90, 139 tot en met 149 of 409 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 5 of hoger;<br>
+5° een poging om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen;<br>
+6° een feit als vermeld in artikel 138, 144, eerste, derde en vierde streepje, of artikel 408 van het Strafwetboek.<br>
+<br>
+De maximale duur van de sanctie bedraagt vijf jaar.<br>
+<br>
+§5. De minderjarige delictpleger, vermeld in paragraaf 2, eerste lid, en paragraaf 4, tweede en vierde lid, verschijnt halfjaarlijks, persoonlijk voor de jeugdrechtbank met het oog op de evaluatie van de opgelegde sanctie en in voorkomend geval voor het uitwerken en opleggen van een vervolgtraject.<br>
 <br>
 Vanaf de leeftijd van achttien jaar verschijnen de minderjarige delictplegers jaarlijks voor de evaluatie van de opgelegde sanctie, en in voorkomend geval voor het uitwerken en opleggen van een vervolgtraject.<br>
 <br>
-§ 6. De jeugdrechtbank kan de sanctie, vermeld in paragraaf 1, alleen opleggen nadat zij maatschappelijke en medisch-psychologische onderzoeken heeft laten verrichten door een multidisciplinair samengesteld team. Het medisch-psychologisch onderzoek is erop gericht de situatie te evalueren in functie van de persoonlijkheid, zijn omgeving en de maturiteitsgraad van de minderjarige delictpleger. De aard, frequentie en ernst van de feiten die de minderjarige delictpleger ten laste worden gelegd, worden in overweging genomen als ze bijdragen tot de evaluatie van zijn persoonlijkheid.<br>
+§6.&nbsp;De jeugdrechtbank kan de sanctie, vermeld in paragraaf 1, alleen opleggen nadat zij maatschappelijke en medisch-psychologische onderzoeken heeft laten verrichten door een multidisciplinair samengesteld team. Het medisch-psychologisch onderzoek is erop gericht de situatie te evalueren in functie van de persoonlijkheid, zijn omgeving en de maturiteitsgraad van de minderjarige delictpleger. De aard, frequentie en ernst van de feiten die de minderjarige delictpleger ten laste worden gelegd, worden in overweging genomen als ze bijdragen tot de evaluatie van zijn persoonlijkheid.<br>
 <br>
 De jeugdrechtbank kan echter:<br>
-1° de sanctie ook opleggen zonder dat zij over het verslag van het medisch-psychologisch onderzoek beschikt, als zij constateert dat de minderjarige delict-pleger zich aan dat onderzoek onttrekt of weigert zich eraan te onderwerpen;<br>
-2° de sanctie ook opleggen zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige delictpleger en die een of meer feiten als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393, 394, 395, 396, 397, 400, 401, 417/2, 417/3, 417/7, 417/11, 417/12 tot en met 417/17, 417/25 tot en met 417/41, 428, § 5, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek, heeft gepleegd of een poging heeft ondernomen om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek te plegen, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
-3° onder dezelfde voorwaarden als vermeld in 2°, de sanctie opleggen ten aanzien van een minderjarige delictpleger die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar opsluiting, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.<br>
+1° de sanctie ook opleggen zonder dat zij over het verslag van het medisch-psychologisch onderzoek beschikt, als zij constateert dat de minderjarige delictpleger zich aan dat onderzoek onttrekt of weigert zich eraan te onderwerpen;<br>
+2° de sanctie ook opleggen zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige delictpleger en die een of meer van de volgende feiten betreft nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de volgende feiten heeft gepleegd:<br>
+a)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+b)&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+c)&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 107/1, 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, eerste lid, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 308, 321, 330, 335, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 of 600 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+d)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 82, 83, 85 tot en met 90, 112 tot en met 117, 121 tot en met 125, 138 tot en met 149, 152 tot en met 164, 172, 198, 3°, artikel 408, 409 of 469 van het Strafwetboek, voor zover dat feit strafbaar is met een straf van niveau 4 of hoger;<br>
+e)&nbsp;&nbsp; &nbsp;een poging om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen;<br>
+f)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 120, 134, 165 tot en met 168, 196, 467 of 468 van het Strafwetboek;<br>
+3° onder dezelfde voorwaarden, vermeld in punt 2°, de sanctie opleggen ten aanzien van een minderjarige delictpleger die een feit, waarop een straf staat van niveau 6 of hoger, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.<br>
 <br>
-§ 7. De Vlaamse Regering bepaalt de nadere regels voor de organisatie van de gesloten begeleiding van maximaal twee, vijf of zeven jaar, en de inhoud en de invulling van de opdrachten die hiermee gepaard gaan en de wijze waarop deze opdrachten worden uitgevoerd in de gemeenschapsinstellingen. De Vlaamse Regering kan voor bepaalde specifieke doelgroepen programma's erkennen en de toegankelijkheid tot die programma's bepalen.<br>
+In het geval, vermeld in het tweede lid, 2°, worden de stukken van de vorige procedure bij die van de nieuwe procedure gevoegd.<br>
 <br>
-§ 8. ...<br>
+§7. De Vlaamse Regering bepaalt de nadere regels voor de organisatie van de gesloten begeleiding van maximaal twee, vijf of zeven jaar, en de inhoud en de invulling van de opdrachten die hiermee gepaard gaan en de wijze waarop deze opdrachten worden uitgevoerd in de gemeenschapsinstellingen. De Vlaamse Regering kan voor bepaalde specifieke doelgroepen programma's erkennen en de toegankelijkheid tot die programma's bepalen.<br>
 <br>
-§ 9. De Vlaamse Regering bepaalt de nadere regels voor de opmaak en inhoud van het medisch-psychologisch onderzoek.
+§8. ...<br>
+<br>
+§9. De Vlaamse Regering bepaalt de nadere regels voor de opmaak en inhoud van het medisch-psychologisch onderzoek.
 
 ## Onderafdeling 9. Terbeschikkingstelling
 
@@ -823,9 +875,9 @@ De jeugdrechtbank kan echter:<br>
 <br>
 De jeugdrechtbank kan evenwel alleen beslissen tot uithandengeving als bovendien cumulatief aan de volgende voorwaarden is voldaan:<br>
 1° de minderjarige verdachte, vermeld in het eerste lid, is het voorwerp geweest van een of meer sancties, vermeld in de artikelen 35, 36 en 37;<br>
-2° het gepleegde jeugddelict betreft een feit als vermeld in artikel 400, 401, 417/2, 417/3, 417/7, 417/25 tot en met 417/41, 428, §5, en artikel 468 tot en met 474 van het Strafwetboek.<br>
+2° het gepleegde jeugddelict betreft een feit als vermeld in artikel 112 tot en met 117, 120 tot en met 125, 134, 152 tot en met 168, 172, 196, 198, 3°, artikel 408, 409, of 467 tot en met 469 van het Strafwetboek, of een feit dat de dood tot gevolg heeft als vermeld in artikel 107/1, 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, eerste lid, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 308, 321, 330, 335, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 en 600 van het Strafwetboek.<br>
 <br>
-De jeugdrechtbank kan ook beslissen tot uithandengeving als de minderjarige verdachte een feit heeft gepleegd als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 417/11, 417/12 tot en met 417/17, en 475 van het Strafwetboek, of een poging heeft ondernomen om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek, te plegen.<br>
+De jeugdrechtbank kan ook beslissen tot uithandengeving als de minderjarige verdachte een feit heeft gepleegd als vermeld in artikel 96 tot en met 102 van het Strafwetboek, of een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek, of een feit als vermeld in artikel 82, 83, 85 tot en met 90, 138 tot en met 143, 144, eerste en derde tot en met vijfde streepje, artikel 145, 146, tweede lid, eerste en derde tot en met vijfde streepje, artikel 147, eerste lid, eerste en derde tot en met vijfde streepje, en tweede lid, artikel 148, eerste en derde tot en met vijfde streepje, en artikel 149, eerste en derde tot en met vijfde streepje, van het Strafwetboek, of een poging heeft ondernomen om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen.<br>
 <br>
 De motivering, vermeld in paragraaf 2, eerste lid, wordt opgesteld in functie van de persoonlijkheid van de minderjarige verdachte, zijn maturiteitsgraad en zijn omgeving.<br>
 <br>
@@ -839,8 +891,15 @@ De Vlaamse Regering bepaalt de nadere regels voor de opmaak en inhoud van het me
 <br>
 De jeugdrechtbank kan echter:<br>
 1° de zaak uit handen geven zonder dat zij over het verslag van het medisch-psychologisch onderzoek beschikt, als ze constateert dat de minderjarige verdachte zich aan dat onderzoek onttrekt of weigert zich eraan te onderwerpen;<br>
-2° de zaak uit handen geven zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige verdachte en die een of meer feiten als vermeld in artikel 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393 tot en met 397, 400, 401, 417/2, 417/3, 417/7, 417/11, 417/12 tot en met 417/17, 417/25 tot en met 417/41, 428, §5, en artikel 468 tot en met 475 van het Strafwetboek, heeft gepleegd, of een poging heeft ondernomen om een feit als vermeld in artikel 393 tot en met 397 van het Strafwetboek, te plegen, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
-3° onder dezelfde voorwaarden als vermeld in 2°, uitspraak doen over de vordering tot het uit handen geven ten aanzien van een minderjarige verdachte die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar opsluiting, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.
+2° de zaak uit handen geven zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige verdachte en die een of meer van de volgende feiten betreft, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de volgende feiten heeft gepleegd:<br>
+a)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek;<br>
+b)&nbsp;&nbsp; &nbsp;een feit als vermeld in titel 4, hoofdstuk 1, van boek II van het Strafwetboek;<br>
+c)&nbsp;&nbsp; &nbsp;een feit als vermeld in artikel 82, 83, 85 tot en met 90, 112 tot en met 117, 120 tot en met 125, 134, 138 tot en met 143, 144, eerste en derde tot en met vijfde streepje, artikel 145, 146, tweede lid, eerste en derde tot en met vijfde streepje, artikel 147, eerste lid, eerste en derde tot en met vijfde streepje, en tweede lid, artikel 148, eerste en derde tot en met vijfde streepje, artikel 149, eerste en derde tot en met vijfde streepje, artikel 152 tot en met 168, 172, 196, 198, 3°, artikel 408, 409 of 467 tot en met 469 van het Strafwetboek;<br>
+d)&nbsp;&nbsp; &nbsp;een feit dat de dood tot gevolg heeft als vermeld in artikel 107/1, 118, 126, 197, 198, 4°, artikel 199, eerste lid, 4°, artikel 200, eerste lid, 4°, artikel 201, eerste lid, 4°, artikel 202, 4°, artikel 209, 210, eerste lid, derde zin, artikel 215, 222, 225, 228, 260, §2, eerste lid, 1°, artikel 274, §2, 1°, artikel 280, §2, 1°, artikel 284, §2, 1°, artikel 308, 321, 330, 335, 413, §2, artikel 414, eerste lid, 1°, artikel 415, eerste lid, 1°, artikel 416, eerste lid, 1°, artikel 473, §3, 2°, artikel 509, 521, 553, 555, 557 en 600 van het Strafwetboek;<br>
+e)&nbsp;&nbsp; &nbsp;een poging om een feit als vermeld in artikel 96 tot en met 102 van het Strafwetboek te plegen;<br>
+3° onder dezelfde voorwaarden als vermeld in 2°, uitspraak doen over de vordering tot het uit handen geven ten aanzien van een minderjarige verdachte die een feit, waarop een straf staat van niveau 6 of hoger, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.<br>
+<br>
+In het geval, vermeld in het derde lid, 2°, worden de stukken van de vorige procedure bij die van de nieuwe procedure gevoegd.
 
 ## Onderafdeling 2. Toevertrouwen aan een afdeling van een jeugdpsychiatrische dienst
 
@@ -917,12 +976,12 @@ Als de aanmelding voldoet aan de criteria, vermeld in het eerste lid, krijgen de
 <br>
 Op basis van de aanmelding, vermeld in het eerste lid, en de aanvullende informatie, vermeld in het vierde lid, beslist de coördinator of een integrale en multidisciplinaire ketenaanpak jeugddelinquentie wordt opgestart.<br>
 <br>
-De informatie die wordt uitgewisseld in het kader van een aanmelding als vermeld in het eerste lid, en de aanvulling van een aanmelding, vermeld in het vierde lid, betreft een voorbereiding op het casusoverleg en valt onder de geheimhoudingsplicht, vermeld in artikel 458ter, §2, van het Strafwetboek. De organisaties, vermeld in artikel 41/2, §1, eerste lid, kunnen deze informatie in het kader van een aanmelding als vermeld in het eerste lid en de aanvulling van een aanmelding, vermeld in het vierde lid, uitwisselen zonder dat deze mededeling strafbaar wordt gesteld conform artikel 458 van het Strafwetboek.<br>
+De informatie die wordt uitgewisseld in het kader van een aanmelding als vermeld in het eerste lid, en de aanvulling van een aanmelding, vermeld in het vierde lid, betreft een voorbereiding op het casusoverleg en valt onder de geheimhoudingsplicht, vermeld in artikel 353, §2, van het Strafwetboek. De organisaties, vermeld in artikel 41/2, §1, eerste lid, kunnen deze informatie in het kader van een aanmelding als vermeld in het eerste lid en de aanvulling van een aanmelding, vermeld in het vierde lid, uitwisselen zonder dat deze mededeling strafbaar wordt gesteld conform artikel 352 van het Strafwetboek.<br>
 &nbsp;
 
 ### ART 41/3
 
-Binnen een integrale en multidisciplinaire ketenaanpak jeugddelinquentie kan een casusoverleg conform artikel 458ter van het Strafwetboek worden georganiseerd om een individueel traject uit te werken.<br>
+Binnen een integrale en multidisciplinaire ketenaanpak jeugddelinquentie kan een casusoverleg conform artikel 353, §2 van het Strafwetboek worden georganiseerd om een individueel traject uit te werken.<br>
 <br>
 Aan een casusoverleg kunnen op uitnodiging van de coördinator van een integrale en multidisciplinaire ketenaanpak jeugddelinquentie de volgende actoren en organisaties deelnemen vanwege hun betrokkenheid bij en kennis van de minderjarige en zijn gezin of een noodzakelijke specifieke inhoudelijke expertise:<br>
 1° de kernpartners, vermeld in artikel 41/2, §1, eerste lid, van dit decreet;<br>
@@ -943,22 +1002,22 @@ Aan een casusoverleg kunnen op uitnodiging van de coördinator van een integrale
 <br>
 Voor dossiers op de brug tussen minder- en meerderjarigheid kan ook het Agentschap Justitie en Handhaving deelnemen aan het casusoverleg vanuit zijn opdracht, vermeld in artikel 4, 1°, van het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap “Agentschap Justitie en Handhaving”.<br>
 <br>
-De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in het tweede lid, kunnen op vrijwillige basis deelnemen aan een integrale en multidisciplinaire ketenaanpak jeugddelinquentie, als de coördinator hen daartoe uitnodigt. Een genodigde die niet wenst deel te nemen aan het casusoverleg, bezorgt een gemotiveerd antwoord aan de coördinator. Dit gemotiveerde antwoord dient niet verstrekt te worden indien de genodigde een vrijwilliger als vermeld in artikel 3, 2°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, is. Het gemotiveerde antwoord valt onder de geheimhoudingsplicht, vermeld in artikel 458ter, §2, van het Strafwetboek.<br>
+De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in het tweede lid, kunnen op vrijwillige basis deelnemen aan een integrale en multidisciplinaire ketenaanpak jeugddelinquentie, als de coördinator hen daartoe uitnodigt. Een genodigde die niet wenst deel te nemen aan het casusoverleg, bezorgt een gemotiveerd antwoord aan de coördinator. Dit gemotiveerde antwoord dient niet verstrekt te worden indien de genodigde een vrijwilliger als vermeld in artikel 3, 2°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, is. Het gemotiveerde antwoord valt onder de geheimhoudingsplicht, vermeld in artikel 353, §2, van het Strafwetboek.<br>
 <br>
-De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in het tweede lid, kunnen de informatie opgenomen in het gemotiveerde antwoord uitwisselen zonder dat deze mededeling strafbaar wordt gesteld conform artikel 458 van het Strafwetboek<br>
+De leden van de diensten, de voorzieningen en de gesubsidieerde organisaties, vermeld in het tweede lid, kunnen de informatie opgenomen in het gemotiveerde antwoord uitwisselen zonder dat deze mededeling strafbaar wordt gesteld conform artikel 352 van het Strafwetboek<br>
 &nbsp;
 
 ### ART 41/4
 
 De actoren en organisaties, vermeld in artikel 41/3, tweede lid, die uitgenodigd zijn voor een casusoverleg met het oog op een integrale en multidisciplinaire ketenaanpak jeugddelinquentie, kunnen zich laten vertegenwoordigen door een vaste afgevaardigde.<br>
 <br>
-De uitgenodigde persoon of de persoon van de uitgenodigde organisatie, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, kan ten overstaan van de vaste afgevaardigde, vermeld in het eerste lid, voorafgaand aan en met het oog op deelname aan het casusoverleg, de noodzakelijke informatie voor dat casusoverleg meedelen, zonder dat die mededeling strafbaar wordt gesteld conform artikel 458 van het Strafwetboek. Door de voormelde informatie-uitwisseling wordt de voormelde vaste afgevaardigde onderworpen aan dezelfde bepalingen over gegevensbescherming, het ambtsgeheim, de discretieplicht en het beroepsgeheim als de persoon die de informatie verstrekt.<br>
+De uitgenodigde persoon of de persoon van de uitgenodigde organisatie, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, kan ten overstaan van de vaste afgevaardigde, vermeld in het eerste lid, voorafgaand aan en met het oog op deelname aan het casusoverleg, de noodzakelijke informatie voor dat casusoverleg meedelen, zonder dat die mededeling strafbaar wordt gesteld conform artikel 352 van het Strafwetboek. Door de voormelde informatie-uitwisseling wordt de voormelde vaste afgevaardigde onderworpen aan dezelfde bepalingen over gegevensbescherming, het ambtsgeheim, de discretieplicht en het beroepsgeheim als de persoon die de informatie verstrekt.<br>
 <br>
-De vaste afgevaardigde, vermeld in het eerste lid, kan ten overstaan van die persoon, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, na het casusoverleg informatie meedelen uit het casusoverleg die op het casusoverleg is besproken. Door de voormelde informatie-uitwisseling wordt de persoon, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, onderworpen aan de geheimhoudingsplicht, vermeld in artikel 458ter, §2, van het Strafwetboek.
+De vaste afgevaardigde, vermeld in het eerste lid, kan ten overstaan van die persoon, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, na het casusoverleg informatie meedelen uit het casusoverleg die op het casusoverleg is besproken. Door de voormelde informatie-uitwisseling wordt de persoon, die rechtstreeks betrokken is bij de minderjarige over wie een casusoverleg wordt georganiseerd, onderworpen aan de geheimhoudingsplicht, vermeld in artikel 353, §2, van het Strafwetboek.
 
 ### ART 41/5
 
-Deelnemers aan een casusoverleg kunnen conform artikel 458ter van het Strafwetboek tijdens een casusoverleg alleen informatie delen als die informatie relevant en proportioneel is met het oog op de doelstelling van het casusoverleg, namelijk de bescherming van de fysieke en psychische integriteit van de minderjarige, het gezin van de minderjarige en de slachtoffers of potentiële slachtoffers in de maatschappij door recidive te voorkomen door de hulp- en dienstverlening voor de minderjarige en zijn gezin te installeren, te verstevigen en te coördineren.<br>
+Deelnemers aan een casusoverleg kunnen conform artikel 353, §2,&nbsp;van het Strafwetboek tijdens een casusoverleg alleen informatie delen als die informatie relevant en proportioneel is met het oog op de doelstelling van het casusoverleg, namelijk de bescherming van de fysieke en psychische integriteit van de minderjarige, het gezin van de minderjarige en de slachtoffers of potentiële slachtoffers in de maatschappij door recidive te voorkomen door de hulp- en dienstverlening voor de minderjarige en zijn gezin te installeren, te verstevigen en te coördineren.<br>
 <br>
 Deelnemers zijn vrij om te bepalen welke informatie ze delen tijdens het casusoverleg, met het oog op de doelstelling van het casusoverleg, vermeld in het eerste lid.<br>
 <br>
@@ -967,7 +1026,7 @@ Van het casusoverleg kan een verslag worden opgemaakt dat wordt bijgehouden in d
 
 ### ART 41/6
 
-§1. Conform artikel 458ter, §2, van het Strafwetboek zijn de deelnemers tot geheimhouding verplicht met betrekking tot de geheimen die tijdens het casusoverleg worden meegedeeld.<br>
+§1. Conform artikel 353, §2, van het Strafwetboek zijn de deelnemers tot geheimhouding verplicht met betrekking tot de geheimen die tijdens het casusoverleg worden meegedeeld.<br>
 <br>
 §2. Een deelnemer aan het casusoverleg kan informatie die op het casusoverleg is meegedeeld, delen met de minderjarige en de ouders of opvoedingsverantwoordelijken van de minderjarige als er een consensus is van alle deelnemers aan het casusoverleg over al de volgende elementen:<br>
 1° er is tussen alle deelnemers aan het casusoverleg consensus over welke informatie gedeeld kan worden met welke personen en welke deelnemer aan het casusoverleg die informatie zal delen;<br>
@@ -1129,7 +1188,7 @@ De persoonsgegevens, vermeld in het eerste lid, kunnen op de volgende wijzen wor
 3° de partners die instaan voor een individueel traject binnen de integrale en multidisciplinaire ketenaanpak jeugddelinquentie, kunnen de persoonsgegevens verwerken om een afgestemd traject op te starten en te doorlopen met de minderjarige, het gezin van de minderjarige en de betrokken personen uit de leefomgeving van de minderjarige;<br>
 4° de persoonsgegevens kunnen worden opgenomen in een gezamenlijke dossieromgeving als voldaan is aan de voorwaarden, vermeld in het vierde lid.<br>
 <br>
-Voor de beveiliging van de dossieromgeving, vermeld in het derde lid, 4°, worden passende maatregelen genomen, waaronder een behoorlijk gebruikersen toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 458ter, §2, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+Voor de beveiliging van de dossieromgeving, vermeld in het derde lid, 4°, worden passende maatregelen genomen, waaronder een behoorlijk gebruikersen toegangsbeheer, conform de geheimhoudingsplicht, vermeld in artikel 353, §2, van het Strafwetboek, en conform de beveiliging van de verwerking, vermeld in artikel 32 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
 De Vlaamse Regering kan de basisvereisten voor de dossieromgeving, vermeld in het derde lid, 4°, bepalen.<br>
 <br>
