@@ -541,6 +541,10 @@ Met gevangenisstraf van twee maanden tot twee jaar wordt gestraft, ieder openbaa
 
 Met gevangenisstraf van een maand tot een jaar en met geldboete van vijftig euro tot duizend euro of met een van die straffen alleen wordt gestraft, elke persoon die zich niet voegt naar een vonnis of een arrest dat, als gevolg van een vordering tot staking, overeenkomstig artikel 29 werd gewezen.
 
+### ART 33bis.
+
+Het plegen van beloningsdiscriminatie, vermeld in artikel 20, derde lid, jegens een persoon, een groep, een gemeenschap of de leden ervan wordt bestraft met een straf van niveau 1.
+
 ### ART. 34.
 
 In geval van een inbreuk op artikelen 31, 32 of 33, kan de veroordeelde bovendien overeenkomstig artikel 33 van het Strafwetboek tot de ontzetting worden veroordeeld.
