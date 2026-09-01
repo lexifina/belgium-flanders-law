@@ -8,7 +8,21 @@ Dit besluit is van toepassing op het gewoon basisonderwijs, gefinancierd of gesu
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   anderstalige nieuwkomer: de anderstalige nieuwkomer, vermeld in artikel 3, 4°   quater, van het decreet.<BR>3° ...<BR>4° cursus: minimum twee tot maximum drie   lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele   zedenleer of cultuurbeschouwing;<BR>5° decreet: het decreet betreffende het   basisonderwijs van 25 februari 1997;<BR>5°bis : gewezen anderstalige nieuwkomer   : leerling die op 1 oktober van het lopende schooljaar in het voorgaande   schooljaar een anderstalige nieuwkomer was en onthaalonderwijs heeft genoten;   <BR>6° ...<BR>7° leerling: leerling die voldoet aan de bepalingen van de   artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van   afwijkt;<BR>8° minister: de Vlaamse minister bevoegd voor Onderwijs;<BR>8°bis   onthaalonderwijs: onderwijs aan anderstalige nieuwkomers ter bevordering van hun   taalvaardigheid Nederlands en ter bevordering van hun sociale integratie.   Onthaalonderwijs kan voor de twee groepen van anderstalige nieuwkomers, bedoeld   in 2°, eerste lid, a) en b), bestaan uit twee periodes :<BR>a) een onthaaljaar   met aanbieding van intensieve taalondersteuning Nederlands aan de anderstalige   nieuwkomer;<BR>b) een vervolgjaar in de vorm van ondersteuning, begeleiding en   opvolging van de gewezen anderstalige nieuwkomer.<BR>9° ...<BR>9°bis. ...   <BR>10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten   worden geteld;<BR>11° telperiode: periode gedurende dewelke leerlingen, met   toepassing van het decreet moeten worden geteld;
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ...<br>
+2° ...<br>
+3° ...<br>
+4° cursus: minimum twee tot maximum drie lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele zedenleer of cultuurbeschouwing;<br>
+5° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br>
+5°bis : ...;<br>
+6° ...<br>
+7° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br>
+8° minister: de Vlaamse minister bevoegd voor Onderwijs;<br>
+8°bis ...<br>
+9° ...<br>
+9°bis. ...<br>
+10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten worden geteld;<br>
+11° telperiode: periode gedurende dewelke leerlingen, met toepassing van het decreet moeten worden geteld;
 
 ## HOOFDSTUK II DIRECTIE
 
@@ -1258,27 +1272,36 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 ...
 
-## ONDERAFDELING 2 AANVULLENDE LESTIJDEN VOOR DE OPVANG VAN ANDERSTALIGE NIEUWKOMERS
+## ONDERAFDELING 1SEXIES OVERDRACHT VAN LESTIJDEN VOOR TAALBADEN EN TAALHELDKLASSEN
+
+### ART 20octies.
+
+Met toepassing van artikel 142, §2, van het decreet kunnen:<br>
+1°&nbsp;&nbsp; &nbsp;de aanvullende lestijden, vermeld in artikel 139vicies semel van het decreet, gedurende het volledige schooljaar worden overgedragen voor de organisatie van taalheldklassen;<br>
+2°&nbsp;&nbsp; &nbsp;de lestijden, vermeld in artikel 131 van het decreet, gedurende het volledige schooljaar worden overgedragen om een taalbad als vermeld in artikel 11quater, §4, van het decreet te organiseren.<br>
+&nbsp;
+
+## ONDERAFDELING 2 ...
 
 ### ART. 21.
 
-§ 1. Met toepassing van artikel 138, § 1, 3° van het decreet kunnen in het kleuteronderwijs en het lager onderwijs per vesti-gingsplaats aanvullende lestijden voor de opvang van anderstalige nieuwkomers worden gefinancierd of gesubsidieerd.<br /><br />Deze lestijden kunnen worden gefinancierd of gesubsidieerd in scholen die aan de volgende voorwaarden voldoen:<br />1° ... <br />2° ... <br />3° het schoolbestuur organiseert voor elke anderstalige nieuwkomer een werkplan; in het werkplan wordt, uitgaande van de beginsituatie, een strategie uitgeschreven om de doelstellingen van het onthaalonderwijs zoals beschreven onder artikel 2, 8°bis te realiseren; de evaluatie van de verschillende stappen wordt eveneens opgenomen in het individueel werkplan;<br />4° het schoolbestuur gaat de verbintenis aan de leerkrachten te laten deelnemen aan nascholing gericht op onthaalonderwijs. <br /><br />§ 2....
+...
 
 ### ART. 22.
 
-<P>§ 1. De aanvullende lestijden voor de opvang van anderstalige nieuwkomers   kunnen per school of per scholengemeenschap berekend worden. Een school kan   beide berekeningswijzen in één en hetzelfde schooljaar niet cumuleren. Het is   wel mogelijk dat één of meerdere scholen van de scholengemeenschap op   schoolniveau tellen, terwijl de overige scholen van de scholengemeenschap op   scholengemeenschapsniveau tellen. <BR><BR>§ 2. Indien er gekozen wordt om te   berekenen per school dient de school een minimum aantal anderstalige nieuwkomers   te tellen om aanvullende lestijden te kunnen inrichten.<BR><BR>Voor autonome   kleuterscholen of autonome lagere scholen met slechts één vestigingsplaats   dienen er op de eerste schooldag van september of in de loop van het schooljaar   in de school tenminste vier anderstalige nieuwkomers als regelmatige leerling   ingeschreven te zijn.<BR><BR>Voor alle andere scholen dienen er op de eerste   schooldag van september of in de loop van het schooljaar in de school tenminste   zes anderstalige nieuwkomers als regelmatige leerling ingeschreven te   zijn.<BR><BR>§ 3. Het aantal aanvullende lestijden voor de opvang van   anderstalige nieuwkomers wordt voor een school, die voldoet aan paragraaf 2, als   volgt bepaald : <BR>1° er worden twee aanvullende lestijden gefinancierd of   gesubsidieerd en bijkomend 1,5 aanvullende lestijden per anderstalige   nieuwkomer;<BR>2° bij reële stijging van vier anderstalige nieuwkomers worden   bijkomend 1,5 lestijden per anderstalige nieuwkomer gefinancierd of   gesubsidieerd;<BR>3° zodra bij daling minder dan twee anderstalige nieuwkomers   zijn ingeschreven, worden de aanvullende lestijden niet langer gefinancierd of   gesubsidieerd.<BR><BR>§ 4. Indien er gekozen wordt om te tellen per   scholengemeenschap dient de scholengemeenschap, op de eerste schooldag van   september of in de loop van het schooljaar, tenminste twaalf anderstalige   nieuwkomers, die als regelmatige leerling ingeschreven zijn in scholen die niet   tellen volgens de principes van paragraaf 2 en 3, te tellen om aanvullende   lestijden te kunnen inrichten.<BR><BR>§ 5. Het aantal aanvullende lestijden voor   de opvang van anderstalige nieuwkomers wordt per school, die niet telt volgens   de principes van paragraaf 2 en 3 en die behoort tot een scholengemeenschap die   voldoet aan paragraaf 4, als volgt bepaald : <BR>1° er worden 1,5 aanvullende   lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd; <BR>2° bij   reële stijging van vier anderstalige nieuwkomers worden bijkomend 1,5 lestijden   per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<BR>3° zodra bij   daling minder dan vier anderstalige nieuwkomers in de scholen van de   scholengemeenschap, die niet tellen volgens de principes van paragraaf 2 en 3,   zijn ingeschreven, worden de aanvullende lestijden niet langer gefinancierd of   gesubsidieerd. ».</P>
+<p>...</p>
 
 ### ART. 22bis.
 
-§ 1. Tijdens het vervolgjaar, vermeld in artikel 2, 8°bis, b), worden voor de gewezen anderstalige nieuwkomers aanvullende lestijden toegekend.<br /><br />§ 2. Het aantal aanvullende lestijden dat wordt toegekend is gelijk aan één per gewezen anderstalige nieuwkomer die ingeschreven is op de teldag van de eerste schooldag van oktober van het lopende schooljaar.
+...
 
 ### ART. 22ter.
 
-De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden   uitsluitend aangewend voor de opvang, ondersteuning en begeleiding van   anderstalige nieuwkomers en gewezen anderstalige nieuwkomers of voor de   organisatie van een taalbad, als vermeld in artikel 11ter, § 2, van het   decreet.
+...
 
 ### ART. 22quater.
 
-Met toepassing van artikel 142, § 2, van het decreet kan het aantal   aanvullende lestijden, vermeld in artikel 22 en 22bis, gedurende het volledige   schooljaar worden overgedragen.<BR><BR>Met toepassing van artikel 142, § 2, van   het decreet kunnen de lestijden, vermeld in artikel 131 van het decreet,   gedurende het volledige schooljaar overgedragen worden voor de organisatie van   een taalbad, als vermeld in artikel 11ter, § 2, van het decreet.
+...
 
 ## ONDERAFDELING 3 Aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal
 
