@@ -39,14 +39,22 @@ In afwijking van het eerste lid kan een personeelslid dat op het ogenblik van zi
 § 2. In afwijking van § 1 wordt :<br>
 1° voor de personeelsleden van de MST-equipes, voor de periode vóór 1 september 2000, het aantal dagen bezoldigd ziekteverlof per twaalf maanden sociale anciënniteit bepaald op vijftien dagen;<br>
 2° voor de administratief medewerker van de personeelscategorie van het beleids- en ondersteunend personeel van het basisonderwijs, voor de periode vóór 1 september 2003, het aantal dagen bezoldigd ziekteverlof per twaalf maanden sociale anciënniteit bepaald op vijftien dagen;<br>
-3° voor de personeelsleden die voor 1 januari 2018 uitsluitend aangesteld geweest zijn in een functie in een centrum voor basiseducatie en die op 1 januari 2018 of later uitsluitend prestaties verrichten in een centrum voor basiseducatie, wordt het aantal dagen bezoldigd ziekteverlof voor de periode vóór 1 januari 2018 per twaalf maanden sociale anciënniteit, bepaald op vijftien dagen.<br>
+3° voor de personeelsleden die voor 1 januari 2018 uitsluitend aangesteld geweest zijn in een functie in een centrum voor basiseducatie en die op 1 januari 2018 of later uitsluitend prestaties verrichten in een centrum voor basiseducatie, wordt het aantal dagen bezoldigd ziekteverlof voor de periode vóór 1 januari 2018 per twaalf maanden sociale anciënniteit, bepaald op vijftien dagen;<br>
+4° voor de personeelsleden die op 31 augustus 2026 aangesteld geweest zijn in een gemeenschapsinstelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en vanaf 1 september 2026 uitsluitend prestaties verrichten in de GI-school, wordt het aantal dagen bezoldigd ziekteverlof voor de periode vóór 1 september 2026 op 1 september 2026 bepaald op 300 dagen als de toepassing van paragraaf één zou leiden tot een resultaat van minder dan 300 dagen.<br>
 <br>
 § 3. Het ziekteverlof wordt gelijkgesteld met een periode van dienstactiviteit. Tijdens dat verlof heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.<br>
 &nbsp;
 
 ### ART. 4.
 
-Als een personeelslid als vermeld in artikel 2 afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens als afwezigheid wegens ziekte aangerekend. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br /><br />Als een personeelslid als vermeld in artikel 2 gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen vóór de zomervakantie en eveneens gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen na dezelfde zomervakantie, dan wordt de zomervakantie eveneens als afwezigheid wegens ziekte aangerekend.<br /><br />In afwijking van het eerste en tweede lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 7, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode.<br /><br />
+Als een personeelslid als vermeld in artikel 2 afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens als afwezigheid wegens ziekte aangerekend. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br>
+<br>
+Als een personeelslid als vermeld in artikel 2 gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen vóór de zomervakantie en eveneens gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen na dezelfde zomervakantie, dan wordt de zomervakantie eveneens als afwezigheid wegens ziekte aangerekend.<br>
+<br>
+In afwijking van het eerste en het tweede lid moeten voor de GI-school de paasvakantie en de zomervakantie worden gelezen als de sluitingsperiode tijdens de paasvakantie en de sluitingsperiode tijdens de zomervakantie, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 17 juli 2026 over de organisatie van de GI-school en het personeel in de GI-school.<br>
+<br>
+In afwijking van het eerste en tweede lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 7, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -115,9 +123,18 @@ Voor de personeelsleden vermeld in het eerste lid, wordt de geldelijke anciënni
 <br>
 § 2. Bij de personeelsleden vermeld in paragraaf 1, eerste lid, wordt geen rekening gehouden met het aantal dagen ziekteverlof dat ze opgenomen hebben vóór 1 januari 2018.
 
+### ART 12/2.
+
+In afwijking van artikel 11, wordt voor de tijdelijke personeelsleden die op 31 augustus 2026 aangesteld geweest zijn in een gemeenschapsinstelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en vanaf 1 september 2026 uitsluitend prestaties verrichten in de GI-school, het aantal dagen bezoldigd ziekteverlof voor de periode vóór 1 september 2026 op 1 september 2026 berekend naar rata van één dag per reeks van tien dagen waarvoor het personeelslid geldelijke anciënniteit heeft opgebouwd op 31 augustus 2026. Als de berekening zou leiden tot een resultaat van minder dan 60 dagen dan wordt het aantal dagen vastgelegd op 60 dagen.
+
 ### ART. 13.
 
-Als een personeelslid vermeld in artikel 10, afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens aangerekend als afwezigheid wegens ziekte. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br /><br />In afwijking van het eerste lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid, op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 17, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode. <br /><br />
+Als een personeelslid vermeld in artikel 10, afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens aangerekend als afwezigheid wegens ziekte. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br>
+<br>
+In afwijking van het eerste lid moet voor de GI-school de paasvakantie worden gelezen als de sluitingsperiode tijdens de paasvakantie, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 17 juli 2026 over de organisatie van de GI-school en het personeel in de GI-school.<br>
+<br>
+In afwijking van het eerste lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid, op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 17, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode.<br>
+&nbsp;
 
 ### ART. 14.
 
@@ -169,7 +186,11 @@ Dit hoofdstuk is van toepassing op de tijdelijke personeelsleden, vermeld in art
 
 ### ART. 24.
 
-§ 1. Het personeelslid, vermeld in artikel 23, kan een aanvraag indienen om onmiddellijk aansluitend op een periode van bezoldigd ziekteverlof of van terbeschikkingstelling wegens ziekte, omwille van een ernstige of langdurige ziekte zijn ambt of ambten met verminderde prestaties uit te oefenen met het oog op het volledig hernemen van de opdracht die het personeelslid uitoefende aan de vooravond van de afwezigheid wegens ziekte.<br>
+§ 1. Een personeelslid als vermeld in artikel 23 van dit besluit kan een aanvraag indienen om omwille van een ernstige of langdurige ziekte zijn ambt of ambten met verminderde prestaties uit te oefenen met het oog op het volledig hernemen van de opdracht die het personeelslid uitoefende aan de vooravond van de afwezigheid wegens ziekte. Het verlof voor verminderde prestaties moet onmiddellijk aansluiten op:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een periode van bezoldigd ziekteverlof;<br>
+2°&nbsp;&nbsp; &nbsp;een periode van terbeschikkingstelling wegens ziekte;<br>
+3°&nbsp;&nbsp; &nbsp;een periode van afwezigheid op grond van artikel 100, §2, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;een tijdelijk rustpensioen.<br>
 <br>
 Het verlof voor verminderde prestaties wegens ziekte kan door het controleorgaan worden toegestaan op aanvraag van het personeelslid of op voorstel van het controleorgaan zelf. In beide gevallen stuurt het personeelslid een aanvraag in de vorm van een plan, opgemaakt door de behandelende arts, in naar het controleorgaan. In dat plan vermeldt de behandelende arts de vermoedelijke duur van het verlof voor verminderde prestaties wegens ziekte en het volume van de nog te verrichten prestaties tijdens de periode van dat verlof. Met het volume van de nog te verrichten prestaties wordt de verhouding bedoeld, uitgedrukt in procenten, tussen het aantal nog te verrichten prestatie-eenheden en het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. Als het controleorgaan oordeelt dat de gezondheidstoestand van de betrokkene dat toelaat, brengt het het Vlaams Ministerie van Onderwijs en Vorming, de directeur van de school, instelling of centrum waar het betrokken personeelslid is tewerkgesteld en het betrokken personeelslid zelf op de hoogte van die beslissing. Het verlof voor verminderde prestaties wegens ziekte kan pas aanvangen na de voorafgaande goedkeuring van het plan door het controleorgaan.&nbsp;De totale duur van het verlof kan ook bestaan uit opeenvolgende periodes met een verschillend volume van nog te verrichten prestaties. Het volume van de nog te verrichten prestaties wordt in dat geval telkens groter.<br>
 <br>
@@ -185,7 +206,9 @@ Het verlof voor verminderde prestaties wegens ziekte kan door het controleorgaan
 
 Het personeelslid dat een verlof voor verminderde prestaties wegens ziekte krijgt, moet zijn ambt of ambten opnieuw opnemen voor het volume dat vastgelegd is in het plan. Het aantal nog te verrichten prestaties moet ten minste 20 % bedragen van het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, of een volledig uur.&nbsp;<br>
 <br>
-De prestaties, verricht door personeelsleden die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, komen enkel en alleen in aanmerking om het volume te bepalen van de nog te verrichten prestaties.
+De prestaties, verricht door personeelsleden die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, komen enkel en alleen in aanmerking om het volume te bepalen van de nog te verrichten prestaties.<br>
+<br>
+Het verlof voor verminderde prestaties wegens ziekte wordt eerst genomen op de opdracht waarvoor een terbeschikkingstelling wegens ontstentenis van betrekking wordt uitgesproken en waarvoor het personeelslid niet gereaffecteerd of wedertewerkgesteld is.
 
 ### ART 25/1.
 
@@ -257,7 +280,8 @@ Het personeelslid, vermeld in artikel 28/2, dat om medische redenen zijn   ambt 
 1° ziekteverlof;<br>
 2° terbeschikkingstelling wegens ziekte;<br>
 3° verlof voor verminderde prestaties na een arbeidsongeval;<br>
-4° ...<br>
+4° ...;<br>
+5° een tijdelijk rustpensioen.<br>
 <br>
 § 2. In afwijking van paragraaf 1 kunnen personeelsleden die op de vooravond van de aanvraag van het langdurig verlof voor verminderde prestaties wegens medische redenen minstens halftijds werken en daarnaast een dienstonderbreking hebben opgenomen, overstappen naar het langdurig verlof voor verminderde prestaties wegens medische redenen. In dat geval eindigt de dienstonderbreking op het ogenblik dat het langdurig verlof voor verminderde prestaties wegens medische redenen ingaat.
 
