@@ -81,8 +81,8 @@ i) de buitenschoolse activiteiten;<br>
 2° de financiering van de personen, vermeld in artikel 4, § 2, beheren en de voorzieningen subsidiëren, met uitzondering van de financiering van de persoonsvolgende financiering voor personen met een handicap, vermeld in artikel 3 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
 <br>
 Het beheren van de financiering van de personen en de subsidiëring aan de voorzieningen, vermeld in paragraaf 1, 2°, omvat de volgende taken:<br>
-1° de financiële lasten van de zorgtaken voor de groep, vermeld in artikel 4, § 2, op zich nemen;<br>
-2° de gezinsbijslagen en toelagen met betrekking tot het gezinsbeleid ontvangen en de bijdragen van personen ten aanzien van wie hulp wordt georganiseerd, innen;<br>
+1° de financiële lasten van de zorgtaken voor de groep, vermeld in artikel 4, § 2, van dit decreet op zich nemen;<br>
+2° de financiële lasten van de kinderen die materiële ondersteuning krijgen als vermeld in artikel 68, § 2/1, van het Groeipakketdecreet van 2018, en die ten laste zijn van het agentschap, op zich nemen en de bijdragen van personen ten aanzien van wie hulp wordt georganiseerd, innen;<br>
 3° de financiële lasten ten gevolge van de toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en het decreet van 29 juni 2012 houdende de organisatie van pleegzorg opnemen. In die financiële lasten zijn de wedden, de voorschotten daarop en de vergoedingen of uitkeringen die een toebehoren van de wedden vormen of ermee gelijkstaan, van het personeel van de diensten van de Vlaamse Regering niet inbegrepen.<br>
 <br>
 § 2. Naast de kerntaken, vermeld in paragraaf 1, voert het agentschap ook de volgende taken uit voor de in paragraaf 1, 1°, a) tot en met i), vermelde domeinen:<br>
@@ -99,7 +99,7 @@ i) de sectorale regelgeving evalueren;<br>
 j) een kwaliteitsbeleid ontwikkelen en opvolgen;<br>
 k) rechtsgedingen voeren voor het agentschap Opgroeien, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Grondwettelijk Hof en de internationale hoven;<br>
 2° het voeren van een geïntegreerd voorzieningenbeleid, dat de volgende taken omvat:<br>
-a) voorzieningen, diensten, samenwerkingsverbanden en organisatoren stimuleren, toelaten, programmeren, erkennen, vergunnen, toekennen van een kwaliteitslabel, subsidiëren en handhaven en projecten subsidiëren;<br>
+a) voorzieningen, diensten, samenwerkingsverbanden en organisatoren stimuleren, toelaten, programmeren, erkennen, vergunnen, subsidiëren en handhaven en projecten subsidiëren;<br>
 b) de kwaliteit van de erkende en vergunde voorzieningen, diensten, samenwerkingsverbanden en organisatoren opvolgen en bevorderen.
 
 ### ART. 6.
@@ -126,7 +126,9 @@ De taak inzake de regie van buitenschoolse activiteiten omvat in elk geval de to
 <br>
 Het agentschap kan in opdracht van de Vlaamse Regering volledig of gedeeltelijk worden belast met het toezicht op de naleving van de kwaliteitsvoorwaarden die bij het kwaliteitslabel behoren.<br>
 <br>
-Het agentschap kan meewerken aan het ontwikkelen van het inspiratiekader voor een geïntegreerd aanbod van buitenschoolse activiteiten.
+Het agentschap kan meewerken aan de ontwikkeling van een inspiratiekader om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren.<br>
+<br>
+Onder inspiratiekader wordt verstaan: een hulpmiddel om lokale besturen en partners van buitenschoolse activiteiten te ondersteunen bij het lokaal beleid over buitenschoolse activiteiten.
 
 ### ART. 7.
 
