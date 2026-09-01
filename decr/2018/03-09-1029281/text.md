@@ -210,12 +210,20 @@ Het leerplan bevat een concordantietabel met de overeenkomst tussen de onderwijs
 <br>
 Leerplannen worden ter goedkeuring voorgelegd aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. Voormeld agentschap toetst of de basiscompetenties, de beroepskwalificaties en de specifieke eindtermen volledig en correct zijn omgezet in het leerplan en dit plan geen elementen bevat die tegenstrijdig zijn met de vastgestelde minimumdoelen.<br>
 <br>
-De Vlaamse Regering kan nadere bepalingen vastleggen met betrekking tot de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen. Leerplannen zijn een aanvullend instrument voor de onderwijsinspectie om het kwaliteitsbeleid van een academie te kaderen.<br>
+De Vlaamse Regering kan nadere bepalingen vastleggen met betrekking tot de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen. Leerplannen zijn een aanvullend instrument voor de onderwijsinspectie om het kwaliteitsbeleid van een academie te kaderen.&nbsp;De Vlaamse Regering bepaalt de beroepsprocedure voor een beslissing die de indiener betwist.<br>
 &nbsp;
 
 ### ART 9.
 
 Het schoolbestuur bepaalt vrij de organisatie van zijn deeltijds kunstonderwijs en zijn artistiek-pedagogische visie. Het legt die organisatie en visie vast in het artistiek-pedagogische project.<br>
+<br>
+De Koninklijke Beiaardschool Jef Denyn in Mechelen bepaalt in een schoolwerkplan de volgende organisatorische aspecten van de opleiding:<br>
+1°&nbsp;&nbsp; &nbsp;de doelstellingen en de inhoud van de opleiding, het opleidingsprogramma en de studieomvang;<br>
+2°&nbsp;&nbsp; &nbsp;de organisatie van het schooljaar;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de mogelijkheid om de opleiding te volgen in intensieve lessenpakketten als vermeld in artikel 18, §4;<br>
+4°&nbsp;&nbsp; &nbsp;de gehanteerde onderwijs-, werk- en evaluatievormen;<br>
+5°&nbsp;&nbsp; &nbsp;de toelatingsvoorwaarden, die betrekking hebben op artistieke vooropleiding of competenties.<br>
+<br>
 &nbsp;
 
 ## HOOFDSTUK 3 Structuur van het deeltijds kunstonderwijs
@@ -369,6 +377,8 @@ De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting b
 <br>
 In afwijking van het eerste lid kan de studierichting beiaardier, vermeld in punt 1°, enkel georganiseerd worden in de Koninklijke Beiaardschool Jef Denyn in Mechelen.<br>
 <br>
+De Koninklijke Beiaardschool Jef Denyn in Mechelen kan alleen een langlopende studierichting beiaardier en een kortlopende studierichting specialisatie: optie beiaardier als vermeld in artikel 19, §2, tweede lid, van dit decreet en artikel 3, §1, van het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de structuur, organisatie en financiering van de Koninklijke Beiaardschool Jef Denyn in Mechelen organiseren.<br>
+<br>
 § 2. De onderwijsdoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
 <br>
 De onderwijsdoelen van de vierde graad zijn verschillend voor ieder van die studierichtingen.<br>
@@ -377,14 +387,13 @@ De onderwijsdoelen van de vierde graad zijn verschillend voor ieder van die stud
 <br>
 Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de tweede graad voor jongeren ten minste twaalf wekelijkse lestijden, gespreid over een traject van vier leerjaren.<br>
 <br>
-Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de tweede graad voor volwassenen ten minste negen wekelijkse lestijden, gespreid over een traject van drie leerjaren.<br>
+Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de tweede graad voor volwassenen ten minste negen wekelijkse lestijden, gespreid over een traject van drie leerjaren.&nbsp;De som van de studieomvang van de leerjaren van de tweede graad voor volwassenen in de studierichting beiaardier bedraagt ten minste veertien lestijden, gespreid over een traject van vier leerjaren.<br>
 <br>
-Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de derde graad ten minste negen wekelijkse lestijden, gespreid over een traject van drie of vier leerjaren.<br>
+Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de derde graad ten minste negen wekelijkse lestijden, gespreid over een traject van drie of vier leerjaren.&nbsp;De som van de studieomvang van de leerjaren van de derde graad in de studierichting beiaardier bedraagt ten minste twaalf lestijden, gespreid over een traject van drie of vier leerjaren.<br>
 <br>
-Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de vierde graad ten minste zes wekelijkse lestijden, gespreid over een traject van drie leerjaren.<br>
+Met uitzondering van de studierichting beiaardier bedraagt de som van de studieomvang van de leerjaren van de vierde graad ten minste zes wekelijkse lestijden, gespreid over een traject van drie leerjaren.&nbsp;De som van de studieomvang van de leerjaren van de vierde graad in de studierichting beiaardier bedraagt ten minste vijftien lestijden, gespreid over een traject van drie leerjaren.<br>
 <br>
-De Vlaamse Regering bepaalt de studieomvang en de trajecten van de tweede, derde en vierde graad van de studierichting beiaardier.<br>
-&nbsp;
+§4. In afwijking van paragraaf 3 kan de Koninklijke Beiaardschool Jef Denyn in Mechelen de studierichtingen organiseren in intensievere lessenpakketten op een kortere termijn dan een leerjaar in het lineaire traject. In dat geval is de totale studieomvang dezelfde als die van een leerjaar in het lineaire traject.
 
 ### ART 19.
 
@@ -395,7 +404,7 @@ De Vlaamse Regering bepaalt de studieomvang en de trajecten van de tweede, derde
 <br>
 § 2. De som van de studieomvang van de leerjaren van de studierichtingen muziekgeschiedenis en muziekcultuur bedraagt elk zes wekelijkse lestijden gespreid over een traject van drie leerjaren.<br>
 <br>
-De som van de studieomvang van de leerjaren van de specialisatie muziek bedraagt vier wekelijkse lestijden gespreid over een traject van twee leerjaren.<br>
+De som van de studieomvang van de leerjaren van de specialisatie muziek, inclusief de specialisatie: optie beiaardier, bedraagt vier wekelijkse lestijden gespreid over een traject van twee leerjaren.<br>
 &nbsp;
 
 ## Afdeling 6 Gemeenschappelijke bepalingen
@@ -436,9 +445,9 @@ De Vlaamse Regering bepaalt per domein en per studierichting de mogelijke opties
 
 ### ART 26.
 
-De Koninklijke Beiaardschool Jef Denyn in Mechelen wordt als academie deeltijds kunstonderwijs erkend en gesubsidieerd door de Vlaamse Gemeenschap. De Vlaamse Regering kan specifieke normen, structuren, vakken en bekwaamheidsbewijzen voor die academie vastleggen. De Vlaamse Regering bepaalt de wijze waarop die instelling gesubsidieerd wordt, de wijze waarop die academie rapporteert aan het Vlaams Ministerie van Onderwijs en welk statuut op het personeel van toepassing is.<br>
+De Koninklijke Beiaardschool Jef Denyn in Mechelen wordt als academie deeltijds kunstonderwijs erkend en gesubsidieerd door de Vlaamse Gemeenschap. De Vlaamse Regering kan specifieke vakken en bekwaamheidsbewijzen voor die academie vastleggen. De Vlaamse Regering bepaalt de wijze waarop die academie rapporteert aan het Vlaams Ministerie van Onderwijs en welk statuut op het personeel van toepassing is.<br>
 <br>
-Het besluit van de Vlaamse Regering over de aangelegenheden in het eerste lid wordt decretaal bekrachtigd.<br>
+De Vlaamse Regering wordt gemachtigd om de bepalingen van het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de structuur, organisatie en financiering van de Koninklijke Beiaardschool Jef Denyn in Mechelen, zoals bekrachtigd bij het decreet van 15 juni 2018, en gewijzigd door het programmadecreet van 20 december 2019, en de besluiten van de Vlaamse Regering van 7 juli 2023 en 21 juni 2024, zoals gedeeltelijk bekrachtigd bij het decreet van [datum onderwijsdecreet XXXVI], te wijzigen, aan te vullen of op te heffen, teneinde dit besluit in overeenstemming te brengen met dit decreet.<br>
 &nbsp;
 
 ## Afdeling 8 Netoverschrijdend Samenwerkingsforum deeltijds kunstonderwijs Brussel
@@ -530,11 +539,6 @@ Om toegelaten te worden tot de derde graad voor volwassenen van het domein beeld
 ### ART 33.
 
 § 1. Om toegelaten te worden tot een studierichting in de vierde graad van de domeinen dans, woordkunst-drama of muziek moet de leerling de basiscompetenties van de derde graad van het domein waartoe de studierichting behoort, verworven hebben.<br>
-<br>
-In afwijking van het eerste lid kan de directeur op advies van de betrokken leerkrachten een leerling die de instrumenttechnische competenties van de derde graad muziek niet volledig verworven heeft toch toelaten tot de vierde graad muziek onder de volgende voorwaarden:<br>
-1° de leerling heeft alle overige competenties verworven;<br>
-2° de leerling volgt een instrumentvak in de derde graad;<br>
-3° de leerling is vrijgesteld voor het instrumentvak in de vierde graad.<br>
 <br>
 § 2. Om toegelaten te worden tot een studierichting van de vierde graad van het domein beeldende en audiovisuele kunsten moet de leerling voldoen aan een van de volgende voorwaarden :<br>
 1° de basiscompetenties van de derde graad van het domein waartoe de studierichting behoort, verworven hebben;<br>
@@ -909,7 +913,7 @@ Een schoolbestuur verkrijgt voor haar personeelsleden die tot de categorieën on
 <br>
 Voor de toepassing van het eerste lid wordt de domeinoverschrijdende initiatieopleiding als een opleiding in een afzonderlijk domein beschouwd.<br>
 <br>
-Een leerling die meer dan een derde van de leeractiviteiten georganiseerd tussen&nbsp;1 oktober en de teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
+Een leerling die meer dan een derde van de leeractiviteiten&nbsp;van een vak georganiseerd tussen&nbsp;1 oktober en de teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
 <br>
 In afwijking van het eerste lid is een leerling die tegelijkertijd een opleiding volgt in de vierde graad en in een kortlopende studierichting specialisatie financierbaar voor beide opleidingen.<br>
 <br>
@@ -985,7 +989,9 @@ In het geval van de oprichting van een academie geldt die teldag voor de hele ac
 <br>
 In het geval van de oprichting van een domein waarvan de oprichting gestart is vóór 31 augustus 2018 geldt die teldag enkel voor het domein in kwestie tot en met het schooljaar waarin alle leerjaren van de verschillende graden van het domein zijn uitgebouwd conform artikel 157.<br>
 <br>
-§ 5. De Vlaamse Regering bepaalt de ambten en de salarisschalen waarin een academie met de lestijden, vermeld in paragraaf 1, 2 en 4, betrekkingen kan organiseren en de wijze waarop de omrekening gebeurt van de lestijden, vermeld in paragraaf 1, 2 en 4, naar die betrekkingen worden omgerekend.<br>
+§4/1. In afwijking van paragraaf 1, 2, 3 en 4 ontvangt de Koninklijke Beiaardschool Jef Denyn in Mechelen op basis van het aantal financierbare leerlingen jaarlijks een pakket lestijden, dat per ingeschreven leerling twee lestijden b-draagt. De Koninklijke Beiaardschool Jef Denyn in Mechelen kan dat urenpakket vrij aanwenden.<br>
+<br>
+§ 5. De Vlaamse Regering bepaalt de ambten en de salarisschalen waarin een academie met de lestijden, vermeld in paragraaf 1, 2, 4 en 4/1, betrekkingen kan organiseren en de wijze waarop de omrekening gebeurt van de lestijden, vermeld in paragraaf 1, 2, 4 en 4/1, naar die betrekkingen worden omgerekend.<br>
 &nbsp;
 
 ### ART 70.
@@ -1522,9 +1528,20 @@ De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
 § 3. Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in paragraaf 1, verminderd met 104.000 euro.<br>
 &nbsp;
 
+### ART 84/1.
+
+De Koninklijke Beiaardschool Jef Denyn in Mechelen ontvangt voor het schooljaar X/X+1 een werkingsbudget van 25.606 euro.<br>
+<br>
+Vanaf het schooljaar 2019-2020 worden de bedragen van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt met de volgende formule: A = (Cx-1/Cx-2), waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2°&nbsp;&nbsp; &nbsp;Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2;<br>
+3°&nbsp;&nbsp; &nbsp;de A-coëfficiënt voor 100% in rekening wordt gebracht.<br>
+<br>
+Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in het eerste lid, verminderd met 2000 euro.&nbsp;
+
 ### ART 85.
 
-Een schoolbestuur dat werken, leveringen of diensten aanneemt die geheel of gedeeltelijk betaald worden met de middelen, vermeld in artikel 83 en 84, sluit een overeenkomst volgens de toepasselijke procedure en onder de toepasselijke voorwaarden die voor het Rijk gelden.<br>
+Een schoolbestuur dat werken, leveringen of diensten aanneemt die geheel of gedeeltelijk betaald worden met de middelen, vermeld in artikel 83, 84en 84/1, sluit een overeenkomst volgens de toepasselijke procedure en onder de toepasselijke voorwaarden die voor het Rijk gelden.<br>
 &nbsp;
 
 ### ART 86.
@@ -1856,6 +1873,8 @@ In afwijking van het eerste lid, 3°, kan in een gemeente die als gevolg van het
 1° er is op het grondgebied van de gemeente nog geen hoofdvestigingsplaats van&nbsp;een academie gevestigd;<br>
 2° gedurende drie opeenvolgende schooljaren draagt het schoolbestuur de financiering van het directeursambt, vermeld in artikel 77, en in voorkomend geval van de lestijden voor beleidsondersteuning, vermeld in artikel 76, op basis van artikel 82. In het gemeenschapsonderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, tweede lid. In het gesubsidieerd onderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, derde lid.<br>
 <br>
+Als de nieuwe academie bij de oprichting een of meer bestaande structuuronderdelen in vestigingsplaatsen op het grondgebied van de gemeente overneemt, gebeurt de overname conform de voorwaarde en modaliteiten voor overheveling, vermeld in artikel 131, met dien verstande dat de overname uitwerking heeft op 1 september van het oprichtingsjaar en dat het schoolbestuur van de nieuwe academie voor de voorafgaande procedure als schoolbestuur wordt beschouwd.<br>
+<br>
 § 3. Voor een verdere financiering of subsidiëring moet de nieuwe academie gedurende elf schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken van de door haar opgerichte domeinen, vermeld in artikel 119 en 120, a rato van het aantal schooljaren dat de nieuwe academie al in oprichting is.<br>
 <br>
 Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, wordt de academie met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd.<br>
@@ -1947,6 +1966,10 @@ De programmatienormen voor domeinen van academies, alleen in het tweetalige gebi
 2° domein dans : 12;<br>
 3° domein woordkunst-drama : 32;<br>
 4° domein muziek : 120.
+
+### ART 120/1.
+
+Op de Koninklijke Beiaardschool Jef Denyn in Mechelen zijn geen programmatienormen van toepassing.
 
 ### ART 121.
 
@@ -2345,7 +2368,12 @@ De Vlaamse Regering kan wegens uitzonderlijke redenen van overmacht toelating ge
 <br>
 In afwijking van het eerste lid bedraagt de rationalisatienorm van het domein beeldende en audiovisuele kunsten 42 leerlingen, als het schoolbestuur alleen de structuuronderdelen van de eerste graad, de tweede graad en de derde graad voor jongeren organiseert.<br>
 <br>
-§3. De rationalisatienormen, vermeld in paragraaf 1 en 2, zijn niet van toepassing op academies voor deeltijds kunstonderwijs waarvan de hoofdvestigingsplaats gevestigd is in de gemeente Voeren.
+§3. De rationalisatienormen, vermeld in paragraaf 1 en 2, zijn niet van toepassing op academies voor deeltijds kunstonderwijs waarvan de hoofdvestigingsplaats gevestigd is in de gemeente Voeren.<br>
+<br>
+§4. Als de Koninklijke Beiaardschool Jef Denyn in Mechelen het aantal van vijf leerlingen niet bereikt, gaat ze over tot de geleidelijke sluiting van iedere graad, leerjaar per leerjaar, te beginnen met het laagste, tenzij ze op de vorige teldag voldeed aan de voorwaarden, vermeld in artikel 125. In dat aantal zijn ook de studenten inbegrepen die de intensievere lessenpakketten, vermeld in artikel 18, §4, volgen. In dat geval worden de werkingsmiddelen en het aantal lestijden proportioneel aangepast.<br>
+<br>
+Behalve de norm, vermeld in het eerste lid, zijn geen rationalisatienormen van toepassing op de Koninklijke Beiaardschool Jef Denyn in Mechelen.<br>
+&nbsp;
 
 ### ART 127.
 
@@ -2748,8 +2776,8 @@ De Vlaamse Regering bepaalt de duur van de onderbrenging.
 ### ART 136.
 
 Vanaf het schooljaar 2019-2020 kunnen lokale samenwerkingsinitiatieven georganiseerd worden tussen academies en scholen voor basisonderwijs, secundair of hoger onderwijs. Die samenwerkingsinitiatieven realiseren de volgende doelstellingen :<br>
-1° het cultureel bewustzijn en de culturele expressie van de betrokken leerlingen basisonderwijs of secundair onderwijs versterken;<br>
-2° het cultureel bewustzijn en de culturele expressie van de studenten hoger onderwijs versterken met het oog op hun latere professionele activiteiten;<br>
+1° bijdragen tot de realisatie van de minimumdoelen muzische vorming van het basisonderwijs of de sleutelcompetentie cultureel bewustzijn en culturele expressie van het secundair onderwijs in relatie tot andere minimumdoelen of sleutelcompetenties;<br>
+2° bijdragen tot de vakbekwaamheid van studenten hoger onderwijs in de realisatie van de minimumdoelen muzische vorming van het basisonderwijs of de sleutelcompetentie cultureel bewustzijn en culturele expressie van het secundair onderwijs met het oog op hun latere professionele onderwijspraktijk;<br>
 3° een duurzaam delend netwerk tussen leerkrachten basisonderwijs, secundair onderwijs en deeltijds kunstonderwijs voor het organiseren van culturele leeractiviteiten tot stand brengen;<br>
 4° het toeleiden van leerlingen basisonderwijs of secundair onderwijs die blijk geven van artistieke interesse en aanleg naar het deeltijds kunstonderwijs bevorderen, in het bijzonder leerlingen uit scholen met een meerderheid van leerlingen die beantwoorden aan de leerlingenkenmerken, vermeld in artikel 78, § 1, 1°, van het decreet basisonderwijs van 25 februari 1997 en de gelijkekansenindicatoren, vermeld in artikel 225, § 1, van de Codex Secundair Onderwijs.<br>
 <br>
@@ -2876,14 +2904,16 @@ De Vlaamse Regering bepaalt de uiterste indieningsdatum voor de ondersteuningsaa
 <br>
 De Vlaamse Regering bepaalt de nadere aanvraag- en gunningsprocedure en houdt daarbij rekening met de doelstellingen en de organisatievoorwaarden, vermeld in artikel 136 tot en met 138.<br>
 <br>
-De Vlaamse Regering bepaalt de manier waarop de lokale samenwerkingsinitiatieven rapporteren over de manier waarop de ondersteuning ingezet wordt. De Vlaamse Regering beperkt zich daarbij tot het opvragen van een jaarlijks beknopt verslag en een steekproefsgewijze financiële controle op het einde van de samenwerking.<br>
+De Vlaamse Regering bepaalt de manier waarop de lokale samenwerkingsinitiatieven rapporteren over de manier waarop de ondersteuning ingezet wordt. De Vlaamse Regering kan daarvoor op het einde van de samenwerking maximaal een eindverslag opvragen en kan een methode bepalen die toelaat om een globaal zicht te krijgen op de besteding van de werkingsmiddelen.<br>
 &nbsp;
 
 ## Afdeling 4 Kwaliteitszorg
 
 ### ART 146.
 
-De lokale samenwerkingsinitiatieven laten de controle door de onderwijsinspectie toe, zoals bepaald in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+De academie en de scholen, de instellingen voor hoger onderwijs en, in voorkomend geval, externe partners zijn samen verantwoordelijk voor de kwaliteit van het lokale samenwerkingsinitiatief.&nbsp;<br>
+<br>
+De onderwijsinspectie kan de kwaliteit van de lokale samenwerkingsinitiatieven in de betrokken basis- en secundaire scholen en academies beoordelen.<br>
 &nbsp;
 
 ## HOOFDSTUK 9 Zorgvuldig bestuur
@@ -2916,6 +2946,10 @@ Een schoolbestuur dat sponsoring of mededelingen die rechtstreeks of onrechtstre
 2° de activiteiten vrij blijven van de voormelde mededelingen, behalve als die mededelingen louter attenderen op het feit dat de activiteit of een gedeelte van de activiteit georganiseerd werd door middel van een gift, een schenking of een prestatie om niet of verricht onder reële prijs door een bij name genoemde natuurlijke persoon, rechtspersoon of feitelijke vereniging;<br>
 3° de sponsoring en de voormelde mededelingen niet onverenigbaar zijn met de pedagogische en onderwijskundige taken en doelstellingen van de academie;<br>
 4° de sponsoring en de voormelde mededelingen de objectiviteit, de geloofwaardigheid, de betrouwbaarheid en de onafhankelijkheid van de academie niet in het gedrang brengen.<br>
+<br>
+In het kader van de toepassing van het eerste lid, 3°, zijn sponsoring en bedoelde mededelingen die betrekking hebben op betalende bijlessen niet verenigbaar met de pedagogische en onderwijskundige taken en doelstellingen van de academie.&nbsp;<br>
+<br>
+In dit artikel wordt verstaan onder bijlessen: lessen die niet door de school geor-ganiseerd worden en die de realisatie van onderwijsinhouden van het structuuronder-deel van de leerling beogen. Therapeutische tussenkomsten worden niet beschouwd als bijlessen.<br>
 &nbsp;
 
 ### ART 151.
