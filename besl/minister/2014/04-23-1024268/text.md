@@ -47,6 +47,19 @@ b) de organisator gezinsopvang in het verzoek aanduidt of hij de intentie heeft 
 1° als een voorbehoud werd toegekend: vanaf de eerste dag van het kwartaal dat volgt op de periode van het voorbehoud, vermeld in artikel 4, 2°. Het aangepaste aantal subsidieerbare kinderopvangplaatsen wordt berekend door het verschil te nemen tussen enerzijds het laagste aantal subsidieerbare kinderopvangplaatsen van een bepaalde subsidie tijdens de periode, vermeld in artikel 4, 2°, en anderzijds het maximum van het totaal van het aantal vergunde kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve subsidie tijdens de periode, vermeld in artikel 4, 2°. Het aantal subsidieerbare kinderopvangplaatsen wordt verlaagd met dat verschil;<br>
 2° als er geen voorbehoud werd toegekend: vanaf de datum waarop het aantal vergunde kinderopvangplaatsen lager werd dan het aantal subsidieerbare kinderopvangplaatsen in de subsidiegroep. Het aangepaste aantal subsidieerbare kinderopvangplaatsen is gelijk aan het aantal vergunde kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve subsidie.</p>
 
+## HOOFDSTUK 3/1 Berekening van de kinderopvangprestaties
+
+### ART 5/1.
+
+Voor de toepassing van artikel 7/2, eerste lid, van het Subsidiebesluit van 22 november 2013 worden alle geregistreerde kinderopvangprestaties van de baby’s en peuters enerzijds, en van de buitenschoolse kinderen anderzijds, opgeteld per kinderopvanglocatie voor een volledig kalenderjaar.&nbsp;<br>
+<br>
+Bij de berekening, vermeld in het eerste lid, tellen de kinderopvangprestaties op de volgende wijze mee:<br>
+1°&nbsp;&nbsp; &nbsp;een kinderopvangprestatie van minstens vijf uur telt voor 100%;<br>
+2°&nbsp;&nbsp; &nbsp;een kinderopvangprestatie van minstens drie uur maar minder dan vijf uur telt voor 60%;<br>
+3°&nbsp;&nbsp; &nbsp;een kinderopvangprestatie van minder dan drie uur telt voor 40%.<br>
+<br>
+Voor de kinderopvanglocatie gezinsopvang die geen volledig kalenderjaar vergund &nbsp;is, die bepaalde periodes het statuut niet-actief heeft, zoals vermeld in artikel 28, tweede lid, van het Procedurebesluit van 9 mei 2014 of wiens vergunning voor een bepaalde periode geschorst is, wordt het te realiseren aantal kinderopvangprestaties, vermeld in artikel 7/2, eerste lid, 2°, van het Subsidiebesluit van 22 november 2013, verhoudingsgewijs verminderd, rekening houdend met de periode dat de kinderopvanglocatie vergund en actief was.
+
 ## HOOFDSTUK 4 Index
 
 ### ART. 6.
