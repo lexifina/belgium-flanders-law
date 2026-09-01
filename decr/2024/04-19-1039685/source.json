@@ -2,16 +2,16 @@
   "codex_id": 1039685,
   "title": "Decreet van 2024-04-19 tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat betreft de opheffing van de leeftijdsgrens en de mogelijkheid van elektronische monitoring in de fase van de voorlopige rechtspleging en overige wijzigingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039685/VolledigDocument?datum=2024-05-23",
-  "source_sha256": "946f17b6a4fee8b61b27a811b7199bf9a18e54e27f232a774f33b0dc6856ac48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039685/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "89a7229a14965f8a2d7fcd8362125eadc0c65ae9b11218857d8367ae118bcbdf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039685&param=informatie",
-  "as_of": "2024-05-23",
+  "as_of": "2026-09-01",
   "made": "2024-04-19",
   "gazette": "2024-05-13",
   "numac": 2024004486,
   "document_start": "2024-05-23",
   "document_end": null,
-  "in_force": "2024-05-23",
-  "article_versions": 43,
-  "record_form": "consolidated version as in force on 2024-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }

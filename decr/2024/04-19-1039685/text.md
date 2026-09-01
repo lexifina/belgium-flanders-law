@@ -201,6 +201,10 @@ Aan hoofdstuk 4, afdeling 3, van hetzelfde decreet, gewijzigd bij de decreten va
 <br>
 “Onderafdeling 9. Terbeschikkingstelling”.
 
+### ART 29.
+
+...
+
 ### ART 30.
 
 In artikel 38 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2022, worden de volgende wijzigingen aangebracht:<br>
