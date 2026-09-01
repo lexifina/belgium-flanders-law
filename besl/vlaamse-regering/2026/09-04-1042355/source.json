@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042355,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-04 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 6 juli 1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten, wat betreft de verlenging van de duur van de eerste erkenning van het universitair steunpunt Ontwikkeling van gestandaardiseerde, genormeerde en gevalideerde net- en koepeloverschrijdende toetsen in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042355/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "66bada705051c7e82e5451b93b3de9668275645bf4d8ca27f7b855ac77d5c257",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042355&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-09-04",
+  "gazette": "2026-09-29",
+  "numac": 2026006921,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
