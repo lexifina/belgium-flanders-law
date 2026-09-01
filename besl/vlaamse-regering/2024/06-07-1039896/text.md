@@ -273,7 +273,7 @@ Artikel 2 en artikel 6 tot en met 12 treden in werking op 1 juli 2024.
 Artikel 23ter, eerste lid, §1, 1°, 3°, a) en b), §2, 1°ter, 1°quater en 1°quinquies, van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen, zoals van kracht vanaf 1 juli 2024, zijn van toepassing op voertuigen waarvan het tijdstip van de periodieke keuring, vermeld in voormelde punten, plaatsvindt vanaf:<br>
 1° &nbsp;1 september 2024 voor voertuigen met een ouderdom van ten hoogste zes jaar, te rekenen vanaf de datum van de eerste inverkeerstelling;<br>
 2° 1 september 2025 voor voertuigen met een ouderdom van ten hoogste acht jaar, te rekenen vanaf de datum van de eerste inverkeerstelling;<br>
-3° 1 september 2026 voor voertuigen met een ouderdom van ten hoogste tien jaar, te rekenen vanaf de datum van de eerste inverkeerstelling.
+3° ...
 
 ### ART 15.
 
