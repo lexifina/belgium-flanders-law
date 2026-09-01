@@ -17,8 +17,8 @@ Dit besluit is van toepassing op:<br>
 
 De wegingsfactor, zoals bedoeld in artikel VI.6 van de Codificatie sommige bepalingen voor het onderwijs, wordt als volgt vastgesteld:<br>
 1° 1,224882506 voor de leerlingen in het basisonderwijs;<br>
-2° 1,153471682 voor de leerlingen in de onthaalklas voor anderstalige nieuwkomers, de B-stroom van de eerste graad van het voltijds secundair onderwijs, de leerlingen van de tweede, derde en vierde graad van het beroepssecundair onderwijs, het deeltijds beroepssecundair onderwijs, het deeltijds secundair zeevisserijonderwijs en het buitengewoon secundair onderwijs;<br>
-3° 0,97368015 voor de leerlingen in de A-stroom van de eerste graad van het voltijds secundair onderwijs, de tweede en de derde graad van het algemeen secundair onderwijs, het kunstsecundair onderwijs en het technisch secundair onderwijs;<br>
+2° 1,153471682 voor de leerlingen in de onthaalklas voor anderstalige nieuwkomers, de B-stroom van de eerste graad van het voltijds secundair onderwijs, de tweede en derde graad van het beroepssecundair onderwijs, de 7de leerjaren die gericht zijn op instroom arbeidsmarkt en het buitengewoon secundair onderwijs;<br>
+3° 0,97368015 voor de leerlingen in de A-stroom van de eerste graad van het voltijds secundair onderwijs, de tweede en de derde graad van het algemeen secundair onderwijs, het kunstsecundair onderwijs en het technisch secundair onderwijs, de 7de leerjaren die gericht zijn op het hoger onderwijs;<br>
 4° 0,001984075 voor de lesurencursist in de centra voor volwassenenonderwijs en de centra voor basiseducatie;<br>
 5° 0,305845442 voor de leerlingen in het deeltijds kunstonderwijs.
 

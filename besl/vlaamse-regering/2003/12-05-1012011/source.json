@@ -2,16 +2,16 @@
   "codex_id": 1012011,
   "title": "Besluit van de Vlaamse Regering van 2003-12-05 betreffende ICT-coördinatie in het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012011/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "67e25b38a4b03916e6c78bc824fb9d31f8fc16411422817ae34cb5d0d9f7d942",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012011/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "5c53b4f2019616f7c59c50606c8d3e037a3922ebca9bd9c6e367adac4b4e049d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012011&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2026-09-01",
   "made": "2003-12-05",
   "gazette": "2004-01-29",
   "numac": 2004035079,
   "document_start": "2003-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2026-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
