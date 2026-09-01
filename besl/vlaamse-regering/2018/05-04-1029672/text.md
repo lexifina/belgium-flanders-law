@@ -1485,9 +1485,7 @@ Als ze niet tijdens een vakantieperiode vallen, is er bovendien vakantie op de v
 
 Een academie kan bijkomend twee facultatieve vakantiedagen organiseren.<br>
 <br>
-De leeractiviteiten kunnen voor alle leerlingen of voor een groep van leerlingen maximaal twee dagen per schooljaar geschorst worden om pedagogische studiedagen voor de leraren te houden. Die pedagogische studiedagen kunnen niet opgesplitst worden.<br>
-<br>
-Twee of meer academies die een academie-overschrijdende pedagogische studiedag voor de leraren en directeurs organiseren met het oog op de implementatie van de basiscompetenties en beroepskwalificaties in de onderwijs- en evaluatiepraktijk kunnen de leeractiviteiten voor alle leerlingen of voor een groep van leerlingen maximaal een bijkomende dag per schooljaar schorsen. Die pedagogische studiedag kan niet opgesplitst worden.
+De leeractiviteiten kunnen voor alle leerlingen of voor een groep van leerlingen maximaal twee dagen per schooljaar geschorst worden om pedagogische studiedagen voor de leraren te houden. Die pedagogische studiedagen kunnen niet opgesplitst worden.
 
 ### ART 29.
 
@@ -1705,7 +1703,7 @@ De ambten die de leden van het bestuurs- en onderwijzend personeel mogen uitoefe
 
 Het aantal gefinancierde of gesubsidieerde betrekkingen in ambten van het onderwijzend personeel, vermeld in artikel 38, 1° en 2°, van dit besluit, dat een academie kan organiseren, is afhankelijk van het aantal lestijden dat die academie voor een bepaald schooljaar volgens de omkaderingsberekening, vermeld in artikel 69 tot en met 72 van het decreet van 9 maart 2018, toegewezen krijgt.<br>
 <br>
-Een schoolbestuur dat niet-aangewende lestijden van een bepaald schooljaar overdraagt naar het volgende schooljaar of naar een andere academie of naar een academie van een ander schoolbestuur conform artikel 75 van het decreet van 9 maart 2018, meldt die overdracht uiterlijk op 31 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een formulier ter beschikking.<br>
+Een schoolbestuur dat niet-aangewende lestijden van een bepaald schooljaar overdraagt naar het volgende schooljaar of naar een andere academie of naar een academie van een ander schoolbestuur conform artikel 75 van het decreet van 9 maart 2018, meldt die overdracht uiterlijk op 1 november van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een formulier ter beschikking.<br>
 <br>
 De lestijden van de eerste, tweede en derde graad en de lestijden van de vierde graad die de academie conform artikel 74 van het voormelde decreet overdraagt naar een andere graad, worden gedeeld door 22 voor het ambt van leraar in de structuuronderdelen van de eerste, tweede en derde graad. De eenheden van het quotiënt zijn gelijk aan het aantal volledige betrekkingen. De decimalen zijn gelijk aan een evenredige deeltijdse betrekking.<br>
 <br>
@@ -1949,18 +1947,11 @@ Een onvolledige opdracht in het ambt van administratief medewerker omvat het eve
 <br>
 § 4. Een volledige opdracht in het ambt van ICT-coördinator omvat op weekbasis 36 uren.
 
-## [Afdeling 5. Academie-overschrijdende expertise-uitwisseling (ing. BVR 25 september 2020, art. 11, I: 1 september 2020)]
+## Afdeling 5. ...
 
 ### ART 46/1.
 
-Conform artikel 86/1 van het decreet van 9 maart 2018 kan de minister binnen de beschikbare begrotingskredieten middelen voorzien ter ondersteuning van academie-overschrijdende pedagogische studiedagen, vermeld in artikel 28, derde lid, met het oog op het realiseren van de volgende doelstellingen:<br>
-1° expertise-uitwisseling tussen leraren van de verschillende academies over de implementatie van de basiscompetenties en beroepskwalificaties in hun onderwijs- en evaluatiepraktijk;<br>
-2° expertise-uitwisseling tussen directeurs van de verschillende academies over de impact van de basiscompetenties en beroepskwalificaties op de academie als organisatie en de kwaliteitsontwikkeling;<br>
-3° formuleren van wederzijdse aanbevelingen met betrekking tot de kwaliteitsontwikkeling in de betrokken academies.<br>
-<br>
-De minister bepaalt de indientermijn en de modaliteiten voor de aanvraag van de ondersteuning.<br>
-<br>
-De minister neemt een beslissing over de ingediende aanvragen op basis van het advies van het departement Onderwijs en Vorming. In het advies wordt beoordeeld in welke mate de expertise-uitwisseling op een systematische manier gebeurt met het oog op het realiseren van de doelstellingen, vermeld in het eerste lid.
+...
 
 ## HOOFDSTUK 6. Inschrijvingsgeld
 
@@ -1994,7 +1985,7 @@ Om aan te tonen dat ze aan de leeftijdsvoorwaarde voldoen om in aanmerking te ko
 1° een attest van de Federale Overheidsdienst Sociale Zekerheid, dat het recht op een toeslag voor het kind aantoont;<br>
 2° een attest van een kinderbijslagfonds of van het Federaal agentschap voor de kinderbijslag als het attest uitdrukkelijk vermeldt dat er een verhoogde kinderbijslag toegekend wordt wegens een handicap van ten minste 66%.<br>
 <br>
-§ 6. Om hun recht op het verminderd inschrijvingsgeld op grond van artikel 92 § 1 8° van het voormelde decreet, aan te tonen, leggen leerlingen een verklaring voor van de directie van de instelling waar ze verblijven.<br>
+§ 6. Om hun recht op het verminderd inschrijvingsgeld op grond van artikel 92 § 1 8° van het voormelde decreet, aan te tonen, leggen leerlingen een verklaring voor van de directie van de instelling waar ze verblijven of een document dat bewijst dat de leerlingen pleegzorgtoeslag conform artikel 17 van het Groeipakketdecreet van 2018 ontvangen.<br>
 <br>
 § 7. Om hun recht op het verminderd inschrijvingsgeld op grond van artikel 92 § 1 9° van het voormelde decreet, aan te tonen, leggen leerlingen een van volgende bewijsstukken voor:<br>
 1° een attest uitgereikt door het Commissariaat-Generaal voor de Vluchtelingen en de Staatlozen;<br>
