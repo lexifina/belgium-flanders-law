@@ -119,7 +119,7 @@ De voorzitter van de provincieraad brengt de Raad voor Verkiezingsbetwistingen e
 <br>
 § 2. De vervallenverklaring heeft pas gevolg vanaf de kennisgeving aan het provincieraadslid van de uitspraak van het verval door de provincieraad of de Raad voor Verkiezingsbetwistingen. Ze tast de geldigheid van de eerdere beslissingen van de provincieraad niet aan.<br>
 <br>
-§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met gevangenisstraf van acht dagen tot een jaar en met geldboete van zesentwintig euro tot vijfhonderd euro.
+§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving, na de vervallenverklaring zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een straf van niveau 1 waarbij in afwijking van artikel 36, negende lid, 1°, van het Strafwetboek het maximum van de geldboete 4.000 euro bedraagt.
 
 ### ART. 11.
 
@@ -138,7 +138,11 @@ Aanverwantschap die later tot stand komt tussen raadsleden, brengt geen verval v
 
 ### ART. 12.
 
-§ 1. Het verkozen provincieraadslid dat zich op het ogenblik van zijn installatie als provincieraadslid in een situatie bevindt die onverenigbaar is met het lidmaatschap van de provincieraad, kan de eed niet afleggen, tenzij hij aantoont dat hij ontslag genomen heeft uit de met het mandaat van provincieraadslid onverenigbare functie. Hij wordt bijgevolg geacht afstand te doen van het hem toegekende mandaat.<br /><br />§ 2. Een provincieraadslid dat tijdens zijn mandaat in een situatie terechtkomt die onverenigbaar is met zijn mandaat en dat binnen vijftien dagen na het tot hem gerichte verzoek van de voorzitter van de provincieraad geen einde maakt aan die situatie, wordt door de provincieraad vervallen verklaard van zijn mandaat, overeenkomstig artikel 10, § 1, tweede lid, § 2 en § 3, nadat het betrokken provincieraadslid is gehoord.<br /><br />§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving na de vervallenverklaring, zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met gevangenisstraf van acht dagen tot een jaar en met geldboete van zesentwintig euro tot vijfhonderd euro.
+§ 1. Het verkozen provincieraadslid dat zich op het ogenblik van zijn installatie als provincieraadslid in een situatie bevindt die onverenigbaar is met het lidmaatschap van de provincieraad, kan de eed niet afleggen, tenzij hij aantoont dat hij ontslag genomen heeft uit de met het mandaat van provincieraadslid onverenigbare functie. Hij wordt bijgevolg geacht afstand te doen van het hem toegekende mandaat.<br>
+<br>
+§ 2. Een provincieraadslid dat tijdens zijn mandaat in een situatie terechtkomt die onverenigbaar is met zijn mandaat en dat binnen vijftien dagen na het tot hem gerichte verzoek van de voorzitter van de provincieraad geen einde maakt aan die situatie, wordt door de provincieraad vervallen verklaard van zijn mandaat, overeenkomstig artikel 10, § 1, tweede lid, § 2 en § 3, nadat het betrokken provincieraadslid is gehoord.<br>
+<br>
+§ 3. Als de betrokkene, zelfs bij ontstentenis van enige kennisgeving na de vervallenverklaring, zijn mandaat blijft uitoefenen hoewel hij kennis heeft van de oorzaak van het verval, is hij strafbaar met een straf van niveau 1 waarbij in afwijking van artikel 36, negende lid, 1°, van het Strafwetboek het maximum van de geldboete 4.000 euro bedraagt.
 
 ### ART. 13.
 
@@ -302,7 +306,7 @@ De briefwisseling, gericht aan de voorzitter van de provincieraad en die bestemd
 <br>
 § 4. De provincieraadsleden, alsmede alle andere personen die krachtens de wet of het decreet de besloten vergaderingen van de provincieraad bijwonen, zijn tot geheimhouding verplicht.<br>
 <br>
-Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de provincieraadsleden, alsmede van alle andere personen, vermeld in het eerste lid, wegens schending van het beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.<br>
+Dit artikel doet geen afbreuk aan de mogelijkheid van strafrechtelijke vervolging van de provincieraadsleden, alsmede van alle andere personen, vermeld in het eerste lid, wegens schending van het beroepsgeheim, overeenkomstig artikel 352 van het Strafwetboek.<br>
 <br>
 § 5. Het inzagerecht en het bezoekrecht van de provincieraadsleden, als vermeld in § 1, § 2 en § 3, geldt eveneens voor de autonome provinciebedrijven van de provincie.
 
@@ -1133,7 +1137,7 @@ Elke handeling of gedraging die een tekortkoming aan de beroepsplichten uitmaakt
 <br>
 § 2. De provincieraad kan de voorwaarden en de grenzen vaststellen van de tuchtstraffen, vermeld in paragraaf 1. De inhouding van salaris en de schorsing met inhouding van salaris mag respectievelijk een termijn van zes maanden en een jaar niet overschrijden.<br>
 <br>
-De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdaad zijn omschreven.<br>
+De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdrijf waarop een straf van niveau 4, 5, 6, 7 of 8 is gesteld, zijn omschreven.<br>
 <br>
 Elke tuchtstraf die een inhouding van salaris inhoudt, mag niet hoger zijn dan de begrenzing, vermeld in artikel 23, tweede lid, van de wet van 12 april 1965 betreffende de bescherming van het loon van de werknemers.<br>
 <br>
@@ -1880,7 +1884,7 @@ Het verzoek wordt ingediend met een formulier dat bestaat uit een verzoekschrift
 <br>
 Het verzoekschrift bevat de volgende vermeldingen:<br>
 1° de naam van de provincie;<br>
-2° de tekst van artikel 196 van het Strafwetboek;<br>
+2° de tekst van artikel 451 van het Strafwetboek;<br>
 3° de vraag of vragen waarop de voorgenomen volksraadpleging betrekking heeft;<br>
 4° de naam, de voornamen, de geboortedatum en de woonplaats van de personen die het initiatief nemen tot de volksraadpleging.<br>
 <br>
