@@ -95,6 +95,17 @@ Als een organisator een subsidie, vermeld in dit besluit, toegekend kreeg door h
 <br>
 De minister bepaalt de gegevens die bezorgd moeten worden.”.
 
+### ART 15.
+
+In artikel 7/2 van hetzelfde besluit, ingevoegd bij artikel 14 van dit besluit, worden voor het eerste lid een nieuw eerste en tweede lid ingevoegd, die luiden als volgt:<br>
+<br>
+“Als een organisator een subsidie, vermeld in dit besluit, toegekend kreeg door het agentschap, kan de organisator deze subsidie slechts behouden als:<br>
+1° voor de specifieke dienstverlening in de kinderopvanglocaties met een vergunning voor groepsopvang minstens de helft van de kinderopvangprestaties per jaar in elke kinderopvanglocatie in de subsidiegroep waar de organisator de specifieke dienstverlening realiseert, betrekking hebben op de kinderopvang van baby’s en peuters;<br>
+2° voor de specifieke dienstverlening in de kinderopvanglocaties gezinsopvang, per jaar minstens 220 kinderopvangprestaties in elke kinderopvanglocatie in de subsidiegroep waar de organisator de specifieke dienstverlening realiseert, betrekking hebben op de kinderopvang van baby’s en peuters;<br>
+3° in afwijking van punt 1° en 2°, kan de organisator voor de specifieke dienstverlening in de kinderopvanglocaties gezinsopvang of groepsopvang door samenwerkende onthaalouders, waar de organisator op 1 maart 2026 exclusief buitenschoolse opvang realiseert met kinderbegeleiders in het specifiek sociaal statuut voor onthaalouders, de subsidies, vermeld in dit besluit, behouden tot en met 31 december 2031, op voorwaarde dat de organisator voldoet aan de subsidievoorwaarden en aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 19, 20, 21, 3° en 4°, van het voormelde besluit.<br>
+<br>
+De minister bepaalt de manier waarop de kinderopvangprestaties, vermeld in het eerste lid, worden berekend en de gegevens die bezorgd moeten worden.”.
+
 ### ART 16.
 
 In artikel 10/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 december 2015, worden de volgende wijzigingen aangebracht:<br>
