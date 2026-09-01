@@ -172,6 +172,69 @@ De toepassing van het eerste lid mag niet leiden tot een nominale vermindering v
 <br>
 De aanpassing, vermeld in het eerste lid, gebeurt telkens twee maanden nadat de afgevlakte gezondheidsindex de spilindex overschrijdt.
 
+## HOOFDSTUK 4/1. Monitoring van het aanbod en het gebruik, de opvolging en de terugvordering van subsidies
+
+## Afdeling 1. Monitoring door lokale besturen
+
+### ART 10/1.
+
+Het lokaal bestuur monitort het aanbod buitenschoolse activiteiten in de gemeente en registreert daarvoor de aantallen voor het structureel aanbod en het occasioneel aanbod. Het maximaal aantal kinderen dat op eenzelfde moment gebruik kan maken van het aanbod maakt deel uit van de monitoring en wordt meer bepaald opgedeeld in de volgende categorieën:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;voor en na de schooluren op maandag, dinsdag, woensdagvoormiddag, donderdag en vrijdag;<br>
+2°&nbsp;&nbsp; &nbsp;op woensdagnamiddag na de schooluren;<br>
+3°&nbsp;&nbsp; &nbsp;op weekdagen in de vakantieperiodes.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;occasioneel aanbod: het erkend lokaal aanbod van buitenschoolse activiteiten, vermeld in artikel 4, eerste lid, 3°, van het decreet van 3 mei 2019, dat niet onder het structurele aanbod valt;<br>
+2°&nbsp;&nbsp; &nbsp;structureel aanbod: het erkend lokaal aanbod van buitenschoolse activiteiten, vermeld in artikel 4, eerste lid, 3°, van het voormelde decreet, dat structureel wordt georganiseerd en minimaal 200 openingsuren per jaar heeft.
+
+### ART 10/2.
+
+Het lokaal bestuur rapporteert de aantallen, vermeld in artikel 10/1, in de digitale rapportering, vermeld in artikel 10/4.
+
+## Afdeling 2. Opvolging en terugvordering van subsidies door het agentschap
+
+### ART 10/3.
+
+Het agentschap oefent toezicht uit op de besteding van de subsidie, vermeld in artikel 6 en 7, op basis van de digitale rapportering, vermeld in artikel 10/4.
+
+### ART 10/4.
+
+Overeenkomstig artikel 13, eerste lid, van het decreet van 3 mei 2019 rapporteert het lokaal bestuur, met uitzondering van de Vlaamse Gemeenschapscommissie, over de besteding van de subsidie via een digitale rapportering over de gegevens van de jaarrekening, met toepassing van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen.<br>
+<br>
+De Vlaamse Gemeenschapscommissie rapporteert over de besteding van de subsidie via een digitale rapportering over de gegevens van de jaarrekening, met toepassing van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie.<br>
+<br>
+Als de digitale rapportering over de gegevens van de jaarrekening, vermeld in het eerste en het tweede lid, onvoldoende zicht geeft op de realisatie van de opdrachten, vermeld in artikel 4, eerste lid, van het decreet van 3 mei 2019 en dit besluit, kan het agentschap bijkomende gegevens over de besteding van de subsidie opvragen.
+
+### ART 10/5.
+
+In al de volgende gevallen gaat het agentschap in gesprek met het lokaal bestuur:<br>
+1°&nbsp;&nbsp; &nbsp;als uit het toezicht, vermeld in artikel 10/3, blijkt dat het lokaal bestuur de bepalingen, vermeld in artikel 6 en 7, niet naleeft;<br>
+2°&nbsp;&nbsp; &nbsp;als uit het toezicht, vermeld in artikel 10/3, blijkt dat de subsidie niet gebruikt wordt voor de doelstelling waarvoor ze is verleend;<br>
+3°&nbsp;&nbsp; &nbsp;als het toezicht wordt verhinderd.
+
+### ART 10/6.
+
+In al de volgende gevallen wordt het lokaal bestuur schriftelijk aangemaand door het agentschap:<br>
+1°&nbsp;&nbsp; &nbsp;als na het gesprek, vermeld in artikel 10/5, wordt vastgesteld dat het lokaal bestuur de bepalingen, vermeld in artikel 6 en 7 nog altijd niet naleeft;<br>
+2°&nbsp;&nbsp; &nbsp;als na het gesprek, vermeld in artikel 10/5, wordt vastgesteld dat de subsidie nog altijd niet wordt gebruikt voor de doelstelling waarvoor ze is verleend;<br>
+3°&nbsp;&nbsp; &nbsp;als na het gesprek, vermeld in artikel 10/5, wordt vastgesteld dat het toezicht nog altijd wordt verhinderd.<br>
+<br>
+De aanmaning, vermeld in het eerste lid, vermeldt een termijn waarin het lokaal bestuur de inbreuken, vermeld in het eerste lid, moet wegwerken, en kan specifieke voorwaarden bevatten.
+
+### ART 10/7.
+
+Als na een aanmaning als vermeld in artikel 10/6, het lokaal bestuur geen verantwoording bezorgt of het toezicht verhindert, brengt het agentschap, vóór ze beslist de subsidie terug te vorderen of de betaling van de subsidie op te schorten, het lokaal bestuur op de hoogte van het voornemen om die beslissing te nemen.<br>
+<br>
+Het lokaal bestuur kan reageren op het voornemen, vermeld in het eerste lid, en kan verweer uitoefenen. Het lokaal bestuur reageert tijdens een mondelinge hoorzitting die het agentschap organiseert, tenzij het agentschap oordeelt dat de aard van de inbreuk of het verloop van het dossier verantwoordt dat een schriftelijk verweer volstaat.&nbsp;<br>
+<br>
+Als het agentschap conform het tweede lid beslist dat een schriftelijk verweer volstaat, kan het lokaal bestuur alsnog gemotiveerd en schriftelijk vragen om mondeling gehoord te worden.
+
+### ART 10/8.
+
+Het agentschap beslist tot terugvordering van de subsidie overeenkomstig artikel 13, tweede lid, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<br>
+Het agentschap kan de uitkering van subsidies opschorten overeenkomstig artikel 14 van de voormelde wet.
+
 ## HOOFDSTUK 5. Overgangsbepalingen
 
 ## Afdeling 1. Bepalingen over de overgangstermijn als vermeld in artikel 17, eerste lid, van het decreet van 3 mei 2019
