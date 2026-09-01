@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042282,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot wijziging van verschillende besluiten van de Vlaamse Regering over het beleidsdomein Onderwijs en Vorming, wat betreft de organisatie en het personeel in verschillende onderwijsniveaus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042282/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "c861d670daeee250b55e432f3d07f3e45d9b493e04d06ae11e210ff0a9843c42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042282&param=informatie",
+  "as_of": "2026-09-01",
+  "made": "2026-07-17",
+  "gazette": "2026-08-26",
+  "numac": 2026006239,
+  "document_start": "2026-09-01",
+  "document_end": null,
+  "in_force": "2026-09-01",
+  "article_versions": 60,
+  "record_form": "consolidated version as in force on 2026-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
