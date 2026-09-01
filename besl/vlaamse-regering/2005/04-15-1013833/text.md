@@ -41,6 +41,10 @@ De niet-verworven salarisschaal 020 wordt toegekend aan de tijdelijke of vastben
 4°&nbsp;&nbsp; &nbsp;de onderwijzer algemene en sociale vorming.<br>
 &nbsp;
 
+### ART 2sexies.
+
+De niet-verworven salarisschalen 035 en 036 worden toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden, die aangesteld of geaffecteerd zijn in een betrekking in een ambt van het bestuurs- en onderwijzend personeel of van het ondersteunend personeel in de GI-school, waarvoor de Vlaamse Gemeenschap hun salaris uitbetaalt.
+
 ### ART. 3.
 
 § 1. De in artikel 1 en 2 genoemde personeelsleden die houder zijn van de hierna vermelde bijzondere diploma's of getuigschriften krijgen de volgende salarisschaal:<br>
