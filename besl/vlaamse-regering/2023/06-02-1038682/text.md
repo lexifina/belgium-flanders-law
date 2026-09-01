@@ -108,7 +108,10 @@ ag)&nbsp;&nbsp; &nbsp;Uitbener-uitsnijder duaal;<br>
 ah)&nbsp;&nbsp; &nbsp;Verpakker duaal;<br>
 ai)&nbsp;&nbsp; &nbsp;Voorbewerker carrosserie duaal;<br>
 aj)&nbsp;&nbsp; &nbsp;Winkelmedewerker duaal.<br>
-&nbsp;
+<br>
+* Bij besluit van de Vlaamse Regering van 28 november 2025&nbsp;wordt het curriculumdossier van het structuuronderdeel Zorg en welzijn van de tweede graad arbeidsmarktfinaliteit van het secundair onderwijs vervangen door <a href="https://www.ejustice.just.fgov.be/mopdf/2025/12/12_1.pdf#page=18">dit curriculumdossier</a>.<br>
+<br>
+* Bij besluit van de Vlaamse Regering van 28 november 2025 wordt het curriculumdossier van het structuuronderdeel&nbsp;arbeidsmarktfinaliteit: Diamantbewerking, gerangschikt in het studiedomein Kunst en creatie van de tweede graad van het secundair onderwijs opgeheven.
 
 ### BIJLAGE 3.
 
@@ -135,5 +138,14 @@ h)&nbsp;&nbsp; &nbsp;Natuur- en groentechnieken (duaal).<br>
 a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gezondheidszorg;<br>
 b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optiektechnieken.<br>
 (<a href="https://www.ejustice.just.fgov.be/mopdf/2025/03/26_1.pdf#page=241">link naar de bijlage</a>)<br>
+<br>
+*&nbsp;Bij besluit van de Vlaamse Regering van 28 november 2025 worden de curriculumdossiers van de volgende structuuronderdelen van de derde graad van het secundair onderwijs op op 1 september 2026 vervangen door de volgende curriculumdossiers:<br>
+1°&nbsp;&nbsp; &nbsp;dubbele finaliteit:<br>
+a)&nbsp;&nbsp; &nbsp;Autotechnieken (duaal);<br>
+b)&nbsp;&nbsp; &nbsp;Elektronicatechnieken;<br>
+c)&nbsp;&nbsp; &nbsp;Textielproductietechnieken (duaal);<br>
+2°&nbsp;&nbsp; &nbsp;arbeidsmarktfinaliteit: Assistentie in wonen, zorg en welzijn (duaal).&nbsp;<br>
+(<a href="https://www.ejustice.just.fgov.be/mopdf/2025/12/12_1.pdf#page=22">link naar de bijlage</a>)<br>
+<br>
 <br>
 &nbsp;
