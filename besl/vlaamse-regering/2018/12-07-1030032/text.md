@@ -27,7 +27,7 @@ In dit besluit wordt verstaan onder:<br>
 1°/1 besluit van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 2° ...;<br>
 2°/1 evaluatieteam: het team dat belast is met de beoordeling van de gevolgen van de aandoening, vermeld in artikel 16, §1, eerste lid van het Groeipakketdecreet van 2018. Het is samengesteld uit een evaluerend arts, en een of meer verpleegkundigen en, als de aard van de aandoening van het kind dat vereist, andere zorgprofessionals uit de gereglementeerde beroepen in de gezondheidszorg met een expertise die relevant is voor de opdracht. Voormelde verpleegkundigen en zorgprofessionals zijn in dienst van het agentschap Opgroeien regie;<br>
-3° evaluerend arts: een arts in dienst van het agentschap Opgroeien of het agentschap Opgroeien regie of een arts erkend door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
+3° evaluerend arts: een arts in dienst van het agentschap Opgroeien of het agentschap Opgroeien regie of een arts die is aangewezen door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
 4° koninklijk besluit van 28 maart 2003: het koninklijk besluit van 28 maart 2003 tot uitvoering van de artikelen 47, 56septies en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet (I) van 24 december 2002;<br>
 5° MDT-arts: een arts die binnen een multidisciplinair team werkt en die de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vaststelt;<br>
 6° minister: de Vlaamse minister bevoegd voor de bijstand aan personen;<br>
@@ -266,63 +266,23 @@ De maatregelen, vermeld in het eerste en tweede lid, gelden met behoud van de to
 
 ### ART 21.
 
-De erkenning van de evaluerend arts wordt van rechtswege verlengd, als er geen indicaties zijn dat de evaluerend arts de erkenningsvoorschriften en &nbsp;voorwaarden, vermeld in artikel 22 en 23, niet naleeft. De minister bepaalt de einddatum van de erkenningen.
+...
 
 ## Onderafdeling 2. Erkenningsvoorwaarden
 
 ### ART 22.
 
-§ 1. Om als evaluerend arts door&nbsp;het agentschap Opgroeien regie erkend te kunnen worden, moet de arts:<br>
-1° beschikken over een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, dat niet ouder is dan een maand of, voor wie niet in België gedomicilieerd is, een gelijkwaardig document kunnen voorleggen dat niet ouder is dan een maand waaruit onberispelijk gedrag voor het optreden als evaluerend arts blijkt;<br>
-2° beschikken over een goede algemene gezondheid voor de uit te voeren opdrachten. De betrokkene legt op verzoek van&nbsp;het agentschap Opgroeien regie een medisch attest voor dat is geschreven door een andere arts en dat zijn goede algemene gezondheidstoestand voor de uit te voeren opdrachten bevestigt;<br>
-3° beschikken over een gevorderde en actieve kennis van het Nederlands;<br>
-4° verklaren kennisgenomen te hebben van de opdracht in het kader van dit besluit en van de bepalingen van dit besluit die op hem van toepassing zijn, door een digitaal startpakket te doorlopen;<br>
-5° niet het voorwerp geweest zijn van een opheffing van een erkenning als evaluerend arts binnen vijf jaar die voorafgaan aan het jaar waarin de aanvraag tot erkenning is ingediend;<br>
-6° beschikken over een diploma master in de geneeskunde of over een gelijkwaardigheidserkenning voor een buitenlands diploma;<br>
-7° ingeschreven zijn op de lijst van de Orde der artsen van de provincie waar de arts zijn voornaamste medische activiteit uitoefent;<br>
-8° beschikken over een RIZIV-nummer of dat aanvragen;<br>
-9° voldoende verzekerd zijn voor burgerlijke aansprakelijkheid en beroepsaansprakelijkheid;<br>
-10° de geschiktheid en integriteit hebben om op een rechtmatige manier, rekening houdend met de geldende normen en waarden, kwaliteitsvol op te treden als evaluerend arts.<br>
-<br>
-De minister bepaalt de nadere regels voor de gevorderde en actieve kennis van het Nederlands, vermeld in paragraaf 1, eerste lid, 3°, onder meer wat betreft het taalvaardigheidsniveau en de manier waarop dat bewezen kan worden.<br>
-<br>
-§ 2. Een evaluerend arts kan pas zelfstandig medische vaststellingen in het kader van dit besluit uitvoeren nadat hij een aantal vaststellingen, bepaald door het agentschap Opgroeien regie, heeft bijgewoond en uitgevoerd onder begeleiding van een mentorarts, als bedoeld in artikel 32.<br>
-<br>
-Het agentschap Opgroeien regie bepaalt wanneer de mentorzittingen, vermeld in het eerste lid, georganiseerd worden.<br>
-<br>
-§ 3. Om de erkenning als evaluerend arts te kunnen behouden of te verlengen moet de betrokkene:<br>
-1° zijn opdrachten vervullen conform de wetenschappelijke aanbevelingen, met inachtneming van de code van de geneeskundige plichtenleer. Het agentschap Opgroeien regie verstrekt de nodige informatie en aanbevelingen;<br>
-2° in het eerste jaar van de erkenning een vormingstraject volgen, aangeboden door&nbsp;het agentschap Opgroeien regie en gebaseerd op wetenschappelijke bevindingen en aanbevelingen;<br>
-3° de erkenningsvoorwaarden, de erkenningsvoorschriften en de bepalingen van dit besluit naleven;<br>
-4° bij de uitvoering van zijn opdracht de inhoudelijke en methodische doelstellingen die&nbsp;het agentschap Opgroeien regie nastreeft, in acht nemen en zo mee vorm geven aan het kwaliteitskader van het agentschap Opgroeien regie;<br>
-5° Het agentschap Opgroeien regie op de hoogte houden van elke wijziging in de gegevens die relevant zijn voor de erkenning.
+...
 
 ## Onderafdeling 3. Erkenningsvoorschriften
 
 ### ART 23.
 
-Bij de uitvoering van de opdrachten in het kader van dit besluit voldoet de evaluerend arts aan de volgende vereisten. De evaluerend arts:<br>
-1° verricht zijn opdrachten voor&nbsp;het agentschap Opgroeien regie op zelfstandige basis;<br>
-2° voert de opdrachten uit zonder te discrimineren op basis van geslacht, nationaliteit, taal, vermogen, geloofs-, ideologische, filosofische en politieke overtuiging, culturele, maatschappelijk of sociale afkomst;<br>
-3° maakt gebruik van het geïntegreerd elektronisch dossier waarin&nbsp;het agentschap Opgroeien regie voorziet;<br>
-4° communiceert correct, volledig en gericht op de behoeften van het kind en de begunstigden;<br>
-5° werkt voor de uitvoering van zijn opdrachten samen met de medewerkers van het agentschap Opgroeien regie volgens de richtlijnen die het agentschap Opgroeien regie opstelt;<br>
-6° schoolt zich bij in relevante onderwerpen in het kader van dit besluit;<br>
-7° werkt alleen mee aan wetenschappelijk onderzoek bij de uitvoering van zijn opdracht in het kader van dit besluit na toestemming van het agentschap Opgroeien regie;<br>
-8° respecteert de fysieke en de psychische integriteit van elk kind.
+...
 
 ### ART 23/1.
 
-Het agentschap Opgroeien regie maakt op basis van de ontvangen aanvragen, vermeld in artikel 11, bundels op van aanvragen die ter beschikking worden gesteld aan de evaluerend arts in de digitale toepassing waarin het agentschap Opgroeien regie voorziet.<br>
-<br>
-De evaluerend arts kiest zelf welke volume hij opneemt. Indien meerdere beschikbare evaluerend artsen in aanmerking komen voor een bundel krijgt de evaluerend arts voorrang die:<br>
-1° regelmaat en continuïteit biedt;<br>
-2° over specifieke competenties beschikt;<br>
-3° geen indicaties heeft dat hij de erkenningsvoorschriften en -voorwaarden, vermeld in artikels 22 tot en met 24, niet naleeft, of die niet in een proces tot schorsing of opheffing van zijn erkenning zit als vermeld in artikel 34 tot en met 36.<br>
-<br>
-De minister kan de nadere regels bepalen voor de toepassing van het tweede lid. Waaronder de invulling van de criteria die de rangorde bepalen en de procedure om tot de rangorde te komen.<br>
-<br>
-Als er niet voldoende evaluerend artsen in aanmerking komen op basis van de rangorde uit het tweede lid, kan de minister de wijze bepalen waarop een rangorde wordt gemaakt tussen de erkende, niet-opgeleide evaluerend artsen.
+...
 
 ### ART 24.
 
@@ -332,19 +292,13 @@ Als er niet voldoende evaluerend artsen in aanmerking komen op basis van de rang
 
 ### ART 25.
 
-De evaluerend arts krijgt maandelijks een vergoeding van&nbsp;het agentschap Opgroeien regie voor:<br>
-1° de opdrachten die hij in de afgelopen maand in het kader van dit besluit heeft uitgevoerd;<br>
-2° de opleidingen die hij heeft gevolgd en waarvan&nbsp;het agentschap Opgroeien regie heeft bepaald dat het die vergoedt.<br>
-<br>
-De evaluerend arts beheert zijn opdrachten, opleidingen en vergoedingen in de digitale toepassing, vermeld in artikel 14, eerste lid,. De evaluerend arts kan tot tien dagen na het einde van elke maand rechtzettingen doorgeven op de opdrachten en opleidingen van de afgelopen maand die in de voormelde digitale toepassing geregistreerd zijn.<br>
-<br>
-De minister stelt de vergoedingen vast voor de opdrachten die de evaluerend arts heeft uitgevoerd en de opleidingen die hij heeft gevolgd. De minister kan ook een vergoeding bepalen voor de tegenwerpelijke medische expertise als de evaluerend arts gevorderd wordt door de arbeidsrechtbank.&nbsp;De minister kan het agentschap Opgroeien regie belasten met de evaluatie van de regels over de vergoedingen van de evaluerend artsen.
+...
 
 ## Onderafdeling 5. Klachtenbehandeling
 
 ### ART 26.
 
-Het agentschap Opgroeien regie&nbsp;behandelt samen met de evaluerend arts de klachten die het over de evaluerend arts krijgt.
+...
 
 ## Afdeling 2. Procedure
 
@@ -376,120 +330,61 @@ Het agentschap Opgroeien regie&nbsp;behandelt samen met de evaluerend arts de kl
 
 ### ART 32.
 
-§1. Het agentschap Opgroeien regie kan een oproep doen bij de erkende evaluerend artsen, om op te treden als mentorarts. De oproep bevat minstens de volgende gegevens:<br>
-1° de periode waarin de aanvraag kan ingediend worden;<br>
-2° de vergelijkende procedure en het beslissingskader dat in de vergelijkende procedure wordt toegepast om de rangorde tussen de verschillende kandidaten vast te stellen;<br>
-3° de vereiste criteria en de competenties waaraan de evaluerend arts moet voldoen om te kunnen optreden als mentorarts;<br>
-4° de beslissingstermijn;<br>
-5° een aanvraagformulier.<br>
-<br>
-De oproep vermeld in het eerste lid, wordt via de elektronische communicatiekanalen van&nbsp;het agentschap Opgroeien regie kenbaar gemaakt.<br>
-<br>
-§2. De geïnteresseerde evaluerend artsen dienen de aanvraag elektronisch in bij&nbsp;het agentschap Opgroeien regie binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;neemt binnen de termijn, vermeld in paragraaf 1, eerste lid, 4°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, eerste lid, 2°. Het agentschap Opgroeien regie bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.<br>
-<br>
-§3. Een arts die in dienst is bij het agentschap Opgroeien of het agentschap Opgroeien regie, kan door het agentschap Opgroeien regie aangewezen worden als mentorarts in het kader van dit besluit.
+...
 
 ### ART 32/1.
 
-§ 1. Het agentschap Opgroeien regie kan een oproep doen bij de erkende evaluerend artsen met de vraag om andere opdrachten uit te voeren.<br>
-De oproep bevat minstens de volgende gegevens:<br>
-1° een omschrijving van de uit te voeren opdracht;<br>
-2° de periode waarin de aanvraag ingediend kan worden;<br>
-3° de vergelijkende procedure en het beslissingskader dat in de vergelijkende procedure wordt toegepast om de rangorde tussen de verschillende kandidaten vast te stellen;<br>
-4° de vereiste criteria en de competenties waaraan de evaluerend arts moet voldoen;<br>
-5° de beslissingstermijn;<br>
-6° een aanvraagformulier.<br>
-<br>
-Het agentschap Opgroeien regie maakt de oproep via de elektronische communicatiekanalen van het agentschap Opgroeien regie bekend.<br>
-<br>
-§ 2. De geïnteresseerde evaluerend artsen dienen de aanvraag elektronisch in bij het agentschap Opgroeien regie binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat het agentschap Opgroeien regie ter beschikking stelt.<br>
-<br>
-Het agentschap Opgroeien regie neemt binnen de termijn, vermeld in paragraaf 1, tweede lid, 5°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, tweede lid, 3°. Het agentschap Opgroeien regie bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.
+...
 
 ## Onderafdeling 4. Schorsing of opheffing van de erkenning
 
 ### ART 33.
 
-Het agentschap Opgroeien regie&nbsp;volgt de naleving van de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, op en kan daarvoor de nodige stukken opvragen bij de evaluerend arts.
+...
 
 ### ART 34.
 
-Als wordt vastgesteld dat een evaluerend arts de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, niet naleeft, of het onmogelijk of moeilijk maakt die naleving op te volgen, wordt, behalve bij dringende noodzakelijkheid, de evaluerend arts uitgenodigd voor een gesprek met het agentschap Opgroeien regie.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;geeft de evaluerend arts informatie over de bepalingen en voorschriften die de arts niet heeft nageleefd.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;waarschuwt de evaluerend arts voor de mogelijke schorsing of opheffing van zijn erkenning bij blijvende niet-naleving.
+...
 
 ### ART 35.
 
-Het agentschap Opgroeien regie&nbsp;kan in de volgende gevallen beslissen om de erkenning te schorsen:<br>
-1° als een inbreuk op de erkenningsvoorwaarden en -voorschriften op korte termijn weggewerkt kan worden;<br>
-2° uit voorzorg, als er ernstige indicaties zijn dat er een inbreuk is op de erkenningsvoorwaarden en -voorschriften en dat daardoor de veiligheid en gezondheid van de begunstigden of rechtgevende kinderen in het gedrang komen, of bij dringende noodzakelijkheid;<br>
-3° als de evaluerend arts de opvolging van de naleving van de erkenningsvoorwaarden en -voorschriften bemoeilijkt of verhindert;<br>
-4° als de evaluerend arts niet over de nodige kennis beschikt om zelfstandig de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vast te stellen als vermeld in artikel 6 en 7 en op basis van de medisch-sociale schaal die opgenomen is in bijlage 1, die bij dit besluit is gevoegd.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;brengt de evaluerend arts op de hoogte van de beslissing, vermeld in het eerste lid.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;hoort zo snel mogelijk en uiterlijk binnen vijf werkdagen de evaluerend arts en neemt op basis daarvan een beslissing over de erkenning. De beslissing heeft betrekking op:<br>
-1° de opheffing van de schorsing, in voorkomend geval met naleving van de gemaakte afspraken met het oog op de naleving van de erkenningsvoorwaarden en -voorschriften;<br>
-2° het voornemen tot opheffing van de erkenning, vermeld in artikel 36.<br>
-<br>
-Het agentschap Opgroeien regie&nbsp;brengt de evaluerend arts aangetekend op de hoogte van de beslissing, vermeld in het derde lid.
+...
 
 ### ART 36.
 
-Het agentschap Opgroeien regie&nbsp;kan in de volgende gevallen beslissen om een voornemen tot opheffing van de erkenning te formuleren:<br>
-1° als een inbreuk op de erkenningsvoorwaarden en -voorschriften niet op korte termijn weggewerkt kan worden;<br>
-2° als een inbreuk die aan de basis van een schorsing van de erkenning lag, niet weggewerkt is binnen de termijn die bepaald is in de beslissing tot die schorsing;<br>
-3° als de evaluerend arts op basis van onjuiste gegevens een erkenning verkregen heeft.<br>
-<br>
-Het voornemen tot opheffing van de erkenning wordt aangetekend bezorgd aan de evaluerend arts. De aangetekende brief bevat de informatie over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen.<br>
-<br>
-§ 2. Als de evaluerend arts binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van&nbsp;het agentschap Opgroeien regie omgezet in een beslissing tot opheffing van de erkenning. De evaluerend arts wordt van de voormelde beslissing aangetekend op de hoogte gebracht.<br>
-<br>
-Als de evaluerend arts een ontvankelijk bezwaarschrift heeft ingediend, conform de bezwaarprocedure, vermeld in artikel 37 tot en met 42, wordt de beslissing over de opheffing van de erkenning genomen nadat de bezwaarprocedure is doorlopen conform de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, met dien verstande dat het bezwaarschrift, in afwijking van artikel 8, § 1, eerste lid van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, wordt behandeld door de kamer van gezondheidsvoorzieningen.
+...
 
 ## Onderafdeling 5. Bezwaarprocedure
 
 ### ART 37.
 
-De aanvrager of evaluerend arts kan bezwaar aantekenen bij&nbsp;het agentschap Opgroeien regie tegen het voornemen tot weigering, vermeld in artikel 30, en het voornemen tot opheffing van de erkenning, vermeld in artikel 36.
+...
 
 ### ART 38.
 
-De aanvrager of evaluerend arts dient met aangetekend een gemotiveerd bezwaarschrift in bij het agentschap Opgroeien regie in het geval, vermeld in artikel 37, op straffe van niet-ontvankelijkheid, uiterlijk dertig dagen na de kennisgeving van een voornemen tot een beslissing als vermeld in artikel 37.
+...
 
 ### ART 39.
 
-Het bezwaarschrift, vermeld in artikel 38, bevat op straffe van niet-ontvankelijkheid al de volgende elementen:<br>
-1° de naam en het adres van de aanvrager of de evaluerend arts;<br>
-2° het dossiernummer van het betwiste voornemen;<br>
-3° een motivering van het bezwaar;<br>
-4° de datum van het bezwaar.
+...
 
 ### ART 40.
 
-Het agentschap Opgroeien regie&nbsp;beslist uiterlijk tien dagen na de dag van de ontvangst van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de aanvrager of de evaluerend arts daarvan onmiddellijk aangetekend op de hoogte.
+...
 
 ### ART 41.
 
-Het bezwaar is schorsend.<br>
-<br>
-In afwijking van het eerste lid, kan het agentschap Opgroeien regie bij een bezwaar tegen het voornemen tot opheffing van de erkenning binnen tien dagen na de dag van de ontvangst van het bezwaarschrift beslissen dat het bezwaar geen schorsend karakter heeft. Die mogelijkheid wordt beperkt tot de gevallen waarbij een ernstig gevaar dreigt voor de veiligheid en de gezondheid van de rechtgevende kinderen en de begunstigden.<br>
-<br>
-Als besloten wordt dat het bezwaar niet schorsend is, stuurt&nbsp;het agentschap Opgroeien regie de beslissing onmiddellijk aangetekend naar de evaluerend arts.
+...
 
 ### ART 42.
 
-Het bezwaar wordt behandeld met inachtneming van de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
+...
 
 ## Onderafdeling 6. Vrijwillige stopzetting
 
 ### ART 43.
 
-Een evaluerend arts die besluit zijn activiteiten in uitvoering van dit besluit stop te zetten, meldt dat zo snel mogelijk elektronisch aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie zet de erkenning stop vanaf de opgegeven stopzettingsdatum.
+...
 
 ## HOOFDSTUK 5. Pleegzorgtoeslag
 
