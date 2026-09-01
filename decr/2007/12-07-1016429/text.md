@@ -74,8 +74,8 @@ In dit decreet wordt verstaan onder:<br>
 <p>Er wordt een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de commissie te noemen.<br>
 <br>
 De commissie heeft als opdracht aan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, advies uit te brengen over het bezwaar tegen een van de volgende beslissingen die, met betrekking tot een voorziening van welzijn, volksgezondheid en gezin of een onderdeel ervan, door het departement of een agentschap van het beleidsdomein zijn genomen, of tegen het voornemen om een van de volgende beslissingen te nemen, dat door het departement of door het agentschap wordt geuit en formeel wordt betekend :<br>
-1° de weigering om een kwaliteitslabel, een toelating, een goedkeuring, een vergunning of een erkenning te verlenen, te verlengen of te wijzigen;<br>
-2° de gedwongen wijziging, de schorsing, de opheffing of de intrekking van een kwaliteitslabel, een toelating, een goedkeuring, een vergunning of een erkenning;<br>
+1° de weigering om een toelating, een goedkeuring, een vergunning of een erkenning te verlenen, te verlengen of te wijzigen;<br>
+2° de gedwongen wijziging, de schorsing, de opheffing of de intrekking van een toelating, een goedkeuring, een vergunning of een erkenning;<br>
 3° de sluiting;<br>
 4° de weigering, vermindering, stopzetting of terugvordering van een subsidie voor kinderopvanglocaties;<br>
 5° de vermindering of stopzetting van de subsidies voor de werkingsmiddelen of de toelagen in het kader van het gezinsbeleid voor private uitbetalingsactoren.<br>
@@ -84,7 +84,8 @@ De commissie heeft daarnaast ook als opdracht aan de Vlaamse minister, bevoegd v
 1° de erkenning van arts-specialisten en huisartsen;<br>
 2° de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel;<br>
 3° de erkenning van beoefenaars van de klinische psychologie;<br>
-4° de erkenning van beoefenaars van de klinische orthopedagogiek.<br>
+4° de erkenning van beoefenaars van de klinische orthopedagogiek;<br>
+5° de erkenning van apotheker-specialisten.<br>
 <br>
 De commissie behandelt het bezwaar tegen de beslissing tot weigering, schorsing of intrekking van de erkenning van een organisatie, zorgvoorziening of zorgverlener als indicatiesteller, vermeld in artikel 67 of artikel 111 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of tegen het voornemen om die beslissing te nemen.<br>
 <br>
