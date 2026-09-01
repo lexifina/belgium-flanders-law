@@ -71,7 +71,7 @@ De opdrachten van de justitiehuizen zijn:<br>
 2° uitbouwen, installeren, faciliteren en in stand houden van sectoroverschrijdende netwerken op het kruispunt van justitie, politie, welzijn en zorg, of deelnemen aan dergelijke netwerken, met het oog op:<br>
 a) de gecoördineerde en geïntegreerde omkadering van en zorg voor verdachte, beschuldigde, beklaagde, inverdenkinggestelde, veroordeelde of geïnterneerde personen, die het voorwerp uitmaken van een opdracht als vermeld in punt 1°, in voorbereiding van, tijdens of aansluitend op die opdracht;<br>
 b) de bescherming van de fysieke en psychische integriteit van personen;<br>
-c) de voorkoming van de misdrijven, vermeld in artikel 458ter van het Strafwetboek;<br>
+c) de voorkoming van de misdrijven, vermeld in artikel 353, §2, van het Strafwetboek;<br>
 3° ondersteunende taken opnemen in het kader van de opdrachten, vermeld in punt 1° en 2°, meer bepaald:<br>
 a) ondersteunen van een coherent Vlaams beleid met betrekking tot een gemeenschapsgerichte justitie;<br>
 b) zorgen voor beleidsvoorbereidend werk dat gericht is op een coherente uitvoering van de opdrachten en de doelstellingen;<br>
@@ -195,7 +195,7 @@ In het verslag, vermeld in het eerste lid, worden minstens de volgende punten be
 5° de formele moeilijkheden die bij de begeleiding, omkadering of behandeling zijn gerezen;<br>
 6° zo mogelijk, bij weigering of stopzetting van een begeleiding, omkadering of behandeling, een richtinggevend alternatief.<br>
 <br>
-§3. Psychologen die werkzaam zijn binnen de justitiehuizen kunnen, met het oog op het uitvoeren van een opdracht die tot doel heeft een opdrachtgever te informeren over een passende straf, maatregel, uitvoeringsmodaliteit of voorwaarde die aan een justitiabele kan worden opgelegd, of over de opvolging van een dergelijke straf, maatregel, uitvoeringsmodaliteit of voorwaarde, de noodzakelijke informatie omtrent een indicatiestelling van een justitiabele als vermeld in artikel 2, 9°, a), delen met het personeelslid van het justitiehuis dat instaat voor de uitvoering van de opdracht, zonder dat de psychologen wegens eventuele miskenning van het beroepsgeheim strafbaar kunnen worden gesteld op basis van artikel 458 van het Strafwetboek.<br>
+§3. Psychologen die werkzaam zijn binnen de justitiehuizen kunnen, met het oog op het uitvoeren van een opdracht die tot doel heeft een opdrachtgever te informeren over een passende straf, maatregel, uitvoeringsmodaliteit of voorwaarde die aan een justitiabele kan worden opgelegd, of over de opvolging van een dergelijke straf, maatregel, uitvoeringsmodaliteit of voorwaarde, de noodzakelijke informatie omtrent een indicatiestelling van een justitiabele als vermeld in artikel 2, 9°, a), delen met het personeelslid van het justitiehuis dat instaat voor de uitvoering van de opdracht, zonder dat de psychologen wegens eventuele miskenning van het beroepsgeheim strafbaar kunnen worden gesteld op basis van artikel 352 van het Strafwetboek.<br>
 <br>
 In deze paragraaf wordt verstaan onder psycholoog: elke persoon die de titel van psycholoog draagt in de zin van de wet van 8 november 1993 tot bescherming van de titel van psycholoog.
 
@@ -244,7 +244,7 @@ Bij het uitvoeren van de opdrachten, vermeld in artikel 5, 1° en 2°, nemen de 
 7° ze respecteren de deontologische regels die de uitvoering van de opdrachten, vermeld in artikel 5, 1° en 2°, beheersen, met behoud van de toepassing van de deontologische rechten en plichten die zijn opgenomen in deel II van het Vlaams personeelsstatuut;<br>
 8° in geval van interventies ten aanzien van een justitiabele die nog niet schuldig is bevonden, respecteren ze het vermoeden van onschuld;<br>
 9° voor een opdracht met een doel als vermeld in artikel 9, § 1, 4°, nemen ze het belang van de minderjarige als centraal uitgangspunt, betrekken ze de minderjarige op een passende wijze rekening houdende met zijn leeftijd en maturiteit en houden ze rekening met de belevings- en leefwereld van de minderjarige in zijn beide thuissituaties zodat de opdrachtgever een weloverwogen beslissing kan nemen op maat van de minderjarige;<br>
-10° voor een opdracht met een doel als vermeld in artikel 9, §1, 3°, vindt het ondersteunen en informeren van de justitiabele plaats onmiddellijk na het ontvangen van de opdracht en zolang de justitiabele dat nodig acht, met specifieke aandacht voor slachtoffers van misdrijven als vermeld in boek 2, titel Iter, van het Strafwetboek en andere categorieën van slachtoffers die de Vlaamse Regering kan bepalen;<br>
+10° voor een opdracht met een doel als vermeld in artikel 9, §1, 3°, vindt het ondersteunen en informeren van de justitiabele plaats onmiddellijk na het ontvangen van de opdracht en zolang de justitiabele dat nodig acht, met specifieke aandacht voor slachtoffers van misdrijven als vermeld in boek II, titel 4, hoofdstuk 1, van het Strafwetboek en andere categorieën van slachtoffers die de Vlaamse Regering kan bepalen;<br>
 11° zolang een justitiabele als vermeld in artikel 2, 9°, a), minderjarig is, kan hij een persoon die ouderlijk gezag heeft of een andere persoon die door de gerechtelijke overheid is aanvaard of aangewezen, laten informeren over een opdracht als vermeld in artikel 5, 1°, en zich door die persoon laten vergezellen tijdens de gesprekken waartoe de justitiabele uitgenodigd wordt.
 
 ### ART 17.
@@ -311,7 +311,7 @@ De personeelsleden van de private partner, vermeld in het eerste lid, kunnen met
 
 ### ART 25/2.
 
-De persoon die elektronisch toezichtsmateriaal beschadigt of verduistert, begaat een misdrijf dat wordt bestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 200 euro tot 4000 euro, of met een van die straffen alleen.<br>
+De persoon die elektronisch toezichtsmateriaal beschadigt of verduistert, begaat een misdrijf dat wordt bestraft met een straf van niveau 2.&nbsp;In afwijking van artikel 36, negende lid, 1°, artikel 38, negende lid, 1°, en artikel 52, §1, tweede lid, 7°, van het Strafwetboek, bedraagt het maximum van de geldboete altijd 32.000 euro.<br>
 <br>
 Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 4, 8 en 10 van het voormelde decreet, van toepassing op de handhaving van dit artikel.
 

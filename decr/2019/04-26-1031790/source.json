@@ -2,16 +2,16 @@
   "codex_id": 1031790,
   "title": "Decreet van 2019-04-26 houdende de justitiehuizen en de juridische eerstelijnsbijstand",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031790/VolledigDocument?datum=2025-08-03",
-  "source_sha256": "07492d8c62cd76426bf27c312da0fb98f3e422b25f6bd03a1086fd723dcb1723",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031790/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "87c40fd5fe835809d715cc680132f839e41b3fd0d552aa074f8b4854bc6cf0dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031790&param=informatie",
-  "as_of": "2025-08-03",
+  "as_of": "2026-09-01",
   "made": "2019-04-26",
   "gazette": "2019-06-17",
   "numac": 2019012937,
   "document_start": "3000-01-01",
   "document_end": null,
-  "in_force": "2025-08-03",
+  "in_force": "2026-09-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2025-08-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
