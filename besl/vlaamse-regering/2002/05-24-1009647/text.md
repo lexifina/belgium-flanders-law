@@ -30,7 +30,7 @@ Dit besluit is van toepassing op het gewoon voltijds secundair onderwijs, gefina
 4° indien er vier of een veelvoud van vier regelmatige anderstalige nieuwkomers worden uitgeschreven uit de deelnemende school of scholen van de scholengemeenschap en indien het totaal aantal regelmatige anderstalige nieuwkomers eveneens met vier of een veelvoud van vier is gedaald, moet het schoolbestuur van de school die optreedt als contactpunt, een herberekening van het aantal specifieke uren-leraar aanvragen.<br>
 <br>
 § 2.&nbsp;Boven op het aantal uren-leraar, vermeld in paragraaf 1, wordt aan elke contactschool een aantal specifieke uren-leraar toegekend onder de volgende modaliteiten:<br>
-1° het aantal specifieke uren-leraar bedraagt 0,9 per regelmatige anderstalige nieuwkomer op de eerste lesdag van februari van het voorafgaande schooljaar;<br>
+1° het aantal specifieke uren-leraar bedraagt 0,6 per regelmatige anderstalige nieuwkomer op de eerste lesdag van februari van het voorafgaande schooljaar;<br>
 2° de specifieke uren-leraar kunnen uitsluitend worden aangewend voor:<br>
 a) de ondersteuning, opvolging en begeleiding van gewezen anderstalige nieuwkomers in het reguliere onderwijs;<br>
 b) de expertise-overdracht en -opbouw in het reguliere onderwijs met betrekking tot gewezen anderstalige nieuwkomers.<br>
