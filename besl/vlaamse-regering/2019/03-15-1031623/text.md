@@ -25,11 +25,13 @@ Ter uitvoering van artikel 108, § 2, van hetzelfde decreet bedraagt het vast be
 
 ### ART 3.
 
-De inschrijvingsgelden van het volwassenenonderwijs worden op de volgende wijze overgemaakt aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen:<br>
-1° uiterlijk op 1 maart van het begrotingsjaar n betaalt het agentschap aan het centrum 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft;<br>
-2° uiterlijk op 31 maart van het begrotingsjaar n maakt het centrum 100% van de inschrijvingsgelden die het centrum in de periode september n-2 tot en met december n-2 heeft geïnd, over aan het agentschap;<br>
-3° uiterlijk op 1 oktober van het begrotingsjaar n betaalt het agentschap de resterende 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft;<br>
-4° uiterlijk op 31 oktober van het begrotingsjaar n maakt het centrum 100% van de inschrijvingsgelden die het centrum in de periode januari n-1 tot en met augustus n-1 heeft geïnd over aan het agentschap.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen betaalt:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;uiterlijk op 1 maart van het begrotingsjaar n aan het centrum 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft;<br>
+2°&nbsp;&nbsp; &nbsp;uiterlijk op 1 oktober van het begrotingsjaar n de resterende 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft.<br>
+<br>
+De centra maken de inschrijvingsgelden van het volwassenenonderwijs op de volgende wijze over aan het agentschap, vermeld in het eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;uiterlijk op 31 maart van het begrotingsjaar n 100% van de inschrijvingsgelden die het centrum in de periode september n-1 tot en met december n-1 heeft geïnd;<br>
+2°&nbsp;&nbsp; &nbsp;uiterlijk op 15 november van het begrotingsjaar n 100% van de inschrijvingsgelden die het centrum in de periode januari n tot en met augustus n heeft geïnd.
 
 ### ART 4.
 
