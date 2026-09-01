@@ -23,15 +23,13 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° besluit van 21 december 2018: het besluit van de Vlaamse Regering van 21 december 2018 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding;<br>
 2° wet van 22 januari 1985: de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
-3° WSE-loket: het digitaal loket van het departement.
+3° e-loket: het elektronische loket binnen het digitale platform Vlaamse opleidingsincentives van het departement voor de aanvraag, het beheer, de verwerking en de uitbetaling van het Vlaams opleidingsverlof.
 
 ## HOOFDSTUK 2. Aanmelding ter registratie
 
 ### ART 2.
 
-De aanmelding ter registratie, vermeld in artikel 4 van het besluit van 21 december 2018, verloopt via het WSE-loket.<br>
-<br>
-In afwijking van het eerste lid verloopt de aanmelding ter registratie voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b) en e), van de wet van 22 januari 1985, via elektronische gegevensuitwisseling.
+De aanmelding ter registratie, vermeld in artikel 4 van het besluit van 21 december 2018, verloopt via het e-loket.
 
 ### ART 3.
 
@@ -52,7 +50,7 @@ f) als de opleiding modules bevat, per module de volgende gegevens:<br>
 3) de inhoud;<br>
 4) het aantal uren contactonderwijs of het aantal lestijden;<br>
 5) in voorkomend geval, het aantal uren werkplekleren;<br>
-g) een zelfanalyse over de arbeidsmarktgerichtheid op basis van het beoordelingssysteem, vermeld in artikel 2, § 1, vierde lid, van het besluit van 21 december 2018;<br>
+g) ...;<br>
 h) in geval van een opleiding via blended leren, de mededeling van het learningmanagementsysteem dat wordt gehanteerd en de beschrijving van de wijze waarop wordt opgevolgd of de vooropgezette leerdoelstellingen zijn behaald.<br>
 <br>
 Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), van de wet van 22 januari 1985, geldt het eerste lid, 2°, d) en f), 5), niet. Voor de opleidingen, vermeld in artikel 109, § 1, 1°, b), van de voormelde wet, geldt het eerste lid, 2°, d) en f), niet.
@@ -103,28 +101,31 @@ Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c), d) en e), va
 
 ### ART 6.
 
-De registratie van de gegevens, vermeld in artikel 29, § 2, 1°, van het besluit van 21 december 2018, gebeurt binnen drie maanden na de einddatum van de opleiding of na het examen als dat na de einddatum plaatsvindt.
+De registratie van de gegevens, vermeld in artikel 29, § 2, eerste lid, 1°, van het besluit van 21 december 2018, gebeurt binnen drie maanden na de einddatum van de opleiding of na het examen als dat na de einddatum plaatsvindt.<br>
+<br>
+In afwijking van het eerste lid gebeurt de registratie van de gegevens, vermeld in artikel 29, §2, eerste lid, 1°, van het besluit van 21 december 2018, in geval van een opleiding in het volwassenenonderwijs uiterlijk op 31 oktober van het schooljaar dat volgt op het schooljaar waarin de opleiding plaatsvindt.&nbsp;<br>
+<br>
+De registratie van de gegevens, vermeld in artikel 29, §2, tweede lid, van het besluit van 21 december 2018, gebeurt bij examens voor de examencommissie binnen drie maanden na de deelname aan het examen.<br>
+<br>
+De registratie van de gegevens, vermeld in artikel 29, §2, tweede lid, van het besluit van 21 december 2018, gebeurt in geval van examens voor de erkenning en certificering van verworven competenties binnen drie maanden na de deelname aan het examen.
 
 ### ART 7.
 
-De registratie van de gegevens, vermeld in artikel 29, § 2, 2°, van het besluit van 21 december 2018, gebeurt uiterlijk op 15 december van het schooljaar dat volgt op het schooljaar waarin de opleiding plaatsvindt.
+De registratie van de gegevens, vermeld in artikel 29, § 2, eerste lid, 2°, van het besluit van 21 december 2018, gebeurt uiterlijk op 15 december van het schooljaar dat volgt op het schooljaar waarin de opleiding plaatsvindt.
 
 ### ART 8.
 
-De registratie van de gegevens, vermeld in artikel 29, § 2, 3°, van het besluit van 21 december 2018, gebeurt bij examens voor de examencommissie binnen een maand na de deelname aan het examen.<br>
-<br>
-De registratie van de gegevens, vermeld in artikel 29, § 2, 3°, van het besluit van 21 december 2018, gebeurt in geval van een opleiding in het volwassenenonderwijs uiterlijk op 31 oktober van het schooljaar dat volgt op het schooljaar waarin de opleiding plaatsvindt.<br>
-<br>
-De registratie van de gegevens, vermeld in artikel 29, § 2, 3°, van het besluit van 21 december 2018, gebeurt in geval van examens voor de erkenning en certificering van verworven competenties binnen een maand na de deelname aan het examen.<br>
-&nbsp;
+...
 
 ### ART 9.
 
-Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c) en d), van de wet van 22 januari 1985, gebeurt de registratie van de gegevens via elektronische gegevensuitwisseling. De gegevens worden maandelijks door het departement opgehaald.
+Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c) en d), van de wet van 22 januari 1985, gebeurt de registratie van de gegevens via elektronische gegevensuitwisseling. De gegevens worden door het departement opgehaald.<br>
+<br>
+Voor de opleidingen, vermeld in artikel 109 §1, 1°, e), 2°, 3° en, 4°, van de wet van 22 januari 1985, gebeurt de registratie in het e-loket.
 
 ### ART 10.
 
-De dagelijkse aanwezigheidslijst of het dagelijkse aanwezigheidsregister, vermeld in artikel 29, § 4, van het besluit van 21 december 2018, bevat al de volgende gegevens:<br>
+De dagelijkse aanwezigheidslijst, vermeld in artikel 29, § 4, van het besluit van 21 december 2018, bevat al de volgende gegevens:<br>
 1° de volgende gegevens over de deelnemer:<br>
 a) de voor- en achternaam;<br>
 b) het rijksregisternummer;<br>
@@ -140,13 +141,15 @@ c) in voorkomend geval, de naam en het registratienummer in de opleidingsdataban
 d) de datum;<br>
 e) het adres waar de opleiding plaatsvindt.<br>
 <br>
-De lesgever en elke aanwezige deelnemer ondertekenen de dagelijkse aanwezigheidslijst of het dagelijkse aanwezigheidsregister.
+De lesgever en elke aanwezige deelnemer ondertekenen de dagelijkse aanwezigheidslijst.<br>
+<br>
+In afwijking van het eerste lid bevat de dagelijkse aanwezigheidslijst voor de opleidingen, vermeld in artikel 109, §1, a) en e), van de wet van 22 januari 1985, uitsluitend de gegevens, vermeld in het eerste lid, 1°, a) en b), 2°, 3° en 4°.
 
 ## HOOFDSTUK 4. Aanvraag tot terugbetaling
 
 ### ART 11.
 
-De aanvraag tot terugbetaling aan de werkgever, vermeld in artikel 33 van het besluit van 21 december 2018, wordt ingediend via het WSE-loket.
+De aanvraag tot terugbetaling aan de werkgever, vermeld in artikel 32 van het besluit van 21 december 2018, wordt ingediend via het e-loket.
 
 ### ART 12.
 
@@ -159,24 +162,25 @@ De aanvraag tot terugbetaling bevat al de volgende gegevens:<br>
 a) de voor- en achternaam;<br>
 b) het INSZ-nummer;<br>
 c) het e-mailadres;<br>
-d) in geval van een opleiding als vermeld in artikel 5 van het ministerieel besluit van 13 februari 2019 tot specificatie van competenties en vaststelling van een beoordelingssysteem, vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 21 december 2018 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding, gevolgd door een werknemer die een diploma behaalde voorafgaand aan het academiejaar 1999-2000: het hoogst behaalde diploma;<br>
+d) in geval van een opleiding als vermeld in artikel 2, §1, 1°, i), van het besluit van 21 december 2018, gevolgd door een werknemer die een diploma behaalde voorafgaand aan het academiejaar 1999-2000: het hoogst behaalde diploma;<br>
 2° de volgende gegevens over de werkgever:<br>
 a) de naam;<br>
 b) het KBO-nummer;<br>
 3° de volgende gegevens over de opleiding:<br>
 a) de naam;<br>
 b) het registratienummer in de opleidingsdatabank;<br>
-c) de modules waarvoor is ingeschreven;<br>
+c) de modules waarvoor is ingeschreven als de opleiding modulair is opgebouwd;<br>
 d) het aantal uren of het aantal studiepunten waarvoor is ingeschreven;<br>
-e) de begin- en einddatum van de opleiding, en de datum van het examen als dat na de einddatum plaatsvindt.<br>
+e) de begin- en einddatum van de opleiding, en de datum van het examen als dat na de einddatum plaatsvindt;<br>
+4° de aanduiding dat het een bedrijfsinterne opleiding als vermeld in artikel 109, §2, vijfde lid, van de wet van 22 januari 1985, betreft;&nbsp;<br>
+5° in geval van een bedrijfsinterne opleiding als vermeld in artikel 109, §2, vijfde lid, van de wet van 22 januari 1985, het referentienummer van het gunstige preadvies;<br>
+6° de aanduiding dat het een opleiding op eigen initiatief van de werknemer of een opleiding op voorstel van de werkgever betreft.<br>
 <br>
 In geval van een loopbaangerichte opleiding als vermeld in artikel 107ter, 3°, van de wet van 22 januari 1985, bevat de aanvraag tot terugbetaling bijkomend de naam en het KBO-nummer van de opleidingsverstrekker.<br>
 <br>
 Voor de opleidingen, vermeld in artikel 109, § 1, 1°, c), van de wet van 22 januari 1985, bevat de aanvraag tot terugbetaling in plaats van de gegevens, vermeld in het eerste lid, 3°, al de volgende gegevens over de opleiding:<br>
 1° het aantal examens waarvoor is ingeschreven;<br>
-2° de datum van de inschrijving en de datum van het examen.<br>
-<br>
-Als de eigen werkgever ook de opleidingsverstrekker is, bevat de aanvraag tot terugbetaling bijkomend een verklaring dat aan de voorwaarde, vermeld in artikel 32, vierde lid, van het besluit van 21 december 2018, wordt voldaan.
+2° de datum van de inschrijving en de datum van het examen.
 
 ## HOOFDSTUK 5. Slotbepaling
 
