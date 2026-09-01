@@ -10,7 +10,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decr
 
 ### ART. 3.
 
-...
+§1. De klassenraad beslist op grond van alle beschikbare informatie over het met vrucht beëindigen van het kleuteronderwijs of over de doorstroom naar het lager onderwijs in het kader van een individueel aangepast curriculum voor leerlingen met een IAC-verslag, vermeld in artikel 13 van het decreet en het opleggen van een taalintegratietraject als vermeld in artikel 11quater van het decreet. De beraadslaging van de klassenraad wordt schriftelijk vastgelegd. Elk lid van de klassenraad is verplicht tot geheimhouding over de beraadslaging.<br>
+<br>
+§2. De notulen van de beraadslaging van de klassenraad worden opgenomen in een register dat gedurende vijf jaar op school aanwezig is en door de onderwijsinspectie kan worden gecontroleerd.<br>
+<br>
+De voorzitter en alle leden van de klassenraad ondertekenen de notulen van de beraadslaging van de klassenraad.<br>
+<br>
+§3. In het register, vermeld in paragraaf 2, eerste lid, wordt naast de voornaam, achternaam en geboortedatum van elke leerling vermeld of de leerling het kleuteronderwijs al dan niet met vrucht heeft beëindigd of al dan niet doorstroomt in het kader van het individueel aangepast curriculum.
 
 ### ART. 4.
 
@@ -57,6 +63,10 @@ Het getuigschrift basisonderwijs dat aan de deelnemer wordt uitgereikt, wordt af
 ### ART. 12.
 
 De schoolbesturen ontvangen jaarlijks vanwege het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen een vergoeding van 1000 euro in het jaar dat hun school fungeert als examencommissie.
+
+### ART 12/1.
+
+Leerlingen die het kleuteronderwijs met vrucht beëindigd hebben of die kunnen doorstromen op basis van het individueel aangepast curriculum, ontvangen een attest dat wordt opgesteld overeenkomstig het model dat is opgenomen in bijlage 3, die bij dit besluit is gevoegd.
 
 ### ART. 13.
 
@@ -137,4 +147,36 @@ van het schoolbestuur van de school<br>
 <br>
 voegt hiermee het studiebewijssupplement toe aan het getuigschrift basisonderwijs van &nbsp;(<em>voor- en achternaam van de leerling in drukletters</em>)<br>
 .................................................................................................................<br>
+&nbsp;
+
+### BIJLAGE 3
+
+Bijlage 3. Model van het attest van het met vrucht beëindigen van het kleuteronderwijs of het doorstromen naar het lager onderwijs in het kader van het individueel aangepast curriculum<br>
+<br>
+VLAAMSE GEMEENSCHAP<br>
+Attest van het met vrucht beëindigen van het kleuteronderwijs&nbsp;<br>
+uitgereikt krachtens artikel 13 van het decreet basisonderwijs van 25 februari 1997 en het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het beslissen over het met vrucht beëindigen van het kleuteronderwijs en de uitreiking van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan.<br>
+<br>
+De afgevaardigde (voor- en achternaam in drukletters)<br>
+.................................................................................................................<br>
+van het schoolbestuur van de school&nbsp;<br>
+(volledige naam en adres van de administratieve vestigingsplaats van de school)<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+die erkend is door de Vlaamse Gemeenschap<br>
+<br>
+<br>
+<br>
+bevestigt hiermee dat (voor- en achternaam van de leerling in drukletters)<br>
+.................................................................................................................<br>
+geboren op (geboortedatum, met de maand voluit geschreven)<br>
+.................................................................................................................<br>
+het kleuteronderwijs met vrucht beëindigd heeft/in het kader van het individueel aangepast curriculum kan doorstromen naar het lager onderwijs (schrappen wat niet past).<br>
+<br>
+<br>
+Dit attest van het met vrucht beëindigen van het kleuteronderwijs/het doorstromen naar het lager onderwijs in het kader van het individueel aangepast curriculum (schappen wat niet past) is uitgereikt in het schooljaar ............... - ............... (twee opeenvolgende jaartallen van telkens vier cijfers).<br>
+<br>
+Handtekening voor het schoolbestuur &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+<br>
 &nbsp;
