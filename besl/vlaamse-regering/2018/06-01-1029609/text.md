@@ -23,7 +23,7 @@ Besluit :
 
 ### ART 1.
 
-Dit besluit is, tenzij het uitdrukkelijk anders is bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde basis- en secundaire scholen, centra voor deeltijds beroepssecundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat de leertijd en het secundair onderwijs betreft, en centra voor leerlingenbegeleiding.
+Dit besluit is, tenzij het uitdrukkelijk anders is bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde basis- en secundaire scholen, centra voor deeltijds beroepssecundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat de leertijd en het secundair onderwijs betreft, de centra voor leerlingenbegeleiding en de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht.
 
 ## HOOFDSTUK II. Operationalisering van de leerlingenbegeleiding
 
@@ -111,6 +111,8 @@ Leerlingen of ouders die verzet hebben aangetekend, zijn verplicht het systemati
 <br>
 De leerlingen of de ouders bezorgen binnen vijftien dagen na de datum van het systematische contact een verslag van het systematische contact aan een beroepsbeoefenaar in de gezondheidszorg van het centrum dat de school van de betrokken leerling begeleidt.<br>
 <br>
+§2/1. In afwijking van paragraaf 2, eerste lid, kan voor leerlingen die een onderwijstraject volgen in de GI-school als vermeld in artikel 6, §1, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht, of hun ouders die zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van het centrum, het systematische contact uitgevoerd worden door de beroepsbeoefenaar in de gezondheidszorg die bevoegd is voor de opdracht in kwestie, met wie wordt samengewerkt in de gemeenschapsinstelling.<br>
+<br>
 § 3. Leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs of hun ouders kunnen zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van een centrum. In dat geval wordt het systematische contact uitgevoerd door een andere medewerker van het centrum of door een beroepsbeoefenaar in de gezondheidszorg, bevoegd voor de opdracht in kwestie, die niet tot een centrum behoort.<br>
 <br>
 Het verzet wordt schriftelijk meegedeeld aan de directeur van het centrum dat voor het systematische contact gekozen is met een aangetekende brief of tegen afgifte van een ontvangstbewijs of via een beveiligde digitale zending. Het verzet is getekend en gedateerd.<br>
@@ -194,14 +196,16 @@ De afspraken over de schoolspecifieke samenwerking tussen de school en het centr
 <br>
 De bemiddelingscommissie bestaat uit:<br>
 1° de inspecteur-generaal van de onderwijsinspectie die voorzitter is;<br>
-2° vier leden van de onderwijsinspectie, aangewezen door de inspecteur-generaal;<br>
-3° twee vertegenwoordigers van de betrokken centrumnetten en twee vertegenwoordigers van het betrokken onderwijsnet.<br>
+2° één lid van de onderwijsinspectie, aangewezen door de inspecteur-generaal;<br>
+3° één vertegenwoordiger per betrokken centrumnet en één vertegenwoordiger van het betrokken onderwijsnet.<br>
 <br>
 § 2. De voorzitter van de bemiddelingscommissie kan op eigen initiatief vaststellen dat een bepaalde school geen samenwerkingsafspraken heeft met een centrum. De voorzitter deelt dit bij aangetekend schrijven mee aan de betrokken school.<br>
 <br>
 § 3. De bemiddelingscommissie start en beëindigt de bemiddeling binnen dertig dagen na de oproeping door de voorzitter.<br>
 <br>
-Als alle betrokken partijen gehoord zijn, kan vastgesteld worden dat de bemiddeling niet geslaagd is. Die vaststelling wordt in consensus genomen. De vaststelling wordt samen met een verslag over de bemiddeling meegedeeld aan de Vlaamse minister, bevoegd voor het onderwijs.
+Als alle betrokken partijen gehoord zijn, kan vastgesteld worden dat de bemiddeling niet geslaagd is. Die vaststelling wordt in consensus genomen. De vaststelling wordt samen met een verslag over de bemiddeling meegedeeld aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Het resultaat van de bemiddeling van de bemiddelingscommissie wordt door de onderwijsinspectie meegedeeld aan de bevoegde diensten van de Vlaamse Regering.
 
 ## HOOFDSTUK IV. [Specifiek werkingsbudget voor de centra voor leerlingenbegeleiding (verv. BVR 3 juni 2022, art. 1, I: 1 september 2022)]
 
@@ -255,26 +259,27 @@ Elke medewerker van het centrum is ervoor verantwoordelijk het multidisciplinair
 5° overstap naar het secundair onderwijs;<br>
 6° revalidatie tijdens de lestijden;<br>
 7° definitieve uitsluiting;<br>
-8° leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs huisonderwijs;<br>
+8° leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs;<br>
 9° lengte;<br>
 10° gewicht;<br>
 11° gehoor;<br>
 12° visus;<br>
 13° pubertaire ontwikkeling;<br>
-14° mondgezondheid.<br>
-15° leefstijl en gezondheid, met name gegevens met betrekking tot lichamelijke gezondheid, socio-emotionele gezondheid, voeding, beweging, alcohol, roken, drugs, gamen en seksuele gezondheid.<br>
+14° mondgezondheid;<br>
+15° leefstijl en gezondheid, met name gegevens met betrekking tot lichamelijke gezondheid, socio-emotionele gezondheid, voeding, beweging, alcohol, roken, drugs, gamen en seksuele gezondheid;<br>
+16° permanent onderwijs aan huis.<br>
 <br>
 § 2. Voor de thema's, vermeld in paragraaf 1, kunnen nomenclatuurfiches opgemaakt worden. Een nomenclatuurfiche is een technische fiche die een exacte beschrijving geeft van welke informatie op welke manier gepseudonimiseerd moet worden.<br>
 <br>
 De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, de bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, en de centrumnetten stellen samen de inhoud van de nomenclatuurfiches vast.<br>
 <br>
-§ 3. De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 1° tot en met 8°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht verloopt dagelijks via webservices.<br>
+§ 3. De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 1° tot en met 8°, en 16°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht verloopt dagelijks via webservices.<br>
 <br>
 De bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 15°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht vindt jaarlijks plaats.<br>
 <br>
-§ 4. De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 1°, 2°, 5°, 6° en 8° aan het Agentschap voor Onderwijsdiensten met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling. Het Agentschap voor Onderwijsdiensten is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel de controle van de toelatingsvoorwaarden tot het onderwijs mogelijk te maken. De gegevens worden bewaard tot de beëindiging van de schoolloopbaan van de leerling.<br>
+§ 4. De centra bezorgen de gegevens voor de thema's, vermeld in paragraaf 1, 1°, 2°, 5°, 6°, 8°, en 16°, aan het Agentschap voor Onderwijsdiensten met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling. Het Agentschap voor Onderwijsdiensten is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel de controle van de toelatingsvoorwaarden tot het onderwijs mogelijk te maken. De gegevens worden bewaard tot de beëindiging van de schoolloopbaan van de leerling.<br>
 <br>
-De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 3° en 7° aan het Departement Onderwijs en Vorming op een dergelijke wijze dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden. Het Departement Onderwijs en Vorming is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel beleidsondersteunende statistische analyses te kunnen formuleren. De bewaartermijn van de gegevens is onbeperkt.<br>
+De centra bezorgen de gegevens voor de thema's, vermeld in paragraaf 1, 3°, 7° en 16°, aan het Departement Onderwijs en Vorming op een dergelijke wijze dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden. Het Departement Onderwijs en Vorming is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel beleidsondersteunende statistische analyses te kunnen formuleren. De bewaartermijn van de gegevens is onbeperkt.<br>
 <br>
 De centra bezorgen de gepseudonimiseerde gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 15°,&nbsp;aan het Departement Zorg. Het Departement Zorg is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel:<br>
 1° beleidsinformatie te ontwikkelen waarmee gezondheidsdoelstellingen en -indicatoren kunnen worden opgevolgd;<br>
