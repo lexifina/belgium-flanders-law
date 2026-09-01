@@ -115,6 +115,8 @@ De aanvraag van een bespreking van het verslag schort de periode van dertig kale
 Er worden geen doorlichtingsbezoeken uitgevoerd tussen 10 juni en 15 september.<br>
 <br>
 In afwijking van de periode, vermeld in het eerste lid, kan een controle op de hygiëne, bewoonbaarheid en veiligheid plaatsvinden tussen 1 september en 30 juni.<br>
+<br>
+In afwijking van de periode, vermeld in het eerste lid, kan een doorlichting of controle in de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht, plaatsvinden tussen 15 augustus en 6 juli.<br>
 &nbsp;
 
 ### ART. 10.
@@ -143,7 +145,7 @@ Het toezicht, vermeld in artikel 38, § 5, van het decreet van 8 mei 2009, besta
 
 ### ART. 15.
 
-De mededeling van de Vlaamse Regering, vermeld in artikel 41, § 1, van het decreet van 8 mei 2009, wordt gedaan met een beveiligde zending. Die mededeling bepaalt de datum waarop de erkenning wordt ingetrokken en verwijst naar de mogelijkheden om:<br>
+De mededeling van de Vlaamse Regering, vermeld in artikel 41, § 1, van het decreet van 8 mei 2009, wordt gedaan met een beveiligde zending. Die mededeling verwijst naar de mogelijkheden om:<br>
 1° de procedure tot intrekking van de erkenning op te schorten;<br>
 2° beroep aan te tekenen tegen de onmogelijkheid om de procedure tot intrekking van de erkenning op te schorten.<br>
 <br>
@@ -155,19 +157,34 @@ Het verzoek tot opschorting van de procedure tot intrekking van de erkenning, ve
 
 ### ART 16/1.
 
-§ 1. Het beroep tegen een ongunstig advies "zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen", vermeld in artikel 41, § 2, vierde lid, van het decreet van 8 mei 2009, wordt met een gemotiveerd bezwaarschrift via een beveiligde zending ingediend bij de inspecteur-generaal. Het gemotiveerde bezwaarschrift geeft aan waarom een mogelijkheid tot opschorting van de procedure tot intrekking van de erkenning gerechtvaardigd is.<br>
+§1. Het beroep tegen een ongunstig advies "zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen", vermeld in artikel 41, § 2, vierde lid, van het decreet van 8 mei 2009, wordt met een gemotiveerd bezwaarschrift via een beveiligde zending ingediend bij de inspecteur-generaal. Het gemotiveerde bezwaarschrift geeft aan waarom een mogelijkheid tot opschorting van de procedure tot intrekking van de erkenning gerechtvaardigd is.<br>
 <br>
-§ 2. Binnen zestig kalenderdagen na de ontvangst van het beroep onderzoekt een paritair samengesteld doorlichtingsteam, dit wil zeggen een team dat voor de helft bestaat uit inspectieleden afkomstig uit het vrij onderwijs en voor de helft uit inspectieleden afkomstig uit het officieel onderwijs, de argumenten van het bestuur.<br>
+§2. Binnen zestig kalenderdagen na de ontvangst van het beroep onderzoekt een paritair samengesteld doorlichtingsteam, dit wil zeggen een team dat voor de helft bestaat uit inspectieleden afkomstig uit het vrij onderwijs en voor de helft uit inspectieleden afkomstig uit het officieel onderwijs, de argumenten van het bestuur.<br>
 <br>
 De inspecteur-generaal stelt het doorlichtingsteam paritair samen. Het bestaat uit minstens twee inspecteurs en wordt voorgezeten door een coördinerende inspecteur. De inspecteurs mogen geen deel hebben uitgemaakt van het doorlichtingsteam dat het ongunstige advies heeft uitgebracht.<br>
 <br>
 Het paritair samengestelde doorlichtingsteam kan alle onderzoekdaden verrichten.<br>
 <br>
-§ 3. Het paritair samengestelde doorlichtingsteam geeft een van de volgende adviezen:<br>
+§3. Het paritair samengestelde doorlichtingsteam geeft een van de volgende adviezen:<br>
 1° het bestuur kan verzoeken om de procedure tot intrekking van de erkenning op te schorten, op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
 2° het ongunstige advies "zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen" blijft behouden.<br>
 <br>
-§ 4. De leden van het doorlichtingsteam beslissen in consensus. Het verslag met het advies motiveert omstandig de beslissing. Het verslag van het paritair samengestelde doorlichtingsteam wordt binnen twintig kalenderdagen na afloop van het onderzoek aan de Vlaamse Regering bezorgd en aan het bestuur betekend met een beveiligde zending, onder de verantwoordelijkheid van de inspecteur-generaal.
+§4. Het paritair samengestelde doorlichtingsteam, vermeld in paragraaf 2, stelt in consensus een verslag met een omstandig gemotiveerd advies op. Het verslag met het advies wordt binnen twintig kalenderdagen na afloop van het onderzoek schriftelijk aan het bestuur bezorgd, onder de verantwoordelijkheid van de inspecteur-generaal.&nbsp;<br>
+<br>
+Binnen dertig kalenderdagen nadat het advies aan het bestuur is bezorgd, wordt het bestuur schriftelijk op de hoogte gebracht van de beslissing. De termijn van dertig kalenderdagen is een termijn van orde. De mogelijke beslissingen zijn:<br>
+1°&nbsp;&nbsp; &nbsp;het bestuur kan verzoeken om de procedure tot intrekking van de erkenning op te schorten, op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
+2°&nbsp;&nbsp; &nbsp;het ongunstige advies “zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen” blijft behouden. De instelling maakt een verbeterplan op en laat zich extern begeleiden. De instelling realiseert de verbeteringen binnen vooraf bepaalde termijnen. De onderwijsinspectie volgt het verbeterplan op conform paragraaf 5;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het ongunstige advies “zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen” blijft behouden. Er wordt bepaald op welke datum de erkenning van de instelling wordt ingetrokken. Het gaat om een datum binnen een periode van maximaal achttien maanden na de beslissing.<br>
+<br>
+§5. Het verbeterplan van de instelling, vermeld in paragraaf 4, tweede lid, 2°, wordt gedurende de vastgelegde termijnen opgevolgd door de onderwijsinspectie. De onderwijsinspectie rapporteert daarover trimestrieel. Als de verbeteringen worden gerealiseerd binnen de vastgelegde termijnen, kan de procedure tot intrekking van de erkenning worden opgeschort. Als de verbeteringen niet worden gerealiseerd binnen de vastgelegde termijnen, kan de procedure tot intrekking van de erkenning worden opgestart.&nbsp;<br>
+<br>
+Na de vastgelegde termijnen, vermeld in het eerste lid, vindt een nieuwe doorlichting plaats.
+
+### ART 16/2.
+
+Als het bestuur niet gebruikmaakt van de mogelijkheid om te verzoeken de procedure tot intrekking van de erkenning niet op te starten, bepaalt de minister de datum waarop de erkenning van de instelling wordt ingetrokken. Het gaat om een datum binnen een periode van maximaal achttien maanden na de beslissing van de minister.<br>
+<br>
+Als het bestuur geen beroep aantekent tegen de onmogelijkheid tot opschorting van de procedure tot intrekking van de erkenning van de instelling, bepaalt de minister de datum waarop de erkenning van de instelling wordt ingetrokken. Het gaat om een datum binnen een periode van maximaal achttien maanden na de beslissing van de minister.
 
 ## HOOFDSTUK 6 Werkingscode
 

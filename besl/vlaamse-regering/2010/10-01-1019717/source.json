@@ -2,16 +2,16 @@
   "codex_id": 1019717,
   "title": "Besluit van de Vlaamse Regering van 2010-10-01 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs met betrekking tot de wijze waarop sommige bevoegdheden van de inspectie worden uitgevoerd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019717/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "ea14a58f6bc7146051e6272b86a56dc0f1b6303ce4ab79f34e8b35b2fa73edae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019717/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "6070ef0dcd8c8c9acae4a61d1f93ec6345f9af5af69748429a196d36a60d5bd2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019717&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-09-01",
   "made": "2010-10-01",
   "gazette": "2010-11-26",
   "numac": 2010205935,
   "document_start": "2010-11-26",
   "document_end": "2018-08-31",
-  "in_force": "2026-01-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
