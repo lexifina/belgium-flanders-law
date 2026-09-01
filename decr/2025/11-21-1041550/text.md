@@ -262,6 +262,11 @@ In artikel 130, §2, vijfde lid, van hetzelfde decreet worden de woorden “en d
 
 ## Hoofdstuk 7. Wijzigingen van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht
 
+### ART 44.
+
+Aan artikel 5, eerste lid, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht wordt een punt 14° toegevoegd, dat luidt als volgt:<br>
+“14° een kwaliteitsbeleid voeren als vermeld in artikel 4, §2, vijfde lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, met het oog op het tegemoetkomen aan het referentiekader kwaliteit van onderwijs in de gemeenschapsinstellingen.”.
+
 ## Hoofdstuk 8. Slotbepaling
 
 ### ART 45.

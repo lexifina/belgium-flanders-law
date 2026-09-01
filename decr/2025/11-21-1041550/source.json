@@ -2,16 +2,16 @@
   "codex_id": 1041550,
   "title": "Decreet van 2025-11-21 tot wijziging van verschillende decreten van het beleidsdomein Onderwijs en Vorming, wat betreft de werking van de Vlaamse onderwijsinspectie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041550/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "2ad445f31dbbff16467f32f64addb71dba4643d4c32ea53fa2e7211150d30349",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041550/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "99b53c3c9ff478dae500db2d9d8e87ca794e4f51effd9187786334a74488e9eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041550&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-09-01",
   "made": "2025-11-21",
   "gazette": "2025-12-11",
   "numac": 2025009306,
   "document_start": "2026-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 46,
-  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-01",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
