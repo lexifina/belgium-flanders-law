@@ -117,7 +117,7 @@ Ze verrichten de controle vóór de verkiezingsdag, op de verkiezingsdag zelf en
 <br>
 § 3. Uiterlijk tien dagen na de dag van de verkiezingen bezorgen ze een verslag aan de Vlaamse Regering en aan het Vlaams Parlement. Hun verslag kan aanbevelingen bevatten in verband met de apparatuur en de software die zijn gebruikt en de procedures die zijn toegepast, en ook aanbevelingen over juridische aangelegenheden.<br>
 <br>
-§ 4. De deskundigen zijn tot geheimhouding verplicht. Elke schending van de geheimhoudingsplicht, buiten het geval van oproeping om in rechte of voor een parlementaire onderzoekscommissie getuigenis af te leggen en buiten het geval dat de wet verplicht die geheimen bekend te maken, wordt bestraft met een gevangenisstraf van acht dagen tot zes maanden en met een geldboete van honderd euro tot vijfhonderd euro.
+§ 4. De deskundigen zijn tot geheimhouding verplicht. Elke schending van de geheimhoudingsplicht, buiten het geval van oproeping om in rechte of voor een parlementaire onderzoekscommissie getuigenis af te leggen en buiten het geval dat de wet verplicht die geheimen bekend te maken, wordt bestraft met een straf als vermeld in artikel 352 van het Strafwetboek.
 
 ## HOOFDSTUK 3. Op de verkiezingsdag
 
