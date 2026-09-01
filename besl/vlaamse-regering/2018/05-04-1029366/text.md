@@ -35,7 +35,7 @@ Dit besluit regelt de voorwaarden waaronder lokale samenwerkingsinitiatieven kun
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde dienst van het beleidsdomein Onderwijs en Vorming: de Canon Cultuurcel van het Departement Onderwijs en Vorming;<br>
+1° bevoegde dienst van het beleidsdomein Onderwijs en Vorming: het Departement Onderwijs en Vorming;<br>
 2° decreet van 9 maart 2018: het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs;<br>
 3° externe partner: een externe partner als vermeld in artikel 137, eerste lid, van het decreet van 9 maart 2018, hetzij een organisatie of een individuele kunstenaar;<br>
 4° instelling: een instelling voor hoger onderwijs waarvan de opleidingen geaccrediteerd zijn krachtens de bepalingen van deel II, titel 3, hoofdstuk 9 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
@@ -160,7 +160,7 @@ De beoordelingscommissie maakt voor 3 maart een gemotiveerde rangschikking van d
 
 ### ART 10.
 
-De bevoegde dienst van het departement Onderwijs en Vorming deelt uiterlijk op 15 april de beslissing van de minister, mee aan de academies, de scholen, de instellingen voor hoger onderwijs en de externe partners in kwestie.
+De bevoegde dienst&nbsp;van het beleidsdomein Onderwijs en Vorming deelt uiterlijk op 15 april de beslissing van de minister, mee aan de academies, de scholen, de instellingen voor hoger onderwijs en de externe partners in kwestie.
 
 ## Hoofdstuk 3 Organisatie van een lokaal samenwerkingsinitiatief
 
@@ -172,7 +172,7 @@ De indienende academie en de school voor basis-, secundair of de instelling voor
 
 ### ART 12.
 
-De aanvraag, die uiterlijk op 1 maart voorafgaand aan het schooljaar waarin het samenwerkingsinitiatief van start gaat wordt ingediend, wordt vergezeld van een jaarplanning van dat schooljaar, conform artikel 137, tweede lid, 1° van het decreet van 9 maart 2018. Voor het tweede en derde schooljaar wordt een geactualiseerde jaarplanning bezorgd aan de bevoegde dienst van het departement Onderwijs en Vorming op uiterlijk 31 juli voorafgaand aan het schooljaar in kwestie.<br>
+De aanvraag wordt uiterlijk op 1 maart van het schooljaar vóór het schooljaar waarin het lokale samenwerkingsinitiatief van start gaat, bij de bevoegde dienst van het beleidsdomein Onderwijs en Vorming ingediend. Conform artikel 137, tweede lid, 1°, van het decreet van 9 maart 2018 wordt een beknopte, maar volledige planning van de leeractiviteiten voor de schooljaren waarin het samenwerkingsinitiatief loopt, opgenomen in de aanvraag.<br>
 <br>
 De indienende academie kan de leeractiviteiten vrij inplannen in de loop van het schooljaar, na onderhandeling in het lokaal comité en in samenspraak met de school of de instelling voor hoger onderwijs en de externe partners in kwestie.<br>
 &nbsp;
@@ -199,7 +199,7 @@ De schoolbesturen van de academie en de school nemen in de samenwerkingsovereenk
 
 ### ART 14.
 
-De academie en de scholen, instellingen voor hoger onderwijs en desgevallend externe partners zijn samen verantwoordelijk voor de kwaliteit van het lokale samenwerkingsinitiatief. Ze gaan na in welke mate de toegekende ondersteuning bijdraagt tot het realiseren van de doelstellingen, vermeld in artikel 136 van het decreet van 9 maart 2018.<br>
+Conform artikel 146, eerste lid, van het decreet van 9 maart 2018 gaan de academie en de scholen, de instellingen voor hoger onderwijs en, in voorkomend geval, de externe partners na in welke mate de toegekende ondersteuning ertoe bijdraagt om de doelstellingen, vermeld in artikel 136 van het voormelde decreet, te realiseren.<br>
 <br>
 Als een van de partners de samenwerking stopzet, wordt bij de bevoegde dienst van het beleidsdomein Onderwijs en Vorming een verslag over de periode van samenwerking ingediend op uiterlijk 30 juni voor het begin van het daaropvolgende schooljaar.<br>
 <br>
@@ -210,17 +210,15 @@ Als de samenwerking met een externe partner stopgezet wordt, kan het samenwerkin
 
 ### ART 15.
 
-§ 1. De academie bezorgt jaarlijks in samenspraak met de betrokkenen in het samenwerkingsinitiatief een verslag aan de bevoegde dienst van het beleidsdomein Onderwijs en Vorming uiterlijk 31 juli voor het begin van het daaropvolgende schooljaar waarop de ondersteuning, vermeld in artikel 3, betrekking heeft.<br>
+§ 1.&nbsp;De academie bezorgt uiterlijk op 31 juli nadat het samenwerkingsinitiatief is afgelopen, in samenspraak met de betrokken scholen of instellingen voor hoger onderwijs en in voorkomend geval de externe partners een eindverslag aan de bevoegde dienst van het beleidsdomein Onderwijs en Vorming.<br>
 <br>
 De verslaggeving gebeurt via een elektronisch formulier, waarvan het model door de minister wordt bepaald.<br>
 <br>
 De academie houdt een overzicht van de kosten en de bewijsstukken van de uitgaven ter beschikking van controle door het Agentschap voor Onderwijsdiensten.<br>
 <br>
-§ 2. De onderwijsinspectie kan het samenwerkingsinitiatief evalueren in het licht van een doorlichting, vermeld in artikel 2, 7° /1 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, die zij uitvoert in een academie of school die aan het samenwerkingsinitiatief deelneemt.<br>
+§ 2.&nbsp;De onderwijsinspectie gaat na in welke mate de academie, de scholen, de instellingen voor hoger onderwijs en de externe partners de doelstellingen, vermeld in artikel 136 van het decreet van 9 maart 2018, hebben bereikt en welke initiatieven ze hebben ondernomen om de kwaliteitszorg van het samenwerkingsinitiatief te realiseren.<br>
 <br>
-Op basis van het jaarlijkse verslag, vermeld in paragraaf een, eerste lid, of het ontbreken ervan, kan de minister de onderwijsinspectie gelasten om een onderzoek ter plekke te voeren.<br>
-<br>
-De inspectie en het Agentschap voor Onderwijsdiensten gaan na of de academie, de scholen, de instellingen voor hoger onderwijs en de externe partners de doelstellingen, vermeld in artikel 136 van het voormelde decreet van 9 maart 2018, nastreven en daarbij de toegekende puntenenveloppe en het toegekende werkingsbudget doelmatig gebruiken.<br>
+Het Agentschap voor Onderwijsdiensten kan de doelmatige besteding van de toegekende puntenenveloppe en het toegekende werkingsbudget nagaan.<br>
 <br>
 § 3. Op advies van de onderwijsinspectie kan de minister beslissen om een lokaal samenwerkingsinitiatief stop te zetten.<br>
 &nbsp;
@@ -231,7 +229,7 @@ De inspectie en het Agentschap voor Onderwijsdiensten gaan na of de academie, de
 
 In samenspraak met de pedagogische begeleidingsdiensten, zet de bevoegde dienst van het beleidsdomein Onderwijs en Vorming een delend en lerend netwerk op waaraan leerkrachten, docenten en externe partners die betrokken zijn bij de lokale samenwerkingsinitiatieven, kunnen deelnemen.<br>
 <br>
-Op basis van de opgedane ervaring en expertise ontwikkelen de deelnemers aan het netwerk, vermeld in het eerste lid, materialen die andere academies, scholen, instellingen voor hoger onderwijs kunnen helpen bij het opstarten en vormgeven van lokale samenwerkingsinitiatieven, in relatie tot de doelstellingen, vermeld in artikel 136 van het decreet van 9 maart 2018.<br>
+Op basis van de opgedane ervaring en expertise ontwikkelen de deelnemers aan het netwerk, vermeld in het eerste lid, materialen die andere academies, scholen, instellingen voor hoger onderwijs kunnen helpen bij het opstarten en vormgeven&nbsp;en versterken van de kwaliteitsontwikkeling van lokale samenwerkingsinitiatieven, in relatie tot de doelstellingen, vermeld in artikel 136 van het decreet van 9 maart 2018.<br>
 &nbsp;
 
 ## Hoofdstuk 5 Slotbepalingen
