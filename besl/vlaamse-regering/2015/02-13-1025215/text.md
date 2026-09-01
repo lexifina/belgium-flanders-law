@@ -8,7 +8,7 @@
 
 ### ART. 1.
 
-Dit   besluit is van toepassing op het basisonderwijs en op het secundair   onderwijs.
+Dit besluit is van toepassing op het basisonderwijs, op het secundair onderwijs en op het onderwijs in de GI-school, vermeld in artikel 2, 10°, van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht.
 
 ### ART. 2.
 
