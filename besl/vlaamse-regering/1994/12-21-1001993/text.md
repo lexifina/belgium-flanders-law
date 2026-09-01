@@ -6,7 +6,9 @@ De reglementaire bepalingen inzake bekwaamheidsbewijzen treden wat de in artikel
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de personeelsleden die behoren tot het bestuurs- en onderwijzend personeel van de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijsinstellingen voor buitengewoon secundair onderwijs in de opleidingsvorm 4.<br /><br />In afwijking van het eerste lid is dit besluit in door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijsinstellingen voor buitengewoon secundair onderwijs in de opleidingsvorm 4 waar type 5 wordt georganiseerd volgens artikel 288 van de Codex Secundair Onderwijs van 17 december 2010 alleen van toepassing op de personeelsleden van het bestuurs- en onderwijzend personeel die belast zijn met een wervingsambt in de secundaire afdeling van die instelling.
+Dit besluit is van toepassing op de personeelsleden die behoren tot het bestuurs- en onderwijzend personeel van de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijsinstellingen voor buitengewoon secundair onderwijs in de opleidingsvorm 4.<br>
+<br>
+...
 
 ### ART. 3.
 
