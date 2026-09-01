@@ -35,40 +35,23 @@ In dit besluit wordt verstaan onder:<br>
 2° besluit van 4 mei 2018: het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs;<br>
 3° decreet van 9 maart 2018: het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs.
 
-## HOOFDSTUK 2. Structuur en indeling van het opleidingsaanbod in vakken
+## HOOFDSTUK 2. Structuur van het opleidingsaanbod in vakken
 
-## Afdeling 1. Structuur, lessenroosters en beroepskwalificatie
+## Afdeling 1. Lessenroosters en beroepskwalificatie
 
 ### ART 3.
 
-§1. De Beiaardschool kan alleen een langlopende studierichting beiaardier en een kortlopende studierichting specialisatie: optie beiaardier organiseren.<br>
+§1. ...<br>
 <br>
-§2. Het aantal wekelijkse lestijden dat de Beiaardschool in de verschillende graden over heel de graad bekeken organiseert als ze de graad in kwestie organiseert, bedraagt:<br>
-1° in de twee leerjaren van de eerste graad: 2 lestijden;<br>
-2° in de vier leerjaren van de tweede graad voor volwassenen: 14 lestijden;<br>
-3° in de drie of vier leerjaren van de derde graad: 12 lestijden;<br>
-4° in de drie leerjaren van de vierde graad: 15 lestijden.<br>
+§2. ...<br>
 <br>
-Als de Beiaardschool de kortlopende studierichting specialisatie: optie beiaardier organiseert, bedraagt de studieomvang vier wekelijkse lestijden over het geheel van de twee leerjaren bekeken.<br>
-<br>
-§3. In afwijking van paragraaf 2 kan de Beiaardschool de studierichtingen ook organiseren in intensievere lespakketten op een kortere termijn dan een leerjaar in het lineaire traject. In het voormelde geval is de totale studieomvang dezelfde als die van een leerjaar in het lineaire traject.<br>
+§3. ...<br>
 <br>
 §4. De volgende beroepskwalificatie geldt voor de vierde graad van de langlopende studierichting beiaardier, vermeld in artikel 18 § 1, 1° van het decreet van 9 maart 2018: beiaardier.
 
 ### ART 4.
 
-§ 1. De Beiaardschool bepaalt in een schoolwerkplan de volgende organisatorische aspecten van de opleiding:<br>
-1° de doelstellingen en de inhoud van de opleiding, het opleidingsprogramma en de studieomvang;<br>
-2° de organisatie van het schooljaar;<br>
-3° de mogelijkheid om de opleiding te volgen in intensieve lessenpakketten zoals vermeld in artikel 3, § 3;<br>
-4° de gehanteerde onderwijs-, werk- en evaluatievormen;<br>
-5° de toelatingsvoorwaarden, die betrekking hebben op artistieke vooropleiding of competenties.<br>
-<br>
-De Beiaardschool bezorgt het schoolwerkplan jaarlijks aan het Departement Onderwijs en Vorming.<br>
-<br>
-In het tweede lid wordt verstaan onder het Departement Onderwijs: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
-<br>
-§ 2. De onderwijsinspectie is belast met de kwaliteitsbewaking, vermeld in TITEL IV van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs.
+...
 
 ## Afdeling 2. Vakken
 
@@ -84,45 +67,33 @@ De volgende vakken kunnen in de Beiaardschool worden gegeven:<br>
 7° harmonie, arrangement en compositie;<br>
 8° improvisatie.
 
-## HOOFDSTUK 3. Rechten en plichten van leerlingen
+## HOOFDSTUK 3. ...
 
 ### ART 6.
 
-Voor wat de rechten en plichten van leerlingen betreft, zijn de bepalingen van hoofdstuk 4 van het besluit van 4 mei 2018 van toepassing op de Beiaardschool.
+...
 
-## HOOFDSTUK 4. Financiering
+## HOOFDSTUK 4. ...
 
 ### ART 7.
 
-Conform de voorwaarden, vermeld in dit besluit, worden de personeels- en werkingskosten van de Beiaardschool gefinancierd op de wijze, vermeld in artikel 8 en 9.
+...
 
 ### ART 8.
 
-De Beiaardschool ontvangt voor het schooljaar X, X+1 een werkingsbudget van 25.606 euro.<br>
-<br>
-Vanaf het schooljaar 2019-2020 worden de bedragen van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt met de volgende formule: A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-<br>
-De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
-<br>
-Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in het eerste lid, verminderd met 2000 euro. De Vlaamse Regering wordt gemachtigd dit artikel in de toekomst te wijzigen.
+...
 
 ### ART 9.
 
-Op basis van het aantal financierbare leerlingen ontvangt de Beiaardschool jaarlijks een pakket lestijden. Dat pakket lestijden bedraagt per financierbare leerling twee lestijden. De Beiaardschool kan dat urenpakket vrij aanwenden.<br>
-<br>
-De Beiaardschool heeft recht op het ambt van directeur naar rato van 1/20 per volledige reeks van tien leerlingen.<br>
-<br>
-Als de Beiaardschool het aantal van vijf leerlingen niet bereikt, gaat ze over tot de geleidelijke sluiting van iedere graad, leerjaar per leerjaar, te beginnen met het laagste, tenzij ze op de vorige teldag voldeed aan de voorwaarden, vermeld in artikel 125 van het decreet van 9 maart 2018. In dat aantal zijn ook de studenten inbegrepen die de opleiding, vermeld in artikel 4, § 1, 3°, volgen. In dat geval worden de werkingsmiddelen en het aantal lestijden proportioneel aangepast.<br>
-<br>
-Behalve de norm, vermeld in het derde lid, zijn geen rationalisatie- of programmatienormen van toepassing op de Beiaardschool.
+...
 
 ## HOOFDSTUK 5. Personeel
 
 ### ART 10.
 
-Het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel, het ondersteunend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, domeinen "Muziek", "Woordkunst-drama" en "Dans", is van toepassing op het bestuurs- en onderwijzend personeel van de Beiaardschool, met dien verstande dat de bekwaamheidsbewijzen waarvan de leraars van de Beiaardschool houder moeten zijn en de bijhorende weddenschalen, opgesomd zijn in bijlage 1, die bij dit besluit is gevoegd.
+Het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel, het ondersteunend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, domeinen "Muziek", "Woordkunst-drama" en "Dans", is van toepassing op het bestuurs- en onderwijzend personeel van de Beiaardschool, met dien verstande dat de bekwaamheidsbewijzen waarvan de leraars van de Beiaardschool houder moeten zijn en de bijhorende weddenschalen, opgesomd zijn in bijlage 1, die bij dit besluit is gevoegd.<br>
+<br>
+Voor de toepassing van dit besluit wordt het bewijs van beroepskwalificatie van niveau 5 beiaardier ook als een basisdiploma als vermeld in artikel 3, §1, van het besluit van de Vlaamse regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel, het ondersteunend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, domeinen ‘Muziek’, ‘Woordkunst-drama’ en ‘Dans’ beschouwd.
 
 ### ART 11.
 
@@ -132,11 +103,11 @@ Het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshal
 3° het vak harmonie en beiaardcompositie (carillonistiek) wordt ambtshalve geconcordeerd naar het vak harmonie, arrangement en compositie;<br>
 4° het vak samenspel wordt ambtshalve geconcordeerd naar het vak samenspel/handbellenkoor.
 
-## HOOFDSTUK 6. Inschrijvingsgeld
+## HOOFDSTUK 6. ...
 
 ### ART 12.
 
-Voor het inschrijvingsgeld zijn de bepalingen van hoofdstuk 6 van het besluit van 4 mei 2018 ook van toepassing op de Beiaardschool.
+...
 
 ## HOOFDSTUK 7. Slotbepalingen
 
@@ -166,4 +137,1163 @@ Dit besluit treedt in werking op 1 september 2018. De Vlaamse minister, bevoegd 
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=429">Bijlage</a>
+Bekwaamheidsbewijzen als vermeld in artikel 10, eerste lid<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:600px">
+	<tbody>
+		<tr>
+			<td style="border-color:#222222; border-style:inset; border-width:3px; height:20px; text-align:center; vertical-align:middle; width:40px">Rubr.:&nbsp;&nbsp;</td>
+			<td style="border-color:#222222 #222222 #222222 currentcolor; border-style:inset inset inset none; border-width:3px 3px 3px medium; height:20px; text-align:center; vertical-align:middle; width:321px">Bekwaamheidsbewijs&nbsp;</td>
+			<td style="border-color:#222222 #222222 #222222 currentcolor; border-style:inset inset inset none; border-width:3px 3px 3px medium; height:20px; text-align:center; vertical-align:middle; width:61px">1e graad:&nbsp;</td>
+			<td style="border-color:#222222 #222222 #222222 currentcolor; border-style:inset inset inset none; border-width:3px 3px 3px medium; height:20px; text-align:center; vertical-align:middle; width:61px">2e graad:&nbsp;</td>
+			<td style="border-color:#222222 #222222 #222222 currentcolor; border-style:inset inset inset none; border-width:3px 3px 3px medium; height:20px; text-align:center; vertical-align:middle; width:61px">3e<sup> </sup>&nbsp;graad:&nbsp;</td>
+			<td style="border-color:#222222 #222222 #222222 currentcolor; border-style:inset inset inset none; border-width:3px 3px 3px medium; height:20px; text-align:center; vertical-align:middle; width:61px">4e graad:&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">INSTRUMENT BEIAARD&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:61px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:61px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, instrument-zang, beiaard + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, instrument-zang, beiaard + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Getuigschrift van beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bewijs van beroepskwalificatie beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">THEORIE EN TECHNIEK VAN DE BEIAARD&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek: muziektheorie / schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek: muziektheorie-schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor algemene muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor compositie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs compositie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs fuga of contrapunt, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat compositie, instrument of zang + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus, uitgereikt door een Koninklijk Muziekconservatorium, muziektheorie of instrumentale kunst + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs harmonie of notenleer, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 1ste cyclus, uitgereikt door een Koninklijk Muziekconservatorium, vocale kunst, muziektheorie of instrumentale kunst + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bachelor in het onderwijs: secundair onderwijs muzikale opvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma geaggregeerde van het secundair onderwijs groep 1: muzikale opvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma geaggregeerde van het lager secundair onderwijs: muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma geaggregeerde van het lager secundair onderwijs: muzikale opvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma geaggregeerde van het lager secundair onderwijs: muzikale vorming&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">INSTRUMENT PIANO-BEIAARD&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, instrument/zang voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, instrument-zang voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">De virtuositeitsprijs voor piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus, uitgereikt door een Koninklijk Muziekconservatorium instrumentale kunst voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Hoger diploma voor piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 1e cyclus, uitgereikt door een Koninklijk Muziekconservatorium, instrumentale kunst voor piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs voor piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">SAMENSPEL/HANDBELLENKOOR&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma Koninklijk Muziekconservatorium na eerste cyclus hoger niveau met volledig leerplan, afdeling instrumentale kunst + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma Koninklijk Muziekconservatorium na tweede cyclus hoger niveau met volledig leerplan, afdeling instrumentale kunst + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma Koninklijk Muziekconservatorium na tweede cyclus hoger niveau met volledig leerplan, afdeling muziektheorie, optie orkestdirectie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor instrumentale kamermuziek + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor orkestleiding + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs harmonie- en fanfaredirectie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs instrumentale kamermuziek, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs orkestdirectie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat harmonie- en fanfaredirectie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat instrumentale kamermuziek + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, directie, hafabradirectie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, directie, orkestdirectie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, instrument/zang, kamermuziek + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, instrument-zang + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, muziektheorie-schriftuur, directie (hafabra) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, muziektheorie-schriftuur, directie (orkest) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, muziektheorie-schriftuur, orkestdirectie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Hoger diploma voor harmonie- en fanfaredirectie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Hoger diploma voor instrumentale kamermuziek, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de derde graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de eerste graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de tweede graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">301&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Getuigschrift van beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bewijs van beroepskwalificatie beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">300&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">CAMPANOLOGIE&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, muziektheorie-schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, muziektheorie-schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Master in de musicologie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van licentiaat in de kunstgeschiedenis en oudheidkunde + BPB (musicologie of muziekwetenschappen)&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van licentiaat in de oudheidkunde en kunstgeschiedenis + BPB (musicologie of muziekwetenschappen)&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van licentiaat in de oudheidkunde en kunstwetenschap + BPB (musicologie of muziekwetenschappen)&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor compositie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor algemene muziekopvoeding&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs compositie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus muziektheorie, uitgereikt door een Koninklijk Muziekconservatorium + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat muziekopvoeding met aanvullende optie muziekgeschiedenis, uitgereikt ten laatste op 30 september 1992 + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat Muziekgeschiedenis + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e cyclus muziektheorie, uitgereikt door een Koninklijk Muziekconservatorium + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs muziekgeschiedenis, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bachelor in het onderwijs: secundair onderwijs muzikale opvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van geaggregeerde voor het secundair onderwijs-groep 1 (muzikale opvoeding)&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van geaggregeerde voor het lager secundair onderwijs (muzikale opvoeding, muzikale vorming of muziekopvoeding)&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Getuigschrift van beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bewijs van beroepskwalificatie beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">HARMONIE EN PRAKTISCHE HARMONIE&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, instrument/zang voor beiaard, orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, instrument-zang voor beiaard, orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Virtuositeitsprijs voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Hoger diploma voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat voor orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus, instrumentale kunst voor orgel, klavecimbel of piano, uitgereikt door een Koninklijk Muziekconservatorium&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 1e cyclus, instrumentale kunst voor orgel, klavecimbel of piano, uitgereikt door een Koninklijk Muziekconservatorium&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs praktische harmonie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">HARMONIE, ARRANGEMENT EN COMPOSITIE&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, muziektheorie-schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, muziektheorie-schriftuur + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor algemene muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor compositie + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs compositie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat muziekopvoeding&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat compositie of orgel + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus, muziektheorie, uitgereikt door een Koninklijk Muziekconservatorium + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs fuga of contrapunt, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van 1e prijs harmonie ten laatste op 30 september 1992, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 1e cyclus, muziektheorie ten laatste op 30 september 1992, uitgereikt door een Koninklijk Muziekconservatorium + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">IMPROVISATIE&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VE&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van master in de muziek, instrument/zang voor beiaard, orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van meester in muziek, instrument-zang voor beiaard, orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma prijs Lemmens-Tinel voor orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Virtuositeitsprijs voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Hoger diploma voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van laureaat voor orgel, klavecimbel of piano + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 2e cyclus, instrumentale kunst voor orgel, klavecimbel of piano, uitgereikt door een Koninklijk Muziekconservatorium&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van de 1e cyclus, instrumentale kunst voor orgel, klavecimbel of piano, uitgereikt door een Koninklijk Muziekconservatorium&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs voor orgel, klavecimbel of piano, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma van eerste prijs praktische harmonie, uitgereikt door een instelling voor hoger muziekonderwijs + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">VO&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 3e graad (inclusief gelijkgesteld diploma van master en diploma van meester) + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">501&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 2e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">347&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Diploma hoger kunstonderwijs van de 1e graad + BPB&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">302&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">AND&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Ten minste hso</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Getuigschrift van beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:3px inset #222222; border-left:3px inset #222222; border-right:3px inset #222222; border-top:none; height:20px; width:40px">&nbsp;&nbsp;</td>
+			<td style="border-bottom:3px inset #222222; border-left:none; border-right:3px inset #222222; border-top:none; height:20px; width:321px">Bewijs van beroepskwalificatie beiaardier&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">&nbsp;&nbsp;</td>
+			<td style="border-color:currentcolor #222222 #222222 currentcolor; border-style:none inset inset none; border-width:medium 3px 3px medium; height:20px; text-align:center; width:61px">384&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
