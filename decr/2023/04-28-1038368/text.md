@@ -141,11 +141,11 @@ Als een personeelslid dat is opgenomen in het transitiekader, afwezig is door zi
 
 ### ART 17.
 
-De voorziening gaat een overeenkomst aan met het Vlaams Ministerie van Onderwijs en Vorming over de betaling van de salarissen en wachtgelden, met inbegrip van het vakantiegeld en de eindejaarstoelage van de personeelsleden in het transitiekader.<br>
+De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming verzorgt de betalingen van de salarissen en wachtgelden aan de personeelsleden in het transitiekader. De betaling wordt uitgevoerd op basis van de gegevens die de voorziening bezorgt en onder haar verantwoordelijkheid.&nbsp;<br>
 <br>
-De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming verzorgt de betalingen voor de personeelsleden in het transitiekader. De betaling wordt uitgevoerd op basis van de gegevens die de voorziening bezorgt en onder haar verantwoordelijkheid.<br>
+De dienst, vermeld in het eerste lid, vordert het brutosalaris of de brutosalaristoelage, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van de voorziening terug.<br>
 <br>
-De eerste overeenkomst heeft een minimale looptijd van vijf jaar.
+De regeling, vermeld in het eerste en tweede lid, is van toepassing totdat het laatste personeelslid het transitiekader verlaat.
 
 ## Hoofdstuk 3. Personeelsleden buiten het transitiekader
 

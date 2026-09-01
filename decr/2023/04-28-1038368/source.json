@@ -2,16 +2,16 @@
   "codex_id": 1038368,
   "title": "Decreet van 2023-04-28 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038368/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "bb850a8c8f0b95647656f3213ddd3794cd25790b2716ef486ec3745c7a0b8adf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038368/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "c4e22f9a35d7ec0b48d97236fe04e4b5373125c1fde1b2368939807e08f51d05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038368&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2026-09-01",
   "made": "2023-04-28",
   "gazette": "2023-06-05",
   "numac": 2023042521,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2026-09-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
