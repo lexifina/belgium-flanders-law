@@ -18,9 +18,9 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus.
 <br>
 § 3. De lessen kunnen voor alle leerlingen of voor een leerlingengroep anderhalve dag per schooljaar geschorst worden om pedagogische studiedagen voor de leerkrachten te houden. Die anderhalve dag kan in halve dagen gesplitst worden.<br>
 <br>
-§ 4. ...&nbsp;<br>
+§ 4. Op de laatste schooldag voor de zomervakantie kan geen pedagogische studiedag als vermeld in paragraaf 3, worden georganiseerd. De laatste dag voor de zomervakantie is een schooldag met toepassing van de gebruikelijke schooluren.<br>
 <br>
-§ 5. De lessen kunnen voor de leerlingen van het basisonderwijs de laatste schooldag vóór de zomervakantie één halve dag geschorst worden om de instelling in staat te stellen opdrachten verbonden aan het einde van het schooljaar, zoals oudercontacten, te realiseren.
+§ 5. ...
 
 ### ART. 4.
 
@@ -32,17 +32,17 @@ Voor zover zij niet tijdens een vakantieperiode vallen, is er bovendien vakantie
 
 ### ART. 6.
 
-[De instellingen voor basisonderwijs kunnen bijkomend over twee facultatieve vakantiedagen beschikken. Deze dagen kunnen opgesplitst worden in halve dagen en verschillen per vestigingsplaats van de instelling (verv. B.V.R. 31 augustus 2001, art. 15, I: 1 september 2001)].
+...
 
 ### ART. 7.
 
-De dag na de bij wet of decreet bepaalde parlementaire, provinciale of gemeentelijke verkiezingen kunnen de lessen gedurende maximum één dag geschorst worden in de instellingen waarvan lokalen naar aanleiding van die verkiezingen gebruikt zijn voor het inrichten van stemopnemingsbureaus.
+...
 
 ### ART. 8.
 
-§ 1. De Vlaamse minister van Onderwijs of zijn gemachtigde kan voor individuele scholen of scholengroepen [ (verv. B.V.R. 31 augustus 2001, art. 16, I: 1 september 2001) ] op vraag van de betrokken inrichtende machten permanent afwijking verlenen van de bepalingen, vermeld in de artikelen 3 en 4 en artikel 5 wat de dag na Hemelvaartdag betreft. Deze aanvragen dienen te worden gebaseerd op argumenten van eigen onderwijskundige en pedagogische concepten of religieuze of filosofische overtuigingen. Evenwel mogen deze afwijkingen nooit impliceren dat het normaal aantal lessen op schooljaarbasis wordt verminderd en daardoor de afwerking van het goedgekeurd leerprogramma in het gedrang wordt gebracht.<br>
+§ 1. De Vlaamse minister van Onderwijs of zijn gemachtigde kan voor individuele scholen of scholengroepen [ (verv. B.V.R. 31 augustus 2001, art. 16, I: 1 september 2001) ] op vraag van de betrokken schoolbesturen permanent afwijking verlenen van de bepalingen, vermeld in artikel 3, §1, artikel 4 en 5 wat de dag na Hemelvaartdag betreft. Deze aanvragen dienen te worden gebaseerd op argumenten van eigen onderwijskundige en pedagogische concepten of religieuze of filosofische overtuigingen. Evenwel mogen deze afwijkingen nooit impliceren dat het normaal aantal lessen op schooljaarbasis wordt verminderd en daardoor de afwerking van het goedgekeurd leerprogramma in het gedrang wordt gebracht.<br>
 <br>
-§ 2. De Vlaamse minister van Onderwijs of zijn gemachtigde kan voor individuele scholen of scholengroepen [ (verv. B.V.R. 31 augustus 2001, art. 16, I: 1 september 2001) ] voor beroepssecundair onderwijs op vraag van de betrokken inrichtende machten occasioneel afwijking verlenen van de bepalingen, vermeld in de artikelen 3 en 4 en artikel 5 wat de dag na Hemelvaartdag betreft. Evenwel mogen deze afwijkingen nooit impliceren dat het normaal aantal lessen op schooljaarbasis wordt verminderd en daardoor de afwerking van het goedgekeurd leerprogramma in het gedrang wordt gebracht.<br>
+§ 2. De Vlaamse minister van Onderwijs of zijn gemachtigde kan voor individuele scholen of scholengroepen [ (verv. B.V.R. 31 augustus 2001, art. 16, I: 1 september 2001) ] voor beroepssecundair onderwijs op vraag van de betrokken schoolbesturen occasioneel afwijking verlenen van de bepalingen, vermeld in artikel 3, §1, artikel 4 en 5 wat de dag na Hemelvaartdag betreft. Evenwel mogen deze afwijkingen nooit impliceren dat het normaal aantal lessen op schooljaarbasis wordt verminderd en daardoor de afwerking van het goedgekeurd leerprogramma in het gedrang wordt gebracht.<br>
 <br>
 § 3. [... (opgeh. BVR 31 augustus 2001, art. 16, I: 1 september 2001)]<br>
 <br>
@@ -50,9 +50,9 @@ De dag na de bij wet of decreet bepaalde parlementaire, provinciale of gemeentel
 
 ### ART. 9.
 
-[Ten laatste op 15 juni vóór de aanvang van het volgend schooljaar leggen de instellingen de facultatieve vakantiedagen en de dagen dat de lessen, in toepassing van artikel 3, § 3, geschorst worden, vast (verv. B.V.R. 31 augustus 2001, art. 17, I: 1 september 2001) ].<br>
+Ten laatste op 15 juni vóór de aanvang van het volgend schooljaar leggen de instellingen de dagen dat de lessen, in toepassing van artikel 3, § 3, geschorst worden, vast.<br>
 <br>
-Uiterlijk op 30 juni delen de instellingen [... (geschr. B.V.R. 31 augustus 2001, art. 17, I: 1 september 2001) ] aan de hieronder opgesomde diensten of personen de lijst mede van de halve vakantiedagen of de vakantiedagen die bij toepassing van artikel 6 verdeeld zijn alsmede de bij toepassing van artikel 8, §§ 1 en 2, toegestane afwijkingen:<br>
+Uiterlijk op 30 juni delen de instellingen aan de hieronder opgesomde diensten of personen de lijst mede van de bij toepassing van artikel 8, §§ 1 en 2, toegestane afwijkingen:<br>
 1° elk door de Vlaamse minister van Onderwijs aangewezen bestuur;<br>
 2° de personeelsleden van de betrokken instelling;<br>
 3° de leerlingen en de ouders van minderjarige leerlingen of de persoon die de leerling in rechte of in feite onder zijn bewaring heeft.<br>
@@ -61,15 +61,15 @@ Aan deze diensten of personen dient elke wijziging die zich voordoet in de loop 
 
 ### ART. 10.
 
-Het geheel van de concrete schikkingen die door de inrichtende machten kunnen worden getroffen conform de bepalingen van dit besluit, moeten het voorwerp van een overleg uitmaken.<br>
+Het geheel van de concrete schikkingen die door de schoolbesturen kunnen worden getroffen conform de bepalingen van dit besluit, moeten het voorwerp van een overleg uitmaken.<br>
 <br>
-Wat de instellingen, scholengroepen [... (geschr. B.V.R. 31 augustus 2001, art. 18, I: 1 september 2001) ] van het Gemeenschapsonderwijs betreft, dient dit overleg te gebeuren in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van deze wet.<br>
+Wat de instellingen, scholengroepen van het Gemeenschapsonderwijs betreft, dient dit overleg te gebeuren in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van deze wet.<br>
 <br>
-Wat de gesubsidieerde en erkende officiële instellingen [... (geschr. B.V.R. 31 augustus 2001, art. 18, I: 1 september 2001) ] betreft, dient dit overleg te gebeuren in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van deze wet.<br>
+Wat de gesubsidieerde en erkende officiële instellingen betreft, dient dit overleg te gebeuren in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van deze wet.<br>
 <br>
-Wat de gesubsidieerde en erkende vrije instellingen [... (geschr. B.V.R. 31 augustus 2001, art. 18, I: 1 september 2001) ] betreft, gelden de bepalingen van de wet van 20 september 1984 houdende de organisatie van het bedrijfsleven, sectie IV, De Ondernemingsraden. Voor de instellingen [... (geschr. B.V.R. 31 augustus 2001, art. 18, I: 1 september 2001) ] waarop deze wet niet van toepassing is, zullen de inrichtende machten erover waken dat deze materie zal besproken worden met de syndicale delegaties en bij ontstentenis daarvan in een algemene lerarenvergadering.<br>
+Wat de gesubsidieerde en erkende vrije instellingen betreft, gelden de bepalingen van de wet van 20 september 1984 houdende de organisatie van het bedrijfsleven, sectie IV, De Ondernemingsraden. Voor de instellingen waarop deze wet niet van toepassing is, zullen de schoolbesturen erover waken dat deze materie zal besproken worden met de syndicale delegaties en bij ontstentenis daarvan in een algemene lerarenvergadering.<br>
 <br>
-Van dit overleg wordt een proces-verbaal opgemaakt dat wordt ondertekend door de in het overleg betrokkenen. Voor de instellingen [... (geschr. B.V.R. 31 augustus 2001, art. 18, I: 1 september 2001) ] waar een algemene lerarenvergadering werd georganiseerd dient het proces-verbaal te worden ondertekend door de directie en door vier vastbenoemde leraars die geen lid zijn van de inrichtende macht of niet het ambt van directeur of onderdirecteur uitoefenen. Het proces-verbaal vermeldt geraadpleegde organen evenals de besluiten van de raadpleging.
+Van dit overleg wordt een proces-verbaal opgemaakt dat wordt ondertekend door de in het overleg betrokkenen. Voor de instellingen waar een algemene lerarenvergadering werd georganiseerd dient het proces-verbaal te worden ondertekend door de directie en door vier vastbenoemde leraars die geen lid zijn van de schoolbestuur of niet het ambt van directeur of onderdirecteur uitoefenen. Het proces-verbaal vermeldt geraadpleegde organen evenals de besluiten van de raadpleging.
 
 ## HOOFDSTUK II DEELTIJDS ONDERWIJS EN ONDERWIJS VOOR SOCIALE PROMOTIE
 

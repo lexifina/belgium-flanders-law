@@ -2,16 +2,16 @@
   "codex_id": 1000373,
   "title": "Besluit van de Vlaamse Regering van 1991-04-17 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000373/VolledigDocument?datum=2021-08-10",
-  "source_sha256": "b95fc56edbda81311d8d37e75652c3c63e3146f761eec34b7254fce9a54537d0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000373/VolledigDocument?datum=2026-09-01",
+  "source_sha256": "0941fe1491094cd601ada1c15ee816fee0f9960e29c40f197da3099adf109266",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000373&param=informatie",
-  "as_of": "2021-08-10",
+  "as_of": "2026-09-01",
   "made": "1991-04-17",
   "gazette": "1991-07-11",
   "numac": 1991035857,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-08-10",
+  "in_force": "2026-09-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2021-08-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-01; future article versions excluded; article text as the API gives it"
 }
