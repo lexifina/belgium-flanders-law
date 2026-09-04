@@ -61,13 +61,11 @@ Binnen de beschikbare begrotingskredieten kan het Fonds aan zorgaanbieders die w
 De aanvrager komt in aanmerking voor een infrastructuurforfait als al de volgende voorwaarden vervuld zijn:<br>
 1° hij verleent niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 2, 7°, van decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap of hij is een geregistreerd ouderinitiatief als vermeld in het ministerieel besluit van 19 december 2018 betreffende de registratie van ouderinitiatieven in het kader van de persoonsvolgende financiering, dat een beroep doet op een zorgaanbieder die vergund is conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
 2° hij beschikt over een genotsrecht op het project als vermeld in artikel 12 van het decreet van 23 februari 1994. Als de aanvrager en de eigenaar of de houder van de zakelijke rechten op de grond waarop een project wordt gepland, twee verschillende personen zijn, mag er tussen hen geen ongeoorloofde verwantschapsband bestaan als vermeld in artikel 4 van dit besluit;<br>
-3° hij is op het ogenblik van de aanvraag infrastructuurforfait financieel in staat de kost van de investering te dragen zonder de continuïteit van de dienstverlening in gevaar te brengen.<br>
-<br>
-Als de aanvrager een onderneming is, wordt het infrastructuurforfait verleend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
+3° hij is op het ogenblik van de aanvraag infrastructuurforfait financieel in staat de kost van de investering te dragen zonder de continuïteit van de dienstverlening in gevaar te brengen.
 
 ### ART 4.
 
-De aanvrager en de eigenaar van de grond waarop een project wordt uitgevoerd, of de aanvrager en de houder van de zakelijke rechten op de grond waarop een project wordt uitgevoerd, worden geacht een ongeoorloofde verwantschapsband te hebben als de eigenaar van de grond of de houder van de zakelijke rechten op de grond een natuurlijke persoon is of een vennootschap met rechtspersoonlijkheid als vermeld in het Wetboek van Vennootschappen, met uitzondering van een coöperatieve vennootschap die erkend is met toepassing van artikel 5 van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie, en als de ene rechtstreeks of onrechtstreeks de bevoegdheid in rechte of in feite heeft om bij de andere een beslissende invloed uit te oefenen op de aanstelling van de meerderheid van de leden van het bestuursorgaan of op de oriëntatie van het beleid.<br>
+De aanvrager en de eigenaar van de grond waarop een project wordt uitgevoerd, of de aanvrager en de houder van de zakelijke rechten op de grond waarop een project wordt uitgevoerd, worden geacht een ongeoorloofde verwantschapsband te hebben als de eigenaar van de grond of de houder van de zakelijke rechten op de grond een natuurlijke persoon is of een vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen, met uitzondering van een coöperatieve vennootschap die erkend is met toepassing van artikel 5 van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie, en als de ene rechtstreeks of onrechtstreeks de bevoegdheid in rechte of in feite heeft om bij de andere een beslissende invloed uit te oefenen op de aanstelling van de meerderheid van de leden van het bestuursorgaan of op de oriëntatie van het beleid.<br>
 <br>
 De ongeoorloofde verwantschapsband is in rechte en wordt onweerlegbaar vermoed als de eigenaar van de grond of de houder van de zakelijke rechten op de grond en de aanvrager:<br>
 1°&nbsp;&nbsp; &nbsp;elkaars beleid kunnen beïnvloeden doordat de meerderheid van de bestuurders bij de ene de meerderheid van de bestuurders bij de andere vertegenwoordigt of als de ene de meerderheid van de stemrechten bij de andere kan uitoefenen in de raad van bestuur of de algemene vergadering. Er is sprake van beïnvloeding zodra de eigenaar van de grond of de houder van de zakelijke rechten op de grond die invloed heeft op de aanvrager of omgekeerd;<br>
@@ -94,10 +92,10 @@ b) het voldoet aan de minimumeisen en de voorwaarden op het vlak van comfort en 
 4° als het geen project betreft als vermeld in punt 2° of 3° :<br>
 a) het voldoet aan de bouwfysische, technische en kwalitatieve normen, vermeld in bijlage 1, die bij dit besluit is gevoegd;<br>
 b) het voldoet aan de minimumeisen en de voorwaarden op het vlak van comfort en gebruik van energie, water en materialen, vermeld in artikel 7, eerste lid, 10° ;<br>
-5° voor de realisatie van het project is een stedenbouwkundige vergunning of een omgevingsvergunning vereist of zijn aanzienlijke werken vereist;<br>
+5° als het project geen aankoop zonder verbouwing betreft, een stedenbouwkundige vergunning of een omgevingsvergunning vereist of zijn aanzienlijke werken vereist;<br>
 6° als het project een aankoop zonder verbouwing betreft:<br>
 a) de aanvrager is vroeger nooit de enige eigenaar geweest van het gebouw;<br>
-b) de aankoop van het gebouw omvat ook de aankoop van de grond waarop het gebouw is opgericht, tenzij de aanvrager al eigenaar was van de grond;<br>
+b) op de grond waarop het gebouw is opgericht verwerft de aanvrager een eigendomsrecht of een ander zakelijk recht met een duur van minimaal 25 jaar vanaf de ingebruikname;<br>
 7° het Fonds heeft er een akkoord infrastructuurforfait aan verleend;<br>
 8° het project voldoet aan de voorwaarden om in aanmerking te komen voor een recurrente subsidie, vermeld in het Bestemmingsbesluit van 31 mei 2024.
 
@@ -105,7 +103,7 @@ b) de aankoop van het gebouw omvat ook de aankoop van de grond waarop het gebouw
 
 ### ART 6.
 
-De aanvrager vraagt het akkoord infrastructuurforfait elektronisch aan bij het Fonds. Daarnaast bezorgt hij plannen in tweevoud op papier.
+De aanvrager vraagt het akkoord infrastructuurforfait elektronisch aan bij het Fonds.&nbsp;
 
 ### ART 7.
 
@@ -236,7 +234,7 @@ Het Fonds stuurt binnen dertig dagen na de beslissing tot heropening of, als dat
 <br>
 Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over de ontvankelijkheid van de aanvraag. De termijn, vermeld in het tweede lid, wordt geschorst tot de aanvrager de bijkomende vragen heeft beantwoord.&nbsp;Als de termijn waarin de voormelde bijkomende inlichtingen aan het Fonds worden bezorgd, langer is dan één jaar, wordt de aanvraag als onbestaande beschouwd en brengt het Fonds de aanvrager daarvan op de hoogte.<br>
 <br>
-§2. Het Fonds vraagt binnen tien kalenderdagen na de datum van ontvankelijkheid van de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, advies aan:<br>
+§2. Het Fonds vraagt binnen veertien dagen na de datum van ontvankelijkheid van de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, advies aan:<br>
 1° de functioneel bevoegde administratie over het masterplan, de zelfevaluatie, vermeld in artikel 47 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, en de functionele en kwalitatieve normen;<br>
 2° een of meer ambtenaren die ter beschikking staan van het Fonds, over de financiële aspecten, over het beantwoorden aan de bouwtechnische en bouwfysische normen, over de technische aspecten en de kostprijsraming, en over de controle van de verwantschapsband, vermeld in artikel 3 en 4 van dit besluit.<br>
 <br>
@@ -246,17 +244,17 @@ Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over
 
 ### ART 11.
 
-§ 1. Als dhet Fonds een gunstig advies verleent en als het project past binnen de beschikbare begrotingskredieten, legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van akkoord infrastructuurforfait of het voorlopig akkoord infrastructuurforfait ter ondertekening voor aan de minister waarbij het project van de aanvrager wordt aanvaard.<br>
+§ 1. Als dhet Fonds een gunstig advies verleent en als het project past binnen de beschikbare begrotingskredieten, legt het Fonds binnen dertig dagen na het advies een ontwerp van akkoord infrastructuurforfait of het voorlopig akkoord infrastructuurforfait ter ondertekening voor aan de minister waarbij het project van de aanvrager wordt aanvaard.<br>
 <br>
 Het akkoord infrastructuurforfait vermeldt onder meer het project waarop het akkoord infrastructuurforfait betrekking heeft, het aantal capaciteitseenheden, voor elke capaciteitseenheid de geschiktheid voor de zorggroepen, vermeld in bijlage 2, die bij dit besluit is gevoegd, voor elke capaciteitseenheid de mate waarin die in aanmerking komt voor de forfaits en de deelforfaits, vermeld in artikel 24, en de datum vanaf wanneer het akkoord infrastructuurforfait geldig is.<br>
 <br>
 Als het een project met autofinanciering betreft dat al voor het akkoord infrastructuurforfait in gebruik werd genomen, beslist de minister tegelijkertijd over de verlening van het akkoord infrastructuurforfait en over het al dan niet opstarten van de toekenning van een infrastructuurforfait.<br>
 <br>
-§ 2. Bij gunstig advies van het Fonds, als het project niet past binnen de beschikbare begrotingskredieten en als de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project, stuurt het Fonds binnen vijftien kalenderdagen na het advies een bewijs naar de aanvrager waarin het project wordt erkend als project met autofinanciering.<br>
+§ 2. Bij gunstig advies van het Fonds en als de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project, stuurt het Fonds binnen dertig dagen na het advies een bewijs naar de aanvrager waarin het project wordt erkend als project met autofinanciering.<br>
 <br>
 Het bewijs, vermeld in het eerste lid, vermeldt onder meer het project waarop het bewijs betrekking heeft, het aantal capaciteitseenheden en voor elke capaciteitseenheid de geschiktheid voor de zorggroepen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-§ 3. Bij een ongunstig advies van het Fonds legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom geen akkoord infrastructuurforfait of voorlopig akkoord infrastructuurforfait gegeven kan worden.<br>
+§ 3. Bij een ongunstig advies van het Fonds legt het Fonds binnen dertig dagen na het advies een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom geen akkoord infrastructuurforfait of voorlopig akkoord infrastructuurforfait gegeven kan worden.<br>
 <br>
 § 4. ....<br>
 <br>
@@ -278,23 +276,25 @@ Nadat de investeerder het bevel gegeven heeft tot aanvang van de werken of de au
 <br>
 § 3. Als de investeerder voor een bepaald project al werkzaamheden aangevat heeft of een authentieke akte voor de aankoop heeft verleden zonder te beschikken over een akkoord infrastructuurforfait voor het project, komt de aanvrager niet meer in aanmerking voor een infrastructuurforfait voor het project in kwestie.<br>
 <br>
-In afwijking van het eerste lid kan voor projecten met autofinanciering, het bevel tot aanvang van de werkzaamheden al worden gegeven, of de authentieke akte voor de aankoop al worden verleden nadat het Fonds aan het project een gunstig advies heeft verleend met het oog op het verkrijgen van het principieel akkoord of het akkoord infrastructuurforfait, met behoud van de toepassing van de beslissingsbevoegdheid van de minister.&nbsp;De aanvrager wordt op de hoogte gebracht van het advies van het Fonds.<br>
+In afwijking van het eerste lid kan voor projecten met autofinanciering, het bevel tot aanvang van de werken al worden gegeven, of de authentieke akte voor de aankoop al worden verleden nadat het Fonds aan het project een gunstig advies heeft verleend met het oog op het verkrijgen van het principieel akkoord of het akkoord infrastructuurforfait, met behoud van de toepassing van de beslissingsbevoegdheid van de minister.&nbsp;De aanvrager wordt op de hoogte gebracht van het advies van het Fonds.<br>
 <br>
 In afwijking van het eerste lid kan voor projecten waarvoor de investeerder de werkzaamheden heeft aangevat na 11 januari 2016 en vóór de inwerkingtreding van dit besluit en waarbij de aanvrager een ontvankelijke aanvraag heeft ingediend vóór 1 september 2024 in aanmerking blijven komen voor een infrastructuurforfait voor het project in kwestie.<br>
 <br>
-§ 4. Uiterlijk negentig kalenderdagen voor het bevel tot aanvang van de werkzaamheden die betrekking hebben op het project, kan de aanvrager bij het Fonds een wijziging van het akkoord infrastructuurforfait aanvragen. Die vraag tot wijziging wordt omstandig gemotiveerd en bevat de stukken die gewijzigd zijn ten opzichte van de oorspronkelijke aanvraag van het akkoord infrastructuurforfait.<br>
+§ 4. Uiterlijk negentig kalenderdagen voor het bevel tot aanvang van de werken die betrekking hebben op het project, kan de aanvrager bij het Fonds een wijziging van het akkoord infrastructuurforfait aanvragen. Die vraag tot wijziging wordt omstandig gemotiveerd en bevat de stukken die gewijzigd zijn ten opzichte van de oorspronkelijke aanvraag van het akkoord infrastructuurforfait.<br>
+<br>
+Ook in geval van een gewijzigd akkoord infrastructuurforfait geeft de investeerder het bevel tot aanvang van de werken of verlijdt hij de authentieke akte voor de aankoop binnen twee jaar na de datum van het oorspronkelijke definitieve akkoord infrastructuurforfait, vermeld in artikel 11, §6, tweede lid. Zo niet vervalt het gewijzigde akkoord infrastructuurforfait en het definitieve akkoord infrastructuurforfait. De geldigheidstermijn van het gewijzigde akkoord infrastructuurforfait kan, op gemotiveerd verzoek van de aanvrager, in geval van overmacht door het Fonds worden verlengd als die geldigheidstermijn met maximaal twee jaar wordt verlengd en door de minister als die geldigheidstermijn met meer dan twee jaar wordt verlengd. Nadat de investeerder het bevel gegeven heeft tot aanvang van de werken of de authentieke akte voor de aankoop heeft verleden, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning of de omgevingsvergunning of de authentieke akte aan het Fonds en deelt de aanvrager aan het Fonds de geplande datum van de ingebruikname mee.<br>
 <br>
 Het ontwerp van beslissing over het gewijzigde akkoord infrastructuurforfait wordt opgemaakt door het Fonds en voorgelegd aan de minister, die erover beslist.
 
 ### ART 13.
 
-Het Fonds kan tijdens de uitvoering van de werken de conformiteit met het akkoord infrastructuurforfait altijd controleren. Na de ingebruikname van de infrastructuur in kwestie maakt het Fonds een opstartevaluatie van het dossier. Het Fonds doet voor het onderzoek van het dossier een beroep op de personeelsleden die ter beschikking staan van het Fonds.<br>
-<br>
-De personeelsleden die ter beschikking staan van het Fonds, kunnen aanvullende inlichtingen vragen aan de aanvrager. Die personeelsleden maken hun advies op basis van een onderzoek ter plaatse of op basis van stukken.
+...
 
 ### ART 14.
 
 Behalve als het een project betreft waarvoor het bevel tot aanvang van de werken al werd gegeven of de authentieke akte al werd verleden en dat voor het akkoord infrastructuurforfait in gebruik werd genomen, vraagt de aanvrager die in het bezit is van het akkoord infrastructuurforfait of, in voorkomend geval, van het akkoord van de minister met de wijziging van het akkoord infrastructuurforfait, een opstartbeslissing van het infrastructuurforfait aan bij het Fonds in het kalenderjaar dat voorafgaat aan het jaar van de ingebruikname.<br>
+<br>
+Als de ingebruikname, vermeld in het eerste lid, plaatsvindt in hetzelfde jaar van het bevel tot aanvang van de werken of in hetzelfde jaar waarin de akte is verleden, kan de aanvraag voor de opstartbeslissing in het jaar van ingebruikname worden gegeven.<br>
 <br>
 De aanvraag, vermeld in het eerste lid, bevat een kopie van de ondertekende beslissing van het bevoegde orgaan van de aanvrager met de beslissing om een infrastructuurforfait aan te vragen en met de geplande datum van de ingebruikname. Daarnaast bevat de aanvraag, als die nog niet is bezorgd aan het Fonds, een kopie van het stuk waaruit blijkt dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, 2°. Als een authentieke akte vereist is conform het gemeen recht, betreft het een authentieke akte, anders betreft het een geregistreerde onderhandse akte.
 
@@ -314,10 +314,14 @@ Als de aanvrager geen bezwaar heeft ingediend conform het tweede lid, wordt hij 
 
 ### ART 17.
 
-§ 1. Tijdens de werkzaamheden en tot de ingebruikname van de infrastructuur in kwestie worden jaarlijks al de volgende stukken bezorgd aan het Fonds:<br>
+§ 1. Bij het bevel tot aanvang van de werken worden de volgende stukken bezorgd aan het Fonds:<br>
 1° een verslag met een overzicht van de wijze waarop de aanvrager tegemoetgekomen is aan de opmerkingen, vermeld bij het akkoord infrastructuurforfait of, als het een project met autofinanciering betreft, het gunstig advies van de bevoegde adviescommissie, en minstens een verslag over alle wijzigingen die ten aanzien van de aanvraag van het akkoord infrastructuurforfait doorgevoerd zijn, zowel op bouwfysisch, bouwtechnisch, conceptueel als functioneel vlak;<br>
-2° een overzicht van de uitgevoerde en geplande werkzaamheden;<br>
+2° een overzicht van de geplande werkzaamheden;<br>
 3° de planning van de ingebruikname van de infrastructuur die met het project of in voorkomend geval per projectonderdeel wordt gerealiseerd.<br>
+<br>
+Na het bevel tot aanvang van de werken evalueert het Fonds het dossier. Om het dossier te onderzoeken, doet het Fonds een beroep op de personeelsleden die ter beschikking staan van het Fonds.<br>
+<br>
+De personeelsleden, vermeld in het tweede lid, kunnen aanvullende inlichtingen vragen aan de aanvrager. De personeelsleden maken hun advies op basis van stukken.<br>
 <br>
 De volgende stukken worden ter beschikking gehouden door de aanvrager of op verzoek van het Fonds bezorgd aan het Fonds:<br>
 1° een overzicht van de aanbestedingen, opgemaakt op basis van een model dat het Fonds ter beschikking stelt;<br>
@@ -664,22 +668,26 @@ In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld i
 
 ### BIJLAGE
 
-<span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="color:#000000">Zorggroepen</span><br>
+Zorggroepen<br>
 <br>
-<span style="color:#000000">De gebruikers worden ingedeeld in zorggroepen conform tabel 1 en op basis van de volgende criteria:</span><br>
-<span style="color:#000000">1° het type ondersteuning dat ze genieten, uitgedrukt in de parameters begeleidingsintensiteit (B-waarden), permanentie (P-waarden), vastgesteld met het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, of, bij gebreke aan die vaststelling, vastgesteld conform artikel 15 en 16 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten;</span><br>
-<span style="color:#000000">1° /1 als de parameters begeleidingsintensiteit of permanentie, vermeld in punt 1°, door een nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning gewijzigd worden, gelden de nieuwe parameters begeleidingsintensiteit of permanentie voor de indeling in zorggroepen vanaf de datum van de nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
+De gebruikers worden ingedeeld in zorggroepen conform tabel 1 en op basis van de volgende criteria:<br>
+1° het type ondersteuning dat ze genieten, uitgedrukt in de parameters begeleidingsintensiteit (B-waarden), permanentie (P-waarden), vastgesteld met het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, of, bij gebreke aan die vaststelling, vastgesteld conform artikel 15 en 16 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten;<br>
+1° /1 als de parameters begeleidingsintensiteit of permanentie, vermeld in punt 1°, door een nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning gewijzigd worden, gelden de nieuwe parameters begeleidingsintensiteit of permanentie voor de indeling in zorggroepen vanaf de datum van de nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
 1° /2: indien de parameters begeleidingsintensiteit of permanentie, vermeld in punt 1°, werden bepaald aan de hand de methodiek met B-waarden 1 tot en met 6, worden de B-waarden omgezet naar nieuwe B-waarden volgens de tabel 2, die bij deze bijlage is gevoegd;<br>
-2° de rolstoelafhankelijkheid in huis, vastgesteld op de manier die de minister bepaalt;</span><br>
-<span style="color:#000000">3° ernstige gedragsstoornissen, vastgesteld op de manier die de minister bepaalt, waarbij gebruikers die aan die schaal voldoen, worden ingedeeld in zorggroep 1;</span><br>
-<span style="color:#000000">4° de persoon met een handicap waarvan de parameters begeleidingsintensiteit (B-waarden) en permanentie (P-waarden) nog niet werden vastgesteld, worden verondersteld een gebruiker te zijn die behoort tot zorggroep 2 als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden.&nbsp;<br>
+2° de rolstoelafhankelijkheid in huis, vastgesteld op de manier die de minister bepaalt;<br>
+3° ernstige gedragsstoornissen, vastgesteld op de manier die de minister bepaalt, waarbij gebruikers die aan die schaal voldoen, worden ingedeeld in zorggroep 1;<br>
+4° de persoon met een handicap waarvan de parameters begeleidingsintensiteit (B-waarden) en permanentie (P-waarden) nog niet werden vastgesteld, worden verondersteld een gebruiker te zijn die behoort tot zorggroep 2 als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden.&nbsp;<br>
 5° de gebruiker die verblijft in een erkende unit voor geïnterneerden als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 1, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn;<br>
 6° de gebruiker van wie de zorgaanbieder een individuele dienstverleningsovereenkomst heeft geregistreerd overeenkomstig artikel 9, derde lid van het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders, wordt, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn, verondersteld te behoren tot de volgende zorggroepen in de volgende gevallen:<br>
 a) zorggroep 1 als de module dag- en woonondersteuning +, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
 b) zorggroep 2 als de module dag- en woonondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
 c) zorggroep 2 als de module woonondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
 d) zorggroep 4 als de module dagondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
-7° de gebruiker van wie met toepassing van artikel 6, § 2, tweede lid, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood, zeven dagen op zeven dag- en woonondersteuning gesubsidieerd wordt, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 2, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn.</span></span></span><br>
+7° de gebruiker van wie met toepassing van artikel 6, § 2, tweede lid, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood, zeven dagen op zeven dag- en woonondersteuning gesubsidieerd wordt, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 2, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn;<br>
+8° de gebruiker die wordt ondersteund door een observatie-, diagnose- en behandelingsunit als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits, &nbsp;en die ondersteuning krijgt in een gebouw waarop het infrastructuurforfait van toepassing is, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 1;<br>
+9° de gebruiker die wordt ondersteund door een unit voor personen met een handicap met een bijkomende ernstige psychische problematiek als vermeld in artikel 2, §1, van het besluit van de Vlaamse Regering van 19 juli 2024 over de erkenning en subsidiëring van units voor personen met een handicap met een bijkomende ernstige psychische problematiek, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 1;&nbsp;<br>
+10° de gebruiker die wordt ondersteund door een unit die time-outplaatsen aanbiedt als vermeld in artikel 15/2, eerste lid, van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits, en die ondersteuning krijgt in een gebouw waarop het infrastructuurforfait van toepassing is, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 2 als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden, tenzij met toepassing van voormeld punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn;&nbsp;<br>
+11° de gebruiker die wordt ondersteund door een zorgaanbieder door de aanwending van persoonsvolgende middelen als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 2, als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden, tenzij met toepassing van voormeld punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn.”<br>
 <br>
 Tabel 1
 <table border="1">
