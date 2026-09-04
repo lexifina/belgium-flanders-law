@@ -1,0 +1,20 @@
+{
+  "codex_id": 1042293,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-12 betreffende de actualisatie van de tarieven van het openbaar personenvervoer over het water via DeWaterbus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042293/VolledigDocument?datum=2026-09-04",
+  "source_sha256": "84b834c59cacc6f9d2052010cf68309f94d54bc689dfade3c25ff24f71c32b43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042293&param=informatie",
+  "as_of": "2026-09-04",
+  "made": "2026-06-12",
+  "gazette": "2026-08-25",
+  "numac": 2026006263,
+  "document_start": "2026-09-04",
+  "document_end": null,
+  "in_force": "2026-09-04",
+  "article_versions": 11,
+  "table_of_contents_notes": [
+    "article version 1549420 is not in the table of contents and has no text (''): not placed"
+  ],
+  "record_form": "consolidated version as in force on 2026-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
