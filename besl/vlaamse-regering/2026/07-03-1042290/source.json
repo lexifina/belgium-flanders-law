@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042290,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-03 tot wijziging van de regeling over de infrastructuur voor persoonsgebonden aangelegenheden, wat betreft personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042290/VolledigDocument?datum=2026-09-04",
+  "source_sha256": "c37391bdc34c887e9f928b7459c26683909cb5278c031342dca2b793de670eaa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042290&param=informatie",
+  "as_of": "2026-09-04",
+  "made": "2026-07-03",
+  "gazette": "2026-08-25",
+  "numac": 2026006256,
+  "document_start": "2026-09-04",
+  "document_end": null,
+  "in_force": "2026-09-04",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2026-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
