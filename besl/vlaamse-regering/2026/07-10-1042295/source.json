@@ -1,0 +1,20 @@
+{
+  "codex_id": 1042295,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van artikel 9 van het besluit van de Vlaamse Regering van 20 september 2024 over de afwijkende berekeningsmethode van de referentiesituatie 2021, de vrijstelling van reductieverplichtingen en de aanwijzing van verwerkingsverantwoordelijken, wat betreft de termijn om een afwijkende berekeningsmethode te vragen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042295/VolledigDocument?datum=2026-09-04",
+  "source_sha256": "b92e04f584ce5f6582d74e0b11bdf062927d6dae36cb504a2f9ed2eb9abdee55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042295&param=informatie",
+  "as_of": "2026-09-04",
+  "made": "2026-07-10",
+  "gazette": "2026-08-25",
+  "numac": 2026006268,
+  "document_start": "2026-09-04",
+  "document_end": null,
+  "in_force": "2026-09-04",
+  "article_versions": 3,
+  "table_of_contents_notes": [
+    "article version 1549469 is not in the table of contents and has no text (''): not placed"
+  ],
+  "record_form": "consolidated version as in force on 2026-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
