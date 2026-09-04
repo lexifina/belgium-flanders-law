@@ -2,16 +2,16 @@
   "codex_id": 1040319,
   "title": "Besluit van de Vlaamse Regering van 2024-09-20 over de afwijkende berekeningsmethode van de referentiesituatie 2021, de vrijstelling van reductieverplichtingen en de aanwijzing van verwerkingsverantwoordelijken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040319/VolledigDocument?datum=2024-10-30",
-  "source_sha256": "72d7ae5542d48bf74077437d7baa00df73bd3fe6c6c896cea6c090862460c286",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040319/VolledigDocument?datum=2026-09-04",
+  "source_sha256": "17e6cca2b24c9484df7432940ca77c0f8d90eb0b5842c8c160efdb0d6973768f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040319&param=informatie",
-  "as_of": "2024-10-30",
+  "as_of": "2026-09-04",
   "made": "2024-09-20",
   "gazette": "2024-10-29",
   "numac": 2024009909,
   "document_start": "2024-10-30",
   "document_end": null,
-  "in_force": "2024-10-30",
+  "in_force": "2026-09-04",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2024-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-04; future article versions excluded; article text as the API gives it"
 }
