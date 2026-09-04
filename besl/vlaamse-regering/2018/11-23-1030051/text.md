@@ -34,18 +34,21 @@ c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als
 d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
 2°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 3° gebruiker: de persoon met een handicap die gebruikmaakt van de ondersteuning door een voorziening voor personen met een handicap;<br>
-4° internaat voor minderjarigen: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, en die onder het internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar, vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semiresidentiële voorzieningen voor personen met een handicap;<br>
+4° internaat voor minderjarigen: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en waarvan de doelgroep verblijf, vermeld in artikel 10, §1, 1°, van het voormelde besluit, is opgenomen in de modulering, vermeld in artikel 6 van het voormelde besluit;<br>
 5° multifunctioneel centrum: een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 6° ...;<br>
 7° revalidatiecentrum: een van de volgende revalidatievoorzieningen als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, die zich richten tot personen met een handicap:&nbsp;<br>
 a)&nbsp;&nbsp; &nbsp;de revalidatievoorzieningen waarvan het erkenningsnummer begint met 9.53 tot en met 9.65, met uitzondering van de revalidatievoorzieningen waarbij de revalidatieovereenkomst ingebed is in een universitair ziekenhuis;<br>
 b)&nbsp;&nbsp; &nbsp;de revalidatievoorzieningen met erkenningsnummer 7.71.020.33, 9.69.006.24, 9.69.009.21, 9.69.008.22;<br>
-8° semi-internaat: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, die onder het semi-internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar en die niet schoolgaand zijn, alsook een voorziening die over geen andere erkenning beschikt dan die van semi-internaat voor schoolgaanden als vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semi-residentiële voorzieningen voor personen met een handicap;<br>
+8° semi-internaat:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en waarvan de doelgroep schoolvervangende dagopvang, vermeld in artikel 10, §1, 3°, van het voormelde besluit, is opgenomen in de modulering, vermeld in artikel 6 van het voormelde besluit,&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een voorziening waarvan alleen de doelgroep schoolaanvullende dagopvang, vermeld in artikel 10, §1, 2°, van het voormelde besluit, is opgenomen in de modulering, vermeld in artikel 6 van het voormelde besluit, of waarvan alleen de doelgroep schoolaanvullende dagopvang, vermeld in artikel 10, §1, 2°, van het voormelde besluit is opgenomen in de modulering, vermeld in artikel 6 van het voormelde besluit, en de erkenning, vermeld in artikel 4 van het voormelde besluit, is gewijzigd sinds 2 januari 2016 door bijkomende capaciteit in de modulering verblijf of schoolvervangende dagopvang als vermeld in artikel 10, §1, 1° en 3°, van het voormelde besluit;<br>
 9° subsidiabele oppervlakte: de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br>
 10° tehuis van kort verblijf: een voorziening voor kortverblijf die nu voor minderjarigen erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap als vermeld in het koninklijk besluit van 25 januari 1971 tot vaststelling van de voorwaarden voor de erkenning van tehuizen van kort verblijf ten behoeve van gehandicapten;<br>
 11° Toegankelijk Vlaanderen: het agentschap, vermeld in het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting;<br>
 12° unit voor geïnterneerden: een voorziening die ondersteuning biedt aan geïnterneerde personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
 13° units voor observatie, diagnose en behandeling: observatie-, diagnose- en behandelingsunits voor meerderjarige personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits;<br>
+13°/1 unit voor time-outplaatsen: de unit, vermeld in artikel 15/2, eerste lid, van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits;<br>
 14° vergunde zorgaanbieder: een aanbieder van niet rechtstreeks toegankelijke zorg of ondersteuning als vermeld in het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
 15° Vlaams Agentschap voor Personen met een Handicap: het Vlaams Agentschap voor Personen met een Handicap, vermeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
@@ -57,7 +60,8 @@ b)&nbsp;&nbsp; &nbsp;de revalidatievoorzieningen met erkenningsnummer 7.71.020.3
 5° semi-internaten;<br>
 6° tehuizen van kort verblijf;<br>
 7° units voor geïnterneerden;<br>
-8° units voor observatie, diagnose en behandeling.<br>
+8° units voor observatie, diagnose en behandeling;<br>
+9° units voor time-outplaatsen.<br>
 <br>
 In het eerste lid, 3°, wordt verstaan onder internaat met permanente openstelling: het internaat dat erkend is als multifunctioneel centrum conform artikel 5, §1, van het besluit van de Vlaamse Regering van 31 augustus 2023 over de transitie van sommige instellingen van Onderwijs naar Welzijn.<br>
 <br>
@@ -119,13 +123,13 @@ Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toest
 <br>
 Voor een erfgoedgebouw kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 3°.
 
-## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de internaten voor minderjarigen, [... (opgeh. BVR 20 maart 2020, art. 42, I: 1 januari 2020)] de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling
+## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de internaten voor minderjarigen, de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden, de units voor time-outplaatsen. en de units voor observatie, diagnose en behandeling
 
 ## Onderafdeling 1. Gemeenschappelijke normen
 
 ### ART 4.
 
-De infrastructuur van de internaten voor minderjarigen, de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 5 tot en met artikel 14, om voor een investeringssubsidie in aanmerking te komen.
+De infrastructuur van de internaten voor minderjarigen, de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden, de units voor time-outplaatsen en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 5 tot en met artikel 14, om voor een investeringssubsidie in aanmerking te komen.
 
 ### ART 5.
 
@@ -246,7 +250,7 @@ Als personen met ernstige gedragsproblemen of geïnterneerden tot de doelgroep b
 
 ### ART 15.
 
-De infrastructuur van de internaten voor minderjarigen, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen betreffende de verblijfsfunctie, vermeld in artikel 16 tot en met artikel 19, om voor een investeringssubsidie in aanmerking te komen.
+De infrastructuur van de internaten voor minderjarigen, de tehuizen van kort verblijf, de units voor geïnterneerden, de units voor time-outplaatsen en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen betreffende de verblijfsfunctie, vermeld in artikel 16 tot en met artikel 19, om voor een investeringssubsidie in aanmerking te komen.
 
 ### ART 16.
 
@@ -275,7 +279,7 @@ Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toest
 <br>
 Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, vermeld in het eerste lid, 4° en 5°. Als een afwijking wordt toegestaan van de normen, vermeld in het eerste lid, 4°, bestaat er altijd een mogelijkheid om een individuele wastafel met warm of koud water te installeren op de kamer. De leidingen en de aansluitpunten zijn daarvoor voorzien. De kamers zijn aangepast aan de noden van de doelgroep.<br>
 <br>
-§ 2. Voor de kamers en het sanitair van de infrastructuur van de units voor geïnterneerden en de units voor observatie, diagnose en behandeling gelden de volgende normen:<br>
+§ 2. Voor de kamers en het sanitair van de infrastructuur van de units voor geïnterneerden, de units voor time-outplaatsen en de units voor observatie, diagnose en behandeling gelden de volgende normen:<br>
 1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m<sup>2</sup>&nbsp;per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
 2° de verblijfsruimten vormen een aaneensluitend geheel of zijn via binnenruimten bereikbaar;<br>
 3° alle kamers zijn eenpersoonskamers, eventueel koppelbaar;<br>
@@ -349,7 +353,7 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 2° voor een internaat voor minderjarigen: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 3° voor een semi-internaat: 45 m<sup>2</sup>&nbsp;per plaats;<br>
 4° voor een tehuis van kort verblijf: 65 m<sup>2</sup>&nbsp;per plaats, aanvaard door de functioneel bevoegde administratie;<br>
-5° ...;<br>
+5° voor een unit voor time-outplaatsen: 65 m² per plaats;;<br>
 6° voor een unit voor geïnterneerden: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 7° voor een unit voor observatie, diagnose en behandeling: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 8° ...<br>
@@ -366,7 +370,7 @@ Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan het Fon
 3° voor een semi-internaat: 550 per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 550 per m<sup>2</sup>;<br>
 5° ...;<br>
-6° ...;<br>
+6° voor een unit voor time-outplaatsen: 600 euro per m²;<br>
 7° voor een unit voor geïnterneerden: 720 euro per m<sup>2</sup>;<br>
 8° voor een unit voor observatie, diagnose en behandeling: 600 euro per m<sup>2</sup>.<br>
 <br>
@@ -385,7 +389,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 3° voor een semi-internaat: 500 euro per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 500 euro per m<sup>2</sup>;<br>
 5° ...;<br>
-6° ...;<br>
+6° voor een unit voor time-outplaatsen: 550 euro per m²;<br>
 7° voor een unit voor geïnterneerden: 670 euro per m<sup>2</sup>;<br>
 8° voor een unit voor observatie, diagnose en behandeling: 550 euro per m<sup>2</sup>.<br>
 <br>
@@ -442,9 +446,9 @@ Het basisbedrag van de investeringssubsidie voor de bijzondere uitrusting van ee
 <br>
 Het maximale bedrag van de investeringssubsidie voor de bijzondere uitrusting van een revalidatiecentrum gedurende een periode van twintig jaar, te rekenen voorafgaand aan de datum van de voorliggende aanvraag van de subsidiebelofte voor de bijzondere uitrusting, bedraagt 50 euro per m<sup>2</sup>, rekening houdend met de maximale subsidiabele oppervlakte, vermeld in artikel 22, eerste lid, 1°.<br>
 <br>
-Voor een revalidatiecentrum omvat de bijzondere uitrusting, vermeld in het eerste lid, testapparatuur en apparatuur voor revalidatietechnieken waarvan de eenheidsprijs, exclusief btw, hoger is dan drieduizend euro. Het basisbedrag van de investeringssubsidie voor die apparatuur bedraagt maximaal 11.900 euro per eenheid. De bijzondere uitrusting, vermeld in het eerste lid, die subsidiabel is in het kader van de wetgeving op de volksgezondheid en op de ziekenhuizen, of in het kader van de wetgeving inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen, komt niet aanmerking voor een investeringssubsidie.<br>
+Voor een revalidatiecentrum omvat de bijzondere uitrusting, vermeld in het eerste lid, apparatuur voor testen, diagnostiek en de behandeling van zintuiglijke, motorische, neurologische aandoeningen en leer- en ontwikkelingsstoornissen waarvan de eenheidsprijs, exclusief btw, hoger is dan drieduizend euro. Bureautica-hardware en IT-software vallen niet onder de bijzondere uitrusting. De bijzondere uitrusting, vermeld in het eerste lid, die subsidiabel is in het kader van de wetgeving op de volksgezondheid en op de ziekenhuizen, of in het kader van de wetgeving inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen, komt niet aanmerking voor een investeringssubsidie.<br>
 <br>
-De aankoop en installatie van een centrale server met aangepaste randapparatuur en software, waarop alle therapeutische werkstations zijn aangesloten, worden gerekend tot de apparatuur, vermeld in het derde lid. Elke subsidieaanvraag kan op zijn vroegst na vijf jaar opnieuw ingediend worden voor dezelfde uitrustingseenheid.<br>
+Elke subsidieaanvraag kan op zijn vroegst na vijf jaar opnieuw ingediend worden voor dezelfde uitrustingseenheid.<br>
 <br>
 De bouwtechnische en bouwfysische normen, vermeld in artikel 2 en 3, zijn niet van toepassing als de aanvraag van de subsidiebelofte voor een revalidatiecentrum zich beperkt tot de bijzondere uitrusting.
 

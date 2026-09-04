@@ -2,16 +2,16 @@
   "codex_id": 1030051,
   "title": "Besluit van de Vlaamse Regering van 2018-11-23 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige voorzieningen voor personen met een handicap en voor sommige revalidatievoorzieningen die zich richten tot personen met een handicap en tot wijziging van artikel 16 van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030051/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "0ad535ad88e2576c49d2ca43b5e7ce39c6bd69d39249b5776d6b4c19527013d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030051/VolledigDocument?datum=2026-09-04",
+  "source_sha256": "69c85bc37620681f161f3bbfb424fd281cbdc9f65f4e1fcc5a2d0a9c240e81dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030051&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-09-04",
   "made": "2018-11-23",
   "gazette": "2018-12-28",
   "numac": 2018015471,
   "document_start": "2019-01-07",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-09-04",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-04; future article versions excluded; article text as the API gives it"
 }
