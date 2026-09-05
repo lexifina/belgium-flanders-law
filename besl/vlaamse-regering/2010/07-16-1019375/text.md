@@ -70,14 +70,14 @@ In afwijking van het eerste lid, is dit besluit van toepassing op handelingen, u
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volgende handelingen&nbsp;in, aan en bij hoofdzakelijk vergunde of vergund geachte woningen:<br>
 1° gebruikelijke ondergrondse constructies, tenzij die strijdig zijn met een goedgekeurd rooilijnplan, een in een goedgekeurd rooilijnplan opgenomen achteruitbouwstrook of een goedgekeurd onteigeningsplan;<br>
-2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysieke bouwvolume te wijzigen;<br>
+2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysieke bouwvolume te wijzigen. Als de handelingen gepaard gaan met stabiliteitswerken geldt de vrijstelling alleen als een architect wordt aangesteld voor het ontwerp en de controle van de handelingen;<br>
 2/1° het aanbrengen van isolatie, met inbegrip van de gebruikelijke afwerking ervan, aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt;<br>
 3° zonnepanelen of zonneboilers die aan een van volgende voorwaarden voldoen:<br>
 a) ze zijn geplaatst op een plat dak, tot maximaal 1 meter boven de dakrand;<br>
 b) ze zijn geïntegreerd in of op het hellende dakvlak;<br>
 c) ze zijn bevestigd op een gevel, met een totale maximale oppervlakte van vier vierkante meter per gevel;<br>
 d) ze zijn bevestigd aan een balkonafsluiting<br>
-4° binnenverbouwingen;<br>
+4° binnenverbouwingen. Als de handelingen gepaard gaan met stabiliteitswerken geldt de vrijstelling alleen als een architect wordt aangesteld voor het ontwerp en de controle van de handelingen;<br>
 5° afsluitingen tot een hoogte van twee meter in de zijtuin en achtertuin;<br>
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
@@ -113,14 +113,14 @@ b)&nbsp;&nbsp; &nbsp;aan gebouwen die opgenomen zijn in de vastgestelde inventar
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volgende handelingen&nbsp;in, aan en bij hoofdzakelijk vergunde of vergund geachte gebouwen, die geen woningen zijn :<br>
 1° gebruikelijke ondergrondse constructies, tenzij die strijdig zijn met een goedgekeurd rooilijnplan, een in een goedgekeurd rooilijnplan opgenomen achteruitbouwstrook of een goedgekeurd onteigeningsplan;<br>
-2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysiek bouwvolume te wijzigen;<br>
+2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysiek bouwvolume te wijzigen. Als de handelingen gepaard gaan met stabiliteitswerken geldt de vrijstelling alleen als een architect wordt aangesteld voor het ontwerp en de controle van de handelingen;<br>
 2/1° het aanbrengen van isolatie, met inbegrip van de gebruikelijke afwerking ervan, aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt;<br>
 3° zonnepanelen of zonneboilers die aan een van de volgende voorwaarden voldoen:<br>
 a)&nbsp;&nbsp; &nbsp;ze zijn geplaatst op een plat dak, tot maximaal 1 meter boven de dakrand;<br>
 b)&nbsp;&nbsp; &nbsp;ze zijn geïntegreerd in of op het hellende dakvlak;<br>
 c)&nbsp;&nbsp; &nbsp;ze zijn bevestigd op een gevel, met een totale maximale oppervlakte van vier vierkante meter per gevel;<br>
 d)&nbsp;&nbsp; &nbsp;ze zijn bevestigd aan een balkonafsluiting;<br>
-4° binnenverbouwingen;<br>
+4° binnenverbouwingen. Als de handelingen gepaard gaan met stabiliteitswerken geldt de vrijstelling alleen als een architect wordt aangesteld voor het ontwerp en de controle van de handelingen;<br>
 5° afsluitingen tot een hoogte van twee meter in de zijtuin en achtertuin;<br>
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
