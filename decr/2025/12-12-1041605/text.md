@@ -14,6 +14,10 @@ a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.”.
 
+### ART 3.
+
+In artikel 3, §5, van hetzelfde decreet, ingevoegd bij het decreet van 20 december 1996, wordt het woord “aangetekende” vervangen door het woord “beveiligde”.
+
 ### ART 4.
 
 In artikel 4 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 12 juli 2013, worden de volgende wijzigingen aangebracht:<br>
@@ -21,6 +25,14 @@ In artikel 4 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 12 
 “De Vlaamse Regering machtigt personeelsleden van het departement of van andere overheidsinstanties om de nodige vaststellingen te doen. Ze krijgen daarvoor toegang tot alle bedrijfsruimten en bedrijfsgebouwen. Het departement kan voor die taken ook een beroep doen op externe deskundigen. De Vlaamse Regering kan nadere regels vaststellen voor het beroep op externe deskundigen. Het departement maakt op zijn website bekend op welke personeelsleden van andere overheidsinstanties en op welke externe deskundigen het een beroep doet.”;<br>
 2° tussen het tweede en derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
 “De betrokken eigenaar verschaft de gemachtigde personeelsleden of de externe deskundigen, vermeld in het tweede lid, binnen zeven dagen nadat ze zich ter plaatse hebben aangeboden of nadat ze daar met een beveiligde zending om hebben verzocht, toegang tot de bedrijfsruimten of bedrijfsgebouwen. Als de eigenaar niet op dat verzoek ingaat, kan het departement of de Vlaamse Regering die weigering beschouwen als een weerlegbaar vermoeden van leegstand of verwaarlozing.”.
+
+### ART 5.
+
+In artikel 7 en 8 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 5 juli 2013, worden de woorden “aangetekende brief” telkens vervangen door de woorden “beveiligde zending”.
+
+### ART 6.
+
+In artikel 10 van hetzelfde decreet worden de woorden “aangetekende brief” telkens vervangen door de woorden “beveiligde zending”.
 
 ### ART 7.
 
