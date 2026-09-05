@@ -45,15 +45,15 @@ Een bedrijfsruimte wordt als leegstaand beschouwd vanaf het ogenblik dat [meer d
 
 § 1. Jaarlijks stelt elke gemeente een lijst op van de leegstaande of verwaarloosde bedrijfsruimten op haar grondgebied. Die lijst vermeldt voor elke leegstaande of verwaarloosde bedrijfsruimte minimaal de volgende gegevens :<br>
 1° het adres;<br>
-2° de identificatiegegevens van de eigenaar(s);<br>
-3° het bedrag van het niet-geïndexeerde kadastraal inkomen;<br>
-4° de kadastrale gegevens (ligging en oppervlakte);<br>
-5° in geval van leegstand : de totale vloeroppervlakte met het werkelijke benuttingspercentage;<br>
+2° ...;<br>
+3° ...;<br>
+4° ...;<br>
+5° in geval van leegstand : de totale vloeroppervlakte met het werkelijke benuttingspercentage van de bedrijfsgebouwen;<br>
 6° in geval van verwaarlozing : een exhaustieve beschrijving van de aard en de omvang van de vastgestelde gebreken, vermeld in artikel 5;<br>
-7° een beschrijving van de laatste hoofdactiviteit(en) die in de bedrijfsgebouwen plaatsvond(en), of, bij nieuwe bedrijfsgebouwen, de bestemming die aan de gebouwen gegeven is;<br>
-8° de bestemmingsvoorschriften die van toepassing zijn volgens de geldende plannen van aanleg of ruimtelijke uitvoeringsplannen;<br>
+7° een beschrijving van de laatste hoofdactiviteit(en) die in de bedrijfsgebouwen plaatsvond(en), of, bij nieuwe bedrijfsgebouwen, de bestemming in de uitgevoerde stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen die aan de gebouwen gegeven is;<br>
+8° ...;<br>
 9° als op de bedrijfsruimte een onteigeningsmachtiging rust : de datum van de machtiging en de instantie met onteigeningsbevoegdheid;<br>
-10° als de bedrijfsruimte krachtens decreet beschermd is als monument of stads- of dorpsgezicht of bij ministerieel besluit is opgenomen in een ontwerp van lijst tot bescherming: de datum van het voormelde ministerieel besluit;<br>
+10° ...;<br>
 11° een omschrijving van de aard van de bedrijfsruimte.<br>
 <br>
 De gegevens, vermeld in het eerste lid, hebben niet alleen betrekking op het kadastraal perceel zelf waarop de bedrijfsgebouwen liggen, maar ook op alle aangrenzende percelen die als één geheel te beschouwen zijn en die aan dezelfde eigenaar(s) toebehoren. Al die percelen moeten evenwel deel uitmaken of deel hebben uitgemaakt van de economische activiteit.<br>
@@ -79,13 +79,35 @@ Een afschrift van die lijst wordt gelijktijdig opgestuurd naar de erkende provin
 
 Binnen negentig kalenderdagen na ontvangst van de lijsten van de gemeenten, zoals vermeld in artikel 6, § 3, besluit het departement tot al dan niet registratie in de Inventaris.
 
+### ART 7/1.
+
+Voor de uitvoering van taken van algemeen belang die het Decreet en zijn uitvoeringsbesluiten opdragen aan het departement inzake de opmaak en beheer van de inventaris, verwerkt het departement de informatie, met inbegrip van de persoonsgegevens, die daartoe noodzakelijk is. Het departement doet dit als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming. Onder algemene verordening gegevensbescherming wordt verstaan: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG.&nbsp;<br>
+<br>
+Dat houdt met name in dat het departement belast is met:<br>
+1° het bijhouden van de inventaris;&nbsp;<br>
+2° het opmaken van het registratieattest; &nbsp;<br>
+3° het behandelen van de beroepen tegen de opname in de inventaris, derdenbezwaren tegen de niet-opname in de inventaris en de aanvragen tot schrapping uit de inventaris als vermeld in artikel 7 tot en met 14 van het Decreet;<br>
+4° het behandelen van verzoeken tot opschorting van de leegstandsheffing als vermeld in artikel 2.6.7.1.1 tot en met 2.6.7.6.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 en artikel 2.6.7.0.1 tot en met 2.6.7.0.4 van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013.<br>
+<br>
+De te verwerken informatie omvat met name de volgende categorieën van persoonsgegevens:<br>
+1° de identificatiegegevens, met inbegrip van het rijksregisternummer, van de eigenaar, vermeld in artikel 2, 9°, van het Decreet;<br>
+2° het bedrag van het niet-geïndexeerde kadastraal inkomen van de bedrijfsruimte;<br>
+3° de kadastrale gegevens (ligging en oppervlakte).<br>
+<br>
+Het departement deelt de informatie, met inbegrip van persoonsgegevens, die ze in het kader van dit besluit verwerkt, volgens de voorwaarden die in dit besluit zijn opgenomen, mee aan:<br>
+1° de betrokken gemeente;<br>
+2° de betrokken erkende provinciale ontwikkelingsmaatschappij;<br>
+3° de Vlaamse Belastingdienst, met het oog op de inkohiering en invordering van de leegstandsheffing.<br>
+<br>
+De gegevens, vermeld in dit artikel, worden maximaal dertig jaar bewaard conform artikel III. 87, §1/1, vierde lid, 4° van het Bestuursdecreet van 7 december 2018. De termijn neemt een aanvang vanaf de inning van de leegstandsheffing bedrijfsruimten, vermeld in artikel 1.1.0.0.2, 13°, van de Vlaamse Codex Fiscaliteit van 13 december 2013.
+
 ### ART. 8.
 
-Binnen een termijn van vijftien kalenderdagen na de officiële registratie   betekent het departement, via een aangetekend schrijven, een registratieattest   aan de eigenaar(s). Dit attest vermeldt de motivering van de registratie, de   datum van de registratie, de beroepsmogelijkheid en een indicatie van het   heffingsbedrag bij in gebreke blijven.
+Binnen een termijn van vijftien kalenderdagen na de officiële registratie betekent het departement, via een beveiligde zending, een registratieattest aan de eigenaar(s). Dit attest vermeldt de motivering van de registratie, de datum van de registratie, de beroepsmogelijkheid en een indicatie van het heffingsbedrag bij in gebreke blijven.
 
 ### ART. 9.
 
-Bij overdracht van een bedrijfsruimte die in de Inventaris is geregistreerd, is de instrumenterende ambtenaar er toe gehouden om binnen dertig kalenderdagen, na het verlijden van de akte, via een aangetekend schrijven, naar het departement de volgende gegevens op te sturen:<br>
+Bij overdracht van een bedrijfsruimte die in de Inventaris is geregistreerd, is de instrumenterende ambtenaar er toe gehouden om binnen dertig kalenderdagen, na het verlijden van de akte, via een beveiligde zending, naar het departement de volgende gegevens op te sturen:<br>
 1° een&nbsp;afschrift van het registratieattest;<br>
 2° de volledige identiteit en het adres van de vroegere en van de nieuwe eigenaar(s);<br>
 3° ingeval van vennootschappen de statuten van zowel de overdragende als de overnemende vennootschap en de lijst van de bestuurders en de aandeelhouders;<br>
@@ -98,23 +120,51 @@ Het departement vermeldt binnen dertig kalenderdagen na betekening van de in het
 
 ### ART. 10.
 
-Het departement stuurt jaarlijks, uiterlijk op 31 augustus, aan iedere   gemeente via een aangetekend schrijven een uittreksel van de in de Inventaris   geregistreerde bedrijfsruimten die op haar grondgebied liggen. De gemeente legt   deze uittreksels ter inzage van het publiek voor 1 oktober.<BR><BR>Binnen   dezelfde periode krijgen de erkende Provinciale Ontwikkelingsmaatschappijen een   uittreksel van de in de Inventaris geregistreerde bedrijfsruimten in de   betrokken provincie.
+Het departement stuurt jaarlijks, uiterlijk op 31 augustus, aan iedere gemeente via een beveiligde zending een uittreksel van de in de Inventaris geregistreerde bedrijfsruimten die op haar grondgebied liggen. De gemeente legt deze uittreksels ter inzage van het publiek voor 1 oktober.<br>
+<br>
+Binnen dezelfde periode krijgen de erkende Provinciale Ontwikkelingsmaatschappijen een uittreksel van de in de Inventaris geregistreerde bedrijfsruimten in de betrokken provincie.
+
+### ART 10/1.
+
+§1. In dit artikel wordt verstaan onder externe deskundige: een externe deskundige als vermeld in artikel 4, tweede lid, van het Decreet.<br>
+<br>
+§2. Een persoon kan als externe deskundige, worden aangesteld, als die voldoet aan een van de volgende voorwaarden:<br>
+1° beschikken over een diploma of getuigschrift dat toegang geeft tot niveau B;<br>
+2° beschikken over een relevante beroepservaring van minstens twee jaar.<br>
+<br>
+§3. De externe deskundige voert diens taken uit op een actieve, constructieve, loyale en correcte wijze om de opdracht en de doelstellingen van de diensten van de Vlaamse overheid te realiseren. In de omgang met anderen respecteert de externe deskundige de persoonlijke waardigheid en handelt die zonder discriminatie.<br>
+<br>
+De externe deskundige kan het leegstaande en/of verwaarloosde karakter van bedrijfsruimten en bedrijfsgebouwen vaststellen in het kader van registratie in de Inventaris.<br>
+<br>
+De gemachtigde personeelsleden van het departement behouden het toezicht over de einduitspraak. Alleen de leidend ambtenaar van het departement kan een definitieve beslissing nemen over het beroep dat wordt ingesteld tegen registratieattesten.<br>
+<br>
+§4. Het aanstellingsbesluit vermeldt uitdrukkelijk de bevoegdheid van de externe deskundige om de nodige vaststellingen te doen.<br>
+<br>
+De externe deskundige kan tijdens de uitoefening van diens opdracht altijd een aanstellingsbewijs of legitimatiekaart voorleggen.
 
 ### ART. 11.
 
-§ 1. Iedere derde kan binnen dertig dagen na bekendmaking van het ter   inzage liggen van het uittreksel van de in de Inventaris geregistreerde   bedrijfsruimten, via een aangetekend schrijven, een bezwaarschrift indienen bij   de Vlaamse regering wanneer een bedrijfsruimte niet werd geregistreerd.<BR><BR>§   2. Het departement nodigt binnen dertig kalenderdagen na betekening van het   derden-bezwaar de eigenaar(s) en/of de gemeente via een aangetekend schrijven   voor een hoorzitting uit. In haar uitnodiging maakt zij melding van de inhoud   van het bezwaar en verzoekt de betrokkenen uiterlijk op de hoorzitting de   noodzakelijke bewijsstukken over te leggen.
+§ 1. Iedere derde kan binnen dertig dagen na bekendmaking van het ter inzage liggen van het uittreksel van de in de Inventaris geregistreerde bedrijfsruimten, via een beveiligde zending, een bezwaarschrift indienen bij de Vlaamse regering wanneer een bedrijfsruimte niet werd geregistreerd.<br>
+<br>
+§ 2. Het departement nodigt binnen dertig kalenderdagen na betekening van het derden-bezwaar de eigenaar(s) en/of de gemeente via een beveiligde zending voor een hoorzitting uit. In haar uitnodiging maakt zij melding van de inhoud van het bezwaar en verzoekt de betrokkenen uiterlijk op de hoorzitting de noodzakelijke bewijsstukken over te leggen.
 
 ## AFDELING 2 SCHRAPPING UIT DE INVENTARIS
 
 ### ART. 12.
 
-Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, stelt de eigenaar via een aangetekend schrijven het departement hiervan in kennis en vraagt uit de Inventaris te worden geschrapt. Hij kan hiertoe alle bewijsstukken bijvoegen die hij nodig acht. Zijn aanvraag tot schrapping dient gestaafd te worden door een verklaring van de burgemeester die de beëindiging van de leegstand en/of verwaarlozing bevestigt.<br>
+Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, stelt de eigenaar via een beveiligde zending het departement hiervan in kennis en vraagt uit de Inventaris te worden geschrapt. Hij kan hiertoe alle bewijsstukken bijvoegen die hij nodig acht. Zijn aanvraag tot schrapping dient gestaafd te worden door een verklaring van de burgemeester die de beëindiging van de leegstand en/of verwaarlozing bevestigt.<br>
 <br>
 Overeenkomstig artikel 11, 1°, van het Decreet, kan alleen de wettelijk toegestane benutting van het bedrijfsgebouw daarbij in aanmerking worden genomen.
 
 ### ART. 13.
 
-§ 1. Het departement onderzoekt de aanvraag tot schrapping, zoals   omschreven in artikel 12 van dit besluit, en betekent de al dan niet aanvaarding   ervan aan de indiener binnen 30 dagen na de betekening van de   aanvraag.<BR><BR>Als een geregistreerde bedrijfsruimte uit de Inventaris wordt   geschrapt, wordt aan de eigenaar(s) een attest betekend. Binnen dezelfde termijn   krijgen de betrokken gemeente en de erkende Provinciale   Ontwikkelingsmaatschappij hiervan een afschrift.<BR><BR>§ 2. Bij ontstentenis   van een uitspraak binnen de termijn vermeld in § 1 wordt de aanvraag tot   schrapping geacht te zijn aanvaard. Het attest van schrapping wordt op eenvoudig   verzoek aan de belanghebbende betekend.
+§ 1. Het departement onderzoekt de aanvraag tot schrapping, zoals omschreven in artikel 12 van dit besluit, en betekent de al dan niet aanvaarding ervan aan de indiener binnen 30 dagen na de betekening van de aanvraag.<br>
+<br>
+Als het departement zijn beslissing niet betekent binnen de termijn, vermeld in het eerste lid, kan de aanvrager van de schrapping via een beveiligde zending een herinneringsbrief sturen naar het departement. Het departement bezorgt binnen dertig dagen na de betekening van de herinneringsbrief zijn beslissing via een beveiligde zending aan de aanvrager van de schrapping.<br>
+<br>
+Als een geregistreerde bedrijfsruimte uit de Inventaris wordt geschrapt, wordt aan de eigenaar(s) een attest betekend. Binnen dezelfde termijn krijgen de betrokken gemeente en de erkende Provinciale Ontwikkelingsmaatschappij hiervan een afschrift.<br>
+<br>
+§ 2. Bij ontstentenis van een uitspraak binnen de termijn vermeld in §1, tweede lid wordt de aanvraag tot schrapping geacht te zijn aanvaard. Het attest van schrapping wordt op eenvoudig verzoek aan de belanghebbende betekend.
 
 ## HOOFDSTUK III HEFFING
 
