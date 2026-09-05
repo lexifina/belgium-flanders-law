@@ -365,7 +365,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.6.7.0.1.
 
-<p>§ 1. De eigenaar stuurt het vernieuwingsvoorstel of het verzoek tot verlenging van de opschortingstermijn, vermeld in artikel 2.6.7.1.1 en artikel 2.6.7.1.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013, met een aangetekende brief naar het departement.</p>
+<p>§ 1. De eigenaar stuurt het vernieuwingsvoorstel of het verzoek tot verlenging van de opschortingstermijn, vermeld in artikel 2.6.7.1.1 en artikel 2.6.7.1.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013, met een beveiligde zending naar het departement.</p>
 
 <p>§ 2. Het vernieuwingsvoorstel omvat de volgende documenten:<br>
 1° een situatietekening die het mogelijk maakt de ligging van de bedrijfsruimte te bepalen ten opzichte van de omliggende bebouwing;<br>
@@ -383,13 +383,7 @@ Voorbehouden voor toekomstig gebruik.
 
 <p>De aanvraag tot verlenging van de opschorting van de heffing wordt eveneens bijgevoegd.</p>
 
-<p>§ 4. Het departement onderzoekt of het vernieuwingsvoorstel of het verzoek tot verlenging van de opschorting volledig is, overeenkomstig paragraaf 2 en paragraaf 3.</p>
-
-<p>Als het voorstel of het verzoek tot verlenging van de opschorting onvolledig wordt bevonden, brengt het departement de aanvrager binnen vijftien kalenderdagen na de betekening van de indiening van het voorstel of van het verzoek tot verlenging van de opschortingstermijn per aangetekende zending hiervan op de hoogte, met vermelding van de ontbrekende gegevens.</p>
-
-<p>Als het voorstel of het verzoek tot verlenging van de opschorting volledig wordt bevonden, brengt het departement de indiener binnen vijftien kalenderdagen daarvan met een aangetekende brief op de hoogte.</p>
-
-<p>Als het departement binnen vijftien kalenderdagen geen beslissing heeft betekend, wordt het voorstel geacht volledig te zijn.</p>
+<p>§ 4. ....</p>
 
 <p>§ 5. Het departement betekent zijn beslissing over de al dan niet aanvaarding van het vernieuwingsvoorstel of van het verzoek tot verlenging van de opschortingstermijn, samen met de eventuele vermelding van de opschorting van de heffing, hetzij na de verzendingsdatum van het schrijven inzake de volledigheid van het voorstel tot vernieuwing, hetzij na de dag die volgt op het verstrijken van de termijn vermeld in paragraaf 4, derde lid, in het geval het departement geen schrijven inzake de volledigheid heeft betekend.</p>
 
@@ -397,19 +391,29 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.6.7.0.2.
 
-<p>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd met een aangetekende brief naar het departement. De aanvraag tot opschorting moet worden gestaafd door een ontwerp van brownfieldconvenant en een verwijzing naar de beslissing van de Vlaamse Regering met toepassing van hoofdstuk III van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.</p>
+<p>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd met een beveiligde zending naar het departement. De aanvraag tot opschorting moet worden gestaafd door een ontwerp van brownfieldconvenant en een verwijzing naar de beslissing van de Vlaamse Regering met toepassing van hoofdstuk III van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.</p>
 
-<p>Het departement betekent de al dan niet aanvaarding van het voorstel tot opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum van de aangetekende brief over de aanvraag tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd.</p>
+<p>Het departement betekent de al dan niet aanvaarding van het voorstel tot opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum van de beveiligde zending over de aanvraag tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd.</p>
 
 <p>Als het departement binnen de termijn, vermeld in het tweede lid, geen beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het departement verleent de aanvrager in dat geval een opschorting van de heffing.</p>
 
 ### ART. 2.6.7.0.3.
 
-<P>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het   voorwerp uitmaken van een door de OVAM conform verklaard bodemsaneringsproject,   met een aangetekende brief naar het departement. De aanvraag tot opschorting   moet worden gestaafd door een afschrift van het door de OVAM conform verklaard   bodemsaneringsproject, met toepassing van titel III, hoofdstuk V, van het   decreet van 27 oktober 2006 betreffende de bodemsanering en de   bodembescherming.<BR></P>  <P>Het departement betekent de al dan niet aanvaarding van het voorstel tot   opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum   van de aangetekende brief over de aanvraag tot opschorting voor bedrijfsruimten   die het voorwerp uitmaken van een door de OVAM conform verklaard   bodemsaneringsproject.<BR></P>  <P>Als het departement binnen de termijn, vermeld in het tweede lid, geen   beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het   departement verleent de aanvrager in dat geval een opschorting van de   heffing.</P>
+<p>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een door de OVAM conform verklaard bodemsaneringsproject, met een beveiligde zending naar het departement. De aanvraag tot opschorting moet worden gestaafd door een afschrift van het door de OVAM conform verklaard bodemsaneringsproject, met toepassing van titel III, hoofdstuk V, van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming.</p>
+
+<p>Het departement betekent de al dan niet aanvaarding van het voorstel tot opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum van de beveiligde zending over de aanvraag tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een door de OVAM conform verklaard bodemsaneringsproject.</p>
+
+<p>Als het departement binnen de termijn, vermeld in het tweede lid, geen beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het departement verleent de aanvrager in dat geval een opschorting van de heffing.</p>
 
 ### ART. 2.6.7.0.4.
 
-<P>De eigenaar stuurt het verzoek tot opschorting voor tijdelijk om   bedrijfseconomische redenen leegstaande maar niet verwaarloosde bedrijfsruimten,   met een aangetekende brief naar het departement. De aanvraag tot opschorting   moet worden gestaafd door een verslag van de erkende provinciale   ontwikkelingsmaatschappij van de provincie waarin de gemeente ligt.<BR></P>  <P>Het departement kan het verzoek tot opschorting aanvaarden als aan de hand   van het verslag, opgemaakt door de erkende provinciale ontwikkelingsmaatschappij   van de provincie waarin de gemeente ligt, blijkt dat de leegstaande   bedrijfsruimte onmiddellijk kan worden hergebruikt.<BR></P>  <P>Het departement betekent de al dan niet aanvaarding van het voorstel tot   opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum   van de aangetekende brief over de aanvraag tot opschorting voor tijdelijk om   bedrijfseconomische redenen leegstaande maar niet vervallen   bedrijfsruimten.<BR></P>  <P>Als het departement binnen de termijn, vermeld in het derde lid, geen   beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het   departement verleent de aanvrager in dat geval een   opschorting.</P>
+<p>De eigenaar stuurt het verzoek tot opschorting voor tijdelijk om bedrijfseconomische redenen leegstaande maar niet verwaarloosde bedrijfsruimten, met een beveiligde zending naar het departement. De aanvraag tot opschorting moet worden gestaafd door een verslag van de erkende provinciale ontwikkelingsmaatschappij van de provincie waarin de gemeente ligt.</p>
+
+<p>Het departement kan het verzoek tot opschorting aanvaarden als aan de hand van het verslag, opgemaakt door de erkende provinciale ontwikkelingsmaatschappij van de provincie waarin de gemeente ligt, blijkt dat de leegstaande bedrijfsruimte onmiddellijk kan worden hergebruikt.</p>
+
+<p>Het departement betekent de al dan niet aanvaarding van het voorstel tot opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum van de beveiligde zending over de aanvraag tot opschorting voor tijdelijk om bedrijfseconomische redenen leegstaande maar niet vervallen bedrijfsruimten.</p>
+
+<p>Als het departement binnen de termijn, vermeld in het derde lid, geen beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het departement verleent de aanvrager in dat geval een opschorting.</p>
 
 ## [HOOFDSTUK 7. Erfbelasting (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
 
