@@ -30,7 +30,10 @@ c) het vruchtgebruik;<br>
 13° ....<br>
 14° ....<br>
 15° bedrijfsgebouw : elk gebouw of gedeelte van een gebouw waarin een economische activiteit heeft plaatsgevonden of plaatsvindt;<br>
-16° ....
+16° beveiligde zending: een van de onderstaande betekeningswijzen:<br>
+a)&nbsp;&nbsp; &nbsp;een aangetekende brief;<br>
+b)&nbsp;&nbsp; &nbsp;een afgifte tegen ontvangstbewijs;<br>
+c)&nbsp;&nbsp; &nbsp;elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.
 
 ## HOOFDSTUK II INVENTARISATIE
 
@@ -38,7 +41,19 @@ c) het vruchtgebruik;<br>
 
 ### ART. 3.
 
-§ 1. Elke gemeente stelt een lijst op van de leegstaande en/of   verwaarloosde bedrijfsruimten, gelegen op haar grondgebied, die als basis zal   dienen voor de inventaris.<BR><BR>Deze lijst wordt elk jaar met de   geactualiseerde gegevens aan het departement opgestuurd onder de voorwaarden   bepaald door de Vlaamse regering. <BR><BR>§ 2. De Vlaamse Regering bepaalt hoe   de in § 1 bedoelde lijst dient opgemaakt te worden, welke stukken bij deze lijst   worden gevoegd&nbsp;en welke sancties getroffen worden bij niet-naleving van   deze criteria en in geval van het niet of niet-tijdig bezorgen van de   lijsten.<BR><BR>Als de gemeentelijke lijst te laat wordt ingediend, of als het   departement vaststelt dat de gemeentelijke lijst onvolledig is, kan het   departement, op kosten van de gemeente, ambtshalve overgaan tot registratie.   <BR><BR>§ 3. De Vlaamse Regering kan aan de erkende provinciale   ontwikkelingsmaatschappijen advies vragen over de door de gemeenten opgestelde   lijsten.<BR><BR>§ 4. De Vlaamse regering kan bepalen welke categorieën van   leegstaande en/of verwaarloosde bedrijfsruimten niet op de gemeentelijke lijsten   en in de inventaris dienen te worden opgenomen. <BR><BR>§ 5. De gemeentelijke   ambtenaren, door het college van burgemeester en schepenen belast met de opmaak   van de gemeentelijke lijst en gemachtigd om de nodige vaststellingen te doen,   hebben toegang tot alle op het grondgebied van de gemeente gelegen   bedrijfsruimten en bedrijfsgebouwen. De betrokken eigenaar dient hen binnen   zeven dagen nadat ze zich ter plaatse hebben aangeboden, of nadat ze hierom bij   aangetekende zending hebben verzocht, toegang tot de bedrijfsruimten en   bedrijfsgebouwen te verschaffen.
+§ 1. Elke gemeente stelt een lijst op van de leegstaande en/of verwaarloosde bedrijfsruimten, gelegen op haar grondgebied, die als basis zal dienen voor de inventaris.<br>
+<br>
+Deze lijst wordt elk jaar met de geactualiseerde gegevens aan het departement opgestuurd onder de voorwaarden bepaald door de Vlaamse regering.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt hoe de in § 1 bedoelde lijst dient opgemaakt te worden, welke stukken bij deze lijst worden gevoegd&nbsp;en welke sancties getroffen worden bij niet-naleving van deze criteria en in geval van het niet of niet-tijdig bezorgen van de lijsten.<br>
+<br>
+Als de gemeentelijke lijst te laat wordt ingediend, of als het departement vaststelt dat de gemeentelijke lijst onvolledig is, kan het departement, op kosten van de gemeente, ambtshalve overgaan tot registratie.<br>
+<br>
+§ 3. De Vlaamse Regering kan aan de erkende provinciale ontwikkelingsmaatschappijen advies vragen over de door de gemeenten opgestelde lijsten.<br>
+<br>
+§ 4. De Vlaamse regering kan bepalen welke categorieën van leegstaande en/of verwaarloosde bedrijfsruimten niet op de gemeentelijke lijsten en in de inventaris dienen te worden opgenomen.<br>
+<br>
+§ 5. De gemeentelijke ambtenaren, door het college van burgemeester en schepenen belast met de opmaak van de gemeentelijke lijst en gemachtigd om de nodige vaststellingen te doen, hebben toegang tot alle op het grondgebied van de gemeente gelegen bedrijfsruimten en bedrijfsgebouwen. De betrokken eigenaar dient hen binnen zeven dagen nadat ze zich ter plaatse hebben aangeboden, of nadat ze hierom bij beveiligde zending hebben verzocht, toegang tot de bedrijfsruimten en bedrijfsgebouwen te verschaffen.
 
 ### ART. 4.
 
@@ -66,11 +81,17 @@ De Vlaamse regering bepaalt welke informatie de instrumenterende ambtenaar   aan
 
 ### ART. 7.
 
-Binnen de 30 kalenderdagen na betekening van het registratieattest, zoals   bedoeld in artikel 5, kan de eigenaar van de geregistreerde bedrijfsruimte met   een aangetekende brief beroep aantekenen bij de Vlaamse regering tegen deze   registratie.
+Binnen de 30 kalenderdagen na betekening van het registratieattest, zoals bedoeld in artikel 5, kan de eigenaar van de geregistreerde bedrijfsruimte met een beveiligde zending beroep aantekenen bij de Vlaamse regering tegen deze registratie.
 
 ### ART. 8.
 
-§ 1. De Vlaamse regering doet uitspraak over het beroep en betekent haar   gemotiveerde beslissing aan de indiener van het beroep met een aangetekende   brief binnen 60 kalenderdagen na betekening van het beroep.<BR><BR>Bij gebreke   aan kennisgeving van een beslissing door de Vlaamse regering binnen de in het   eerste lid gestelde termijn kan de indiener van het beroep met een aangetekende   brief een herinneringsschrijven richten aan de Vlaamse regering. Die dient   binnen 30 kalenderdagen na de betekening van dit herinneringsschrijven haar   beslissing per aangetekende brief kenbaar te maken.<BR><BR>§ 2. De registratie   wordt als niet bestaand beschouwd als het beroep inzake de registratie in de   inventaris, vermeld in artikel 7, wordt ingewilligd of als de Vlaamse Regering   haar beslissing niet heeft kenbaar gemaakt binnen de termijn, vermeld in   paragraaf 1, tweede lid.<BR><BR>§ 3. Het beroep werkt opschortend, maar als het   beroep verworpen wordt, heeft de registratie uitwerking vanaf de datum zoals   vermeld op het oorspronkelijke registratieattest.
+§ 1. De Vlaamse regering doet uitspraak over het beroep en betekent haar gemotiveerde beslissing aan de indiener van het beroep met een beveiligde zending binnen 60 kalenderdagen na betekening van het beroep.<br>
+<br>
+Bij gebreke aan kennisgeving van een beslissing door de Vlaamse regering binnen de in het eerste lid gestelde termijn kan de indiener van het beroep met een beveiligde zending een herinneringsschrijven richten aan de Vlaamse regering. Die dient binnen 30 kalenderdagen na de betekening van dit herinneringsschrijven haar beslissing per beveiligde zending kenbaar te maken.<br>
+<br>
+§ 2. De registratie wordt als niet bestaand beschouwd als het beroep inzake de registratie in de inventaris, vermeld in artikel 7, wordt ingewilligd of als de Vlaamse Regering haar beslissing niet heeft kenbaar gemaakt binnen de termijn, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+§ 3. Het beroep werkt opschortend, maar als het beroep verworpen wordt, heeft de registratie uitwerking vanaf de datum zoals vermeld op het oorspronkelijke registratieattest.
 
 ### ART. 9.
 
@@ -79,6 +100,18 @@ De Vlaamse regering bepaalt onder welke voorwaarden het departement   jaarlijks 
 ### ART. 10.
 
 § 1. Binnen 30 kalenderdagen na bekendmaking van het ter inzage liggen van het uittreksel kan iedere derde met een aangetekende brief bezwaar indienen bij de Vlaamse regering i.v.m. de niet-registratie van een bedrijfsruimte.<br /><br />§ 2. De Vlaamse regering bepaalt de voorwaarden waaronder de betrokken eigenaar(s) en/of de gemeente gehoord moeten worden, indien het bezwaar aanleiding zou kunnen geven tot wijziging van de inventaris.<br /><br />§ 3. Binnen 60 kalenderdagen na betekening van het bezwaarschrift spreekt de Vlaamse regering zich uit over het bezwaarschrift en stelt zij degene die het bezwaarschrift heeft ingediend, met een aangetekende brief in kennis van haar beslissing.<br /><br />§ 4. Indien ingevolge de beslissing krachtens § 3 de bedrijfsruimte alsnog dient geregistreerd te worden wordt conform artikel 5 een registratieattest betekend aan de eigenaar(s). Deze kan in voorkomend geval gebruik maken van de beroepsprocedure zoals bepaald in artikel 7 en 8.<br /><br />§ 5. Als het bezwaar, zoals bedoeld in § 1, aanleiding geeft tot laattijdige registratie in de Inventaris, heeft de registratie uitwerking vanaf de datum van indiening van het bezwaarschrift van de derde.
+
+### ART. 10.
+
+§ 1. Binnen 30 kalenderdagen na bekendmaking van het ter inzage liggen van het uittreksel kan iedere derde met een beveiligde zending bezwaar indienen bij de Vlaamse regering i.v.m. de niet-registratie van een bedrijfsruimte.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt de voorwaarden waaronder de betrokken eigenaar(s) en/of de gemeente gehoord moeten worden, indien het bezwaar aanleiding zou kunnen geven tot wijziging van de inventaris.<br>
+<br>
+§ 3. Binnen 60 kalenderdagen na betekening van het bezwaarschrift spreekt de Vlaamse regering zich uit over het bezwaarschrift en stelt zij degene die het bezwaarschrift heeft ingediend, met een beveiligde zending in kennis van haar beslissing.<br>
+<br>
+§ 4. Indien ingevolge de beslissing krachtens § 3 de bedrijfsruimte alsnog dient geregistreerd te worden wordt conform artikel 5 een registratieattest betekend aan de eigenaar(s). Deze kan in voorkomend geval gebruik maken van de beroepsprocedure zoals bepaald in artikel 7 en 8.<br>
+<br>
+§ 5. Als het bezwaar, zoals bedoeld in § 1, aanleiding geeft tot laattijdige registratie in de Inventaris, heeft de registratie uitwerking vanaf de datum van indiening van het bezwaarschrift van de derde.
 
 ## AFDELING 2 SCHRAPPING UIT DE INVENTARIS
 
