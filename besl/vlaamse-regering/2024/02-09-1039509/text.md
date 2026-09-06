@@ -122,7 +122,7 @@ De minister belast het wetenschappelijk steunpunt jeugd om de staat van de jeugd
 
 ### ART 10.
 
-De verenigingen, vermeld in artikel 10 tot en met 13 van het Jeugddecreet van 23 november 2023, dienen de beleidsnota, vermeld in artikel 15, tweede lid, van het voormelde decreet, in bij de administratie uiterlijk op 1 juli van het jaar dat voorafgaat aan de eerstvolgende vijfjarige beleidsperiode, vermeld in artikel 16, §1, eerste lid, 1°, van het voormelde decreet. De voormelde beleidsnota voldoet aan de vereisten, vermeld in artikel 14 tot en met 16 van het voormelde decreet, en wordt opgesteld conform de leidraad die de administratie vaststelt. De beleidsnota wordt ingediend met een toepassing die de administratie ter beschikking stelt.<br>
+De verenigingen, vermeld in artikel 10 tot en met 13 van het Jeugddecreet van 23 november 2023, dienen de beleidsnota, vermeld in artikel 15, derde lid, van het voormelde decreet, in bij de administratie uiterlijk op 1 juli van het jaar dat voorafgaat aan de eerstvolgende vijfjarige beleidsperiode, vermeld in artikel 16, §1, eerste lid, 1°, van het voormelde decreet. De voormelde beleidsnota voldoet aan de vereisten, vermeld in artikel 14 tot en met 16 van het voormelde decreet, en wordt opgesteld conform de leidraad die de administratie vaststelt. De beleidsnota wordt ingediend met een toepassing die de administratie ter beschikking stelt.<br>
 <br>
 De administratie formuleert op de ingediende beleidsnota een advies over de kandidatuur en het bedrag van de werkingssubsidie aan de hand van de beoordelingscriteria, vermeld in artikel 25 van het voormelde decreet, en de vereisten, vermeld in artikel 14 tot en met 16 van het voormelde decreet. De administratie bezorgt haar gemotiveerde advies aan de minister uiterlijk op 15 september van het jaar, vermeld in het eerste lid. Het voormelde advies bevat al de volgende elementen:<br>
 1° een voorstel van motivering om al dan niet een subsidiebedrag toe te kennen;&nbsp;<br>
@@ -213,9 +213,9 @@ De verenigingen, vermeld in artikel 44 van het voormelde decreet, dienen samen m
 <br>
 §6. De werkingssubsidies die zijn toegekend aan de verenigingen, vermeld in artikel 10 tot en met 13, artikel 31 tot en met 35, en artikel 38 van het Jeugddecreet van 23 november 2023, kunnen de volgende categorieën subsidiabele kosten financieren:<br>
 1° werkingskosten die verband houden met de doelstellingen, vermeld in artikel 10 tot en met 13, artikel 31 tot en met 35, en artikel 38 van het voormelde decreet;<br>
-2° personeelskosten die verband houden met de doelstellingen, vermeld in artikel 10 tot en met 13, artikel 31 tot en met 35, en artikel 38 van het voormelde decreet.<br>
+2° personeelskosten die verband houden met de doelstellingen, vermeld in artikel 10 tot en met 13, artikel 31 tot en met 35, en artikel 38 van het voormelde decreet met uitzondering van de personeelskosten die verband houden met de tewerkstelling van de voltijdse equivalenten, vermeld in artikel 34, §1, eerste lid, 2°, en artikel 35, §1, eerste lid, 5°, van het voormelde decreet.<br>
 <br>
-Met de projectsubsidies die toegekend zijn aan de verenigingen, vermeld in artikel 39 en 43 van voormelde decreet, kunnen alleen kosten die verband houden met de uitvoering van het project, worden gefinancierd.
+Met de projectsubsidies die toegekend zijn aan de verenigingen, vermeld in artikel 39 en 43 van voormelde decreet, kunnen alleen kosten die verband houden met de uitvoering van het project, worden gefinancierd met uitzondering van de personeelskosten die verband houden met de tewerkstelling van de halftijdse werknemer, vermeld in artikel 43, §3, eerste lid, 1°, van het voormelde decreet.
 
 ### ART 15.
 
@@ -266,7 +266,7 @@ De administratie formuleert op basis van het financiële plan, vermeld in het ee
 Elke beoordelingscommissie, vermeld in artikel 26 van het voormelde decreet, bevat de volgende experten met het oog op de nodige expertise, vermeld in artikel 26, eerste lid, van het voormelde decreet:<br>
 1° een expert over het zakelijke beleid van non-profitorganisaties;<br>
 2° een expert op een van de volgende terreinen:<br>
-&nbsp; a) het jeugdwerk, vermeld in artikel 3, 14°, van het voormelde decreet;<br>
+&nbsp; a) het jeugdwerk, vermeld in artikel 3, 15°, van het voormelde decreet;<br>
 &nbsp; b) het jeugd- en kinderrechtenbeleid;<br>
 &nbsp; c) de kinderrechten;<br>
 &nbsp; d) de doelstellingen, vermeld in artikel 32, §1, van het voormelde decreet;<br>
@@ -387,12 +387,7 @@ De vereniging bezorgt de administratie de inlichtingen die conform het eerste li
 <br>
 §3. De administratie en de beoordelingscommissie formuleren samen een ontwerp van advies over de ingediende beleidsnota, vermeld in paragraaf 1, en de aanvullende inlichtingen, vermeld in paragraaf 2, aan de hand van de beoordelingscriteria, vermeld in artikel 25 van het Jeugddecreet van 23 november 2023. De administratie stuurt het voormelde ontwerp van advies naar de vereniging uiterlijk op 15 mei van het jaar dat voorafgaat aan de vijfjarige beleidsperiode, vermeld in artikel 37, §3, van het voormelde decreet. Het voormelde ontwerp van advies bevat al de volgende elementen:<br>
 1° een voorstel van motivering om al dan niet een subsidiebedrag toe te kennen;&nbsp;<br>
-2° in voorkomend geval een indicatie of het voorgestelde subsidiebedrag:<br>
-&nbsp; a) in belangrijke mate lager is dan het subsidiebedrag dat voor de vorige beleidsperiode is toegekend;<br>
-&nbsp; b) in beperkte mate lager is dan het subsidiebedrag dat voor de vorige beleidsperiode is toegekend;<br>
-&nbsp; c) gelijkwaardig is aan het subsidiebedrag dat voor de vorige beleidsperiode is toegekend;<br>
-&nbsp; d) in beperkte mate hoger is dan het subsidiebedrag dat voor de vorige beleidsperiode is toegekend;<br>
-&nbsp; e) in belangrijke mate hoger is dan het subsidiebedrag dat voor de vorige beleidsperiode is toegekend.<br>
+2° een voorstel over de hoogte van het subsidiebedrag.<br>
 <br>
 §4. De vereniging kan uiterlijk op 31 mei van het jaar, vermeld in paragraaf 3, haar schriftelijke repliek op het ontwerp van advies, vermeld in paragraaf 3, indienen. In de voormelde repliek kan de vereniging de administratie en de beoordelingscommissie wijzen op materiële fouten, maar ze kan geen nieuwe elementen ten opzichte van de ingediende beleidsnota aanbrengen. De administratie stelt een formulier voor de repliek ter beschikking.<br>
 <br>
@@ -447,7 +442,16 @@ Een vereniging die een subsidie aanvraagt op basis van artikel 40 van het Jeugdd
 <br>
 De administratie en de beoordelingscommissie formuleren samen een gemotiveerd advies als vermeld in artikel 40, §2, van het voormelde decreet, aan de hand van de beoordelingscriteria, vermeld in artikel 25 van het voormelde decreet, en de voorwaarden, vermeld in artikel 39 van het voormelde decreet.<br>
 <br>
-Ter uitvoering van artikel 40 van het voormelde decreet beslist de minister uiterlijk op 30 november over de toekenning van de subsidies. De administratie deelt de beslissing van de minister mee aan de verenigingen in kwestie.
+Ter uitvoering van artikel 40 van het voormelde decreet beslist de minister uiterlijk op 30 november over de toekenning van de subsidies. De administratie deelt de beslissing van de minister mee aan de verenigingen in kwestie.<br>
+<br>
+Als uit het financiële verslag, vermeld in artikel 40, §3, tweede lid, van het Jeugddecreet van 23 november 2023, blijkt dat de betaalde subsidie hoger is dan de kosten die de vereniging verantwoord heeft, wordt het bedrag van de subsidie teruggevorderd dat te veel is toegekend.<br>
+<br>
+Als uit het werkingsverslag of het financiële verslag, vermeld in het vierde lid, blijkt dat niet is voldaan aan de volgende voorwaarden, vordert de administratie de toegekende subsidie terug:<br>
+1°&nbsp;&nbsp; &nbsp;de subsidievoorwaarden, vermeld in artikel 19 en 20 van het voormelde decreet;<br>
+2°&nbsp;&nbsp; &nbsp;de subsidievereisten, vermeld in artikel 23 en 40 van het voormelde decreet;<br>
+3°&nbsp;&nbsp; &nbsp;de subsidievoorwaarden, vermeld in artikel 39 van het voormelde decreet.<br>
+<br>
+In de gevallen, vermeld in het vierde en vijfde lid, deelt de administratie haar standpunt over de terugvordering schriftelijk mee aan de vereniging. De kennisgeving van het standpunt bevat de vraag aan de vereniging om haar eventuele bezwaren bekend te maken aan de administratie. De bezwaren worden ingediend en behandeld conform artikel 19, derde tot zesde lid.
 
 ### ART 26.
 
@@ -494,7 +498,7 @@ In de volgende gevallen wordt het teveel aan toegekende subsidie ingehouden van 
 <br>
 De projectsubsidie kan jaarlijks maar één keer door dezelfde vereniging worden aangevraagd.<br>
 <br>
-§3. De projectsubsidie kan jaarlijks aangevraagd worden uiterlijk op 31 oktober.<br>
+§3. De projectsubsidie kan jaarlijks aangevraagd worden uiterlijk op 15 oktober.<br>
 <br>
 De uitvoeringstermijn van het project start op zijn vroegst op 1 januari van het jaar dat volgt op de aanvraag, en eindigt uiterlijk op 31 december van datzelfde jaar.<br>
 <br>
@@ -797,9 +801,13 @@ De administratie deelt de beslissing om de politieke jongerenbeweging te erkenne
 1° de acties voor het jeugdbeleid in het tweetalige gebied Brussel-Hoofdstad uit het meerjarenplan met doelstellingen dat conform artikel 3 en 8 van het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie digitaal bezorgd wordt aan de Vlaamse Regering en goedgekeurd wordt door de Vlaamse Regering;<br>
 2° de acties voor het jeugdbeleid in het tweetalige gebied Brussel-Hoofdstad die voortvloeien uit aanpassingen aan het meerjarenplan die conform artikel 3 en 8 van het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie digitaal bezorgd worden aan de Vlaamse Regering en goedgekeurd worden door de Vlaamse Regering.<br>
 <br>
-§3. Het college van de Vlaamse Gemeenschapscommissie stuurt het jeugdbeleidsplan, vermeld in artikel 47, §2, van het Jeugddecreet van 23 november 2023, uiterlijk op 15 januari van het eerste jaar van de vijfjarige beleidsperiode, vermeld in artikel 47, §2, tweede lid, van het voormelde decreet, naar de administratie en bezorgt een kopie aan de jeugdraad, vermeld in artikel 49, van het voormelde decreet.&nbsp;<br>
+§3. Het College van de Vlaamse Gemeenschapscommissie stuurt het jeugdbeleidsplan, vermeld in artikel 47, §2, van het Jeugddecreet van 23 november 2023, uiterlijk op 15 januari van het eerste jaar van de vijfjarige beleidsperiode, vermeld in artikel 47, §2, tweede lid, van het voormelde decreet, naar de administratie en bezorgt een kopie aan de jeugdraad, vermeld in artikel 49 van het voormelde decreet.&nbsp;<br>
 <br>
-De beslissing over de subsidiëring wordt uiterlijk op 30 april van het jaar, vermeld in eerste lid, meegedeeld aan het college van de Vlaamse Gemeenschapscommissie en aan de jeugdraad, vermeld in het eerste lid.<br>
+De administratie geeft advies over het ingediende jeugdbeleidsplan op basis van de criteria, vermeld in paragraaf 1. Het advies bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een voorstel van motivatie om al dan niet een subsidiebedrag toe te kennen;<br>
+2°&nbsp;&nbsp; &nbsp;een voorstel voor de hoogte van het subsidiebedrag.<br>
+<br>
+De administratie bezorgt haar advies aan de minister uiterlijk op 31 maart van het jaar, vermeld in het eerste lid. Op basis van het advies beslist de minister over de toekenning van de subsidie. De beslissing over de subsidiëring wordt uiterlijk op 30 april van het jaar, vermeld in eerste lid, meegedeeld aan het College van de Vlaamse Gemeenschapscommissie en aan de jeugdraad, vermeld in het eerste lid.<br>
 <br>
 §4. De subsidie die is toegekend aan de Vlaamse Gemeenschapscommissie op basis van artikel 47 van het Jeugddecreet van 23 november 2023, wordt op de volgende wijze betaald:<br>
 1° 90% wordt betaald in de loop van het jaar waarvoor de subsidie bedoeld is;<br>
