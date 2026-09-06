@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042305,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van het besluit van de Vlaamse Regering van 9 februari 2024 tot uitvoering van het Jeugddecreet van 23 november 2023, wat betreft subsidiëring, evaluatieprocedures en de luisterlijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042305/VolledigDocument?datum=2026-09-06",
+  "source_sha256": "e954482c878c452764f0cd37278818c0263ea013f4cb0234b2b0192893ebfa19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042305&param=informatie",
+  "as_of": "2026-09-06",
+  "made": "2026-07-10",
+  "gazette": "2026-08-27",
+  "numac": 2026006306,
+  "document_start": "2026-09-06",
+  "document_end": null,
+  "in_force": "2026-09-06",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2026-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
