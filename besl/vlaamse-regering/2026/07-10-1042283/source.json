@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042283,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen en het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042283/VolledigDocument?datum=2026-09-08",
+  "source_sha256": "525e0128794ffd2b14c58992e36d00dcd432c6524903b7ada86e86392db658d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042283&param=informatie",
+  "as_of": "2026-09-08",
+  "made": "2026-07-10",
+  "gazette": "2026-08-28",
+  "numac": 2026006242,
+  "document_start": "2026-09-08",
+  "document_end": null,
+  "in_force": "2026-09-08",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2026-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
