@@ -140,7 +140,22 @@ In het kader van het KLIP worden persoonsgegevens verwerkt om het doel van het K
 
 ### ART. 17.
 
-De volgende personen worden gestraft met een geldboete van 50 tot 100.000   euro : <BR>1° elke KLB die zich niet of niet-tijdig registreert in het KLIP of   die zijn KLB-zone niet invoert en activeert in het KLIP, zoals bepaald in   artikel 6, § 1; <BR>2° elke in het KLIP geregistreerde KLB die zijn KLB-zone   niet bijhoudt zoals voorzien in artikel 6, § 2; <BR>3° elke persoon die   overeenkomstig dit decreet een planaanvraag moet indienen en die die   planaanvraag niet indient of niet tijdig heeft ingediend;<BR>3°/1 elke persoon   die overeenkomstig dit decreet een planaanvraag moet indienen en die de   verplichting uit artikel 11, § 2 miskent; <BR>4° elke persoon die ter uitvoering   van dit decreet opzettelijk foutieve informatie verstrekt, de verkregen   informatie gebruikt voor andere doeleinden dan bepaald in dit decreet of op   gelijk welke andere wijze oneigenlijk gebruik maakt van het KLIP;<BR>5° elke KLB   die de informatie, zoals voorzien in artikel 11, niet tijdig   verstrekt.<BR><BR>De bepalingen van hoofdstuk VII en artikel 85 van het   Strafwetboek zijn van toepassing op de misdrijven, vermeld in het eerste   lid.<BR><BR>
+De volgende personen worden gestraft met een straf van niveau 1 van het Strafwetboek :<br>
+1° elke KLB die zich niet of niet-tijdig registreert in het KLIP of die zijn KLB-zone niet invoert en activeert in het KLIP, zoals bepaald in artikel 6, § 1;<br>
+2° elke in het KLIP geregistreerde KLB die zijn KLB-zone niet bijhoudt zoals voorzien in artikel 6, § 2;<br>
+3° elke persoon die overeenkomstig dit decreet een planaanvraag moet indienen en die die planaanvraag niet indient of niet tijdig heeft ingediend;<br>
+3°/1 elke persoon die overeenkomstig dit decreet een planaanvraag moet indienen en die de verplichting uit artikel 11, § 2 miskent;<br>
+4° elke persoon die ter uitvoering van dit decreet opzettelijk foutieve informatie verstrekt, de verkregen informatie gebruikt voor andere doeleinden dan bepaald in dit decreet of op gelijk welke andere wijze oneigenlijk gebruik maakt van het KLIP;<br>
+5° elke KLB die de informatie, zoals voorzien in artikel 11, niet tijdig verstrekt.<br>
+<br>
+In afwijking van artikel 36, negende lid, en artikel 38, negende lid, van het Strafwetboek bedraagt de maximale geldboete 800.000 euro voor de misdrij-ven, vermeld in het eerste lid.
+
+### ART 17/1.
+
+Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 4 en 10, van toepassing op de handhaving van dit decreet en de uitvoeringsbesluiten ervan.&nbsp;<br>
+<br>
+De Vlaamse Regering of haar gemachtigde wijst personeelsleden van het agentschap aan als herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
+&nbsp;
 
 ## HOOFDSTUK X Slotbepalingen
 
