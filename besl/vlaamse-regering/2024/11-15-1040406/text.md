@@ -21,14 +21,14 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Personeelsleden van bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen die worden aangewezen als toezichthouder, bestuurlijk opsporingsagent of agent van de gerechtelijke politie, kunnen de automatisch werkende toestellen op basis van de volgende technologieën gebruiken om misdrijven en inbreuken vast te stellen als vermeld in het Scheepvaartdecreet van 21 januari 2022, en de reglementen ter uitvoering van het voormelde decreet:<br>
+Personeelsleden van bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen die worden aangewezen als toezichthouder kunnen de automatisch werkende toestellen op basis van de volgende technologieën gebruiken om misdrijven en inbreuken vast te stellen als vermeld in het Scheepvaartdecreet van 21 januari 2022, en de reglementen ter uitvoering van het voormelde decreet:<br>
 1° radar;<br>
 2° laser;<br>
 3° sensor;<br>
 4° transponder;<br>
 5° nautische software;<br>
-6° geluidsmeting;<br>
-7° monstername.
+6° ...;<br>
+7° ...
 
 ### ART 2.
 
