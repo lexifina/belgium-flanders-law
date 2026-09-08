@@ -2,16 +2,16 @@
   "codex_id": 1038797,
   "title": "Besluit van de Vlaamse Regering van 2023-08-31 tot vastlegging van opleidings- en ervaringsvereisten en andere voorwaarden voor personeelsleden van bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen die worden aangewezen als toezichthouder, bestuurlijk opsporingsagent of agent van gerechtelijke politie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038797/VolledigDocument?datum=2024-08-08",
-  "source_sha256": "93fcb37363fbbe459f998aad9428c379115da60ab763d6dc67326aac78edc548",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038797/VolledigDocument?datum=2026-09-08",
+  "source_sha256": "1724752d11cbbf0dd274d0ceab5dacb735b608de123000b1c3949eacc49b9698",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038797&param=informatie",
-  "as_of": "2024-08-08",
+  "as_of": "2026-09-08",
   "made": "2023-08-31",
   "gazette": "2023-10-16",
   "numac": 2023045609,
   "document_start": "2023-10-26",
   "document_end": "2026-09-07",
-  "in_force": "2024-08-08",
+  "in_force": "2026-09-08",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-08-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-08; future article versions excluded; article text as the API gives it"
 }
