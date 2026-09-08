@@ -217,7 +217,7 @@ De Vlaamse Regering kan betreffende deze melding de nadere regels vaststellen.
 
 ### ART 16.
 
-Deze afdeling, evenals artikel 88, artikel 120 en afdeling 2 van hoofdstuk 4 van titel 6 zijn van toepassing op de binnenwateren.<br>
+Deze afdeling, evenals artikel 88, artikel 118, §1, 2° en afdeling 2 van hoofdstuk 4 van titel 6 zijn van toepassing op de binnenwateren.<br>
 <br>
 Voormelde bepalingen zijn van overeenkomstige toepassing op de territoriale zee en de exclusieve economische zone wat betreft de schepen, wrakstukken, gezonken tuigen of voorwerpen die een aantasting van de bereikbaarheid van de Vlaamse havens en waterwegen vormen.<br>
 <br>
@@ -464,7 +464,7 @@ Deze afdeling is van toepassing in de havengebieden beheerd en geëxploiteerd do
 
 § 1. De eigenaar of de gezagvoerder van een schip dat dreigt te zinken of vast te lopen, dat onvoldoende of onrechtmatig is gemeerd of dat derwijze ligt dat het de doorvaart hindert of anderszins de vrijheid of de veiligheid van de scheepvaart of het leefmilieu in het gedrang brengt of kan brengen, neemt onverwijld alle maatregelen om hieraan te verhelpen.<br>
 <br>
-§ 2. Wanneer een schip gezonken is of dreigt te zinken of vast te lopen, wanneer het onvoldoende of onrechtmatig gemeerd is of derwijze ligt dat het de doorvaart hindert en, in het algemeen, telkens als het nodig is de vrijheid of veiligheid van de scheepvaart te verzekeren, de afvoer van het water te vergemakkelijken of de belangen van het regime van de waterweg of de haven te vrijwaren, mag de waterwegbeheerder of het havenbedrijf en, bij dringendheid, elke ambtenaar, vermeld in artikel 112, aan de eigenaar of de gezagvoerder de nodig geachte maatregelen voorschrijven, zelfs wanneer deze niet in enige verordening voorzien zijn.<br>
+§ 2. Wanneer een schip gezonken is of dreigt te zinken of vast te lopen, wanneer het onvoldoende of onrechtmatig gemeerd is of derwijze ligt dat het de doorvaart hindert en, in het algemeen, telkens als het nodig is de vrijheid of veiligheid van de scheepvaart te verzekeren, de afvoer van het water te vergemakkelijken of de belangen van het regime van de waterweg of de haven te vrijwaren, mag de waterwegbeheerder of het havenbedrijf en, bij dringendheid, elke toezichthouder, aan de eigenaar of de gezagvoerder de nodig geachte maatregelen voorschrijven, zelfs wanneer deze niet in enige verordening voorzien zijn.<br>
 <br>
 De eigenaar en de gezagvoerder moeten aan de gegeven bevelen onmiddellijk gevolg geven. Indien zij hierbij in gebreke blijven of indien zij afwezig zijn, mogen de voorgeschreven maatregelen van ambtswege op hun kosten worden uitgevoerd.<br>
 <br>
@@ -498,7 +498,7 @@ Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/162
 
 ### ART 55.
 
-Deze afdeling, evenals artikel 116, artikel 121 tot en met 123 en afdeling 3 van hoofdstuk 4 van titel 6, zijn van toepassing op:<br>
+Deze afdeling, evenals artikel 116, artikel 118 en 119 en afdeling 3 van hoofdstuk 4 van titel 6, zijn van toepassing op:<br>
 1° elk binnenschip, met uitzondering van de pleziervaartuigen; en<br>
 2° andere schepen, met uitzondering van pleziervaartuigen en marineschepen en met uitzondering van zeeschepen, zeesleepboten en zeeduwboten die aan een van de volgende voorwaarden voldoen:<br>
 a) in getijdenwateren varen of stilliggen;<br>
@@ -599,7 +599,7 @@ Tot op een door de Vlaamse Regering vastgestelde datum moet ieder die een schip 
 <br>
 De Vlaamse Regering kan, onder de algemene voorwaarden die zij vaststelt, vrijstellen van de in deze paragraaf voorgeschreven verplichtingen uit hoofde van de categorie van schepen of de aard van de uitgevoerde activiteiten.<br>
 <br>
-§ 2. Het kwalificatiecertificaat, de vergunning of het gelijkwaardige getuigschrift moet worden vertoond telkens als daarom wordt verzocht door de in artikel 112 bedoelde personen.
+§ 2. Het kwalificatiecertificaat, de vergunning of het gelijkwaardige getuigschrift moet worden vertoond telkens als daarom wordt verzocht door de toezichthouder.
 
 ### ART 62.
 
@@ -886,71 +886,46 @@ De opbrengst van de verkoop wordt in de Deposito- en Consignatiekas gestort ten 
 
 ### ART 110.
 
-Het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving is, met uitzondering van artikel 62 van voormeld kaderdecreet, van toepassing op de handhaving van dit decreet en zijn uitvoeringsbesluiten.<br>
-<br>
-Aanvullend op artikel 26, § 3, van voormeld kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, zijn de personeelsleden van de scheepvaartpolitie vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt eveneens bevoegd voor de bestuurlijke opsporing van de inbreuken, vermeld in 133, eerste lid, 1° tot en met 6°.<br>
-<br>
-De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de scheepvaartpolitie wordt ingeschakeld.<br>
-<br>
-Hoofdstuk 5 van voormeld kaderdecreet is van toepassing, met dien verstande dat het bedrag van de onmiddellijke inning, vermeld in artikel 32 van dit kaderdecreet, gelijk is aan 200 euro voor natuurlijke personen en 1250 euro voor rechtspersonen.<br>
-<br>
-Bestuurlijke geldelijke sancties worden geïnd en ingevorderd ten voordele van het Vlaamse Gewest. In de mate dat zij werden opgelegd door De Vlaamse Waterweg nv als beboetingsinstantie, worden zij evenwel geïnd en ingevorderd ten voordele van De Vlaamse Waterweg nv. In de mate dat zij werden opgelegd door de beboetingsinstantie, vermeld in artikel 135, tweede lid, worden zij geïnd en ingevorderd ten voordele van de stad Antwerpen.<br>
-<br>
-In afwijking van artikel 70 van voormeld kaderdecreet, is de Vlaamse Belastingdienst niet betrokken bij de uitvoering van bestuurlijke sancties, opgelegd door de beboetingsinstantie, vermeld in artikel 135, tweede lid.
+Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 2 tot en met 6, 8 en 10 tot en met 12, van toepassing op de handhaving van dit decreet en de uitvoeringsbesluiten ervan.
 
 ### ART 111.
 
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de op grond van dit decreet daartoe bevoegde overheden beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het negende lid.<br>
+§1. De Vlaamse Regering of haar gemachtigde wijst personeelsleden of entiteiten van de Vlaamse administratie aan als herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de daartoe bevoegde overheden, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+§2. De Vlaamse Regering of haar gemachtigde wijst personeelsleden of entiteiten van de Vlaamse administratie aan als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
+In afwijking van artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 kunnen ook personeelsleden van de stad Antwerpen door het college van burgemeester en schepenen aangewezen worden als beboetingsinstantie voor de inbreuken en misdrijven uit het Scheepvaartdecreet en de uitvoeringsbesluiten ervan voor de zone van de Scheldekaaien in de stad Antwerpen.&nbsp;<br>
 <br>
-Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
+De Vlaamse Regering kan de grenzen bepalen van de zone van de Scheldekaaien in de stad Antwerpen, vermeld in het tweede lid.<br>
 <br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke beslissing van de verwerkingsverantwoordelijke tot weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de daartoe bevoegde overheden zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse Toezichtcommissie.<br>
-<br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
-<br>
-Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie of de vervolgingsinstantie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie, een onderzoeksrechter of een vervolgingsinstantie, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie, een onderzoeksrechter of een vervolgingsinstantie, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat respectievelijk het Openbaar Ministerie, de onderzoeksrechter of de vervolgingsinstantie heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+§3. De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voorwaarden bepalen waaraan herstelinstanties en beboetingsinstanties moeten voldoen.<br>
+&nbsp;
 
 ## HOOFDSTUK 2. Toezicht en controle
 
 ### ART 112.
 
-Personeelsleden van bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen kunnen door deze autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen worden aangewezen als toezichthouder, agent van gerechtelijke politie of bestuurlijk opsporingsagent wanneer zij voldoen aan de Vlaamse Regering bepaalde opleidings- en ervaringsvereisten en andere voorwaarden.<br>
-<br>
-Voor de zone van de Scheldekaaien in de stad Antwerpen (Scheldekaaien zone stad) kunnen personeelsleden van de stad Antwerpen door het college van burgemeester en schepenen onder dezelfde voorwaarden worden aangewezen als toezichthouder of bestuurlijk opsporingsagent bevoegd voor de volgende bepalingen en voorschriften:<br>
-1° de bepalingen over de politie van de Beneden-Zeeschelde, vastgesteld overeenkomstig artikel 148 van dit decreet;<br>
-2° artikel 30, § 2 tot en met § 4, artikel 31, § 3 en § 4, artikel 41, § 7, en artikel 43, van het koninklijk besluit van 23 september 1992 houdende scheepvaartreglement voor de Beneden-Zeeschelde.<br>
-<br>
-De Vlaamse Regering stelt nader de grenzen vast van de zone, vermeld in het tweede lid.<br>
-<br>
-De in het eerste lid bedoelde personeelsleden kunnen op voordracht van de bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen door de Vlaamse Regering worden aangesteld als officier van gerechtelijke politie, officier van gerechtelijke politie-hulpofficier van de procureur des Konings, of bestuurlijk opsporingsagent in de zin van artikel 30, § 1, van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving.
+...
 
 ### ART 113.
 
-Met behoud van artikel 20, § 2 en § 3, van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, kunnen de in artikel 112 vermelde personeelsleden, een afschrift van het proces-verbaal of het verslag van vaststelling, wanneer het is opgesteld ten laste van buitenlandse personen, ook bezorgen aan de vertegenwoordigers van deze personen in België of, bij ontstentenis, aan de diplomatieke vertegenwoordiging van de staat waarvan zij onderdaan zijn.
+Met behoud van artikel 9, §3 en §4, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kunnen de toezichthouders, een afschrift van het proces-verbaal of het verslag van vaststelling, wanneer het is opgesteld ten laste van buitenlandse personen, ook bezorgen aan de vertegenwoordigers van deze personen in België of, bij ontstentenis, aan de diplomatieke vertegenwoordiging van de staat waarvan zij onderdaan zijn.
 
 ### ART 114.
 
-Met behoud van de bepalingen van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, kan de Vlaamse Regering specifieke detectiemiddelen toelaten voor de vaststelling van misdrijven en inbreuken, omschreven door dit decreet, onder de voorwaarden die ze daaraan verbindt.<br>
+Met behoud van de bepalingen van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kan de Vlaamse Regering specifieke detectiemiddelen toelaten voor de vaststelling van misdrijven en inbreuken, omschreven door dit decreet, onder de voorwaarden die ze daaraan verbindt.<br>
 <br>
 De automatisch werkende toestellen, gebruikt om toezicht te houden op de naleving van dit decreet en zijn uitvoeringsbesluiten, moeten, voor zover zij metingen uitvoeren, goedgekeurd of gehomologeerd worden volgens de modaliteiten bepaald door de Vlaamse Regering.<br>
 <br>
-Indien een maximum toegelaten snelheid aan het scheepvaartverkeer wordt opgelegd, kan de naleving hiervan door de in artikel 112 vermelde personeelsleden worden gecontroleerd door het vaststellen van de snelheid op basis van het tijdsverloop tussen de doortocht aan twee fysieke punten, zoals sluizen of bruggen, twee geografisch gedefinieerde punten op de waterlijn, of op elke andere manier door de Vlaamse Regering bepaald.
+Indien een maximum toegelaten snelheid aan het scheepvaartverkeer wordt opgelegd, kan de naleving hiervan door de toezichthouders worden gecontroleerd door het vaststellen van de snelheid op basis van het tijdsverloop tussen de doortocht aan twee fysieke punten, zoals sluizen of bruggen, twee geografisch gedefinieerde punten op de waterlijn, of op elke andere manier door de Vlaamse Regering bepaald.
 
 ### ART 115.
 
-De in artikel 112 vermelde personeelsleden kunnen aanwijzingen en bevelen geven aan de vermoedelijke pleger van een misdrijf of inbreuk.
+De toezichthouders, bevoegd voor de handhaving van dit decreet en de uitvoeringsbesluiten ervan, kunnen aanwijzingen en bevelen geven aan de vermoedelijke pleger van een misdrijf of inbreuk.
 
 ### ART 116.
 
-Teneinde de toepassing van afdeling 5 van hoofdstuk 1 van titel 3 van dit decreet en van zijn uitvoeringsbesluiten te verzekeren, hebben toezichthouders van de bevoegde autoriteit het recht te eisen dat hun alle scheepspapieren worden voorgelegd en kunnen zij te allen tijde de nodig geachte richtlijnen geven, onder meer het op het droge zetten of het ledig vertonen van het schip en het uitvoeren van bepaalde werken.
+Teneinde de toepassing van afdeling 5 van hoofdstuk 1 van titel 3 van dit decreet en van zijn uitvoeringsbesluiten te verzekeren, hebben toezichthouders het recht te eisen dat hun alle scheepspapieren worden voorgelegd en kunnen zij te allen tijde de nodig geachte richtlijnen geven, onder meer het op het droge zetten of het ledig vertonen van het schip en het uitvoeren van bepaalde werken.
 
 ### ART 117.
 
@@ -958,104 +933,107 @@ De bevoegde autoriteit verifieert regelmatig of de terminals aan de voorschrifte
 <br>
 Daarnaast verifieert de bevoegde autoriteit aan het einde van de in artikel 74 vermelde termijn of de nieuwe terminals aan de in artikel 73, §1, eerste lid, 4°, vermelde vereisten voldoen.
 
-## HOOFDSTUK 3. Sancties
+## HOOFDSTUK 3. Misdrijven en inbreuken
 
-## Afdeling 1. Strafsancties
+## Afdeling 1. Misdrijven
 
 ### ART 118.
 
-De volgende personen worden gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 100 tot 2000 euro of met een van deze straffen:<br>
-1° degene die zich schuldig maakt aan een overtreding van artikel 15;<br>
-2° degene die zich schuldig maakt aan een overtreding van artikel 24;<br>
-3° degene die zich schuldig maakt aan een overtreding van artikel 25;<br>
-4° degene die zich schuldig maakt aan een overtreding van artikel 26, eerste lid, behalve als artikel 53, § 1, 8°, van het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum voor het betrokken feit reeds in een straf voorziet;<br>
-5° degene die zich schuldig maakt aan een overtreding van artikel 27;<br>
-6° degene die zich schuldig maakt aan een overtreding van artikel 35;<br>
-7° degene die zich schuldig maakt aan een overtreding van artikel 49 tot en met 52;<br>
-8° degene die zich schuldig maakt aan een overtreding van artikel 69.
+§1. De volgende personen worden gestraft met een straf van niveau 1:<br>
+1°&nbsp;&nbsp; &nbsp;degene die artikel 15 schendt;<br>
+2°&nbsp;&nbsp; &nbsp;degene die artikel 17 of 140 schendt;<br>
+3°&nbsp;&nbsp; &nbsp;degene die artikel 24 schendt;<br>
+4°&nbsp;&nbsp; &nbsp;degene die artikel 25 schendt;<br>
+5°&nbsp;&nbsp; &nbsp;degene die artikel 26, eerste lid, schendt, behalve als artikel 53, §1, 8°, van het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Red-dings- en Coördinatiecentrum voor het betrokken feit al in een straf voorziet;<br>
+6°&nbsp;&nbsp; &nbsp;degene die artikel 27 schendt;<br>
+7°&nbsp;&nbsp; &nbsp;degene die artikel 35 schendt;<br>
+8°&nbsp;&nbsp; &nbsp;degene die artikel 49 tot en met 52 schendt;<br>
+9°&nbsp;&nbsp; &nbsp;degene die artikel 56 tot en met 60, met inbegrip van de besluiten die ter uitvoering van die artikelen genomen zijn, schendt;<br>
+10°&nbsp;&nbsp; &nbsp;degene die de opdracht van De Vlaamse Waterweg en deskundigen, uitgeoefend conform artikel 56 tot en met 60, en de besluiten die ter uitvoe-ring van die artikelen zijn genomen, heeft belemmerd. Dat geldt ook als de belemmering door de gezagvoerder, de officieren of door personen van Belgische nationaliteit buiten België is gepleegd;<br>
+11°&nbsp;&nbsp; &nbsp;degene die, in strijd met artikel 61, niet beschikt over het vereiste kwalificatiecertificaat, de vereiste vergunning of het gelijkwaardige getuig-schrift, of die documenten niet bij zich heeft of ter inzage beschikbaar heeft;<br>
+12°&nbsp;&nbsp; &nbsp;degene die activiteiten verricht waarvoor die overeenkomstig artikel 61 moet beschikken over een kwalificatiecertificaat, een vergunning of een gelijk-waardig getuigschrift, terwijl die zich ervan bewust is te lijden aan een van de gebreken of een van de kwalen die door de Vlaamse Regering ter uitvoering van artikel 64 zijn bepaald;<br>
+13°&nbsp;&nbsp; &nbsp;degene die op een andere manier de bepalingen van de besluiten die genomen zijn ter uitvoering van artikel 61 tot 64, heeft geschonden;<br>
+14°&nbsp;&nbsp; &nbsp;degene die artikel 64 schendt;<br>
+15°&nbsp;&nbsp; &nbsp;degene die de besluiten schendt die ter uitvoering van artikel 67 zijn genomen, en degene die de voorwaarden schendt die zijn verbonden aan de individuele toestemming, vermeld in artikel 68;<br>
+16°&nbsp;&nbsp; &nbsp;degene die artikel 69 schendt;<br>
+17°&nbsp;&nbsp; &nbsp;degene die de aanwijzingen en bevelen, vermeld in artikel 115, niet opvolgt;<br>
+18°&nbsp;&nbsp; &nbsp;degene die de besluiten schendt die zijn genomen met toepassing van artikel 147;<br>
+19°&nbsp;&nbsp; &nbsp;degene die zich schuldig maakt aan smaad ten aanzien van een toezichthou-der als vermeld in artikel 8, §2, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, die bevoegd is voor de handhaving van dit decreet, bij de regelmatige inzet van toezichtrechten.<br>
+<br>
+In afwijking van artikel 36, negende lid, en artikel 38, negende lid, van het Strafwetboek bedraagt de maximale geldboete altijd 100.000 euro voor de misdrijven, vermeld in het eerste lid.<br>
+<br>
+De straffen, vermeld in het eerste lid, of de straffen, vermeld in artikel 104 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kunnen voor de schendingen, vermeld in het eerste lid, 9° en 10°, en het belemmeren van het toezichtrecht, vermeld in artikel 116, ten aanzien van de gezagvoerder verminderd worden tot een vierde van de straffen waarmee de eigenaar of de exploitant van het schip gestraft kan worden, als bewezen is dat de gezagvoerder van de eigenaar of de exploitant het schriftelijke of mondelinge bevel heeft gekregen om te handelen in strijd met artikel 56 tot en met 60, artikel 116, of de uitvoeringsbesluiten ervan.<br>
+<br>
+§2. Voor de misdrijven, vermeld in paragraaf 1, eerste lid, kan een alternatieve bestuurlijke geldboete worden opgelegd van minimaal 50 euro en maximaal 100.000 euro.
 
 ### ART 119.
 
-Eenieder die de personeelsleden, vermeld in artikel 112, opzettelijk belemmert of hindert bij de uitvoering van hun opdrachten, wordt gestraft met een gevangenisstraf van acht dagen tot zes maanden of met een geldboete van 200 euro tot 10.000 euro, of met beide straffen, met behoud van de toepassing van de straffen, bepaald in artikel 271 tot en met 274 van het Strafwetboek.
+§1. De volgende personen worden gestraft met een straf van niveau 2:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;degene die de bepalingen van titel 3, hoofdstuk 1, afdeling 9, of de besluiten die genomen zijn ter uitvoering van de voormelde afdeling, heeft geschon-den;<br>
+2°&nbsp;&nbsp; &nbsp;degene die de bepalingen van titel 5 en de uitvoeringsbesluiten ervan heeft geschonden, of die de opdracht van de OSB of een andere onderzoeksinstan-tie die uitgeoefend is krachtens die bepalingen, heeft belemmerd;<br>
+3°&nbsp;&nbsp; &nbsp;de gezagvoerder, de eigenaar of de exploitant van een schip die, in strijd met de bepalingen van artikel 56, vanuit een haven een schip zee doet kiezen of op de binnenwateren een schip doet varen, als de toestand ervan de veilig-heid van de bemanning, van de passagiers of van de lading of het milieu in gevaar brengt.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 400.000 euro voor de misdrijven, vermeld in het eerste lid.&nbsp;<br>
+<br>
+In afwijking van artikel 52 van het Strafwetboek legt de rechter altijd een bijkomende geldboete op voor het misdrijf, vermeld in het eerste lid, punt 3°.<br>
+<br>
+De straffen, vermeld in het eerste lid, voor de schending, vermeld in het eerste lid, 3°, kunnen ten aanzien van de gezagvoerder verminderd worden tot een vierde van de straffen waarmee de eigenaar of de exploitant van het schip gestraft kan worden, als bewezen is dat de gezagvoerder van de eigenaar of de exploitant het schriftelijke of mondelinge bevel heeft gekregen om te handelen in strijd met artikel 56.<br>
+<br>
+§2. Voor de misdrijven, vermeld in paragraaf 1, eerste lid, kan een alternatieve bestuurlijke geldboete worden opgelegd van minimaal 200 euro en maximaal 500.000 euro.
 
 ### ART 120.
 
-Wordt gestraft met een gevangenisstraf van vijftien dagen tot één jaar en met een geldboete van 200 euro tot 50.000 euro of met één van deze straffen, degene die artikel 17 en 140 overtreedt.
+...
 
 ### ART 121.
 
-§ 1. Met gevangenisstraf van een maand tot twee jaar en met een geldboete van 50 tot 5000 euro wordt gestraft, de gezagvoerder, de eigenaar of de exploitant van een schip die, in strijd met de bepalingen van artikel 56, vanuit een haven een schip zee doet kiezen of op de binnenwateren een schip doet varen, als de toestand ervan de veiligheid van de bemanning, van de passagiers of van de lading of het milieu in gevaar brengt.<br>
-<br>
-§ 2. Met behoud van de toepassing van paragraaf 1, wordt gestraft met gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 tot 300 euro of met één van die straffen alleen:<br>
-1° ieder die de bepalingen van artikel 56 tot en met 60 of artikel 116, alsook de bepalingen van de ter uitvoering van deze artikelen genomen besluiten heeft overtreden;<br>
-2° ieder die de opdracht van de bevoegde autoriteit en deskundigen, krachtens artikel 56 tot en met 60, artikel 116, en de uitvoeringsbesluiten uitgeoefend, heeft belemmerd.<br>
-<br>
-§ 3. De in paragraaf 2 gestelde sancties zijn ook van toepassing wanneer de overtreding van artikel 116 of de strafbare feiten, vermeld in paragraaf 2, 2°, door de gezagvoerder, de officieren of door personen van Belgische nationaliteit buiten België zijn gepleegd.<br>
-<br>
-§ 4. De in dit artikel gestelde straffen kunnen ten aanzien van de gezagvoerder verminderd worden tot één vierde van de straffen waarmee de eigenaar of de exploitant van het schip kan gestraft worden, indien bewezen is dat de gezagvoerder van de eigenaar of de exploitant schriftelijk of mondeling bevel heeft gekregen in strijd met artikel 56 tot en met 60, artikel 116, of de uitvoeringsbesluiten te handelen.<br>
-<br>
-§ 5. Met gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 1 tot 25 euro wordt gestraft elk lid van de bemanning dat de retentie van een schip heeft uitgelokt door onjuist bevonden beweringen.<br>
-Indien de onjuiste beweringen willens en wetens zijn geuit, wordt de schuldige gestraft met gevangenisstraf van acht dagen tot zes maanden en met een geldboete van 26 tot 100 euro.
+...
 
 ### ART 122.
 
-Met de straffen gesteld in artikel 276 en 280 van het Strafwetboek naar het aldaar voorziene onderscheid en met behoud van de toepassing van artikel 399, 400 en 401 van hetzelfde wetboek, wordt gestraft ieder die de personeelsleden van de bevoegde autoriteit in de uitoefening of naar aanleiding van de uitoefening van hun ambt smaadt of slaat.<br>
-<br>
-Gezegde personeelsleden hebben het recht de bij dit artikel bedoelde strafbare handelingen op staande voet vast te stellen door middel van een proces-verbaal dat bewijskracht heeft tot het tegenbewijs is geleverd.
+...
 
 ### ART 123.
 
-Met gevangenisstraf van acht dagen tot drie maanden en met geldboete van 26 euro tot 500 euro of met een van die straffen alleen, wordt gestraft:<br>
-1° hij die, in strijd met artikel 61, het vereiste kwalificatiecertificaat, de vereiste vergunning of het gelijkwaardige getuigschrift niet bij zich heeft of ter inzage beschikbaar heeft;<br>
-2° hij die, in strijd met artikel 61, het kwalificatiecertificaat, de vergunning of het gelijkwaardige getuigschrift niet vertoont aan de in artikel 112 bedoelde persoon die erom verzoekt;<br>
-3° hij die, in strijd met artikel 64, zijn in artikel 61 bedoelde kwalificatiecertificaat of vergunning niet binnen tien dagen inlevert bij de bevoegde autoriteit die het kwalificatiecertificaat of de vergunning afgegeven heeft wanneer hij er zich van bewust is te lijden aan een van de gebreken of een van de kwalen door de Vlaamse Regering bepaald.<br>
-<br>
-Met gevangenisstraf van acht dagen tot drie maanden en met geldboete van 250 euro tot 2000 euro of met een van die straffen alleen, wordt gestraft:<br>
-1° hij die, in strijd met artikel 61, niet beschikt over het vereiste kwalificatiecertificaat, de vereiste vergunning of het gelijkwaardige getuigschrift;<br>
-2° hij die de activiteiten verricht waarvoor hij overeenkomstig artikel 61 moet beschikken over een kwalificatiecertificaat, een vergunning of een gelijkwaardig getuigschrift, terwijl hij er zich van bewust is te lijden aan een van de gebreken of een van de kwalen door de Vlaamse Regering in uitvoering van artikel 64 bepaald.<br>
-3° hij die op een andere wijze de bepalingen van de ter uitvoering van artikel 61 tot 64 genomen besluiten heeft overtreden.<br>
-<br>
-De straffen, vermeld in dit artikel, worden verdubbeld bij herhaling binnen het jaar te rekenen van de dag van de uitspraak van een vorig veroordelend vonnis dat in kracht van gewijsde is gegaan. Dit lid vindt geen toepassing in het geval dat een overtreding als vermeld in het tweede lid volgt op een overtreding als vermeld in het eerste lid.
+...
 
 ### ART 124.
 
-De overtredingen van de in uitvoering van artikel 67 genomen besluiten en de overtreding van de voorwaarden die zijn verbonden aan de individuele toestemming, bepaald in artikel 68, worden bestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 50 tot 500 euro of met één van die straffen.
+...
 
 ### ART 125.
 
-Wordt gestraft met een gevangenisstraf van vijftien dagen tot één jaar en met een geldboete van 200 euro tot 50.000 euro of met één van deze straffen, degene die de bepalingen van afdeling 9 van hoofdstuk 1 van titel 3, alsook de bepalingen van de ter uitvoering van deze afdeling genomen besluiten heeft overtreden.
+...
 
 ### ART 126.
 
-Met gevangenisstraf van zes maanden tot twee jaar en met geldboete van 50 euro tot 5000 euro of met een van die straffen alleen, wordt gestraft, eenieder die de bepalingen van titel 5 en zijn uitvoeringsbesluiten heeft overtreden of die de uitvoering van de opdracht van de OSB of een andere onderzoeksinstantie uitgeoefend krachtens deze bepalingen heeft belemmerd.
+...
 
 ### ART 127.
 
-Met gevangenisstraf van acht dagen tot zes maanden en met geldboete van 50 euro tot 10.000 euro of met een van die straffen alleen, wordt gestraft, eenieder die zich schuldig maakt aan een overtreding van de besluiten die werden genomen bij toepassing van artikel 147.
+...
 
 ### ART 128.
 
-Elke overtreding van artikel 99, tweede lid, wordt gestraft met de straffen bepaald in artikel 458 van het Strafwetboek.
+...
 
 ### ART 129.
 
-Met behoud van artikel 123, § 3, kunnen de maximale straffen, vermeld in deze afdeling, worden verdubbeld in geval van herhaling binnen vijf jaar.
+...
 
 ### ART 130.
 
-Alle bepalingen van boek I van het Strafwetboek zijn van toepassing op de bij of krachtens dit decreet vastgestelde misdrijven. In geval van herhaling is artikel 85 van het Strafwetboek evenwel niet van toepassing.
+...
 
 ### ART 131.
 
-De vervolging van misdrijven verjaart na verloop van vijf jaar na het feit waaruit de strafvordering is ontstaan.
+...
 
 ### ART 132.
 
-De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboetes en kosten waartoe zijn lasthebbers of aangestelden zijn veroordeeld.<br>
-<br>
-De rechtspersonen zijn burgerrechtelijk aansprakelijk voor de betaling van de schadevergoedingen, kosten en geldboetes waartoe hun organen zijn veroordeeld.
+...
 
-## Afdeling 2. Bestuurlijke sancties
+## Afdeling 2. Inbreuken
 
 ### ART 133.
 
@@ -1070,32 +1048,29 @@ De volgende personen worden gesanctioneerd met een exclusieve bestuurlijke geldb
 6° de eigenaar of de exploitant van een schip dat, in overtreding van het door de Vlaamse Regering overeenkomstig artikel 53 vastgestelde besluit, niet over een verplicht boorddocument beschikt;<br>
 7° degene die gebruik maakt van de waterweg zonder te voldoen aan artikel 79 tot en met 82 of de krachtens deze artikelen uitgevaardigde besluiten.<br>
 <br>
-De bestuurlijke geldboete bedraagt, per inbreuk, maximum 1000 euro voor natuurlijke personen en 5000 euro voor rechtspersonen.
+De bestuurlijke geldboete bedraagt minimaal 50 euro en maximaal 10.000 euro per inbreuk.
 
 ### ART 134.
 
-Voor de misdrijven, vermeld in artikel 118 tot en met 128, kan een alternatieve bestuurlijke geldboete worden opgelegd.
+Voor de misdrijven, vermeld in artikel 118 en 119, kan een alternatieve bestuurlijke geldboete worden opgelegd.
 
 ### ART 135.
 
-Binnen haar taakomschrijving als bepaald bij artikel 5 en 5bis van het decreet van 2 april 2004 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap De Vlaamse Waterweg nv, naamloze vennootschap van publiek recht, is De Vlaamse Waterweg nv de vervolgingsinstantie en de beboetingsinstantie in de zin van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving.<br>
-<br>
-Voor de zone van de Scheldekaaien in de stad Antwerpen (Scheldekaaien zone stad), vastgesteld overeenkomstig artikel 112, derde lid, kunnen personeelsleden van de stad Antwerpen door het college van burgemeester en schepenen worden aangewezen als vervolgingsinstantie of als beboetingsinstantie in de zin van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, bevoegd voor de in artikel 112, tweede lid, vermelde bepalingen en voorschriften.
+...
 
 ### ART 136.
 
-§ 1. Met uitzondering van de personeelsleden, vermeld in artikel 135, tweede lid, wijst de Vlaamse Regering de personeelsleden van de vervolgingsinstantie aan die bevoegd zijn voor het nemen van beslissingen over de bestuurlijke vervolging en de personeelsleden van de beboetingsinstantie die bevoegd zijn voor het opleggen van de bestuurlijke sancties. De Vlaamse Regering bepaalt de nadere voorwaarden waaraan de personeelsleden moeten voldoen.<br>
-<br>
-§ 2. De vervolgingsinstantie en de beboetingsinstantie, evenals de personeelsleden die binnen die instanties aangesteld zijn om te beslissen over de bestuurlijke vervolging en om de bestuurlijke sancties op te leggen, dienen die bevoegdheid uit te oefenen onder voorwaarden die hun onafhankelijkheid en onpartijdigheid waarborgen.<br>
-<br>
-Deze personeelsleden mogen geen beslissing nemen in een dossier waarin ze reeds zijn opgetreden in een andere hoedanigheid, noch rechtstreeks of onrechtstreeks belang hebben.
+...
 
 ### ART 137.
 
-Een bestuurlijke geldboete kan niet worden opgelegd als:<br>
-1° voor het betrokken feit reeds eerder een bestuurlijke geldboete werd opgelegd;<br>
-2° door de strafrechter voor het betrokken feit al eerder een straf werd opgelegd;<br>
-3° het betrokken feit eerder al heeft geleid tot een vrijspraak, een eenvoudige schuldverklaring zonder straf, een opschorting van de uitspraak van de veroordeling of een minnelijke schikking.
+...
+
+## Afdeling 3. Indexatie
+
+### ART 137/1.
+
+De bedragen van de bestuurlijke geldboetes, vermeld in dit hoofdstuk, worden op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex van december van het voorgaande jaar, waarbij het aanvangsindexcijfer het indexcijfer van december 2026 is. Onder de gezondheidsindex wordt verstaan de afgevlakte gezondheidsindex, vermeld in artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ## HOOFDSTUK 4. Maatregelen van ambtswege
 
@@ -1103,7 +1078,7 @@ Een bestuurlijke geldboete kan niet worden opgelegd als:<br>
 
 ### ART 138.
 
-Met behoud van de toepassing van de sancties bepaald in hoofdstuk 3 van titel 6, hebben de bevoegde autoriteiten het recht om van elk schip dat de bepalingen van dit decreet en de krachtens dit decreet vastgestelde reglementen heeft overtreden de boorddocumenten tijdelijk in te houden totdat de gezagvoerder alle voorschriften nagekomen is, of om het schip stil te doen houden en van ambtswege naar een door hen aan te wijzen plaats te verhalen, waar het zal opgehouden worden totdat de gezagvoerder alle voorschriften nagekomen is. De overeenkomstig artikel 112, tweede lid, aangewezen personeelsleden van de stad Antwerpen hebben hetzelfde recht.<br>
+Met behoud van de toepassing van de sancties bepaald in hoofdstuk 3 van titel 6, hebben de bevoegde autoriteiten het recht om van elk schip dat de bepalingen van dit decreet en de krachtens dit decreet vastgestelde reglementen heeft overtreden de boorddocumenten tijdelijk in te houden totdat de gezagvoerder alle voorschriften nagekomen is, of om het schip stil te doen houden en van ambtswege naar een door hen aan te wijzen plaats te verhalen, waar het zal opgehouden worden totdat de gezagvoerder alle voorschriften nagekomen is. De toezichthouders van de stad Antwerpen hebben hetzelfde recht.<br>
 <br>
 Nochtans, wanneer de gezagvoerder van een geladen schip geen meetbrief kan tonen, of een vervallen meetbrief voorlegt, kan hem door de bevoegde autoriteit de toelating worden gegeven om zijn reis voort te zetten, mits hij zijn schip dadelijk na het lossen zal doen hermeten.
 
@@ -1183,7 +1158,7 @@ Het beroep heeft geen opschortende kracht.
 
 ### ART 145.
 
-Na de vaststelling van een inbreuk als vermeld in artikel 124 kunnen de personeelsleden die belast zijn met het toezicht, vermeld in artikel 112, passende maatregelen nemen, en inzonderheid:<br>
+Na de vaststelling van een inbreuk als vermeld in artikel 118, 15°, kunnen de toezichthouders passende maatregelen nemen, en inzonderheid:<br>
 1° een schip of ander tuig de toegang tot of het verblijf in de haven verbieden;<br>
 2° een schip ophouden en naar een nabijgelegen plaats brengen of laten brengen;<br>
 3° een schip verbieden af te varen;<br>
