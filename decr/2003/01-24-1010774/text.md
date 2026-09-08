@@ -297,7 +297,17 @@ In het geval dat het beschermd voorwerp als borg werd beschouwd, wordt het, na v
 
 ### ART. 24.
 
-§ 1. Degene die zonder toestemming een topstuk buiten de Vlaamse   Gemeenschap brengt, wordt gestraft met een gevangenisstraf van ten minste vier   maanden en ten hoogste vijf jaar en een geldboete van 300 euro tot 100.000 euro   of met een van deze straffen alleen.<BR><BR>§ 2. De in § 1 vermelde straffen   worden verdubbeld:<BR>1° indien de inbreuk gepleegd wordt door een persoon die   uit hoofde van zijn beroep of activiteit met betrekking tot de topstukken een   daad van koophandel stelt of door degene die bij die verrichtingen als   tussenpersoon optreedt;<BR>2° indien de inbreuk het onmogelijk heeft gemaakt om   het topstuk op korte termijn binnen de Vlaamse Gemeenschap terug te   brengen.
+§1. Degene die zonder toestemming een topstuk buiten de Vlaamse Gemeenschap brengt, wordt gestraft met een straf van niveau 2.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 800.000 euro voor het misdrijf, vermeld in het eerste lid.<br>
+<br>
+§2. Het misdrijf, vermeld in paragraaf 1, eerste lid, wordt bestraft met een straf van niveau 3:<br>
+1° indien het misdrijf gepleegd wordt door een persoon die uit hoofde van zijn beroep of activiteit met betrekking tot de topstukken een daad van koophandel stelt of door degene die bij die verrichtingen als tussenpersoon optreedt;<br>
+2° indien het misdrijf het onmogelijk heeft gemaakt om het topstuk op korte termijn binnen de Vlaamse Gemeenschap terug te brengen.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 1.600.000 euro.<br>
+<br>
+§3. De poging tot het plegen van de misdrijven, vermeld in paragraaf 1 en 2, wordt bestraft met dezelfde straf als het voltooide misdrijf.
 
 ### ART. 25.
 
