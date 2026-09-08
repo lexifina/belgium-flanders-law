@@ -44,6 +44,7 @@ In dit decreet wordt verstaan onder:<br>
 28° straf: een sanctie die gericht is op leedtoevoeging en die alleen door een rechtbank kan worden opgelegd;<br>
 29° toezicht: een handeling die erop gericht is om de naleving van Vlaamse regelgeving te controleren;<br>
 30° toezichthouder: een persoon die bevoegd is om toezicht en opsporing uit te oefenen;<br>
+30°/1 vervoermiddel: een rijdend, varend of vliegend tuig, met inbegrip van drones;<br>
 31° Vlaamse inspectiedienst: een entiteit van de Vlaamse overheid die binnen hetzelfde beleidsdomein of voor dezelfde regelgeving belast is met de handhaving van Vlaamse regelgeving;<br>
 32° Vlaamse overheid: de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
 33° Vlaamse regelgeving: de normen die rechtstreeks op de rechtsonderhorige van toepassing zijn en die een aangelegenheid regelen waarvoor het Vlaamse Gewest of de Vlaamse Gemeenschap bevoegd is;<br>
@@ -66,7 +67,8 @@ Dit decreet is niet van toepassing bij de uitoefening van het administratief toe
 2° de processen-verbaal, de verslagen van vaststelling, de controleverslagen, vermeld in artikel 9, §2, van dit decreet, en de administratieve verslagen, vermeld in artikel 9, §3, van dit decreet;<br>
 3° de beslissingen en de kennisgevingen van de beboetingsinstanties, vermeld in artikel 38, §2, eerste lid, artikel 39 tot en met 41, en artikel 44, 89 en 90 van dit decreet;<br>
 4° de geïntegreerde beslissingen, vermeld in artikel 57 van dit decreet, als de beboetingsinstantie en de herstelinstantie die de voormelde beslissingen hebben genomen, tot de Vlaamse overheid behoren;<br>
-5° de bestuursdocumenten, vermeld in artikel 82, eerste lid, 4°, van dit decreet, met uitzondering van herstelschikkingen die in een authentieke akte zijn opgenomen.<br>
+5° de bestuursdocumenten, vermeld in artikel 82, eerste lid, 4°, van dit decreet, met uitzondering van herstelschikkingen die in een authentieke akte zijn opgenomen;<br>
+6° de verslagen over audits rond premies, subsidies of andere rechten en voordelen die verleend zijn op basis van Vlaamse regelgeving.<br>
 <br>
 De Vlaamse Regering kan bijkomende voorwaarden opleggen voor de bestuursdocumenten, vermeld in het eerste lid, en categorieën van bestuursdocumenten uitsluiten voor bepaalde Vlaamse regelgeving. Zij bepaalt welke bestuursdocumenten, opgesteld op basis van Vlaamse regelgeving waarop dit decreet niet van toepassing is, overeenkomen met de in het eerste lid vermelde categorieën.<br>
 <br>
@@ -81,7 +83,8 @@ Het digitaal klassement garandeert gedurende de volledige levenscyclus van de be
 &nbsp;<br>
 §2. De volgende bestuursdocumenten worden ook opgenomen in het digitaal klassement, vermeld in paragraaf 1, derde lid:<br>
 1° andere bestuursdocumenten dan de bestuursdocumenten, vermeld in paragraaf 1, die door de beboetingsinstantie of de herstelinstantie worden toegevoegd aan respectievelijk het bestuurlijk sanctiedossier of het hersteldossier;<br>
-2° de beslissingen die genomen zijn naar aanleiding van een administratief of jurisdictioneel beroep tegen de beslissingen, vermeld in paragraaf 1, eerste lid.<br>
+2° de beslissingen die genomen zijn naar aanleiding van een administratief of jurisdictioneel beroep tegen de beslissingen, vermeld in paragraaf 1, eerste lid;<br>
+3° de afschriften en de informatie, vermeld in artikel 9, §6, eerste lid, en artikel 38, §1, van dit decreet.<br>
 <br>
 §3. Behoudens technische onmogelijkheid worden de toegankelijkheid en kennisgeving van de bestuursdocumenten, vermeld in paragraaf 1 en 2, voor bestuurlijke overheden en het openbaar ministerie, verzekerd op elektronische wijze, via een beveiligd portaal.<br>
 <br>
@@ -103,7 +106,9 @@ Het als uitvoerbaar waarmerken van bestuurlijke sanctiebeslissingen, schriftelij
 <br>
 De entiteit van de auteur van een proces-verbaal of verslag van vaststelling kan steeds in kennis worden gesteld van navolgende beslissingen van beboetingsinstanties of herstelinstanties.<br>
 <br>
-§5. De Vlaamse Regering kan de lokale overheden, vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, verplichten om de bestuursdocumenten, vermeld in paragraaf 1 en 2, op te nemen in het digitaal klassement, vermeld in paragraaf 1, derde lid, onder de voorwaarden die de Vlaamse Regering bepaalt.
+§5. De Vlaamse Regering kan de lokale overheden, vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, de havenbedrijven en de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, verplichten om de bestuursdocumenten, vermeld in paragraaf 1 en 2, op te nemen in het digitaal klassement, vermeld in paragraaf 1, derde lid, onder de voorwaarden die de Vlaamse Regering bepaalt.<br>
+<br>
+§6. Naar aanleiding van het bewaren van bestuursdocumenten, afschriften en informatie in het digitaal klassement, conform paragraaf 1 en 2, worden de persoonsgegevens en informatiegegevens, vermeld in artikel 78, §1, en artikel 82, ingevoerd in het digitaal klassement voor de doeleinden, vermeld in artikel 77, derde lid, artikel 80, derde lid, en artikel 81, vierde lid, door de bestuurlijke overheden die die bestuursdocumenten hebben opgesteld of ontvangen.
 
 ### ART 5.
 
@@ -177,7 +182,8 @@ Bij de opsporing van misdrijven handelt de toezichthouder in de hoedanigheid van
 5° de personeelsleden van de politiediensten, vermeld in artikel 2 van de wet op het politieambt, die deze politiediensten daarvoor aanwijzen;<br>
 6° de personeelsleden van een havenbedrijf, die het havenbedrijf daarvoor aanwijst;<br>
 7° de bijzondere veldwachters, vermeld in artikel 61 van het Veldwetboek, die de Vlaamse Regering daarvoor aanwijst;<br>
-8° de personeelsleden van de provincie, die de deputatie daarvoor aanwijst.<br>
+8° de personeelsleden van de provincie, die de deputatie daarvoor aanwijst;<br>
+9° de personeelsleden van de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018, die die instel-lingen daarvoor aanwijzen.<br>
 <br>
 De Vlaamse Regering kan de aanwijzingsbevoegdheid vermeld in het eerste lid, 1° en 7°, delegeren.<br>
 <br>
@@ -221,6 +227,8 @@ Vaststellingen en inlichtingen, bekomen door de inzet van toezichtrechten, die n
 <br>
 Het eerste lid is ook van toepassing op misdrijven, inbreuken of normschendingen die toezichthouders tijdens hun toezicht- en opsporingsopdracht vaststellen, maar die buiten die opdracht vallen. De administratieve verslagen over inbreuken en normschendingen worden gericht aan de bevoegde toezichthouder, die ze kan opnemen in een verslag van vaststelling, in voorkomend geval samen met zijn eigen vaststellingen.<br>
 <br>
+Met behoud van de toepassing van het eerste lid kunnen toezichthouders, met inbegrip van de toezichthouders zonder hoedanigheid van agent van gerechtelijke politie, altijd een proces-verbaal opstellen als ze verhinderd worden bij de regelmatige inzet van hun toezichtrechten, vermeld in artikel 104, eerste lid.<br>
+<br>
 §4. Het proces-verbaal of verslag van vaststelling geldt tot het bewijs van het tegendeel voor de feitelijke vaststellingen die erin zijn opgenomen. Een afschrift ervan kan altijd worden bezorgd aan de persoon of de personen ten laste van wie het is opgesteld.<br>
 <br>
 §5. Als door het misdrijf, de inbreuk of de normschending mogelijk maatregelen of andere beslissingen van burgerlijke of administratieve aard nodig zijn, stuurt de toezichthouder een afschrift van het proces-verbaal of het verslag van vaststelling naar de overheid die daarover oordeelt.<br>
@@ -262,9 +270,9 @@ Bij de uitoefening van hun opdrachten kunnen toezichthouders de bijstand vordere
 3° de wettelijk voorgeschreven vervoersdocumenten laten voorleggen, inzien en kopiëren;<br>
 4° de bestuurders en begeleiders bevelen het vervoermiddel tot stilstand te brengen, stil te houden of over te brengen naar een door hem aangewezen plaats.<br>
 <br>
-§2. Toezichthouders kunnen de identificatiegegevens van de kentekenhouder van een voertuig vragen bij de overheid die belast is met de inschrijving van dat voertuig.<br>
+§2. Toezichthouders kunnen de identificatiegegevens van de kentekenhouder van een vervoermiddel vragen bij de overheid die belast is met de inschrijving van dat vervoermiddel.<br>
 &nbsp;<br>
-Als de kentekenhouder een rechtspersoon is, is hij verplicht de gebruikelijke bestuurder van het voertuig aan te wijzen.<br>
+Als de kentekenhouder een rechtspersoon is, is hij verplicht de gebruikelijke bestuurder van het vervoermiddel aan te wijzen.<br>
 <br>
 De houder van de kentekenplaat of de gebruikelijke bestuurder die het tegenbewijs, vermeld in artikel 27, §4, levert, is verplicht de persoon aan te wijzen die bestuurder was op het ogenblik van de vastgestelde feiten, tenzij de houder van de kentekenplaat of de gebruikelijke bestuurder aannemelijk kan maken dat hij de identiteit van de echte bestuurder niet kent.
 
@@ -467,9 +475,9 @@ Met rechtspersonen als vermeld in het eerste lid worden gelijkgesteld:<br>
 1° maatschappen;<br>
 2° vennootschappen in oprichting.<br>
 <br>
-§3. Ondernemingen zijn burgerrechtelijk aansprakelijk voor de bestuurlijke sancties die opgelegd worden aan hun organen en aan de personen voor wie ze aansprakelijk zijn conform artikel 1384 van het Burgerlijk Wetboek.<br>
+§3. Ondernemingen zijn burgerrechtelijk aansprakelijk voor de bestuurlijke sancties die opgelegd worden aan hun organen en aan de personen voor wie ze aansprakelijk zijn conform artikel 6.15 van het Burgerlijk Wetboek.<br>
 <br>
-§4. Behalve na tegenbewijs worden natuurlijke personen die houder zijn van de kentekenplaat van een voertuig dat dienstig was voor het plegen van een misdrijf of een inbreuk, geacht de bestuurder te zijn van dat voertuig. Hetzelfde geldt voor gebruikelijke bestuurders van voertuigen die geregistreerd staan op naam van een rechtspersoon.<br>
+§4. Behalve na tegenbewijs worden natuurlijke personen die houder zijn van de kentekenplaat van een vervoermiddel dat dienstig was voor het plegen van een misdrijf of een inbreuk, geacht de bestuurder te zijn van dat vervoermiddel. Hetzelfde geldt voor gebruikelijke bestuurders van vervoermiddelen die geregistreerd staan op naam van een rechtspersoon.<br>
 <br>
 §5. Aan personen die op het ogenblik van de feiten de volle leeftijd van achttien jaar nog niet hebben bereikt, kan alleen een bestuurlijke sanctie worden opgelegd als de Vlaamse regelgeving, waarin het misdrijf of de inbreuk wordt bepaald, daarin uitdrukkelijk voorziet.<br>
 <br>
@@ -477,13 +485,10 @@ Met rechtspersonen als vermeld in het eerste lid worden gelijkgesteld:<br>
 
 ### ART 28.
 
-Behalve in de gevallen waar de Vlaamse regelgeving zelf de minima en maxima voor alternatieve bestuurlijke geldboetes vaststelt, worden bestuurlijk vervolgde misdrijven gesanctioneerd met een alternatieve bestuurlijke geldboete:<br>
-1° van maximaal 1000 euro vermenigvuldigd met het getal van de maanden van de maximumvrijheidsstraf, maar niet lager dan de strafrechtelijke maximumgeldboete die geldt voor het feit, vermeerderd met de opdeciemen. Als de Vlaamse regelgeving op het feit alleen een strafrechtelijke geldboete stelt, wordt de helft van het maximum van de strafrechtelijke geldboete genomen, vermeerderd met de opdeciemen;<br>
-2° van minimaal 250 euro vermenigvuldigd met het getal van de maanden van de minimumvrijheidsstraf, maar niet lager dan de helft van de strafrechtelijke minimumgeldboete die geldt voor het feit, vermeerderd met de opdeciemen. Als de Vlaamse regelgeving op het feit alleen een strafrechtelijke geldboete stelt, of toelaat dat alleen die straf wordt opgelegd, wordt de helft van het minimum van de strafrechtelijke geldboete genomen, vermeerderd met de opdeciemen.<br>
+Behalve in de gevallen waarin de Vlaamse regelgeving zelf de minima en maxima voor alternatieve bestuurlijke geldboetes vaststelt, worden bestuurlijk vervolgde misdrijven gesanctioneerd met een alternatieve bestuurlijke geldboete, waarvan het minimum en het maximum gelijk zijn aan de helft van respectievelijk het minimum en het maximum van de strafrechtelijke geldboete die voor het misdrijf kan worden opgelegd.<br>
 <br>
-Bij het bepalen van de maximumgeldboete conform het eerste lid gelden de bepalingen van artikel 69 van het Strafwetboek, behalve voor de Vlaamse regelgeving waar de toepassing van dat artikel wordt uitgesloten. Als de vrijheidsstraf, vermeld in het eerste lid, lager is dan één maand, wordt het basisbedrag van respectievelijk 1000 en 250 euro niet vermenigvuldigd.<br>
-<br>
-Als de Vlaamse regelgeving bij de vaststelling van verzwarende omstandigheden voorziet in een verhoging van het minimum of het maximum van de vrijheidsstraf of de strafrechtelijke geldboete, wordt met die verhoging rekening gehouden bij het bepalen van het minimum en het maximum van de alternatieve bestuurlijke geldboete conform het eerste lid.
+In afwijking van het eerste lid zijn het minimum en maximum van de alterna-tieve geldboete die kan worden opgelegd aan natuurlijke personen, gelijk aan drie vierde van respectievelijk het minimum en het maximum van de strafrechtelijke geldboete die voor het misdrijf kan worden opgelegd als dat misdrijf ook met een gevangenisstraf bestraft kan worden, maar niet lager dan het minimum en maximum, vermeld in artikel 36, negende lid, 1°, van het Strafwetboek.<br>
+&nbsp;
 
 ### ART 29.
 
@@ -731,7 +736,7 @@ De herstelinstantie kan aan overtreders met een herstelplicht publieke herstelma
 <br>
 Bestuursdwang laat de herstelinstantie toe om onmiddellijk tot de ambtshalve uitvoering van de publieke herstelmaatregel over te gaan, in de plaats en op kosten van de overtreder. Tot bestuursdwang wordt buiten de context van een bestuurlijk herstelbevel alleen besloten als het herstel van de publieke schade, door de urgentie die er mee gepaard gaat of de specifieke aard daarvan, niet kan worden overgelaten aan de herstelplichtige, en alleen door de herstelinstantie zelf kan worden gerealiseerd.<br>
 <br>
-In een bestuurlijk herstelbevel wordt aan de overtreder een hersteltermijn toegekend om de opgelegde publieke herstelmaatregel zelf uit te voeren en om daarvan het bewijs te leveren. De overschrijding van de voormelde termijn geeft aanleiding tot het verbeuren van een dwangsom of de toepassing van bestuursdwang.<br>
+In een bestuurlijk herstelbevel wordt aan de overtreder een hersteltermijn toegekend om de opgelegde publieke herstelmaatregel zelf uit te voeren en om daarvan het bewijs te leveren. De Vlaamse Regering kan een maximale hersteltermijn bepalen. De overschrijding van de voormelde termijn geeft aanleiding tot het verbeuren van een dwangsom of de toepassing van bestuursdwang.<br>
 <br>
 Een bestuurlijk herstelbevel waarin tot een dwangsom wordt beslist als vermeld in het derde lid, vermeldt het bedrag van de dwangsom, en of de dwangsom hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid of per overtreding wordt vastgesteld. De dwangsom kan worden verbonden aan het geheel van de oplegde maatregelen of aan elke maatregel afzonderlijk, zonder dat ze betrekking kan hebben op de betaling van geldsommen.
 
@@ -783,7 +788,7 @@ In de vordering kan naast de maatregelen, vermeld in het eerste lid, de terugbet
 <br>
 De vordering van de herstelinstantie wordt gesteld in naam van de overheid waartoe zij behoort. Voor de strafrechter wordt zij met een gewone brief ingeleid bij het parket.<br>
 <br>
-Publieke herstelmaatregelen en inperkende maatregelen worden waar nodig gefaseerd. De rechter kent aan de overtreder de nodige hersteltermijn of termijnen toe om de opgelegde publieke herstelmaatregelen zelf uit te voeren, tenzij de vereiste spoed of de aard van het herstel zich daartegen verzet. De rechter kan op vordering van de herstelinstantie of het openbaar ministerie een dwangsom verbinden aan het geheel van de opgelegde maatregelen of aan elke maatregel afzonderlijk, zonder dat de dwangsom betrekking kan hebben op de betaling van geldsommen.<br>
+Publieke herstelmaatregelen en inperkende maatregelen worden waar nodig gefaseerd. De rechter kent aan de overtreder de nodige hersteltermijn of termijnen toe om de opgelegde publieke herstelmaatregelen zelf uit te voeren, tenzij de vereiste spoed of de aard van het herstel zich daartegen verzet. De Vlaamse Regering kan een maximale hersteltermijn bepalen. De rechter kan op vordering van de herstelinstantie of het openbaar ministerie een dwangsom verbinden aan het geheel van de opgelegde maatregelen of aan elke maatregel afzonderlijk, zonder dat de dwangsom betrekking kan hebben op de betaling van geldsommen.<br>
 <br>
 De rechter machtigt de bevoegde herstelinstantie en, op diens vordering, het openbaar ministerie om ambtshalve in de uitvoering te voorzien van werken en andere niet-pecuniaire verplichtingen, die besloten zijn in de opgelegde publieke herstelmaatregelen, in de plaats en op de kosten van de veroordeelde die in gebreke blijft.
 
@@ -884,7 +889,7 @@ Het herstel dat in de herstelschikking is afgesproken, is hoofdelijk uit te voe�
 6° het elders onderbrengen of euthanaseren van dieren;<br>
 7° het ter plaatse of elders vernietigen van zaken waarvan het bezit of het gebruik verboden is;<br>
 8° het ter plaatse of elders vernietigen van voor verrotting of bederf vatbaar organisch materiaal, met inbegrip van dode dieren;<br>
-9° het ter plaatse vrijlaten van illegaal gehouden inheemse beschermde diersoorten in goede conditie.<br>
+9° het ter plaatse&nbsp;of op een daarvoor geschikte plaats vrijlaten van illegaal gehouden inheemse beschermde diersoorten in goede conditie.<br>
 <br>
 §3. Een beveiligingsmaatregel is evenredig met de ernst van de misdrijven, inbreuken, normschendingen en publieke verliezen die ze beoogt te voorkomen of uit te sluiten. Een beveiligingsmaatregel mag geen onevenredige schade toebrengen aan de belangen van de overtreder of derden.<br>
 <br>
@@ -967,7 +972,7 @@ De herstelinstantie kan aan de voorzitter van de rechtbank van eerste aanleg ver
 
 ### ART 70.
 
-§1. Bestuurlijke sanctiebeslissingen, schriftelijke bestuurlijke herstel- en beveiligingsbeslissingen, bekrachtigde herstelschikkingen en de schriftelijke neerslag van mondelinge beveiligingsbeslissingen die als uitvoerbaar gewaarmerkt zijn door de beboetingsinstantie of herstelinstantie die ze heeft genomen of bekrachtigd, gelden als titel als vermeld in artikel 1494 van het Gerechtelijk Wetboek voor de toepassing van bestuursdwang en herstel- en beveiligingsbevelen. Voor de individueel geïdentificeerde adressanten in die beslissingen gelden ze ook als titel voor de inning van schadevergoedingen, verbeurde dwangsommen, uitvoeringskosten en andere bedragen die op grond van die beslissingen zijn verschuldigd.<br>
+§1. Bestuurlijke sanctiebeslissingen, schriftelijke bestuurlijke herstel- en beveiligingsbeslissingen, bekrachtigde herstelschikkingen en de schriftelijke neerslag van mondelinge beveiligingsbeslissingen die als uitvoerbaar gewaarmerkt zijn door de toezichthouder, de beboetingsinstantie of herstelinstantie die ze heeft genomen of bekrachtigd, gelden als titel als vermeld in artikel 1494 van het Gerechtelijk Wetboek voor de toepassing van bestuursdwang en herstel- en beveiligingsbevelen. Voor de individueel geïdentificeerde adressanten in die beslissingen gelden ze ook als titel voor de inning van schadevergoedingen, verbeurde dwangsommen, uitvoeringskosten en andere bedragen die op grond van die beslissingen zijn verschuldigd.<br>
 <br>
 Bedragen die verschuldigd zijn door niet-individueel geïdentificeerde adressanten als vermeld in artikel 65, §5, of door derden als vermeld in artikel 71, §2, tweede lid, van dit decreet, worden geïnd bij gemotiveerd dwangbevel dat als uitvoerbaar gewaarmerkt is door de herstelinstantie. Dat dwangbevel wordt voor de voormelde inning gelijkgesteld met een titel als vermeld in artikel 1494 van het Gerechtelijk Wetboek.<br>
 <br>
@@ -997,7 +1002,7 @@ De administratie die belast is met de invordering, beslist over de verzoeken tot
 
 §1. De ambtshalve uitvoering van gerechtelijk of bestuurlijk opgelegde publieke herstel- en beveiligingsmaatregelen gebeurt onder toezicht van de herstelinstantie of een gerechtsdeurwaarder. In geval van een mondeling beveiligingsbevel dat is uitgesproken door een toezichthouder, gebeurt de ambtshalve uitvoering onder toezicht van die toezichthouder tot aan de bekrachtiging van het bevel door de herstelinstantie, waarna die laatste het toezicht op de uitvoering overneemt.<br>
 <br>
-De gerechtsdeurwaarder, de herstelinstantie of de toezichthouder kunnen overgaan tot verzegeling van gebouwen, terreinen en wat zich daarin of daarop bevindt, of het meevoeren en opslaan van ter plaatse aanwezige zaken, als de ambtshalve uitvoering dat vereist. De Vlaamse Regering bepaalt de nadere regels voor de bewaring en teruggave van de meegevoerde zaken aan de rechthebbenden.<br>
+De gerechtsdeurwaarder, de herstelinstantie of de toezichthouder kunnen overgaan tot verzegeling van gebouwen, terreinen en wat zich daarin of daarop bevindt, of het meevoeren en opslaan van ter plaatse aanwezige zaken, als de ambtshalve uitvoering dat vereist. De Vlaamse Regering kan de nadere regels bepalen voor de bewaring, teruggave en, indien noodzakelijk, eigendomsoverdracht om niet of vernietiging van de meegevoerde zaken aan de rechthebbenden.<br>
 <br>
 Naar aanleiding van een ambtshalve uitvoering hebben personen die daarvoor zijn aangewezen door, naargelang het geval, de gerechtsdeurwaarder, de herstelinstantie of de toezichthouder, toegang tot elke plaats als dat redelijkerwijs noodzakelijk is voor de vervulling van hun taak.<br>
 <br>
@@ -1019,9 +1024,9 @@ Artikel 2242 tot en met 2259 van het Burgerlijk Wetboek zijn van toepassing op d
 
 ### ART 72.
 
-Personen die de aan hen opgelegde publieke herstel- en beveiligingsmaatregelen uitvoeren, melden dat onmiddellijk aan de bevoegde herstelinstantie. De Vlaamse Regering kan bepalen dat bij de melding stukken en bewijselementen moeten worden gevoegd, die het gemelde herstel aannemelijk maken.<br>
+Personen die de aan hen opgelegde publieke herstel- en beveiligingsmaatregelen uitvoeren, melden dat onmiddellijk aan de de toezichthouder of herstelinstantie die ze heeft opgelegd. De Vlaamse Regering kan de manier bepalen waarop de melding gebeurt en kan bepalen dat bij de melding stukken en bewijselementen moeten worden gevoegd, die het gemelde herstel aannemelijk maken.<br>
 <br>
-De bevoegde herstelinstantie controleert de melding, en brengt de melder op de hoogte van het resultaat van de controle. Als de volledige uitvoering van de opgegeven maatregelen kan worden vastgesteld, wordt een attest van uitvoering opgemaakt en bezorgd aan de melder en eventuele andere herstelplichtigen.<br>
+De toezichthouder of herstelinstantie, vermeld in het eerste lid, controleert de melding, en brengt de melder op de hoogte van het resultaat van de controle. Als de volledige uitvoering van de opgegeven maatregelen kan worden vastgesteld, wordt een attest van uitvoering opgemaakt en bezorgd aan de melder en eventuele andere herstelplichtigen.<br>
 <br>
 De Vlaamse Regering kan bepalen dat voor de controle, vermeld in het tweede lid, kosten worden aangerekend die verhaalbaar zijn op de melder en eventuele andere herstelplichtigen.<br>
 <br>
@@ -1116,18 +1121,21 @@ De informatie uit het bestuurlijk sanctieregister, vermeld in artikel 77, en het
 1° opdrachten van bestuurlijke of gerechtelijke politie;<br>
 2° strafrechtelijke en bestuurlijke vervolgingen;<br>
 3° het opleggen of doen opleggen van publieke herstel- en beveiligingsmaatregelen;&nbsp;<br>
-4° de beoordeling of voldaan is aan de voorwaarden voor het toekennen of het behoud van vergunningen, machtigingen, toelatingen, premies, subsidies en andere rechten en voordelen die van overheidswege worden toegekend.<br>
+4° de beoordeling of voldaan is aan de voorwaarden voor het toekennen of het behoud van vergunningen, machtigingen, toelatingen, premies, subsidies en andere rechten en voordelen die van overheidswege worden toegekend;<br>
+5° het bepalen, innen of invorderen van heffingen, retributies en belas-tingen.<br>
 &nbsp;<br>
 De informatie, vermeld in het eerste lid, mag nooit gebruikt worden voor de permanente monitoring of de digitale observatie van een specifieke persoon, noch voor profilering als vermeld in artikel 4, 4), van de algemene verordening gegevensbescherming.<br>
 <br>
 Als dat noodzakelijk en evenredig is voor een van de doeleinden, vermeld in het eerste lid, en onder de voorwaarden die ze bepaalt, kan de Vlaamse Regering, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, alle of een gedeelte van de persoonsgegevens en informatie toegankelijk maken voor de volgende openbare overheden:<br>
 1° het openbaar ministerie;<br>
 2° de beboetingsinstanties;<br>
-3° de gemeentelijke, provinciale of Vlaamse inspectiediensten die toezichthouders, agenten van bestuurlijke politie of agenten en officieren van gerechtelijke politie tewerkstellen;<br>
+3° de gemeentelijke, provinciale of Vlaamse inspectiediensten of havenbedrijven die toezichthouders, agenten van bestuurlijke politie of agenten en officieren van gerechtelijke politie tewerkstellen;<br>
 4° de burgemeesters;<br>
 5° de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992;<br>
 6° de bestuurlijke overheden, met inbegrip van de herstelinstanties, die bevoegd zijn om maatregelen tot preventie van misdrijven, inbreuken en normschendingen op te leggen of te vorderen, of om maatregelen voor de preventie en herstel van de schadelijke gevolgen van deze misdrijven, inbreuken en normschendingen op te leggen of te vorderen;<br>
-7° de bestuurlijke overheden die bevoegd zijn om vergunningen, machtigingen, toelatingen, premies, subsidies en andere rechten en voordelen te verlenen.<br>
+7° de bestuurlijke overheden die bevoegd zijn om vergunningen, machtigingen, toelatingen, premies, subsidies en andere rechten en voordelen te verlenen;<br>
+8° de bestuurlijke overheden die bevoegd zijn om heffingen, retributies en belastingen te bepalen, te innen of in te vorderen;<br>
+9° de bestuurlijke overheden die bevoegd zijn om de activiteiten, ver-meld in punt 7° en 8°, te controleren of er audits op uit te voeren.<br>
 <br>
 De toegang, vermeld in het derde lid, vereist een voorafgaandelijk protocol als vermeld in artikel 8 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
 <br>
@@ -1233,7 +1241,8 @@ Als ze een rechtstreekse impact hebben op specifieke onroerende goederen of de z
 <br>
 Van rechtstreekse impact als vermeld in het eerste en tweede lid, is sprake als de beoogde of opgelegde herstelmaatregelen:<br>
 1° verplichten om werkzaamheden uit te voeren die principieel door Vlaamse regelgeving aan een vergunning of toelating zijn onderworpen;<br>
-2° verplichten om een activiteit te staken of te wijzigen die aan het onroerend goed verbonden is en principieel door Vlaamse regelgeving aan een vergunning of toelating is onderworpen.<br>
+2° verplichten om een activiteit te staken of te wijzigen die aan het onroerend goed verbonden is en principieel door Vlaamse regelgeving aan een vergunning of toelating is onderworpen;<br>
+3° leiden tot het gedogen van een aan een onroerend goed verbonden onregelmatigheid in de zin van artikel 70, §7.<br>
 <br>
 §2. Elke bestuurlijke of gerechtelijke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overschrijving, vermeld in paragraaf 1, ingeschreven. Als een overschrijving ontbreekt, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br>
 <br>
@@ -1412,7 +1421,7 @@ De waarborgsom, vermeld in het eerste lid, is gelijk aan de geraamde kosten van 
 
 Ingeval van verhindering van de regelmatige inzet van zijn toezichtrechten, kan de toezichthouder in een bestuurlijke beveiligingsbeslissing beslissen tot de volledige of gedeeltelijke staking van de gereglementeerde, gesubsidieerde of van overheidswege gefinancierde activiteiten of handelingen waarop het toezicht door de verhindering niet kon worden uitgeoefend.<br>
 <br>
-De toezichthouder waakt erover dat de inzet van deze bevoegdheid geen onevenredige schade berokkent bij de overtreder of derden. De bestuurlijke beveiligingsbeslissing wordt onmiddellijk ingetrokken nadat de in het eerste lid bedoelde verhindering gestaakt is.
+De toezichthouder waakt erover dat de inzet van deze bevoegdheid geen onevenredige schade berokkent bij de overtreder of derden. De bestuurlijke beveiligingsbeslissing wordt onmiddellijk opgeheven nadat de in het eerste lid bedoelde verhindering gestaakt is.
 
 ## Afdeling 13. Jurisdictioneel beroep tegen sanctiebeslissingen bij het Handhavingscollege
 
@@ -1442,15 +1451,15 @@ Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft het Handha
 
 ### ART 103.
 
-Met behoud van de toepassing van de afwijkende bepalingen, vermeld in dit decreet en andere Vlaamse regelgeving, zijn alle personen die informatie verkrijgen op grond van de uitoefening van de aan hen door dit decreet toegekende bevoegdheden, verplicht tot de strikte geheimhouding ervan. Als die geheimhoudingsplicht bewust wordt genegeerd, wordt dat gestraft met een gevangenisstraf van een jaar tot drie jaar en een geldboete van 100 euro tot 1000 euro of met een van die straffen alleen.<br>
+Met behoud van de toepassing van de afwijkende bepalingen, vermeld in dit decreet en andere Vlaamse regelgeving, zijn alle personen die informatie verkrijgen op grond van de uitoefening van de aan hen door dit decreet toegekende bevoegdheden, verplicht tot de strikte geheimhouding ervan. Als die geheimhoudingsplicht bewust wordt genegeerd, wordt dat gestraft met een straf van niveau 2. In afwijking van artikel 52 van het Strafwetboek bedraagt de maximale geldboete 8000 euro.<br>
 <br>
 In afwijking van het eerste lid kunnen de beboetingsinstanties de verkregen informatie delen met het openbaar ministerie, de hiërarchisch bevoegde minister of andere beboetingsinstanties, als dat noodzakelijk is voor de uitoefening van de bevoegdheden van opsporing en vervolging van die beboetinginstanties.
 
 ### ART 104.
 
-Het verhinderen van de regelmatige inzet van toezichtrechten door toezichthouders wordt gestraft met een geldboete van 250 tot 250.000 euro.<br>
+Het verhinderen van de regelmatige inzet van toezichtrechten door toezichthouders wordt gestraft met een straf van niveau 1. In afwijking van artikel 36, negende lid, en artikel 38, negende lid, van het Strafwetboek bedraagt de maximale geldboete 2.000.000 euro.<br>
 <br>
-De personen die een verzegeling als vermeld in artikel 63, §4, van dit decreet, doorbreken of de voorwaarden, verbonden aan de opheffing ervan, schenden, worden gestraft met de straffen, vermeld in artikel 284 tot en met 288 van het Strafwetboek.<br>
+De personen die een verzegeling als vermeld in artikel 63, §4, van dit decreet, doorbreken of de voorwaarden, verbonden aan de opheffing ervan, schenden, worden gestraft met de straffen, vermeld in artikel 666 en 667 van het Strafwetboek.<br>
 <br>
 De personen, vermeld in artikel 65, §4, tweede lid, worden gesanctioneerd met een bestuurlijke geldboete van 100 tot 10.000 euro.
 
