@@ -16,12 +16,12 @@ Besluit :
 
 ### ART 1.
 
-Het Agentschap Justitie en Handhaving wordt aangewezen als de entiteit die bevoegd is de eindbeslissingen op strafgebied in ontvangst te nemen als vermeld in artikel 39 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, en als de entiteit die de rechtspraak over de handhaving van de Vlaamse regelgeving geanonimiseerd in een elektronische databank opneemt als vermeld in artikel 77 van het voormelde decreet.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking tien dagen na de bekendmaking van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 in het Belgisch Staatsblad.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, is belast met de uitvoering van dit besluit.
+...
