@@ -3866,7 +3866,7 @@ Wijzigingen van leerplannen, als vermeld in het eerste lid, 3°, voor de modules
 <br>
 De opleidingsvereisten, vermeld in paragraaf 2 en 5, gelden niet voor de personeelsleden van het operationele kader van de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992.<br>
 <br>
-De opleidingsvereisten, vermeld in paragraaf 2, 5 en &nbsp;en 6, gelden niet voor de personen, vermeld in artikel 107, eerste en tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en artikel 12.3.17 van het Onroerenderfgoeddecreet van 12 juli 2013. Die personen volgen niettemin de modules en opleidingen, vermeld in dit artikel, als ze daarvoor worden opgeroepen door het Agentschap Justitie en Handhaving of het agentschap.<br>
+De opleidingsvereisten, vermeld in paragraaf 2, 5 en &nbsp;en 6, gelden niet voor de personen, vermeld in artikel 107, eerste en tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en artikel 12.3.17 van het Onroerenderfgoeddecreet van 12 juli 2013, of voor de personen die vanaf 1 april 2026 zijn aangesteld voordat die opleidingsvereisten van toepassing werden. Die personen volgen niettemin de modules en opleidingen, vermeld in dit artikel, als ze daarvoor worden opgeroepen door het Agentschap Justitie en Handhaving of het agentschap.<br>
 <br>
 §10. De Vlaamse minister, bevoegd voor justitie en handhaving, kan opleidingen die zijn georganiseerd vóór de opleidingsvereisten, vermeld in paragraaf 2, 1° tot en met 5°, en paragraaf 5, van toepassing waren, gelijkstellen met alle of bepaalde opleidingen of modules, vermeld in paragraaf 2, 1° tot en met 5°, en paragraaf 5.<br>
 <br>
@@ -3874,7 +3874,7 @@ De Vlaamse minister, bevoegd voor justitie en handhaving, kan een lijst bepalen 
 <br>
 De minister kan in dezelfde zin als in het eerste en tweede lid beslissen, voor wat betreft de module, vermeld in paragraaf 2, 6°.&nbsp;<br>
 <br>
-§11. In afwijking van paragraaf 2 en met behoud van de toepassing van paragraaf 9 kunnen personen die over de nodige kennis en eigenschappen beschikken maar de vereiste opleiding nog niet hebben gevolgd, worden aangesteld als toezichthouder voor een niet-verlengbare termijn van vijf jaar.&nbsp;<br>
+§11. In afwijking van paragraaf 2 en met behoud van de toepassing van paragraaf 9 kunnen personen die over de nodige kennis en eigenschappen beschikken maar de vereiste opleiding nog niet hebben gevolgd, worden aangesteld als toezichthouder&nbsp;of inspecteur Onroerend Erfgoed voor een niet-verlengbare termijn van vijf jaar.&nbsp;<br>
 <br>
 §12. Toezichthouders, met inbegrip van de toezichthouders vermeld in artikel 107, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, volgen bijscholing voor de onderwerpen, vermeld in paragraaf 2, eerste lid, 1° tot en met 6°, als ze daarvoor worden opgeroepen door het Agentschap Justitie en Handhaving of het agentschap.<br>
 <br>
