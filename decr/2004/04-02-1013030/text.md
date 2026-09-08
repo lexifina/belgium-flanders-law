@@ -90,7 +90,7 @@ Bovendien is de vennootschap in ieder geval belast met de volgende taken:<br>
 8° quater de verhoging van de trafiek via de waterwegen;<br>
 8° quinquies het toezicht op de naleving en de bestuurlijke handhaving van de regels van politie over het verkeer op de waterwegen;<br>
 8° sexies het uitvoeren van de voorschriften voor de waterwegen en havens met betrekking tot het vervoer van gevaarlijke goederen over de binnenwateren, met uitzondering van de voorschriften voor het vervoer van radioactieve stoffen, explosieven en dierlijke stoffen die een gevaar vormen voor de bevolking. De vennootschap is ook belast met het toezicht op de naleving en de bestuurlijke handhaving van die voorschriften;<br>
-8°septies het optreden als de vervolgingsinstantie en beboetingsinstantie, vermeld in artikel 135, eerste lid, van het Scheepvaartdecreet van 21 januari 2022;<br>
+8°septies het optreden als herstelinstantie als vermeld in artikel 111, §1, van het Scheepvaartdecreet van 21 januari 2022 en als beboetingsin-stantie als vermeld in artikel 111, §2, eerste lid, van het Scheep-vaartdecreet van 21 januari 2022;<br>
 9° alle andere soortgelijke werkzaamheden die aan de vennootschap worden opgedragen door de Vlaamse regering.<br>
 <br>
 De taken, vermeld in het tweede lid, 2°, 3° en 4°, kunnen ook worden uitgeoefend op, onder of over onroerende goederen die behoren tot het openbare en het private domein van de federale overheid, het Vlaamse Gewest, de Vlaamse Gemeenschap, de provincies, de gemeenten, de havenbedrijven en de instellingen die eronder ressorteren, met toestemming van de eigenaar. Die toestemming wordt met een aangetekende brief gevraagd.<br>
@@ -494,7 +494,7 @@ Als de publiekrechtelijke aard van de vennootschap dat vereist, kan de Vlaamse r
 
 ### ART. 38.
 
-De vennootschap heeft als inkomsten de financiële middelen ontvangen van andere overheden of derden, alsook de inkomsten uit de activiteiten die de vennootschap overeenkomstig dit decreet kan uitoefenen, inzonderheid inkomsten die verworven zijn uit de vervreemding, het beheer, de verhuring of de concessie van watergebonden en andere gronden, alsook de inkomsten uit energiewinning uit de waterlopen en installaties in beheer van de vennootschap, en de inkomsten uit de vervreemding van onroerende goederen in eigendom van het Vlaamse Gewest die door het Vlaamse Gewest aan de vennootschap in beheer zijn gegeven.
+De vennootschap heeft als inkomsten de financiële middelen ontvangen van andere overheden of derden, alsook de inkomsten uit de activiteiten die de vennootschap overeenkomstig dit decreet kan uitoefenen, inzonderheid&nbsp;handhavingsopbrengsten die worden verkregen met de toepassing van het Scheepvaartdecreet van 21 januari 2022 en conform artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, worden toebedeeld aan de Vlaamse overheid, inkomsten die verworven zijn uit de vervreemding, het beheer, de verhuring of de concessie van watergebonden en andere gronden, alsook de inkomsten uit energiewinning uit de waterlopen en installaties in beheer van de vennootschap, en de inkomsten uit de vervreemding van onroerende goederen in eigendom van het Vlaamse Gewest die door het Vlaamse Gewest aan de vennootschap in beheer zijn gegeven.
 
 ### ART. 39.
 
