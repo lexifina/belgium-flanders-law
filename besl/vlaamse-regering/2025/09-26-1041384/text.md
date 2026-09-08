@@ -80,6 +80,8 @@ Wijzigingen van de leerplannen, vermeld in het eerste lid, 3°, voor de modules,
 <br>
 De opleidingsvereisten, vermeld in paragraaf 1 en 3, gelden niet voor de personeelsleden van het operationele kader van de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992.&nbsp;<br>
 <br>
+De opleidingsvereisten, vermeld in paragraaf 1 en 3, gelden niet voor de personen die zijn aangesteld voordat de opleidingsvereisten van toepassing werden. Die personen volgen niettemin modules en de opleidingen, vermeld in dit artikel, zodra ze daarvoor worden opgeroepen door het agentschap.<br>
+<br>
 §7. De Vlaamse minister, bevoegd voor justitie en handhaving, kan opleidingen die zijn georganiseerd vóór de opleidingsvereisten, vermeld in paragraaf 1 en 3, van toepassing waren, gelijkstellen met alle of bepaalde opleidingen of modules, vermeld in paragraaf 1 en 3.&nbsp;<br>
 <br>
 De Vlaamse minister, bevoegd voor justitie en handhaving, kan een lijst bepalen met gelijkwaardige diploma’s en getuigschriften, waarvan de houders vrijgesteld zijn van alle of bepaalde opleidingen of modules, vermeld in paragraaf 1 en 3.<br>
