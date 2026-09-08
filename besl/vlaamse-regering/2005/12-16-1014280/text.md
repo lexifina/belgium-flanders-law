@@ -130,14 +130,12 @@ Het hoofd van het agentschap:<br>
 2° kan, op het volledige grondgebied van het Vlaamse Gewest, de functie uitoefenen van:<br>
 a) wooninspecteur als vermeld in artikel 1.3, § 1, eerste lid, 69°, van de voormelde codex;<br>
 b) toezichthouder voor de sociale huisvesting als vermeld in artikel 4.79 van de voormelde codex.<br>
-3° worden de volgende specifieke delegaties verleend:<br>
-a) het aanstellen van wooninspecteurs en toezichthouders voor de sociale huisvesting en het bepalen van hun ambtsgebieden;<br>
-b) het aanwijzen van ambtenaren die belast worden met de invordering van subsidies, toelagen, premies en tegemoetkomingen en het opstellen van dwangbevelen als vermeld in 1° ;<br>
-c) het aanstellen van agenten en officieren van gerechtelijke politie, vermeld in artikel 23, § 1, en § 2, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex op basis van een positieve beoordeling van de competenties en resultaatsgebieden, vermeld in de functiebeschrijving, na het doorlopen van een interne opleidingsperiode, en het inhoudelijk, geografisch en temporeel omschrijven van hun opsporingsopdracht;<br>
-d) het aanstellen van bestuurlijke opsporingsagenten als vermeld in artikel 26, § 1, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex op basis van een positieve beoordeling van de competenties en resultaatsgebieden, vermeld in de functiebeschrijving, na het doorlopen van een interne opleidingsperiode, en het inhoudelijk, geografisch en temporeel omschrijven van hun opsporingsopdracht;<br>
-e) het aanstellen van personeelsleden die een bestuurlijke sanctiebeslissing als vermeld in artikel 72, § 1, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, als uitvoerbaar kunnen waarmerken voor de handhaving van boek 3, deel 9, van dezelfde codex;<br>
-f) het aanstellen van personeelsleden als beboetingsinstantie als vermeld in artikel 2, 1°, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex;<br>
-g) het aanstellen van personeelsleden als vervolgingsinstantie als vermeld in artikel 2, 17°, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex.
+3° verkrijgt de volgende specifieke delegaties:<br>
+a)&nbsp;&nbsp; &nbsp;de wooninspecteurs en toezichthouders voor de sociale huisvesting aanstellen en hun ambtsgebieden bepalen;<br>
+b)&nbsp;&nbsp; &nbsp;personeelsleden aanwijzen die belast worden met de invordering van subsidies, toelagen, premies en tegemoetkomingen en dwangbevelen opstellen als vermeld in punt 1°;<br>
+c)&nbsp;&nbsp; &nbsp;toezichthouders als vermeld in artikel 8, §2, eerste lid, 1° van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 aanstellen voor de handhaving, vermeld in boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
+d)&nbsp;&nbsp; &nbsp;personeelsleden als beboetingsinstantie als vermeld in artikel 1.10, eerste lid, van de voormelde codex, aanstellen voor de handhaving, vermeld in boek 3, deel 9, van de voormelde codex;<br>
+e)&nbsp;&nbsp; &nbsp;personeelsleden als herstelinstantie als vermeld in artikel 1.10, tweede lid, van de voormelde codex, aanstellen voor de handhaving, vermeld in boek 3, deel 9, van de voormelde codex.
 
 ## HOOFDSTUK IV Controle, voortgangscontrole en toezicht
 
