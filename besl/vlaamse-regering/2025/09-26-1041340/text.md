@@ -174,6 +174,10 @@ Artikel 9 van hetzelfde besluit, gewijzigd bij artikel 17, wordt vervangen door 
 2° de beslissingen en de kennisgevingen, vermeld in artikel 6, eerste lid, 2°, en artikel 7, 2°, van dit besluit, overeen met de beslissingen en kennisgevingen, vermeld in artikel 4, §1, 3°, van het voormelde decreet;<br>
 3° de processen-verbaal, vermeld in het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, overeen met de processen-verbaal, vermeld in artikel 4, §1, eerste lid, 1° van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, wanneer daarin misdrijven als vermeld in artikel 2, 19° van het voormelde decreet worden vastgesteld, en met de verslagen van vaststelling, vermeld in artikel 4, §1, eerste lid, 1° van het voormelde decreet, wanneer daarin alleen inbreuken als vermeld in artikel 2, 17° van het voormelde decreet worden vastgesteld.”.
 
+### ART 19.
+
+...
+
 ## Hoofdstuk 2. Slotbepalingen
 
 ### ART 20.
