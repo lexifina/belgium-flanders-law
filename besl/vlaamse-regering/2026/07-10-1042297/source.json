@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042297,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 over de handhaving van het Scheepvaartdecreet van 21 januari 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042297/VolledigDocument?datum=2026-09-08",
+  "source_sha256": "28cf390aeb0e69d25748081d62c29d572f1bf184b6c9e9d6de5d90472981eedd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042297&param=informatie",
+  "as_of": "2026-09-08",
+  "made": "2026-07-10",
+  "gazette": "2026-08-28",
+  "numac": 2026006291,
+  "document_start": "2026-09-08",
+  "document_end": null,
+  "in_force": "2026-09-08",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2026-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
