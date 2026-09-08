@@ -2,16 +2,16 @@
   "codex_id": 1033810,
   "title": "Gecodificeerd Decreet van 2020-07-17 over het Vlaamse woonbeleid, gecodificeerd op 17 juli 2020 (citeeropschrift: \"Vlaamse Codex Wonen van 2021\")",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033810/VolledigDocument?datum=2026-03-30",
-  "source_sha256": "7b0616a98e1096ea2f923ec95fe75402fbca8cabca401a440b4684a1bc06d1b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033810/VolledigDocument?datum=2026-09-08",
+  "source_sha256": "41573b04b083724bdcd57f5e706bf11ead4502d78d4e9c88de79b725d6e9be52",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033810&param=informatie",
-  "as_of": "2026-03-30",
+  "as_of": "2026-09-08",
   "made": "2020-07-17",
   "gazette": "2020-11-13",
   "numac": 2020043545,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2026-03-30",
-  "article_versions": 419,
-  "record_form": "consolidated version as in force on 2026-03-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-09-08",
+  "article_versions": 421,
+  "record_form": "consolidated version as in force on 2026-09-08; future article versions excluded; article text as the API gives it"
 }

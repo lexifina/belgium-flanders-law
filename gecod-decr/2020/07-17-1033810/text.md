@@ -142,7 +142,7 @@ b) hun werking is rechtstreeks of onrechtstreeks onderworpen aan enig toezicht i
 68° woongebied: de gebieden die:<br>
 a) ofwel geordend worden door een ruimtelijk uitvoeringsplan en sorteren onder de categorie van gebiedsaanduiding “wonen”;<br>
 b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen;<br>
-69° wooninspecteur:&nbsp;het personeelslid van de dienst die door de Vlaamse Regering belast is met het woonbeleid en die belast is met de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3, deel 9, die met toepassing van artikel 1.8, § 2, eerste lid, door de Vlaamse Regering aangewezen wordt als wooninspecteur;<br>
+69° wooninspecteur:&nbsp;het personeelslid van de dienst die door de Vlaamse Regering belast is met het woonbeleid en die belast is met de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3, deel 9, die met toepassing van artikel 1.8, § 2, tweede lid, door de Vlaamse Regering aangewezen wordt als wooninspecteur;<br>
 70° woonproject: een sociaal woonproject of een ander woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of alleenstaanden of om hun woonsituatie te verbeteren.<br>
 Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen en bescheiden huurwoningen betreft.<br>
 Een sociaal woonproject is gemengd wanneer aan minstens één van de volgende voorwaarden is voldaan:<br>
@@ -222,17 +222,29 @@ De Vlaamse Regering kan een bijzondere regeling treffen ten aanzien van de huurd
 <br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. In het eerste jaar van iedere legislatuur wordt door de Vlaamse Regering een actieprogramma vastgesteld dat een selectie van initiatieven bevat die op korte termijn kunnen worden opgestart of voortgezet en die bijdragen aan de realisatie van de langetermijndoelstellingen. Tegelijkertijd wordt een actualisatie van het informatieve gedeelte vastgesteld.</span></span></span></span></p>
 
-## [Deel 3. Implementatie kaderdecreet Bestuurlijke Handhaving (ing. Decr. 9 juli 2021, art. 19, I: 1 januari 2023)]
+## Deel 3. Implementatie Kaderdecreet Vlaamse Handhaving
 
 ### ART 1.8.
 
-§ 1. Het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 is, met uitzondering van artikel 22, § 2, van dit kaderdecreet, van toepassing op de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3.<br>
+§1. Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 4, 8 en 11, en met uitzondering van artikel 10, §2, van het voormelde decreet, van toepassing op de handhaving van de woningkwaliteitsbe-waking, vermeld in boek 3.&nbsp;<br>
 <br>
-§ 2. De door de Vlaamse Regering als wooninspecteurs aangewezen personeelsleden zijn van rechtswege officier van gerechtelijke politie - hulpofficier van de procureur des Konings, bestuurlijke opsporingsagent en toezichthouder in de zin van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019. In hun hoedanigheid van bestuurlijk opsporingsagent beschikken ze over de bevoegdheid, vermeld in artikel 30, § 1 en § 2, van voormeld decreet.<br>
+§2. Voor de handhaving van dit decreet beschikken de wooninspecteurs over de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings, toezichthouder als vermeld in artikel 2, 30°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en herstelinstantie als vermeld in artikel 2, 15°, van het voormelde decreet. In hun hoedanigheid van toezichthouder beschikken ze over de bevoegdheid, vermeld in artikel 22 van het voormelde decreet.<br>
 <br>
-De personeelsleden van de politiediensten, vermeld in artikel 26, § 3, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, zijn bevoegd voor de bestuurlijke opsporing van de inbreuken, vermeld in artikel 3.55 van deze codex, volgens de bepalingen van hoofdstuk 4 van hetzelfde kaderdecreet. Personeelsleden van de politiediensten die officier van bestuurlijke politie zijn, beschikken daarvoor van rechtswege over de bevoegdheden, vermeld in artikel 30, § 1 en § 2, van voormeld decreet.<br>
+De Vlaamse Regering of haar gemachtigde wijst de wooninspecteurs aan.&nbsp;<br>
 <br>
-Voor de toepassing van artikel 20, § 5, tweede lid, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 worden sociale verhuurders gelijkgesteld met de overheden die afschriften van processen-verbaal of verslagen van vaststelling mogen ontvangen voor de daar bepaalde doeleinden.".
+De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voor-waarden bepalen waaraan de wooninspecteurs moeten voldoen.<br>
+<br>
+Contractuele personeelsleden kunnen alleen wooninspecteur zijn als ze zijn beëdigd. Het personeelslid legt de eed af conform de wettelijke of decretale bepalingen die op het personeelslid van toepassing zijn, of, als die ontbreken, in handen van diens lijnmanager of diens gemachtigde conform artikel 2 van het decreet van 20 juli 1831 betreffende de eedaflegging bij de aanvang der grondwettelijke vertegenwoordigende monarchie.
+
+### ART 1.9.
+
+Voor de toepassing van artikel 9, §5, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 worden woonmaatschappijen als vermeld in artikel 4.36, §1, gelijkgesteld met de overheden die afschriften van processen-verbaal of verslagen van vaststelling mogen ontvangen voor de daar bepaalde doeleinden.
+
+### ART 1.10.
+
+De Vlaamse Regering of haar gemachtigde wijst personeelsleden aan van de dienst die door de Vlaamse Regering belast is met het woonbeleid, die optreden als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde wijst personeelsleden aan van de dienst die door de Vlaamse Regering belast is met het woonbeleid, die optreden als herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.
 
 ## Boek 2. Organisatie van het woonbeleid
 
@@ -755,7 +767,7 @@ De Vlaamse Regering stelt het model en de regels voor de bekendmaking van het co
 <br>
 De burgemeester die bij de toepassing van de procedure, vermeld in artikel 3.12, vaststelt dat een woning conform is, levert ambtshalve een conformiteitsattest af aan de verhuurder en de houder van het zakelijk recht.<br>
 <br>
-§2. In afwijking van paragraaf 1 geldt het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw conform is.<br>
+§2. In afwijking van paragraaf 1 geldt het attest van uitvoering, vermeld in artikel 72, tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, als conformiteitsattest, op voorwaarde dat uit het attest van uitvoering blijkt dat de woning opnieuw conform is.<br>
 <br>
 In afwijking van paragraaf 1 geeft de gewestelijk ambtenaar, nadat de conformiteit van een woning is vastgesteld, een conformiteitsattest af aan de verhuurder of de houder van het zakelijk recht, in een van de volgende gevallen:<br>
 1° voor een woning die voor verhuring aangeboden wordt aan een woonmaatschappij;<br>
@@ -763,9 +775,11 @@ In afwijking van paragraaf 1 geeft de gewestelijk ambtenaar, nadat de conformite
 3° na een besluit bij de behandeling van een beroep, vermeld in artikel 3.14 en 3.15;<br>
 4° na een conformiteitsonderzoek, uitgevoerd op eigen initiatief.<br>
 <br>
-In afwijking van paragraaf 1 kan de wooninspecteur, naar aanleiding van een vraag tot hercontrole als vermeld in artikel 3.46, voor een conforme woning een conformiteitsattest afgeven, als het herstel dat met toepassing van artikel 3.43 is gevorderd voor meerdere woningen in een pand, nog niet volledig is uitgevoerd, op voorwaarde dat hij alle woningen waarvan het herstel is gevorderd onderzoekt en het niet-afgeven van het conformiteitsattest zou leiden tot het verschuldigd zijn van een nakende heffing of een ander ernstig nadeel zou berokkenen aan de aanvrager.<br>
+In afwijking van paragraaf 1 kan de wooninspecteur, naar aanleiding van een vraag tot hercontrole als vermeld in artikel 72 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, voor een conforme woning een conformiteitsattest afgeven, als een vordering als vermeld in artikel 56 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 of een definitieve herstelmaatregel als vermeld in artikel 52, eerste lid, en artikel 56, eerste lid, van hetzelfde decreet voor meerdere woningen in een pand, nog niet volledig is uitgevoerd, op voorwaarde dat hij alle woningen waarvan het herstel is gevorderd of opgelegd onderzoekt en het niet-afgeven van het conformiteitsattest zou leiden tot het verschuldigd zijn van een nakende heffing of een ander ernstig nadeel zou berokkenen aan de aanvrager.<br>
 <br>
-Na de melding, vermeld in artikel 3.37, kunnen de burgemeester of de gewestelijk ambtenaar geen conformiteitsattest afleveren zonder toestemming van de wooninspecteur. Dat kan evenmin na de opname van de herstelvordering, vermeld in artikel 3.43, op het register van herstelvorderingen, vermeld in artikel 3.44, §1, derde lid, zolang uit het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, niet blijkt dat de herstelmaatregel volledig is uitgevoerd.<br>
+Na de melding, vermeld in artikel 3.37, kunnen de burgemeester of de gewestelijk ambtenaar geen conformiteitsattest afleveren zonder toestemming van de wooninspecteur. Dat kan evenmin na de opname van de gevorderde publieke herstelmaatregel, vermeld in artikel 56 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, of de definitieve herstelmaatregel, vermeld in artikel 52, eerste lid, en artikel 56, eerste lid, van het voormelde decreet, in het maatregelenregister, vermeld in artikel 81 van het voormelde decreet, zolang uit het attest van uitvoering, vermeld in artikel 72, tweede lid, van het voormelde decreet, niet blijkt dat de herstelmaatregel volledig is uitgevoerd.<br>
+<br>
+De opname van de herstelvordering, vermeld in artikel 3.43, zoals van kracht op 7 september 2026, op het register van herstelvorderingen, vermeld in artikel 3.44, heeft dezelfde gevolgen als de opname in het maatregelenregis-ter, vermeld in het vierde lid.<br>
 <br>
 § 3. Als een bewoner van een kamer op het adres van het pand waarin de kamer zich bevindt, is ingeschreven in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten, en er een aanmaning, een proces-verbaal of een verslag van vaststelling voorligt waaruit blijkt dat voor die kamer niet voldaan is aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, wordt de afgifte van een conformiteitsattest als vermeld in paragraaf 1 en 2 geweigerd.<br>
 <br>
@@ -787,7 +801,7 @@ De Vlaamse Regering stelt de vergoeding voor de behandeling van een aanvraag tot
 <br>
 Als het verzoek ingewilligd wordt, geeft de burgemeester ambtshalve het conformiteitsattest af aan de houder van het zakelijk recht, ongeacht of de woning al dan niet verhuurd of te huur of ter beschikking gesteld wordt. Als het verzoek betrekking heeft op een woning die na de ongeschikt- of onbewoonbaarverklaring een andere bestemming gekregen heeft of gesloopt is, heft de burgemeester het besluit op zonder afgifte van een conformiteitsattest.<br>
 <br>
-Met behoud van de toepassing van artikel 3.17, tweede lid, wordt een besluit als vermeld in het eerste lid, dat dateert van voor de afgifte van het conformiteitsattest door de burgemeester of door de gewestelijk ambtenaar, geacht opgeheven te zijn met ingang van de datum van het conformiteitsattest. Hetzelfde geldt voor het besluit dat dateert van voor het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, met ingang van de datum van het proces-verbaal.</p>
+Met behoud van de toepassing van artikel 3.17, tweede lid, wordt een besluit als vermeld in het eerste lid, dat dateert van voor de afgifte van het conformiteitsattest door de burgemeester of door de gewestelijk ambtenaar, geacht opgeheven te zijn met ingang van de datum van het conformiteitsattest. Hetzelfde geldt voor het besluit dat dateert van voor het attest van uitvoering, vermeld in artikel 72, tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, met ingang van de datum van dat attest van uitvoering.</p>
 
 ### ART 3.9.
 
@@ -933,25 +947,25 @@ Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten w
 
 ### ART 3.23.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 3.19, §1, 1°, op aangetekend verzoek van de houder van het zakelijk recht of zijn rechtsopvolger zodra hij bewijst dat de woning weer conform is.</span></span></span><br>
+<p>§1. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 3.19, §1, 1°, op aangetekend verzoek van de houder van het zakelijk recht of zijn rechtsopvolger zodra hij bewijst dat de woning weer conform is.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de woning gesloopt is of een andere bestemming heeft gekregen, schrapt de inventarisbeheerder de woning op basis van het besluit van de burgemeester tot opheffing van de ongeschikt- of onbewoonbaarverklaring of op basis van het in artikel 3.46, derde lid, vermelde proces-verbaal van uitvoering waarin de sloop of herbestemming wordt vastgesteld.</span></span></span><br>
+Als de woning gesloopt is of een andere bestemming heeft gekregen, schrapt de inventarisbeheerder de woning op basis van het besluit van de burgemeester tot opheffing van de ongeschikt- of onbewoonbaarverklaring of op basis van het attest van uitvoering, vermeld in artikel 72, tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, waarin de sloop of herbestemming wordt vastgesteld.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Met behoud van de toepassing van artikel 3.46, derde lid, wordt het bewijs, vermeld in het eerste lid, geleverd conform artikel 3.6.</span></span></span><br>
+Met behoud van de toepassing van artikel 72, vierde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, wordt het bewijs, vermeld in het eerste lid, geleverd conform artikel 3.6.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 3.19, §1, 2°, op verzoek per beveiligde zending, van de houder van het zakelijk recht of zijn rechtsopvolger, zodra hij bewijst dat de burgemeester het onbewoonbaarheidsbesluit heeft opgeheven of het bewijs, vermeld in paragraaf 1, eerste lid, levert.</span></span></span><br>
+§2. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 3.19, §1, 2°, op verzoek per beveiligde zending, van de houder van het zakelijk recht of zijn rechtsopvolger, zodra hij bewijst dat de burgemeester het onbewoonbaarheidsbesluit heeft opgeheven of het bewijs, vermeld in paragraaf 1, eerste lid, levert.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. De inventarisbeheerder brengt de houder van het zakelijk recht, of in voorkomend geval zijn rechtsopvolger, binnen drie maanden na het verzoek tot schrapping op de hoogte van de beslissing daarover.</span></span></span><br>
+§3. De inventarisbeheerder brengt de houder van het zakelijk recht, of in voorkomend geval zijn rechtsopvolger, binnen drie maanden na het verzoek tot schrapping op de hoogte van de beslissing daarover.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de kennisgeving, vermeld in het eerste lid, niet is gebeurd binnen de vastgestelde termijn, wordt het verzoek tot schrapping geacht te zijn ingewilligd.</span></span></span><br>
+Als de kennisgeving, vermeld in het eerste lid, niet is gebeurd binnen de vastgestelde termijn, wordt het verzoek tot schrapping geacht te zijn ingewilligd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§4. In de gevallen, vermeld in paragraaf 1, eerste lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag waarop de woning weer conform is.</span></span></span><br>
+§4. In de gevallen, vermeld in paragraaf 1, eerste lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag waarop de woning weer conform is.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">In de gevallen, vermeld in paragraaf 1, tweede lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag van de sloop of herbestemming.</span></span></span><br>
+In de gevallen, vermeld in paragraaf 1, tweede lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag van de sloop of herbestemming.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">In de gevallen, vermeld in paragraaf 2, vermeldt de inventarisbeheerder als datum van schrapping de datum van het opheffingsbesluit van de burgemeester of de eerste dag waarop de woning conform is.</span></span></span><br>
+In de gevallen, vermeld in paragraaf 2, vermeldt de inventarisbeheerder als datum van schrapping de datum van het opheffingsbesluit van de burgemeester of de eerste dag waarop de woning conform is.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de kennisgeving, vermeld in paragraaf 3, niet is gebeurd binnen de vastgestelde termijn, wordt de datum van herstel die de houder van het zakelijk recht in het verzoek tot schrapping aangeeft, als datum van schrapping vermeld.</span></span></span></p>
+Als de kennisgeving, vermeld in paragraaf 3, niet is gebeurd binnen de vastgestelde termijn, wordt de datum van herstel die de houder van het zakelijk recht in het verzoek tot schrapping aangeeft, als datum van schrapping vermeld.</p>
 
 ## Deel 6. Overbewoondverklaring
 
@@ -1029,17 +1043,23 @@ Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Reger
 
 ### ART 3.34.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als een niet-conforme of overbewoonde woning rechtstreeks of via tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning, wordt de verhuurder, de eventuele onderverhuurder of diegene die de woning ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro of met een van die straffen alleen.</span></span></span></span></p>
+<p>Als een niet-conforme of overbewoonde woning rechtstreeks of via tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning, wordt de verhuurder, de eventuele onderverhuurder of diegene die de woning ter beschikking stelt, gestraft met een straf van niveau 2, of met een straf van niveau 1.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 200.000 euro voor het misdrijf, vermeld in het eerste lid.</p>
 
 ### ART 3.35.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Wanneer een roerend of een onroerend goed dat niet hoofdzakelijk voor wonen bestemd is, rechtstreeks of via een tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning terwijl dit goed gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden of terwijl in dit goed de basisnutsvoorzieningén zoals elektriciteit, sanitair, kookgelegenheid en verwarmingsmogelijkheid ontbreken of niet behoorlijk functioneren, wordt de verhuurder, de eventuele onderverhuurder of diegene die dat roerend of onroerend goed ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro of met een van die straffen alleen.</span></span></span></span></p>
+<p>Wanneer een roerend of een onroerend goed dat niet hoofdzakelijk voor wonen bestemd is, rechtstreeks of via een tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning terwijl dit goed gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden of terwijl in dit goed de basisnutsvoorzieningén zoals elektriciteit, sanitair, kookgelegenheid en verwarmingsmogelijkheid ontbreken of niet behoorlijk functioneren, wordt de verhuurder, de eventuele onderverhuurder of diegene die dat roerend of onroerend goed ter beschikking stelt, gestraft met een straf van niveau 2, of met een straf van niveau 1.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 200.000 euro voor het misdrijf, vermeld in het eerste lid.</p>
 
 ### ART 3.36.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het misdrijf, bedoeld in artikel 3.34 of 3.35, wordt gestraft met een geldboete van 1000 tot 100.000 euro en met een gevangenisstraf van één jaar tot vijf jaar of met een van die straffen alleen in volgende gevallen:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° als van de betrokken activiteit een gewoonte wordt gemaakt,</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° als het een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging betreft, ongeacht of de schuldige de hoedanigheid van leidend persoon heeft.</span></span></span></span></p>
+<p>Het misdrijf, bedoeld in artikel 3.34 of 3.35, wordt gestraft met een straf van niveau 3, of met een straf van niveau 1, in volgende gevallen:<br>
+1° als van de betrokken activiteit een gewoonte wordt gemaakt,<br>
+2° als het een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging betreft, ongeacht of de schuldige de hoedanigheid van leidend persoon heeft.<br>
+<br>
+In afwijking van artikel 36, negende lid, artikel 38, negende lid, en artikel 52 van het Strafwetboek bedraagt de maximale geldboete altijd 800.000 euro voor het misdrijf, vermeld in het eerste lid.</p>
 
 ### ART 3.37.
 
@@ -1059,11 +1079,9 @@ Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Reger
 
 ### ART 3.40.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als ze het noodzakelijk achten, delen de wooninspecteurs&nbsp;de informatie die ze tijdens hun onderzoek hebben verkregen, mee aan alle ambtenaren die belast zijn met het toezicht op een andere wetgeving of met de toepassing van een andere wetgeving, als die informatie hen kan aanbelangen bij de uitoefening van het toezicht waarmee ze belast zijn of voor de toepassing van een andere wetgeving. De wooninspecteurs, vermeld in artikel 3.37, kunnen die informatie ook meedelen aan de sociale verhuurders, vermeld in artikel 1.3, §1, eerste lid, 49°, als ze dat noodzakelijk achten.</span></span></span><br>
+<p>De wooninspecteurs, vermeld in artikel 3.37, kunnen de informatie die ze tijdens hun onderzoek hebben verkregen, meedelen aan de woonmaatschappijen, vermeld in artikel 4.36, §1, als de wooninspecteurs dat noodzakelijk achten.&nbsp;<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De informatie die werd verkregen tijdens de uitoefening van plichten, voorgeschreven door de rechterlijke overheid, mag alleen worden meegedeeld met de uitdrukkelijke machtiging van de rechterlijke overheid.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De ambtenaren die belast zijn met het toezicht op een andere wetgeving of met de toepassing van een andere wetgeving, en de sociale verhuurders, vermeld in artikel 1.3, §1, eerste lid, 49°, mogen de informatie, verkregen op grond van dit artikel, alleen gebruiken voor de uitoefening van alle opdrachten waarmee ze belast zijn.</span></span></span></p>
+De woonmaatschappijen mogen de informatie, verkregen op grond van dit artikel, alleen gebruiken voor de uitoefening van de opdrachten waarmee ze belast zijn.</p>
 
 ### ART 3.41.
 
@@ -1071,117 +1089,61 @@ Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Reger
 
 ### ART 3.42.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Met toepassing van artikel 23, lid 1, e) en h), van de&nbsp; algemene verordening gegevensbescherming kan de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie&nbsp;beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De persoonsgegevens, vermeld in het eerste lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie&nbsp;zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.</span></span></span></p>
+<p>...</p>
 
 ## Titel 2. Herstel
 
 ### ART 3.43.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Naast de straf kan de rechtbank de overtreder bevelen om werken uit te voeren om de woning of het pand dat het gebouw met de aanwezige woningen omvat, conform te maken en om de overbewoning te beëindigen. Als de rechtbank vaststelt dat de woning niet in aanmerking komt voor werkzaamheden, of dat het gaat om een goed als vermeld in artikel 3.35, beveelt ze de overtreder om er een andere bestemming aan te geven overeenkomstig de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of om de woning of het goed te slopen, tenzij de sloop ervan verboden is op grond van wettelijke, decretale of reglementaire bepalingen. Dat gebeurt ambtshalve of op vordering van de wooninspecteur of het college van burgemeester en schepenen van de gemeente waar de woning, het pand of het goed ligt.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De rechtbank bepaalt de termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de wooninspecteur of het college van burgemeester en schepenen, eveneens een dwangsom bepalen per dag vertraging in de tenuitvoerlegging van de herstelmaatregelen. De termijn voor de uitvoering van de herstelmaatregelen bedraagt maximaal twee jaar.</span></span></span></span></p>
+<p>De wooninspecteur neemt de woningen, panden en goederen waarop een vordering tot het opleggen van publieke herstelmaatregelen, of een door de rechter of herstelinstantie opgelegde definitieve publieke herstelmaatregel, gevorderd of opgelegd wegens een schending van boek 3, deel 9, rust, op in een register dat actief openbaar wordt gemaakt. De Vlaamse Regering kan nadere regels bepalen voor de vorm, de inhoud, het beheer en het gebruik van dat register.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
 ### ART 3.44.
 
-<p>§1. De vorderingen bedoeld in artikel 3.43, worden bij het parket ingeleid bij gewone brief in naam van het Vlaamse Gewest of het college van burgemeester en schepenen, door de wooninspecteurs en de aangestelden van het college van burgemeester en schepenen.<br>
-<br>
-De wooninspecteur of het college van burgemeester en schepenen stuurt een afschrift van de vordering, vermeld in artikel 3.43, naar de overtreder en naar de houder van het zakelijk recht op de woning, het pand of het goed waarvoor de vordering werd ingeleid.<br>
-<br>
-De wooninspecteur neemt de woningen, panden en goederen waarop een vordering als vermeld in artikel 3.43, rust, op in een register dat actief openbaar wordt gemaakt. De Vlaamse Regering kan nadere regels bepalen voor de vorm, inhoud, beheer en gebruik van dat register.&nbsp;Als een vordering als vermeld in artikel 3.43, wordt ingeleid in naam van het college van burgemeester en schepenen, wordt daarvan een afschrift bezorgd aan de wooninspecteur met het oog op de opname van die vordering in het register, vermeld in het derde lid.<br>
-<br>
-§2. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de conformiteit van de woning en het beëindigen van de overbewoning.<br>
-<br>
-§3. De vordering vermeldt minstens de gebreken op basis waarvan het herstel wordt gevorderd.<br>
-<br>
-§4. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36, zich bevindt, de uitvoering van herstelmaatregelen vorderen zoals omschreven in artikel 3.43.</p>
+<p>...</p>
 
 ### ART 3.45.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De hoven en rechtbanken die uitspraak doen over de vorderingen, vermeld in artikel 3.43, bezorgen een afschrift aan de herstelvorderende overheid binnen de termijn om rechtsmiddelen tegen de uitspraak aan te wenden.</span></span>
+...
 
 ### ART 3.46.
 
-<p>Als de overtreder de gevorderde of de door de rechtbank opgelegde herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de wooninspecteur en het college van burgemeester en schepenen daarvan onmiddellijk op de hoogte. De kennisgeving wordt aangetekend verstuurd of wordt afgegeven tegen ontvangstbewijs. De wooninspecteur kan stukken en bewijselementen opvragen die het gemelde herstel aannemelijk maken. Als de overtreder de gevraagde stukken niet bezorgt, voert de wooninspecteur geen controle ter plaatse uit. Na ontvangst van de vergoeding, vermeld in het tweede lid, doet de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie,&nbsp;een controle ter plaatse en stelt hij een proces-verbaal van vaststelling op.<br>
-<br>
-De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Fonds voor de Wooninspectie,&nbsp;vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.<br>
-<br>
-De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de houder van het zakelijk recht op de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36.&nbsp;</p>
+<p>Artikel 72 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is van toepassing bij de uitvoering van gevorderde publieke herstelmaatregelen. De Vlaamse Regering kan bepalen wie de bevoegde herstelinstantie is, vermeld in artikel 72 van het voormelde decreet.</p>
 
 <p>&nbsp;</p>
 
 ### ART 3.47.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Voor het geval dat de herstelmaatregelen door de overtreder niet binnen de door de rechtbank gestelde termijn worden uitgevoerd, beveelt het vonnis van de rechter, bedoeld in artikel 3.43 en 3.44, dat de wooninspecteur, het college van burgemeester en schepenen en eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kan voorzien.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Wanneer de overtreder in gebreke blijft is hij verplicht alle uitvoeringskosten te vergoeden op vertoon van een staat, opgesteld door de overheid, bedoeld in het eerste lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De verjaringstermijn van de maatregel, bedoeld in artikel 3.43 en 3.44, neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank bepaald heeft voor de tenuitvoerlegging ervan</span></span></span></span></p>
+<p>...</p>
 
 ### ART 3.48.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">In geval van veroordeling wegens één van de misdrijven, bepaald in artikel 3.34, 3.35 en 3.36, machtigt het vonnis van de rechter, bedoeld in artikel 3.43 en 3.44, de wooninspecteur en het college van burgemeester en schepenen om de kosten, vermeld in artikel 3.33, te verhalen op de overtreder.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De overtreder is verplicht alle kosten te vergoeden op vertoon van een staat opgesteld door de overheid, bedoeld in het eerste lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.</span></span></span></span></p>
+<p>...</p>
 
 ## Titel 3. Procedurele bepalingen
 
 ### ART 3.49.
 
-<p>§1. De dagvaarding voor de correctionele rechtbank op grond van artikel 3.34, 3.35 en 3.36, of het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is pas ontvankelijk na overschrijving in het bevoegde kantoor van de Algemene Administratie van de Patrimoniumdocumentatie van het gebied waar de goederen gelegen zijn.<br>
-<br>
-Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br>
-<br>
-Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis of arrest is uitgevoerd en voor het proces-verbaal waarbij wordt vastgesteld dat de in artikel 3.43 vermelde herstelvordering werd uitgevoerd nadat het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is overgeschreven.<br>
-<br>
-§2. De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp uitmaakt van het misdrijf en identificeert de houder van het zakelijk recht op dat goed, in de vorm en onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.<br>
-<br>
-§3. De uitvoering door of in de plaats van de veroordeelde, van de publieke herstelmaatregel die is opgelegd met toepassing van artikel 3.43 tot en met 3.48, moet door iedereen worden gedoogd.<br>
-<br>
-Met behoud van de toepassing van het eerste lid kunnen derden-verkrijgers die niet in het geding zijn tussengekomen en van wie de titel al was overgeschreven vóór de hypothecaire publiciteit, vermeld in paragraaf 1, derdenverzet instellen tegen de eindbeslissing waarin de herstelmaatregel, vermeld in het eerste lid, is opgelegd.<br>
-<br>
-§4. Als openbare besturen of derden wegens het in gebreke blijven van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50, gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br>
-<br>
-Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50.</p>
+<p>...</p>
 
 ### ART 3.50.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als er op een roerend of onroerend goed ten gevolge van een definitieve rechterlijke beslissing een verplichting rust om herstelmaatregelen uit te voeren als vermeld in deel 9, titel 2, wordt die verplichting op het ogenblik dat een authentieke akte wordt opgesteld voor de overdracht van een zakelijk recht op het goed, in een afzonderlijke akte vermeld. In die akte wordt ook vermeld dat de nieuwe houder van het zakelijk recht de verbintenis aangaat om, met behoud van de toepassing van de verplichting voor de overtreder, de opgelegde herstelmaatregelen uit te voeren en de eventuele uitvoeringskosten te vergoeden overeenkomstig artikel 3.47, tweede lid.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De instrumenterende ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste lid, aan de wooninspecteur en is ertoe gehouden de grosse af te leveren op zijn verzoek.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De kosten voor het opstellen van de afzonderlijke akte zijn ten laste van de overdrager van het zakelijk recht.</span></span></span></span></p>
+<p>...</p>
 
 ### ART 3.51.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van een zakelijk recht, de kandidaat-overnemer op de hoogte dat op het goed een vordering of veroordeling als vermeld in artikel 3.43, rust. In de overeenkomst tot overdracht van het zakelijk recht wordt vermeld dat op het goed een bovenvermelde vordering of veroordeling rust.</span></span></span></span><br>
+<p>De houder van het zakelijk recht brengt voor het afsluiten van de overeen-komst tot overdracht van een zakelijk recht, de kandidaat-overnemer op de hoogte dat er voor het goed een vordering tot het opleggen van publieke herstelmaatregelen, of een door de rechter of herstelinstantie opgelegde publieke herstelmaatregel, gevorderd of opgelegd wegens een schending van boek 3, deel 9, is opgenomen in het register, vermeld in artikel 3.43, of het maatregelenregister, vermeld in artikel 82 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, rust.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Met behoud van het recht om een schadevergoeding te eisen, vernietigt de rechtbank, op vordering van de overnemer, de titel van overdracht van zakelijk recht als de overtreder niet voldaan heeft aan de verplichting, vermeld in het eerste lid.</span></span></span></span><br>
+In de overeenkomst tot overdracht van het zakelijk recht wordt vermeld dat op het goed een vordering, veroordeling of herstelmaatregel als vermeld in het eerste lid, rust.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">In afwijking van het tweede lid kan de overnemer de vordering tot vernietiging niet inroepen als de informatie, vermeld in het eerste lid, wordt meegedeeld bij het verlijden van de authentieke akte en als de nieuwe houder van het zakelijk recht verzaakt aan de vordering tot vernietiging.</span></span></span></span><br>
+Met behoud van het recht om een schadevergoeding te eisen, vernietigt de rechtbank, op vordering van de overnemer, de titel van overdracht van zakelijk recht als de overtreder niet voldaan heeft aan de verplichting, vermeld in het eerste lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als een zakelijk recht op een roerend of onroerend goed wordt overgedragen, consulteert de instrumenterend ambtenaar het register van herstelvorderingen, vermeld in artikel 3.44, §1, derde lid, en neemt hij de daarin opgenomen informatie op in de akte van overdracht. Als het register over dat goed geen informatie bevat, wordt dat ook vermeld in de akte.</span></span></span></span></p>
+In afwijking van het derde lid kan de overnemer de vordering tot vernietiging niet inroepen als de informatie, vermeld in het eerste lid, wordt meegedeeld bij het verlijden van de authentieke akte en als de nieuwe houder van het zakelijk recht verzaakt aan de vordering tot vernietiging.<br>
+<br>
+Als een zakelijk recht op een roerend of onroerend goed wordt overgedragen, consulteert de instrumenterend ambtenaar het register van herstelvorderingen, vermeld in artikel 3.43, en neemt hij de daarin opgenomen informatie op in de akte van overdracht. Als het register over dat goed geen informatie bevat, wordt dat ook vermeld in de akte.</p>
 
-## Titel 4. Verzegeling
+## Titel 4. Herhuisvesting bij gedwongen uitdrijving
 
 ### ART 3.52.
 
@@ -1189,21 +1151,15 @@ Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypoth
 
 ### ART 3.53.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De burgemeester, de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie, kunnen de verhuurde of te huur of ter beschikking gestelde woningen die niet conform of overbewoond zijn, en goederen als vermeld in artikel 3.35, verzegelen.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Een goed als vermeld in het eerste lid, kan ook verzegeld worden als er al een misdrijf als vermeld in artikel 3.34, 3.35 of 3.36, is vastgesteld en het goed niet langer verhuurd, te huur of ter beschikking gesteld wordt.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de verzegeling gepaard gaat met gedwongen uitdrijving, neemt de burgemeester de nodige initiatieven voor de herhuisvesting van de bewoners in kwestie, vermeld in artikel 3.32 en 3.33.</span></span></span></p>
+<p>Als een publieke beveiligings- of herstelmaatregel gepaard gaat met gedwongen uitdrijving, neemt de burgemeester de nodige initiatieven voor de herhuisvesting van de bewoners, vermeld in artikel 3.32 en 3.33.</p>
 
 ### ART 3.54.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De verhuurder, de houder van het zakelijk recht en de bewoner kunnen tegen de verzegeling beroep instellen bij de Vlaamse Regering binnen tien dagen nadat ze op de hoogte zijn gebracht van de verzegeling. Het beroep werkt niet opschortend. De Vlaamse Regering bepaalt de procedure voor het instellen en het behandelen van het beroep.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De verhuurder, de houder van het zakelijk recht en de bewoner kunnen een verzoek tot opheffing van de verzegeling indienen bij de instantie die heeft verzegeld, als het verzoek betrekking heeft op het uitvoeren van herstelwerkzaamheden of dient om eventuele schade te beperken of te vermijden. Het verzoek wordt verstuurd met een beveiligde zending. De instantie aan wie het verzoek is gericht, beslist binnen 30 dagen nadat ze het verzoek tot opheffing van de verzegeling heeft ontvangen. Die termijn is eenmalig verlengbaar met 30 dagen. Als er geen tijdige beslissing wordt genomen, wordt het verzoek geacht afgewezen te zijn. Tegen een weigering om de verzegeling op te heffen, is beroep mogelijk bij de Vlaamse Regering. De Vlaamse Regering bepaalt de procedure voor het instellen en het behandelen van het beroep.</span></span></span></p>
+<p>...</p>
 
 ### ART 3.55.
 
-<p style="margin-left:0cm; margin-right:0cm">Het schenden van een verzegeling of het niet-naleven van de voorwaarden die gekoppeld zijn aan de opheffing van de verzegeling, is strafbaar met een bestuurlijke geldboete van 500 euro tot 5000 euro.</p>
+<p>...</p>
 
 ## [Deel 10. Privacy (ing. Decr. 9 juli 2021, art. 53, I: 20 september 2021)]
 
@@ -1238,15 +1194,15 @@ De verwerkingsverantwoordelijken, vermeld in deze paragraaf, verduidelijken in h
 2° rijksregisternummer;<br>
 3° woningkenmerken;<br>
 4° strafrechtelijke gegevens;<br>
-5° gegevens inzake bestuurlijke vervolging en sanctionering;<br>
+5° gegevens inzake bestuurlijke vervolging, sanctionering, herstel en beveiliging;<br>
 6° gegevens die noodzakelijk zijn om na te gaan of de bepalingen die de Vlaamse Regering met toepassing van artikel 3.5 oplegt, worden nageleefd.<br>
 <br>
 De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
 <br>
 § 4. Voor de verwerking van persoonsgegevens met toepassing van paragraaf 1 geldt een bewaartermijn:<br>
 1° van 10 jaar na het afsluiten van een administratief dossier als vermeld in deel 2 tot en met 8 van dit boek;<br>
-2° van 30 jaar na het afsluiten van een strafrechtelijk dossier als vermeld in deel 9 van dit boek;<br>
-3° zoals bepaald in het Kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019 voor wat betreft de bestuurlijke vervolging en beboeting;<br>
+2° ...;<br>
+3° ...;<br>
 4° van tien jaar nadat het kotlabel, vermeld in artikel 3.59, §2, van deze codex, is vervallen of tien jaar na de beslissing om geen kotlabel toe te kennen;<br>
 5° van een jaar nadat een melding als vermeld in artikel 3.60 van deze codex is geschrapt.<br>
 <br>
