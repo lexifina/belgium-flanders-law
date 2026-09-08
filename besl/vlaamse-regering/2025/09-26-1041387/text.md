@@ -84,7 +84,7 @@ Wijzigingen van de leerplannen, vermeld in het eerste lid, 3°, voor de modules,
 <br>
 De opleidingsvereisten, vermeld in paragraaf 2, gelden niet voor de personeelsleden van het operationele kader van de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992.<br>
 <br>
-De opleidingsvereisten, vermeld in paragraaf 2, gelden niet voor de aanwijzing als toezichthouder van personen vermeld in artikel 107, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023. Deze personen volgen niettemin modules en opleidingen, vermeld in dit artikel, zodra ze daarvoor worden opgeroepen door het agentschap.<br>
+De opleidingsvereisten, vermeld in paragraaf 2, gelden niet voor de aanwijzing als toezichthouder van personen vermeld in artikel 107, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 of voor de personen die vanaf 1 april 2026 zijn aangesteld voordat de opleidingsvereisten van toepassing werden. Deze personen volgen niettemin modules en opleidingen, vermeld in dit artikel, zodra ze daarvoor worden opgeroepen door het agentschap.<br>
 <br>
 §7. De Vlaamse minister, bevoegd voor justitie en handhaving, kan opleidingen, die zijn georganiseerd vóór de opleidingsvereisten, vermeld in paragraaf 2, van toepassing waren, gelijkstellen met alle of bepaalde opleidingen of modules, vermeld in paragraaf 2.<br>
 <br>
