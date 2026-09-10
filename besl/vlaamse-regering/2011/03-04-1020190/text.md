@@ -34,60 +34,49 @@ De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtne
 
 ### ART. 2.
 
-De infrastructuur met een functionele bestemming in de sector van de kinderopvang moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
-<br>
-De gebouwen waarover een voorziening in de sector van de kinderopvang beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.<br>
+Om voor een investeringssubsidie in aanmerking te komen:<br>
+1° is de infrastructuur afgestemd op de doelgroep waarvoor die gerealiseerd wordt;<br>
+2° voldoet de infrastructuur aan alle regelgeving over de infrastructuur die van toepassing is.<br>
 &nbsp;
 
 ### ART. 3.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
-1° ruimte: een afzonderlijke binnenruimte als vermeld in artikel 14, eerste lid, van het Vergunningsbesluit van 22 november 2013. Deze definitie geldt niet voor de buitenspeelruimte;<br>
-2° zone: een oppervlakte met een bepaalde functie.<br>
+Een kinderopvanglocatie waarvan de infrastructuur voldoet aan de volgende bouwtechnische en bouwfysische normen komt in aanmerking voor een investeringssubsidie:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;in alle leefruimtes bedraagt het raamoppervlak minstens 1/6 van het nettovloeroppervlakte, tenzij de leefruimte meer dan 30 m² bedraagt, dan bedraagt het raamoppervlak minstens 1/7 van de nettovloeroppervlakte. Alleen de lichtdoorlatende glasoppervlaktes van verticale ramen die rechtstreeks verbonden zijn met de open lucht tellen mee in de voormelde berekening.&nbsp;<br>
+Er is zittend altijd een ongehinderd zicht naar buiten mogelijk.&nbsp;<br>
+Bij minstens 50% van de raamoppervlakte in elke leefruimte ligt de bovenrand van de onderregel van het raam op een maximale hoogte van 15 cm ten opzichte van de vloerpas;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de infrastructuur en de signalisatie die daarbij hoort, zijn zodanig ontworpen, gerealiseerd en onderhouden dat elke zorggebruiker, ongeacht beperking of handicap, op een gelijkwaardige wijze toegang heeft tot de aangeboden zorgfuncties. &nbsp;<br>
+In alle ruimtes die voor de zorggebruikers toegankelijk zijn, worden niveauverschillen vermeden. Er is minstens één rolstoeltoegankelijk toilet;<br>
+3° &nbsp;&nbsp; &nbsp;de nuttige hoogte van alle verblijfsruimtes is minstens 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond, of 1,80 meter onder hellende daken, op voorwaarde dat er in de ruimte overwegend een nuttige hoogte van minstens 2,50 meter bereikt wordt;<br>
+4° &nbsp;&nbsp; &nbsp;afhankelijk van de doelgroep en de functie, laat de infrastructuur toe dat de privacy van elke zorggebruiker verzekerd kan worden, zowel auditief als visueel, zowel naar de buitenwereld als naar andere zorggebruikers, bezoekers of personeel toe. Afhankelijk van de doelgroep worden daarvoor functies fysiek van elkaar gescheiden. Er zijn voldoende gespreksruimtes voor privaat overleg tussen zorggebruikers, bezoekers of personeel.<br>
+5° &nbsp;&nbsp; &nbsp;er is voldoende, veilige en vlot bereikbare buitenruimte, afgestemd op de zorggebruikers, bezoekers en personeel. Kinderopvanglocaties beschikken over ten minste 3 m² buitenruimte per zorggebruiker. Aan elke gemeenschappelijke leefruimte is er een rechtstreeks bereikbare buitenruimte verbonden die volledig omheind is;<br>
+6° &nbsp;&nbsp; &nbsp;de technische installaties garanderen dat de temperatuur van het water dat bestemd is voor de zorggebruikers niet hoger is dan 38 °C;<br>
+7° &nbsp;&nbsp; &nbsp;er zijn voldoende sanitaire ruimtes voor zorggebruikers, bezoekers en personeel, aangepast aan de behoeften van de doelgroep;<br>
+8° &nbsp;&nbsp; &nbsp;er is voldoende bergruimte en afhankelijk van de doelgroep is er ook: &nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;plaats om mogelijke hulpmiddelen op te bergen en op te laden;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;plaats om kinderwagens en draagstoelen dicht bij de ingang te stallen;<br>
+9° &nbsp;&nbsp; &nbsp;elke leefgroep binnen de locatie beschikt over een afzonderlijke leefgroepunit, die is samengesteld uit één leefruimte, minstens één afsluitbare rustruimte en één verzorgingszone. Voor leefgroepen vanaf tien plaatsen zijn er minstens twee afsluitbare rustruimtes beschikbaar. De ruimtes van de leefgroepunit zijn rechtstreeks met de leefruimte verbonden;&nbsp;<br>
+10° &nbsp;&nbsp; &nbsp;de nettovloeroppervlakte in de leefruimtes die gebruikt kan worden voor spel, bedraagt minstens 3 m² per plaats. De vorm, de ligging, het gebruik van materialen en de inrichting van de leefruimte maken rechtstreeks visueel toezicht mogelijk vanuit de verzorgingszone op de volledige leefruimte;&nbsp;<br>
+11° &nbsp;&nbsp; &nbsp;de nettovloeroppervlakte in de rustruimte bedraagt minstens 2 m² per plaats en de rustruimte is akoestisch geïsoleerd;&nbsp;<br>
+12°&nbsp;&nbsp; &nbsp;de verzorgingszone van de leefgroep is uitgerust met een verzorgingstafel met minstens één wastafel die geschikt is om baby’s en peuters te wassen;&nbsp;<br>
+13° &nbsp;&nbsp; &nbsp;de leefgroep beschikt over de aansluitingen voor minstens twee kindertoiletten en één wastafel op kindhoogte. Als in de leefgroep peuters worden opgevangen, worden er minstens twee kindertoiletten en één wastafel op kindhoogte geïnstalleerd;&nbsp;<br>
+14° &nbsp;&nbsp; &nbsp;de verblijfsruimtes die bestemd zijn voor de doelgroep vormen een aaneengesloten geheel en zijn toegankelijk via een ingang die alleen voor de doelgroep gebruikt wordt. Er is toezicht mogelijk op die ingang. Elke leefgroep voor kinderen jonger dan drie jaar is alleen bereikbaar vanuit die ingang zonder dat de werking van de leefgroepen of het buitenspelen wordt verstoord;&nbsp;<br>
+15° &nbsp;&nbsp; &nbsp;een verzorgingsruimte of sanitaire ruimte met kindertoiletten kan gedeeld worden tussen leefgroepunits, op voorwaarde dat:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de gedeelde ruimte fysiek gescheiden is van de leefruimtes;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de gedeelde ruimte rechtstreeks en gemakkelijk bereikbaar is vanuit beide leefruimtes;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de verzorgingszones zodanig zijn ingericht dat visueel toezicht op beide leefruimtes mogelijk is;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;de werking van de leefgroepen hierdoor niet wordt verstoord.&nbsp;<br>
+16° &nbsp;&nbsp; &nbsp;er is minstens één omkleedzone voor de kinderen per bouwlaag.<br>
 <br>
-§ 2. Een kinderopvanglocatie moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in paragraaf 3 tot en met 9, om voor een investeringssubsidie in aanmerking te komen.<br>
-<br>
-§ 3. De kinderopvanglocatie beschikt over een buitenspeelruimte.<br>
-<br>
-Voor de buitenspeelruimte, vermeld in het eerste lid, gelden de volgende normen:<br>
-1° de kinderopvanglocatie beschikt over een aan het gebouw aanpalende, veilige en passend ingerichte buitenspeelruimte die bestemd is voor de opgevangen kinderen;<br>
-2° de buitenspeelruimte is voor de kinderen veilig en gemakkelijk bereikbaar en is overal omheind;<br>
-3° bij nieuwbouw is de beschikbare oppervlakte van de buitenspeelruimte minstens 3 m2 per kind.<br>
-<br>
-Het Fonds kan op gemotiveerde aanvraag, afwijken van de normen, vermeld in het tweede lid, met behoud van de toepassing van artikel 17 van het Vergunningsbesluit van 22 november 2013.<br>
-<br>
-De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan de voorwaarden bepalen waaronder de afwijkingen, vermeld in het derde lid, kunnen worden toegestaan.<br>
-<br>
-§ 4. Voor de bouw en de inrichting gelden de volgende normen:<br>
-1° de infrastructuur en de technische installaties garanderen dat in de ruimtes die bestemd zijn voor de kinderen, de temperatuur in de leefruimte minimaal 22 ° C en in de rustruimte minimaal 18° C kan bedragen;<br>
-2° de technische installaties garanderen dat de temperatuur van het water dat bestemd is voor de kinderen, niet hoger is dan 38 ° C;<br>
-3° alle lokalen die bestemd zijn voor de kinderen, kunnen geventileerd worden op natuurlijke wijze of op mechanische wijze.<br>
-<br>
-§ 5. De gebouwdelen die bestemd zijn voor de kinderen, worden onderverdeeld in leefgroepunits. In één leefgroepunit wordt één leefgroep ondergebracht. De leefgroepunit is samengesteld uit één leefruimte, minstens één afsluitbare rustruimte en één verzorgingszone. Voor leefgroepunits met meer dan negen kinderen zijn er minstens twee afsluitbare rustruimtes beschikbaar. Binnen een leefgroepunit is visueel toezicht tussen de ruimtes onderling of tussen de ruimtes en de verzorgingszone mogelijk.<br>
-<br>
-§ 6. Voor de leefruimte gelden de volgende normen:<br>
-1° de nettovloeroppervlakte in de leefruimtes die gebruikt kan worden voor spel, bedraagt minstens 3 m2 per kinderopvangplaats;<br>
-2° de oppervlakte van de buitenramen bedraagt minstens een zesde van de vloeroppervlakte;<br>
-3° de hoogte van de vensterbanken van de buitenramen in de leefruimtes bedraagt maximaal 0,6 meter;<br>
-4° de vorm en de inrichting van de leefruimte maken een permanent toezicht mogelijk.<br>
-<br>
-§ 7. Voor de rustruimte gelden de volgende normen:<br>
-1° de nettovloeroppervlakte van de rustruimte bedraagt minstens 2 m2 per bedplaats;<br>
-2° de rustruimte is akoestisch geïsoleerd.<br>
-<br>
-§ 8. Voor de verzorgingszone gelden de volgende normen:<br>
-1° de verzorgingszone is minstens uitgerust met een ingebouwd kinderbad;<br>
-2° de verzorgingszone beschikt over twee kindertoiletten als de verzorgingszone ook voor peuters is bestemd.<br>
-<br>
-§ 9. De kinderopvanglocatie beschikt over:<br>
-1° een hoofdingang. Er is een afzonderlijke toegang tot de kinderopvanglocatie, die alleen daarvoor gebruikt wordt, met mogelijkheid tot toezicht. Vanuit die ingang en de circulatieruimte is elke leefgroepunit afzonderlijk te bereiken. Als de hoofdingang een buiteningang is, is die voorzien van een tochtportaal;<br>
-2° een administratieve ruimte;<br>
-3° een zone om kinderwagens te stallen in de onmiddellijke nabijheid van de hoofdingang. Die zone mag de circulatie niet hinderen;<br>
-4° minstens één kleedzone voor de kinderen per bouwlaag;<br>
-5° een keukenzone of -ruimte die voldoet aan de regelgeving over de veiligheid van de voedselketen en de voorwaarden die gesteld zijn door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
-6° een personeelsruimte;<br>
-7° sanitair voor het personeel en voor de bezoekers;<br>
-8° een berging
+In het eerste lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;leefruimte: een ruimte die bestemd is voor dagelijkse woon- en dagactiviteiten van zorggebruikers en waarin zorggebruikers aanzienlijke delen van de dag verblijven, behalve om alleen te slapen of te rusten. Afhankelijk van de doelgroep en het voorziene gebruik kan ook de kamer een leefruimte zijn;<br>
+2°&nbsp;&nbsp; &nbsp;onderregel van het raam: de onderste rand van het doorzichtige deel van het glasoppervlak;<br>
+3°&nbsp;&nbsp; &nbsp;rechtstreeks: op dezelfde verdieping zonder omwegen, zoals gangen of trappen;<br>
+4°&nbsp;&nbsp; &nbsp;ruimte: een zone die door deuren en wanden van vloer tot plafond akoestisch van elkaar is gescheiden. Deze definitie geldt niet voor de buitenruimte;<br>
+5°&nbsp;&nbsp; &nbsp;verblijfsruimte: een ruimte waarin zorggebruikers, bezoekers of personeel doorgaans langer dan een half uur verblijven;<br>
+6°&nbsp;&nbsp; &nbsp;zone: een oppervlakte met een bepaalde functie.<br>
+&nbsp;<br>
+Het Fonds kan, op gemotiveerd verzoek, een afwijking van het eerste lid toestaan als de naleving van een norm, vermeld in het eerste lid, niet haalbaar is door de erfgoedwaarde of door bouwtechnische beperkingen, op voorwaarde dat de kwaliteitsvolle werking van de voorziening niet in het gedrang komt.
 
 ### ART. 4.
 
