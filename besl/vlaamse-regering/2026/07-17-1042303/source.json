@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042303,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 december 2023 tot vaststelling van het landinrichtingsplan ‘Oostakker-Noord’",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042303/VolledigDocument?datum=2026-09-10",
+  "source_sha256": "1814dc40e8d4cb187772c0b23921a2e394f4f50e8176fad0cbb73baeb6796da8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042303&param=informatie",
+  "as_of": "2026-09-10",
+  "made": "2026-07-17",
+  "gazette": "2026-08-31",
+  "numac": 2026006303,
+  "document_start": "2026-09-10",
+  "document_end": null,
+  "in_force": "2026-09-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
