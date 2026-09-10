@@ -176,7 +176,9 @@ De termijn van vijf jaar, vermeld in artikel 7, eerste lid, van het decreet van 
 
 De subsidiabele ecologie-uitgaven starten binnen twaalf maanden na de beslissing tot toekenning van de steun en worden beëindigd binnen drie jaar na de beslissing tot toekenning van de steun.<br>
 <br>
-De minister kan de termijnen, vermeld in het eerste lid, op gemotiveerd verzoek en op advies van het Agentschap Innoveren en Ondernemen verlengen.
+De minister kan de termijnen, vermeld in het eerste lid, op gemotiveerd verzoek en op advies van het Agentschap Innoveren en Ondernemen verlengen.<br>
+<br>
+In afwijking van het tweede lid kan het Agentschap Innoveren en Ondernemen, op gemotiveerd verzoek, de termijnen, vermeld in dit artikel, verlengen met maximaal twaalf maanden.
 
 ## Afdeling 3. Steunintensiteit
 
