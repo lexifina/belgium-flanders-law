@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042308,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de kinderopvang, wat betreft de bouwtechnische en bouwfysische normen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042308/VolledigDocument?datum=2026-09-10",
+  "source_sha256": "ef0f98b549e97cebd8a0745c2e9cdd087bac7da0a0b5a3a0d56653229dc5e837",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042308&param=informatie",
+  "as_of": "2026-09-10",
+  "made": "2026-07-10",
+  "gazette": "2026-08-31",
+  "numac": 2026006324,
+  "document_start": "2026-09-10",
+  "document_end": null,
+  "in_force": "2026-09-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
