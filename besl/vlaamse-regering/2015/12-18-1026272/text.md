@@ -28,8 +28,6 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 <p>De bij dit besluit verleende delegaties worden, met behoud van de mogelijkheid van subdelegatie, ook verleend aan het personeelslid dat met de waarneming van het ambt van leidend ambtenaar is belast of dat hem vervangt bij tijdelijke afwezigheid of verhindering.</p>
 
-<p>In geval van tijdelijke afwezigheid of verhindering plaatst het betrokken personeelslid, boven de vermelding van zijn graad en zijn handtekening, de formule "Voor de (graad van de titularis), afwezig".</p>
-
 ## Hoofdstuk 3 Werking van het [Fonds voor Innoveren en Ondernemen (verv. BVR 20 november 2020, art. 42, I: 1 januari 2021)]
 
 ### ART. 5.
