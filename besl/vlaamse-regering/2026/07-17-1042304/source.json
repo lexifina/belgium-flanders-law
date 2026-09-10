@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042304,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 7 december 2018 tot vaststelling van het landinrichtingsplan ‘Zelzate-Zuid’",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042304/VolledigDocument?datum=2026-09-10",
+  "source_sha256": "0725bc3c7db71b939b43328b01c4968d30b7e06233dd521db786529ac3fdc39e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042304&param=informatie",
+  "as_of": "2026-09-10",
+  "made": "2026-07-17",
+  "gazette": "2026-08-31",
+  "numac": 2026006305,
+  "document_start": "2026-09-10",
+  "document_end": null,
+  "in_force": "2026-09-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
