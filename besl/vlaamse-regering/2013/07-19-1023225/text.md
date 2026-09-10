@@ -102,13 +102,15 @@ Binnen de beschikbare begrotingskredieten kan steun worden verleend aan   ondern
 
 ### ART. 12.
 
-<p>De opleidingen die verband houden met het ingediende transformatieproject starten op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk zes maanden na die datum.</p>
+<p>De opleidingen die verband houden met het ingediende transformatieproject starten op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk twaalf maanden na die datum.</p>
 
 <p>De opleidingsperiode heeft een duur van maximaal drie jaar, die loopt vanaf de werkelijke startdatum. De vroegst mogelijke startdatum is de eerste dag van de maand die volgt op de maand waarin de steunaanvraag wordt ingediend.</p>
 
 <p>De opleidingen starten op de datum van de aanvang van de eerste opleiding.</p>
 
-<p>De minister kan de termijnen, vermeld in dit artikel, op gemotiveerd verzoek en op advies van de administratie, verlengen.</p>
+<p>De minister kan de termijnen, vermeld in dit artikel, op gemotiveerd verzoek en op advies van de administratie, verlengen.<br>
+<br>
+In afwijking van het vierde lid kan het Agentschap Innoveren en Ondernemen, op gemotiveerd verzoek, de termijnen, vermeld in dit artikel, verlengen met maximaal twaalf maanden.</p>
 
 ### ART. 13.
 
@@ -224,15 +226,15 @@ In dit artikel wordt verstaan onder verplaatsing: de verplaatsing, vermeld in ar
 
 ### ART. 27.
 
-<p>§ 1. De investeringen die verband houden met het ingediende transformatieproject starten op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk zes maanden na die datum.</p>
-
-<p>De investeringsperiode heeft een duur van maximaal drie jaar, die loopt vanaf de werkelijke startdatum. De vroegst mogelijke startdatum is de eerste dag van de maand die volgt op de maand waarin de steunaanvraag wordt ingediend.</p>
-
-<p>De investeringen starten ofwel op de datum van de eerste factuur, ofwel op de datum van de akte van de verwerving van een onroerend goed, ofwel op de datum van het leasingcontract.</p>
-
-<p>De minister kan de termijnen, vermeld in deze paragraaf, op gemotiveerd verzoek en op advies van de administratie, verlengen.</p>
-
-<p>§ 2. In afwijking van paragraaf 1, starten de investeringen van een grote onderneming, die verband houden met een transformatietraject van meer dan vijftig miljoen euro (50.000.000 euro) in aanmerking komende investeringen, op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk zes maanden na die datum.</p>
+<p>De investeringen die verband houden met het ingediende transformatieproject starten op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk twaalf maanden na die datum.<br>
+<br>
+De investeringsperiode heeft een duur van maximaal drie jaar, die loopt vanaf de werkelijke startdatum. De vroegst mogelijke startdatum is de eerste dag van de maand die volgt op de maand waarin de steunaanvraag wordt ingediend.<br>
+<br>
+De investeringen starten ofwel op de datum van de eerste factuur, ofwel op de datum van de akte van de verwerving van een onroerend goed, ofwel op de datum van het leasingcontract.<br>
+<br>
+De minister kan de termijnen, vermeld in dit artikel, op gemotiveerd verzoek en op advies van de administratie, verlengen.<br>
+<br>
+In afwijking van het vierde lid kan het Agentschap Innoveren en Ondernemen, op gemotiveerd verzoek, de termijnen, vermeld in dit artikel, verlengen met maximaal twaalf maanden.</p>
 
 ### ART. 28.
 
@@ -359,19 +361,19 @@ De minister beslist over de steunverlening als de steun minder of gelijk is aan 
 
 <p>De basissteun wordt aan de onderneming uitbetaald in drie schijven :<br>
 1° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, op voorwaarde dat de onderneming :<br>
-a) de uitbetaling van de schijf aanvraagt;<br>
-b) het transformatieproject voor 30% heeft gerealiseerd;<br>
+&nbsp; a) de uitbetaling van de schijf aanvraagt;<br>
+&nbsp; b) het transformatieproject voor 30% heeft gerealiseerd;<br>
 2° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, op voorwaarde dat de onderneming :<br>
-a) de uitbetaling van de schijf aanvraagt;<br>
-b) verklaart dat het transformatieproject voor 60 % is gerealiseerd;<br>
+&nbsp; a) de uitbetaling van de schijf aanvraagt;<br>
+&nbsp; b) verklaart dat het transformatieproject voor 60 % is gerealiseerd;<br>
 3° een resterend bedrag van 40 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, na de volledige realisatie van het transformatieproject, op voorwaarde dat :<br>
-a) de onderneming de uitbetaling van de schijf aanvraagt;<br>
-b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft gehad om vast te stellen dat :<br>
-1) de in aanmerking komende transformatieopleidingen volledig zijn gerealiseerd;<br>
-2) de in aanmerking komende transformatie-investeringen volledig zijn gerealiseerd en deze investeringen in en door de aanvragende onderneming worden geëxploiteerd;<br>
-3) ...;<br>
-4) de in het transformatieplan beschreven doelstelling over tewerkstelling in het Vlaamse Gewest, vermeld in artikel 21, derde lid, c), en artikel 36, derde lid, c), volledig is behaald;<br>
-5) aan alle voorwaarden, vermeld in het decreet van 16 maart 2012 en in dit besluit, is voldaan.</p>
+&nbsp; a) de onderneming de uitbetaling van de schijf aanvraagt;<br>
+&nbsp; b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft gehad om vast te stellen dat :<br>
+&nbsp; &nbsp; 1) de in aanmerking komende transformatieopleidingen volledig zijn gerealiseerd;<br>
+&nbsp; &nbsp; 2) de in aanmerking komende transformatie-investeringen volledig zijn gerealiseerd en deze investeringen in en door de aanvragende onderneming worden geëxploiteerd;<br>
+&nbsp; &nbsp; 3) ...;<br>
+&nbsp; &nbsp; 4) de in het transformatieplan beschreven doelstelling over tewerkstelling in het Vlaamse Gewest, vermeld in&nbsp;artikel 21, eerste lid, 4°, c), en artikel 36, eerste lid, 4°, c), volledig is behaald;<br>
+&nbsp; &nbsp; 5) aan alle voorwaarden, vermeld in het decreet van 16 maart 2012 en in dit besluit, is voldaan.</p>
 
 <p>Als de opleidingen of investeringen, vermeld in punt 3°, b), 1) en 2), niet volledig zijn gerealiseerd, wordt de steun voor de opleidingen of investeringen pro rata verminderd.</p>
 
