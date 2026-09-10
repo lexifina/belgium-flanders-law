@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042316,
+  "title": "Ministerieel besluit van 2026-07-16 tot wijziging van het ministerieel besluit van 3 maart 2021 tot uitvoering van het besluit van de Vlaamse Regering van 12 februari 2021 tot bepaling van de gegevens die de sectoren moeten bezorgen met het oog op het verhogen van de markt- en prijstransparantie in de landbouw- en voedselmarkt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042316/VolledigDocument?datum=2026-09-10",
+  "source_sha256": "129ff8ec961f32d6f24b6e6aeead010a24d2ba1959951822c2f4eebba8969c81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042316&param=informatie",
+  "as_of": "2026-09-10",
+  "made": "2026-07-16",
+  "gazette": "2026-08-31",
+  "numac": 2026006400,
+  "document_start": "2026-09-10",
+  "document_end": null,
+  "in_force": "2026-09-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
