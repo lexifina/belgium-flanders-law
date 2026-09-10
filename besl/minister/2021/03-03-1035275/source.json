@@ -2,16 +2,16 @@
   "codex_id": 1035275,
   "title": "Ministerieel besluit van 2021-03-03 tot uitvoering van het besluit van de Vlaamse Regering van 12 februari 2021 tot bepaling van de gegevens die de sectoren moeten bezorgen met het oog op het verhogen van de markt- en prijstransparantie in de landbouw- en voedselmarkt",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035275/VolledigDocument?datum=2021-03-18",
-  "source_sha256": "77a3326a572f68b4c9ff41e0102ed6683d6734a2f1f5bcefe88a4285154a8f0f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035275/VolledigDocument?datum=2026-09-10",
+  "source_sha256": "9950c278475f2cdb17b9a6efd09ccea5e7fe89b9b2687f73876d34a8bdf1c591",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035275&param=informatie",
-  "as_of": "2021-03-18",
+  "as_of": "2026-09-10",
   "made": "2021-03-03",
   "gazette": "2021-03-08",
   "numac": 2021040881,
   "document_start": "2021-03-18",
   "document_end": null,
-  "in_force": "2021-03-18",
+  "in_force": "2026-09-10",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2021-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-10; future article versions excluded; article text as the API gives it"
 }

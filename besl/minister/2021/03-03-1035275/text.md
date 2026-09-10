@@ -34,7 +34,7 @@ De bevoegde entiteit neemt technische en organisatorische maatregelen om de vert
 
 ### ART 3.
 
-Ter uitvoering van artikel 18, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de varkensslachthuizen met meer dan één miljoen slachtingen van varkens per jaar de gegevens, vermeld in artikel 18, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 18, eerste lid, van het voormelde besluit.
+Ter uitvoering van artikel 18, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de varkensslachthuizen met meer dan achthonderdduizend slachtingen van varkens per jaar de gegevens, vermeld in artikel 18, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 18, eerste lid, van het voormelde besluit.
 
 ### ART 4.
 
@@ -44,11 +44,11 @@ In het eerste lid wordt verstaan onder runderen: runderen met een minimumleeftij
 
 ### ART 5.
 
-Ter uitvoering van artikel 26, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de schapenslachthuizen met minstens zevenduizendvijfhonderd slachtingen van schapen per jaar de gegevens, vermeld in artikel 26, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 26, eerste lid, van het voormelde besluit.
+Ter uitvoering van artikel 26, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de schapenslachthuizen met minstens duizend slachtingen van schapen per jaar de gegevens, vermeld in artikel 26, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 26, eerste lid, van het voormelde besluit.
 
 ### ART 6.
 
-Ter uitvoering van artikel 27, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de pluimveeslachthuizen met minstens twintig miljoen slachtingen van braadkuikens per jaar de gegevens, vermeld in artikel 27, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 27, eerste lid, van het voormelde besluit.
+Ter uitvoering van artikel 27, vierde lid, van het besluit van 12 februari 2021 bezorgen alleen de pluimveeslachthuizen met minstens vijftien miljoen slachtingen van braadkuikens per jaar de gegevens, vermeld in artikel 27, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 27, eerste lid, van het voormelde besluit.
 
 ### ART 7.
 
@@ -56,11 +56,11 @@ Ter uitvoering van artikel 28, vierde lid, van het besluit van 12 februari 2021 
 
 ### ART 8.
 
-Ter uitvoering van artikel 29, derde lid, van het besluit van 12 februari 2021 bezorgen alleen de pakstations die beschikken over een sorteercapaciteit van minimaal tienduizend eieren per uur, de gegevens, vermeld in artikel 29, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 29, eerste lid, van het voormelde besluit als ze voldoen aan minstens een van de volgende voorwaarden:<br>
-1° het pakstation verhandelt op jaarbasis minstens vijfhonderdduizend eieren die afkomstig zijn van biologisch gehouden leghennen;<br>
-2° het pakstation verhandelt op jaarbasis minstens twintig miljoen eieren die afkomstig zijn van leghennen met vrije uitloop;<br>
-3° het pakstation verhandelt op jaarbasis minstens honderd miljoen eieren die afkomstig zijn van leghennen in scharrelhuisvesting;<br>
-4° het pakstation verhandelt op jaarbasis minstens vijfentwintig miljoen eieren die afkomstig zijn van leghennen in verrijkte kooien.
+Ter uitvoering van artikel 29, derde lid, van het besluit van 12 februari 2021 bezorgen alleen de pakstations die beschikken over een sorteercapaciteit van minimaal vijfduizend eieren per uur, de gegevens, vermeld in artikel 29, eerste lid, van het voormelde besluit, rechtstreeks aan de bevoegde entiteit conform artikel 29, eerste lid, van het voormelde besluit als ze voldoen aan minstens een van de volgende voorwaarden:<br>
+1° het pakstation verhandelt op jaarbasis minstens vijf miljoen eieren die afkomstig zijn van biologisch gehouden leghennen;<br>
+2° het pakstation verhandelt op jaarbasis minstens vijf miljoen eieren die afkomstig zijn van leghennen met vrije uitloop;<br>
+3° het pakstation verhandelt op jaarbasis minstens twintig miljoen eieren die afkomstig zijn van leghennen in scharrelhuisvesting;<br>
+4° het pakstation verhandelt op jaarbasis minstens vijf miljoen eieren die afkomstig zijn van leghennen in verrijkte kooien.
 
 ### ART 9.
 
