@@ -248,7 +248,7 @@ Het de-minimisquotum voor tong bedraagt maximaal 5% van het tongquotum in ICES-g
 <br>
 Bij uitputting van het de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit de desbetreffende ICES-gebieden.<br>
 <br>
-§2. In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 70 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§2. In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 140 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 §3. In de periode van 1 januari 2026 tot en met 30 juni 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 20 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
