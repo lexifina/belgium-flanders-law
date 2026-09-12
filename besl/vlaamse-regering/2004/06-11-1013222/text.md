@@ -38,7 +38,7 @@ Het agentschap heeft tot taak duurzame facilitaire diensten marktconform aan te 
 <br>
 Het agentschap heeft tot taak diensten inzake overheidsopdrachten aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
 1° de beleidscoördinatie, -voorbereiding en -uitvoering voor overheidsopdrachten, met inbegrip van de gewestelijke aspecten inzake overheidsopdrachten, het Vlaams Samenwerkingsforum Overheidsopdrachten en het lidmaatschap van de federale Commissie voor de overheidsopdrachten en daarmee samenhangend de ondersteuning van de Vlaamse Regering bij haar taken over de erkenning van aannemers van werken;<br>
-2° als enige aankoopcentrale voor de Vlaamse administratie, vermeld in artikel I.3, 2°, van het Bestuursdecreet van 7 december 2018, optreden voor gangbare en gebruikelijke ondersteunende goederen en diensten, onder meer binnen de thema's facility, ICT, personeel en organisatie. De aankoopcentrale kan ook andere overheidsopdrachten en raamovereenkomsten voor werken, leveringen of diensten plaatsen voor de Vlaamse overheid, de lokale overheden en voor de Vlaamse Gemeenschapscommissie;<br>
+2° overheidsopdrachten en raamovereenkomsten plaatsen voor werken, leveringen of diensten voor de instanties, vermeld in artikel I.3. 1° tot en met 7°, en 9° van het Bestuursdecreet van 7 december 2018, de verenigingen en vennootschappen voor maatschappelijk welzijn, vermeld in deel 3, titel 4, hoofdstukken 4, 5 en 6 van het decreet van 22 december 2017 over het lokaal bestuur, de gemeenschappelijke diensten en instellingen die zijn opgericht overeenkomstig artikel 92bis, §1, of artikel 92bis/1, §1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen mits akkoord van de andere participerende gewesten of gemeenschappen of de federale overheid, de Vlaamse Gemeenschapscommissie en de enkel door haar erkende Brusselse gemeenschapscentra. Voor de instanties van de Vlaamse administratie, vermeld in artikel I.3, 2° a), b), c), d), f) en g), van het Bestuursdecreet van 7 december 2018, treedt het agentschap als enige aankoopcentrale voor gangbare en gebruikelijke ondersteunende goederen en diensten op, onder meer binnen de thema's facility, ICT, personeel en organisatie. Met gangbare en gebruikelijke ondersteunende goederen en diensten worden goederen en diensten bedoeld die voor meerdere instanties bruikbaar zijn en niet gelinkt zijn aan de kerntaken van een instantie of beleidsdomein;<br>
 3° de rol vervullen van kenniscentrum overheidsopdrachten ter ondersteuning van de Vlaamse overheid met het oog op de professionalisering van de overheidsopdrachtenpraktijk, onder andere door juridische adviesverlening en door opleidingen en informatie aan de Vlaamse overheid aan te bieden;<br>
 4° rechtszaken behandelen over overheidsopdrachten van entiteiten die behoren tot de rechtspersoon van de Vlaamse Gemeenschap of het Vlaamse Gewest. Voor het beleidsdomein Mobiliteit en Openbare Werken worden alleen de rechtszaken behandeld die vóór 1 september 2010 zijn ingeleid.<br>
 <br>
@@ -47,9 +47,7 @@ Het agentschap heeft tot taak diensten inzake documentbeheer aan te bieden. Dat 
 2° de ondersteuning van de Vlaamse overheid en van de lokale overheden conform artikel III.86 van het Bestuursdecreet van 7 december 2018;<br>
 3° het beheer en de bewaring van de bestuursdocumenten van de Vlaamse overheid;<br>
 4° de ondersteuning van de Vlaamse overheid en van de lokale overheden bij de optimalisering van hun interne processen;<br>
-5° de ontwikkeling van een instrumentarium voor het procesbeheer van de Vlaamse overheid en van de lokale overheden.<br>
-<br>
-&nbsp;</p>
+5° de ontwikkeling van een instrumentarium voor het procesbeheer van de Vlaamse overheid en van de lokale overheden.</p>
 
 ### ART. 4/1.
 
