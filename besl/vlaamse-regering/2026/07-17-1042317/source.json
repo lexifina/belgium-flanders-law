@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042317,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot afbakening van de regionale zorgzones en tot wijziging van de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042317/VolledigDocument?datum=2026-09-14",
+  "source_sha256": "c1ed143acb77dfbabb7cd79d208b95b910129180b3d10ca74139c26df4354b49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042317&param=informatie",
+  "as_of": "2026-09-14",
+  "made": "2026-07-17",
+  "gazette": "2026-09-04",
+  "numac": 2026006403,
+  "document_start": "2026-09-14",
+  "document_end": null,
+  "in_force": "2026-09-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
