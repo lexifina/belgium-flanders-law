@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042331,
+  "title": "Ministerieel besluit van 2026-09-01 tot lancering van een tweede oproep in 2026 voor het indienen van demonstratieprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042331/VolledigDocument?datum=2026-09-18",
+  "source_sha256": "e2f11e3c6e35ec84771ae905649386985650f29b77f71a6f65a2a19699fe1fd8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042331&param=informatie",
+  "as_of": "2026-09-18",
+  "made": "2026-09-01",
+  "gazette": "2026-09-11",
+  "numac": 2026006600,
+  "document_start": "2026-09-18",
+  "document_end": null,
+  "in_force": "2026-09-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
