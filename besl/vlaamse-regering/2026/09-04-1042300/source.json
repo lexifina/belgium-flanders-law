@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042300,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-04 tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de vaststelling van het digitaal frequentieplan voor aanbieders van radio- en televisieomroepnetwerken, wat betreft de opheffing van de bepalingen inzake radio-omroepnetwerken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042300/VolledigDocument?datum=2026-09-20",
+  "source_sha256": "e4333f62c34b3cff6924bfc289decf1aa116167e55c3110518372334114e6f22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042300&param=informatie",
+  "as_of": "2026-09-20",
+  "made": "2026-09-04",
+  "gazette": "2026-09-10",
+  "numac": 2026006301,
+  "document_start": "2026-09-20",
+  "document_end": null,
+  "in_force": "2026-09-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
