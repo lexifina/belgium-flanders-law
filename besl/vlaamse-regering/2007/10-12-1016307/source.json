@@ -2,16 +2,16 @@
   "codex_id": 1016307,
   "title": "Besluit van de Vlaamse Regering van 2007-10-12 houdende de vaststelling van het digitaal frequentieplan [voor aanbieders van televisieomroepnetwerken]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016307/VolledigDocument?datum=2022-07-30",
-  "source_sha256": "ad3c0355fbf473f72175ab2ba65dc48ecb2fa5aa558e6ee589c86ad2440abb38",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016307/VolledigDocument?datum=2026-09-20",
+  "source_sha256": "1acb5634ec36e4c1f04341dec78de8e2623af3ef1565ff841d9a7d225eb47d15",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016307&param=informatie",
-  "as_of": "2022-07-30",
+  "as_of": "2026-09-20",
   "made": "2007-10-12",
   "gazette": "2007-11-06",
   "numac": 2007036899,
   "document_start": "2007-11-16",
   "document_end": null,
-  "in_force": "2022-07-30",
+  "in_force": "2026-09-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-07-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-09-20; future article versions excluded; article text as the API gives it"
 }

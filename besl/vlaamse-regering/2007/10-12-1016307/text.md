@@ -6,219 +6,101 @@ De Vlaamse Regering,<br /><br />Gelet op de decreten betreffende de radio-omroep
 
 ### ART. 1.
 
-Voor de aanbieders van radio-omroepnetwerken en televisieomroepnetwerken wordt het digitaal frequentieplan, dat als bijlage bij dit besluit is gevoegd, vastgesteld.<br /><br />
+Voor de aanbieders van televisieomroepnetwerken wordt het digitaal frequentieplan, dat als bijlage bij dit besluit is gevoegd, vastgesteld.<br>
+&nbsp;
 
 ### ART. 2.
 
 De Vlaamse minister, bevoegd voor het Mediabeleid, is belast met de uitvoering van dit besluit.<br /><br />
 
-### BIJLAGE I.
+### BIJLAGE I
 
-Frequentieband IIIDigitaal RRC06-allotmentfrequentieplan in de frequentiebanden III, IV en V voor de volledig digitale toekomst en voor omroeptoepassingen<br>
+Digitaal frequentieplan in de frequentiebanden IV en V voor de volledig digitale toekomst en voor omroeptoepassingen<br>
 &nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table cellspacing="0" style="border-collapse:collapse; width:604px">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; width:460.6pt">
-			<p>Frequentieband III</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">Frequentieband IV en V</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; width:302px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Theoretisch beoogd gebied</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>Frequentieblok of frequentiekanaal</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Theoretisch beoogd gebied</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Frequentiekanaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>12A</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">22</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Nederlandse taalgebied en tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>11A</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">25</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincies West- en Oost-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>5A</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">40</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Vlaams-Brabant en het tweetalige gebied Brussel-Hoofdstad, de provincies Antwerpen en Limburg</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>5D</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">41</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Nederlandse taalgebied en tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>10</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">43</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:460.6pt">
-			<p>Frequentieband IV en V</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">44</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Theoretisch beoogd gebied</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>Frequentiekanaal</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">46</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>22</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">47</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>25</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Provincie West-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">39</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>40</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Provincie Oost-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">37</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>41</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van de provincie Vlaams-Brabant</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">48</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>43</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van de provincie Vlaams-Brabant en het volledige tweetalige taalgebied Brussel-Hoofdstad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">34</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>44</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Westelijk deel van de provincie Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">26</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>46</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Oostelijk deel van de provincie Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">23</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>47</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">23</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>[… <em>(vernietigd arrest RvSt, nr. 218.637 van 27 maart 2012)</em>]</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Provincie Oost-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">34</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie West-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 39</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:302px">Provincie West-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:302px">34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Oost-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>37</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van de provincie Vlaams Brabant</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>48</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van de provincie Vlaams-Brabant en het volledige tweetalige taalgebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>34</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Westelijk deel van de provincie Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>26</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Oostelijk deel van de provincie Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>23</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Limburg</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>23</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Oost-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>34</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">Provincie Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">37</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
 <p>&nbsp;</p>
