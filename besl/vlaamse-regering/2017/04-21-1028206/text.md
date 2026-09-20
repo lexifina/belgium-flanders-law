@@ -397,13 +397,11 @@ In dit besluit wordt verstaan onder:<br>
 
 Het deel van de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod, vermeld in artikel 143/2, § 1, 2°, c), van het decreet van 27 maart 2009, bedraagt twee derde van de uitzendtijd. Onder Nederlandstalige en Vlaamse profiel of muziekaanbod wordt begrepen het muziekaanbod en de andere cultuuruitingen door Nederlandstalige en/of Vlaamse artiesten en/of programma's met als hoofdthema een Nederlandstalige of Vlaamse artiest.
 
-## Afdeling 1/1. Herverdeling van vrijgekomen FM-frequenties
+## Afdeling 1/1. ...
 
 ### ART 2/1.
 
-De herverdeling van vrijgekomen FM-frequenties, vermeld in artikel 134, §5, van het decreet van 27 maart 2009, is alleen mogelijk binnen dezelfde categorie van radio-omroeporganisaties.<br>
-<br>
-De optimalisatie van de ontvangst van de bestaande erkenningen vereist dat de oorspronkelijke dekkingsgraad van de erkende radio-omroeporganisatie wordt vergroot.
+...
 
 ## Afdeling 2. Aanvullende kwalificatiecriteria voor de netwerkradio-omroeporganisaties
 
