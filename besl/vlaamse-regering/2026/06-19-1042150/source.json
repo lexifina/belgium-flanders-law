@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042150,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-19 tot sluiting van de zitting 2025-2026 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042150/VolledigDocument?datum=2026-09-28",
+  "source_sha256": "af055ae5e97f22c9b650100f151aaaa4be9583db34e2fd08680f4ce8d182d38b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042150&param=informatie",
+  "as_of": "2026-09-28",
+  "made": "2026-06-19",
+  "gazette": "2026-07-06",
+  "numac": 2026004960,
+  "document_start": "2026-09-28",
+  "document_end": null,
+  "in_force": "2026-09-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
