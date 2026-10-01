@@ -21,6 +21,102 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+De artikelen 3, 7, 8, 9, 29 en 30 van dit besluit voorzien in de gedeeltelijke omzetting van richtlijn (EU) 2023/970 van het Europees Parlement en de Raad van 10 mei 2023 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen.&nbsp;
+
+### ART 2.
+
+In artikel I 2, 1°, d), 1), van het Vlaams personeelsstatuut van 13 januari 2006, vervangen bij het besluit van de Vlaamse Regering van 17 mei 2024, wordt het woord “VMM” vervangen door het woord “VVM”.
+
+### ART 3.
+
+Aan artikel III 10, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 september 2025, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 4.
+
+In artikel III 44, §1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+“Bij een bevordering naar een andere functie:<br>
+1° behoudt een contractueel personeelslid zijn contractuele aanstelling;<br>
+2° wordt een ambtenaar die vóór 1 juni 2024 ofwel effectief vast benoemd is, ofwel effectief toegelaten is tot de statutaire proeftijd, toegelaten tot een nieuwe statutaire proeftijd.&nbsp; Die nieuwe statutaire proeftijd begint nadat de vorige statutaire proeftijd beëindigd is. Op die nieuwe statutaire proeftijd zijn de bepalingen van deel IV van toepassing;<br>
+3° wordt een ambtenaar die vanaf 1 juni 2024 toegelaten is tot de statutaire proeftijd in het kader van de uitoefening van een gezagsfunctie, opnieuw toegelaten tot de statutaire proeftijd als de andere functie ook een gezagsfunctie is. De nieuwe statutaire proeftijd in het kader van de uitoefening van een gezagsfunctie begint nadat de vorige statutaire proeftijd in een gezagsfunctie beëindigd is. Op die nieuwe proeftijd zijn de bepalingen van deel IV van toepassing;<br>
+4° wordt een contractueel personeelslid toegelaten tot de statutaire proeftijd als de andere functie een gezagsfunctie betreft. Op die proeftijd zijn de bepalingen van deel IV van toepassing;<br>
+5° verliest een ambtenaar die vanaf 1 juni 2024 toegelaten is tot de statutaire proeftijd in het kader van de uitoefening van een gezagsfunctie, zijn statutaire aanstelling als de andere functie niet vermeld is in de lijst die is opgenomen in bijlage 4, die bij dit besluit is gevoegd. Hij krijgt een contract van onbepaalde duur.”.
+
+### ART 5.
+
+In artikel III 64 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024 en gewijzigd bij het besluit van de Vlaamse Regering van 19 september 2025, wordt de zinsnede “veiligheidsattesten,” opgeheven.
+
+### ART 6.
+
+In artikel III 65 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt de zinsnede “veiligheidsattesten,” opgeheven.
+
+### ART 7.
+
+Aan artikel V 5, §3, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 september 2025, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 8.
+
+Aan artikel V 20, §2, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 september 2025, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 9.
+
+Aan artikel V 36, §4, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 september 2025, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 10.
+
+In artikel V 46, §4, derde lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt de zinsnede “artikel V 39bis, §2, derde lid,” vervangen door de zinsnede “artikel V 39, §2, tweede lid of artikel V 39bis, §2, derde lid”.
+
+### ART 11.
+
+In artikel VII 2, §4, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt de laatste zin vervangen als volgt: “Voor personeelsleden die bevorderd zijn naar een hoger niveau vóór 1 juni 2024, gebeurt de inschaling op jaarsalaris en de op het ogenblik van de overstap betaalde bevorderingspremie.
+
+### ART 12.
+
+Aan artikel VII 20, §4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De termijn voor de uitbetaling, vermeld in het eerste lid, kan, zo lang als nodig voor het maken van de noodzakelijke berekeningen, worden verlengd als de beëindiging van de tewerkstelling bij de werkgever of de wijziging van hoedanigheid de vroegtijdige beëindiging van het fietsleasecontract tot gevolg heeft.”.
+
+### ART 13.
+
+Aan artikel VII 32, §2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008, 29 mei 2009, 29 maart 2024 en 19 september 2025, wordt de volgende zin toegevoegd:<br>
+<br>
+“De lijnmanager kent aan het personeelslid van rang A1 dat op regelmatige basis op verzoek van de lijnmanager op zondag werkt, een zondagtoelage toe zoals bepaald in artikel VII 31.”.
+
+### ART 14.
+
+In artikel VII 44quater van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt in de tabel de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:151px">7 euro</td>
+			<td style="vertical-align:top; width:151px">10,82 euro</td>
+			<td style="vertical-align:top; width:151px">12,01 euro</td>
+			<td style="vertical-align:top; width:151px">6,07 euro</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+vervangen door de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:151px">8 euro</td>
+			<td style="vertical-align:top; width:151px">12,66 euro</td>
+			<td style="vertical-align:top; width:151px">14,05 euro</td>
+			<td style="vertical-align:top; width:151px">7,10 euro</td>
+		</tr>
+	</tbody>
+</table>
+“.
+
 ### ART 15.
 
 In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 september 2025, wordt het opschrift van afdeling 1 vervangen door wat volgt:<br>
@@ -95,9 +191,30 @@ Art. VII 45ter. §1. De volgende toelage wordt toegekend aan het personeelslid d
 
 In artikel VII 56, §1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 september 2025, worden de woorden “agentschap Opgroeien” vervangen door de woorden “Agentschap Justitie en Handhaving”.
 
+### ART 20.
+
+In artikel VII 109undecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“Bij de indiensttreding van personeelsleden wordt, in afwijking van het eerste lid, de waarde van een jaarlijkse vakantiedag die het personeelslid met toepassing van artikel X 9, §4, inzet, berekend op basis van het salaris van de maand van de indiensttreding.”;<br>
+2° in het bestaande tweede lid, dat het derde lid wordt, worden volgende wijzigingen aangebracht:<br>
+a) in punt 1° wordt tussen de zinsnede “artikel VII 91,” en het woord “alsook” de zinsnede “het buitenlandpersoneel van FIT en Toerisme Vlaanderen,” ingevoegd;<br>
+b) de punten 3° tot en met 6° worden toegevoegd, die luiden als volgt:<br>
+“3° het personeelslid met een arbeidsovereenkomst voor studenten;&nbsp;<br>
+4° het personeelslid van Sport Vlaanderen met een arbeidsovereenkomst voor occasioneel personeel;<br>
+5° de occasionele lesgever van de VDAB, vermeld in artikel 1, 10°, van het besluit van de Vlaamse Regering van 9 mei 2014 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+6° de personeelsleden met loonbeslag.”.
+
 ### ART 21.
 
 In artikel VIIbis 1, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt het woord “derde” vervangen door het woord “vierde”.
+
+### ART 22.
+
+Artikel VIIbis 12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt opgeheven.
+
+### ART 23.
+
+Artikel VIIbis 21 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt opgeheven.
 
 ### ART 24.
 
@@ -132,15 +249,46 @@ In artikel X 9, §3, eerste lid, van hetzelfde besluit, vervangen bij het beslui
 2° de woorden “De Wijngaard” worden opgeheven;<br>
 3° tussen het woord “nachtwaker” en de woorden “of bewakingsassistent” wordt de zinsnede “, veiligheidsmedewerker” ingevoegd.
 
+### ART 29.
+
+Aan artikel XIbis 18, §2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 30.
+
+Aan artikel XIbis 33, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
+### ART 31.
+
+Aan artikel XIbis 40, §2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° het niveau, de rang en de graad van de functie en de daaraan gekoppelde salarisschaal.”.
+
 ### ART 32.
 
 Aan artikel XIbis 66, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Voor de loods op proef, die op basis van artikel XIbis 67 geen recht heeft op de toelagen vermeld in het eerste lid, wordt het bruto maandsalaris verminderd met 80% van een twaalfde van 7460 euro”.
 
+### ART 33.
+
+In artikel XIbis 67, laatste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt de zinsnede “artikel VII 43” vervangen door de zinsnede “artikel VII 42” en de zinsnede “artikel VII 44” door de zinsnede “artikel VII 43”.
+
 ### ART 34.
 
 Bijlage 5bis bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024 en vervangen bij het besluit van de Vlaamse Regering van 19 september 2025, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+
+### ART 35.
+
+Dit besluit treedt in werking op 1 oktober 2026, met uitzondering van:<br>
+1° artikel 15 tot en met 19, artikel 25, artikel 27 en 28, die uitwerking hebben met ingang van 1 januari 2026;<br>
+2° artikel 21, 24 en 26, die uitwerking hebben met ingang van 1 juni 2024;<br>
+3° artikel 32 dat uitwerking heeft met ingang van 1 oktober 2017;<br>
+4° artikel 34, dat uitwerking heeft met ingang van 1 oktober 2025.
+
+### ART 36.
+
+De Vlaamse minister, bevoegd voor de human resources, is belast met de uitvoering van dit besluit.
 
 ### Bijlage 1
 
