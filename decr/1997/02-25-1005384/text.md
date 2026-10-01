@@ -382,6 +382,29 @@ Als de ouders niet akkoord gaan met de beslissing dat het kleuteronderwijs niet 
 <br>
 §7. De Vlaamse regering bepaalt de modaliteiten, de vorm en de procedure tot aflevering van de beslissing over het al dan niet met vrucht beëindigen van het kleuteronderwijs of de beslissing dat de leerling met een IAC-verslag niet kan doorstromen naar het gewoon lager onderwijs en de beslissing tot het opleggen van een taalintegratietraject zoals vermeld in paragraaf 1 tot en met paragraaf 3 en paragraaf 5.
 
+### ART 13/0.
+
+§1. De volgende leerlingen worden als regelmatige leerling toegelaten tot het gewoon Nederlandstalig lager onderwijs:<br>
+1°&nbsp;&nbsp; &nbsp;leerlingen die het kleuteronderwijs met vrucht beëindigd hebben of leerlingen met een IAC-verslag waarvan de klassenraad beslist heeft dat ze kunnen doorstromen naar het gewoon lager onderwijs als vermeld in artikel 13, §1, §2 en §3;<br>
+2°&nbsp;&nbsp; &nbsp;leerlingen die zeven jaar of ouder worden vóór 1 januari van het lopende schooljaar;<br>
+3°&nbsp;&nbsp; &nbsp;leerlingen die de leeftijd van zeven jaar nog niet bereikt hebben voor 1 januari van het lopende schooljaar en die het voorafgaande schooljaar niet ingeschreven waren in een erkende school voor Nederlandstalig gewoon kleuteronderwijs, na een gunstige beslissing van de klassenraad lager onderwijs.<br>
+<br>
+De beslissing over de toelating van de leerlingen, vermeld in het eerste lid, 3°, wordt uiterlijk vijftien kalenderdagen na de aanvang van de regelmatige lesbijwoning genomen. De leerlingen, vermeld in het eerste lid, 3°, worden ingeschreven onder ontbindende voorwaarde. Als de termijn van vijftien kalenderdagen is overschreden, is de leerling toegelaten. De inschrijving onder ontbindende voorwaarde wordt ontbonden de dag na de mededeling van de negatieve beslissing van de klassenraad lager onderwijs aan de ouders. De leerling bijft conform artikel 12/1, §1, toegelaten tot het gewoon kleuteronderwijs<br>
+<br>
+Bij schoolverandering in de loop van het schooljaar wordt de beslissing van de klassenraad overgedragen naar de nieuwe school, tenzij kennelijk blijkt dat de beslissing is verkregen zonder dat de leerling het oogmerk had om in de school in kwestie daadwerkelijk en regelmatig de lessen te volgen. In dat geval is de klassenraad van de nieuwe school bevoegd om zelf een beslissing te nemen.<br>
+<br>
+§2. Leerlingen die ingeschreven zijn in scholen voor Franstalig onderwijs in de rand- en taalgrensgemeenten worden toegelaten tot het gewoon lager onderwijs als ze de leeftijd van zes jaar bereikt hebben vóór 1 januari van het lopende schooljaar. Leerlingen die nog niet de leeftijd van zes jaar bereikt hebben vóór 1 januari van het lopende schooljaar kunnen starten in het Franstalig onderwijs, na toelating van de klassenraad.<br>
+<br>
+§3. Om toegelaten te worden tot het buitengewoon lager onderwijs moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar.<br>
+<br>
+Een leerling die de leeftijd van zes jaar voor 1 januari van het lopende schooljaar niet bereikt heeft, kan tot het buitengewoon lager onderwijs toegelaten worden onder de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;voor leerlingen die in het voorafgaande schooljaar ingeschreven waren in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs:<br>
+a)&nbsp;&nbsp; &nbsp;een gunstige beslissing van de klassenraad van de school waar de leerling voorafgaand aan de instap in het buitengewoon lager onderwijs kleuteronderwijs gevolgd heeft;<br>
+b)&nbsp;&nbsp; &nbsp; bij een ongunstige beslissing van de klassenraad als vermeld in punt a), een gunstige beslissing van de klassenraad van de school waar de leerling het buitengewoon lager onderwijs wil volgen;<br>
+2°&nbsp;&nbsp; &nbsp;voor leerlingen die in het voorgaande schooljaar niet ingeschreven waren in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs: een gunstige beslissing van de klassenraad van de school waar de leerling het buitengewoon lager onderwijs wil volgen.<br>
+<br>
+De beslissing van de school voor kleuteronderwijs, vermeld in het tweede lid, 1°, a), wordt aan de ouders meegedeeld uiterlijk op 30 juni. De ouders worden geacht die beslissing uiterlijk op 1 juli in ontvangst te hebben genomen. De beslissing door de school voor lager onderwijs, vermeld in het tweede lid, 1), b) en 2°, wordt aan de ouders meegedeeld uiterlijk 15 september bij inschrijving vóór 1 september van het lopende schooljaar, of, bij inschrijving vanaf 1 september, uiterlijk vijftien kalenderdagen na die inschrijving. Als de leerling geen beroep kan doen op het behoud van in-schrijving conform artikel 37bis, §4, is de leerling in afwachting van die mededeling ingeschreven onder ontbindende voorwaarde. Bij overschrijding van de termijn is de leerling ingeschreven of toegelaten. De inschrijving onder ontbindende voorwaarde wordt ontbonden de dag na de mededeling van de negatieve beslissing van de klas-senraad lager onderwijs aan de ouders. De leerling bijft conform artikel 12/1, §3, toegelaten tot het buitengewoon kleuteronderwijs.
+
 ### ART 13/1.
 
 § 1. Voor de toepassing van dit artikel worden vanaf het schooljaar 2020-2021 als voldoende aanwezig beschouwd, de leerlingen die ingeschreven zijn in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs en er 290 halve dagen daadwerkelijk aanwezig zijn. Halve dagen aanwezigheid in de rijdende kleuterschool zoals bepaald in artikel 168 van dit decreet worden beschouwd als aanwezigheid in de erkende school voor Nederlandstalig onderwijs waar de leerling ingeschreven is.<br>
