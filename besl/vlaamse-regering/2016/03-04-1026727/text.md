@@ -13,14 +13,14 @@ In dit besluit wordt verstaan onder :<br>
 1° /1 besluit van 27 november 2015: het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget;<br>
 1° /2 besluit van 10 juni 2016: het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering.<br>
 2° ...;<br>
-3° budget voor niet rechtstreeks toegankelijke zorg en ondersteuning : een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
-4° budgethouder : de persoon met een handicap die gebruikmaakt van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning, of zijn wettelijke vertegenwoordiger;<br>
+3° budget: een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+4° budgethouder : de persoon met een handicap die gebruikmaakt van een budget, of zijn wettelijke vertegenwoordiger;<br>
 5° bovengebruikelijke zorg : de zorg die in samenspraak met de persoon met een handicap geboden wordt door gezinsleden binnen hetzelfde huishouden aan een gezinslid met een handicap, en die de gebruikelijke zorg overstijgt;<br>
 6° coördinatiepunt : het coördinatiepunt, vermeld in artikel 8 van het besluit van 17 maart 2006;<br>
 7° ...;<br>
 8° gebruikelijke zorg : de normale, dagelijkse zorg die partners of ouders en inwonende kinderen geacht worden elkaar onderling te bieden omdat ze als leefeenheid een gezamenlijk huishouden voeren en op die grond een gezamenlijke verantwoordelijkheid hebben voor het functioneren van dat huishouden;<br>
 9° grootte van de ondersteuningskloof : de grootte van de discrepantie tussen de ondersteuning die een persoon met een handicap nodig heeft en de huidige ondersteuning van die persoon, zoals hulpmiddelen, ondersteuning door mantelzorgers, ondersteuning door het sociale netwerk, reguliere diensten en het gebruik van rechtstreeks en niet rechtstreeks toegankelijke ondersteuning, gesubsidieerd door het agentschap;<br>
-10° multidisciplinair team : een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren als vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap, en die een multidisciplinair verslag opmaakt in het kader van een aanvraag van budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
+10° multidisciplinair team : een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren als vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap, en die een multidisciplinair verslag opmaakt in het kader van een aanvraag van budget;<br>
 10/1° netwerk: de familie, de vrienden en de informele contacten die zorg en ondersteuning bieden en/of samenwonen met de persoon met een handicap;<br>
 11° ROG : het regionaal overleg gehandicaptenzorg, vermeld in artikel 3 van het besluit van 17 maart 2006;<br>
 12° zorgaanbieder : de natuurlijke persoon of de rechtspersoon die niet rechtstreeks toegankelijke zorg of ondersteuning aanbiedt aan een budgethouder;<br>
@@ -59,21 +59,21 @@ In dit besluit wordt verstaan onder :<br>
 ### ART. 8.
 
 <p>Een prioriteitengroep wordt toegekend op basis van de volgende elementen;<br>
-1° de afweging van de noodzaak tot onmiddellijke terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
-2° de mate waarin met de terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning een einde gemaakt kan worden aan een situatie die al langere tijd onhoudbaar is.<br>
+1° de afweging van de noodzaak tot onmiddellijke terbeschikkingstelling van een budget;<br>
+2° de mate waarin met de terbeschikkingstelling van een budget een einde gemaakt kan worden aan een situatie die al langere tijd onhoudbaar is.<br>
 <br>
-De beoordeling van de elementen, vermeld in het eerste lid, wordt gebaseerd op de gegevens over de dringendheid van de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning die de aanvrager, vermeld in artikel 1, 1°, van het besluit van 27 november 2015, en het multidisciplinair team conform artikel 12, tweede lid, 4°, van het voormelde besluit, aanleveren</p>
+De beoordeling van de elementen, vermeld in het eerste lid, wordt gebaseerd op de gegevens over de dringendheid van de vraag naar een budget die de aanvrager, vermeld in artikel 1, 1°, van het besluit van 27 november 2015, en het multidisciplinair team conform artikel 12, tweede lid, 4°, van het voormelde besluit, aanleveren</p>
 
 ### ART. 9.
 
 Bij de afweging, vermeld in artikel 8, eerste lid, worden de volgende criteria beoordeeld:<br>
-1° in welke mate het uitblijven van een terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning een impact heeft op het netwerk;<br>
-2° in welke mate het uitblijven van een terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning een impact heeft op het functioneren van de persoon met een handicap;<br>
+1° in welke mate het uitblijven van een terbeschikkingstelling van een budget een impact heeft op het netwerk;<br>
+2° in welke mate het uitblijven van een terbeschikkingstelling van een budget een impact heeft op het functioneren van de persoon met een handicap;<br>
 3° in welke mate er een kloof is tussen de ondersteuning die de persoon nodig heeft en de ondersteuning die de persoon krijgt.<br>
 <br>
 Er wordt voor de verschillende criteria, vermeld in het eerste lid, een score van 1 tot en met 6 toegekend, waarbij een score 1 wijst op de meest acute situatie en de score 6 op de minst acute situatie.<br>
 <br>
-In afwijking van het tweede lid wordt geen score toegekend voor het criterium, vermeld in het eerste lid, 1°, als er geen netwerk of er geen ondersteunend netwerk is
+In afwijking van het tweede lid wordt geen score toegekend voor het criterium, vermeld in het eerste lid, 1°, als er geen netwerk of er geen ondersteunend netwerk is&nbsp;of als de persoon met een handicap voltijds in een professionele setting verblijft.
 
 ### ART. 10.
 
@@ -98,7 +98,7 @@ Als geoordeeld wordt dat de draagkracht van het netwerk overschreden is of binne
 1° er zijn grote of intensieve ondersteuningsnoden;<br>
 2° de huidige ondersteuning is onvoldoende of onaangepast;<br>
 3° er is geen ondersteuning mogelijk van reguliere diensten of in het kader van rechtstreeks toegankelijke hulp als vermeld in artikel 1, 7° en 9°, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap;<br>
-4° er is nog geen budget voor niet rechtstreeks toegankelijke zorg en ondersteuning ter beschikking gesteld</p>
+4° er is nog geen budget ter beschikking gesteld</p>
 
 ### ART. 13.
 
@@ -120,56 +120,45 @@ Als conform artikel 9, derde lid, geen score wordt toegekend voor het criterium,
 
 ### ART. 15.
 
-<p>In dit artikel wordt verstaan onder basisondersteuningsbudget : het basisondersteuningsbudget, vermeld in hoofdstuk 4 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.</p>
-
-<p>Als de budgethouder die het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning dat het agentschap ter beschikking heeft gesteld, stopzet omdat hij de ondersteuning die hij nodig heeft, wil organiseren met een basisondersteuningsbudget, eventueel aangevuld met rechtstreeks toegankelijke hulp, gesubsidieerd door het agentschap, binnen een periode van twee jaar vanaf de datum van de stopzetting van het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning die de budgethouder heeft meegedeeld, aan het agentschap vraagt om het hem toegewezen budget voor niet rechtstreeks toegankelijke zorg en ondersteuning opnieuw ter beschikking te stellen, hoeft het dossier niet te worden voorgelegd aan de Vlaamse toeleidingscommissie. Aan het verzoek om ter beschikkingstelling van het toegewezen budget wordt ambtshalve prioriteitengroep 1 toegekend.</p>
-
-<p>Als de budgethouder aanspraak wil maken op een hogere budgetcategorie dan de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, moet hij een aanvraag om herziening indienen conform artikel 35 van het besluit van 27 november 2015. Het dossier moet voorgelegd worden aan de Vlaamse toeleidingscommissie voor de toekenning van een prioriteitengroep, voor het gedeelte dat de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, overschrijdt. Aan het gedeelte van de budgetcategorie dat overeenstemt met de budgetcategorie waarvan de budgethouder het gebruik heeft stopgezet, wordt ambtshalve prioriteitengroep 1 toegekend.</p>
+<p>...</p>
 
 ## [Afdeling 3 Rangschikking binnen een prioriteitengroep (ing. BVR 8 juni 2018, art. 30, I: 27 augustus 2018)]
 
 ### ART 15/1.
 
-Binnen elke prioriteitengroep worden de vragen naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning chronologisch gerangschikt, rekening houdend met de datum van de aanvraag, vermeld in artikel 5 van het besluit van 27 november 2015.
+Binnen elke prioriteitengroep worden de vragen naar een budget chronologisch gerangschikt, rekening houdend met de prioriteringsdatum, vermeld in artikel 15/3 van het besluit van 27 november 2015.
 
 ### ART 15/2.
 
-Als een herziening wordt gevraagd van een budgetcategorie en de prioriteitengroep die is toegewezen, of van een prioriteitengroep die is toegekend met toepassing van hoofdstuk 2 en 3 van het besluit van 27 november 2015 of met toepassing van artikel 3 tot en met 14 van het besluit van 10 juni 2016, of als herziening wordt gevraagd met toepassing van artikel 27/1, § 2, tweede lid en § 3, eerste lid, van besluit van 10 juni 2016, wordt de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning na herziening binnen elke prioriteitengroep als volgt chronologisch gerangschikt:<br>
-1° als de Vlaamse toeleidingscommissie in het kader van de aanvraag van herziening een hogere prioriteitengroep toekent dan de prioriteitengroep die eerder is toegekend, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep, rekening houdend met de datum van de aanvraag van herziening, die wordt vastgesteld conform artikel 5 van het besluit van 27 november 2015, of rekening houdend met de datum waarop het multidisciplinair team de informatie over de dringendheid, vermeld in artikel 35, § 2, van het besluit van 27 november 2015, bezorgt aan het agentschap, als alleen een herziening van de toegekende prioriteitengroep wordt gevraagd;<br>
-2° als de Vlaamse toeleidingscommissie in het kader van de aanvraag van herziening dezelfde of een lagere prioriteitengroep toekent dan de eerder toegekende prioriteitengroep, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep met dezelfde datum waarmee de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning waarop de aanvraag van herziening betrekking heeft, was gerangschikt.<br>
-<br>
-Als herziening wordt gevraagd van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning budget dat ter beschikking gesteld is, wordt de vraag naar een budget na herziening binnen elke prioriteitengroep chronologisch gerangschikt, rekening houdend met de datum van de aanvraag van herziening, die wordt vastgesteld conform artikel 5 van het besluit van 27 november 2015.
+Als het agentschap naar aanleiding van een aanvraag tot herziening als vermeld in hoofdstuk 7 van het besluit van 27 november 2015, een beslissing neemt over de toekenning van de prioriteitengroep en naar aanleiding van een eerdere vraag al een beslissing heeft genomen over de toekenning van de prioriteitengroep, maar voor die vraag nog geen budget ter beschikking heeft gesteld, wordt de eerdere beslissing van het agentschap opgeheven. De aanvraag tot herziening wordt binnen de toegekende prioriteitengroep als volgt chronologisch gerangschikt:<br>
+1°&nbsp;&nbsp; &nbsp; &nbsp;als in het kader van de aanvraag tot herziening een hogere prioriteitengroep wordt toegekend dan de eerder toegekende prioriteitengroep, gebeurt de rangschikking binnen de toegekende prioriteitengroep op basis van de nieuwe prioriteringsdatum van de herzieningsvraag;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;als in het kader van de aanvraag tot herziening dezelfde of een lagere prioriteitengroep wordt toegekend dan de eerder toegekende prioriteitengroep, gebeurt de rangschikking binnen de toegekende prioriteitengroep op basis van de oude prioriteringsdatum van de vraag waarvan de herziening wordt gevraagd;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;als een herziening wordt gevraagd van een budget dat ter beschikking gesteld is, wordt de vraag naar een budget na herziening binnen elke prioriteitengroep chronologisch gerangschikt op basis van de nieuwe prioriteringsdatum van de herzieningsvraag.
 
 ### ART 15/3.
 
-In dit artikel wordt verstaan onder jeugdhulpverlening: de niet rechtstreeks toegankelijke jeugdhulpverlening die is toegekend met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp of is toegewezen door het agentschap en die bestaat uit een van de volgende vormen van ondersteuning:<br>
+In dit artikel wordt verstaan onder jeugdhulpverlening: de niet rechtstreeks toegankelijke jeugdhulpverlening die is toegekend met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp of die is toegewezen door het agentschap en die bestaat uit een van de volgende vormen van ondersteuning:<br>
 1° de niet rechtstreeks toegankelijke ondersteuning die wordt geboden door een multifunctioneel centrum voor minderjarigen als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-2° de persoonsvolgende middelen als vermeld in het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden;<br>
-3° een persoonlijke-assistentiebudget als vermeld in artikel 19/1 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+2° de ondersteuning die wordt geboden met de inzet van persoonsvolgende middelen als vermeld in het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden;<br>
+3° een persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
-In afwijking van artikel 15/1 wordt de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning van personen met een handicap aan wie jeugdhulpverlening is toegekend met uitzondering van een persoonlijke-assistentiebudget, zonder dat daar gebruik van kon worden gemaakt, binnen elke prioriteitengroep gerangschikt met een datum die drie jaar voorafgaat aan de datum van de aanvraag van het budget, vermeld in artikel 5 van het besluit van 27 november 2015, als aan al de volgende voorwaarden is voldaan:<br>
-1° de persoon met een handicap stond gedurende minstens drie jaar voor de datum van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning onafgebroken op de intersectorale registratielijst, vermeld in artikel 26, § 1, eerste lid, 1°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+In afwijking van artikel 15/1 wordt de vraag naar een budget van personen met een handicap aan wie jeugdhulpverlening is toegekend met uitzondering van een persoonlijke-assistentiebudget, zonder dat daar gebruik van kon worden gemaakt, binnen elke prioriteitengroep gerangschikt met een datum die drie jaar voorafgaat aan de prioriteringsdatum van de vraag, vermeld in artikel 15/3 van het besluit van 27 november 2015, als aan al de volgende voorwaarden is voldaan:<br>
+1° de persoon met een handicap stond gedurende minstens drie jaar voor de datum van de aanvraag van een budget onafgebroken op de intersectorale registratielijst, vermeld in artikel 26, § 1, eerste lid, 1°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 2° het agentschap heeft gedurende de periode, vermeld in punt 1°, geen niet rechtstreeks toegankelijke jeugdhulp voor de persoon met een handicap gefinancierd.<br>
 <br>
-Als de jeugdhulpverlening die was toegekend zonder dat daar gebruik van kon worden gemaakt, bestond uit een persoonlijke-assistentiebudget, wordt de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning van de personen met een handicap die voldoen aan de voorwaarden vermeld in het tweede lid, in afwijking van artikel 15/1, binnen elke prioriteitengroep gerangschikt met de datum van de aanvraag van het persoonlijke-assistentiebudget, met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp decreet, of met de datum waarop het agentschap de aanvraag van een persoonlijke-assistentiebudget, vermeld in artikel 3 van het besluit van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, zoals van kracht vóór de inwerkingtreding van het besluit van 27 november 2015, heeft ontvangen.
+Als de jeugdhulpverlening die was toegekend zonder dat daar gebruik van kon worden gemaakt, bestond uit een persoonlijke-assistentiebudget, wordt de vraag naar een budget van de personen met een handicap die voldoen aan de voorwaarden vermeld in het tweede lid, in afwijking van artikel 15/1, binnen elke prioriteitengroep gerangschikt met de datum van de aanvraag van het persoonlijke-assistentiebudget, met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp decreet, of met de datum waarop het agentschap de aanvraag van een persoonlijke-assistentiebudget, vermeld in artikel 3 van het besluit van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, zoals van kracht vóór de inwerkingtreding van het besluit van 27 november 2015, heeft ontvangen.
 
 ### ART 15/4.
 
-De vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning wordt in het geval, vermeld in artikel 15, binnen prioriteitengroep 1 gerangschikt met de datum waarop het verzoek om terbeschikkingstelling van het toegewezen budget, vermeld in artikel 15, tweede lid, is bezorgd aan het agentschap.
+...
 
 ### ART 15/5.
 
-In dit artikel wordt verstaan onder:<br>
-1° FAM: een flexibel aanbodcentrum als vermeld in artikel 2 het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van flexibele aanbodcentra voor meerderjarige personen met een handicap zoals van toepassing op 31 december 2016;<br>
-2° thuisbegeleidingsdienst: een thuisbegeleidingsdienst als vermeld in artikel 2 van het besluit van de Vlaamse regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap zoals van toepassing op 31 december 2016.<br>
-<br>
-De personen met een handicap die op 31 december 2016 gebruikmaakten van de ondersteuning van een FAM of een thuisbegeleidingsdienst, en die niet moeten worden beschouwd als personen die gebruikmaken van rechtstreeks toegankelijke hulp, conform artikel 17, tweede lid, of artikel 18, eerste lid, van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke- assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, maar aan wie als gevolg van de sectorale afspraken over de operationalisering van de transitie van de meerderjarige gebruikers van zorg en ondersteuning naar persoonsvolgende financiering als vermeld in hoofdstuk 3 van het voormelde besluit, geen aantal zorggebonden punten als vermeld in artikel 23, eerste lid, van het voormelde besluit, wordt toegekend, worden ambtshalve in prioriteitengroep 1 geplaatst met als datum 1 juli 2017 en met een aantal zorggebonden punten dat door het agentschap wordt berekend conform artikel 17, eerste en tweede lid, van het voormelde besluit, op basis van de resultaten van de vertaling door de FAM of de thuisbegeleidingsdienst van de geboden ondersteuning conform de sjablonen en de richtlijnen, vermeld in artikel 14, vijfde lid, van het voormelde besluit, en op basis van de inschatting van de zorgzwaarte die door de FAM of de thuisbegeleidingsdienst is gemaakt conform de sjablonen en de richtlijnen, vermeld in artikel 15, derde lid, van het voormelde besluit.<br>
-<br>
-De personen met een handicap, vermeld in het tweede lid, kunnen tot op het moment van de terbeschikkingstelling van het budget, vermeld in het tweede lid, bij de zorgaanbieder die vergund is door het agentschap en die hen op 31 december 2016 ondersteuning bood ten laste van die zorgaanbieder, aanspraak blijven maken op dezelfde ondersteuning.
+...
 
 ### ART 15/7.
 
-Binnen elke prioriteitengroep komen de personen met een handicap met de vroegste data het eerst in aanmerking voor de terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning.
+Binnen elke prioriteitengroep komen de personen met een handicap met de vroegste data het eerst in aanmerking voor de terbeschikkingstelling van een budget.
 
 ## Hoofdstuk 3 [... (opgeh. BVR 27 januari 2023, art. 16, I: 1 februari 2023)]
 
@@ -335,17 +324,11 @@ In   artikel 56, eerste lid, van hetzelfde besluit worden de woorden "met   uitz
 
 ### ART 52/1.
 
-Als een persoon met een handicap aan wie een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning werd toegewezen met toepassing van artikel 3 tot en met 14 van het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering, een herziening van de toegekende prioriteitengroep vraagt en bovengebruikelijke zorg in de huidige situatie inroept, moet een gemotiveerde inschatting van het multidisciplinair team van de parameter begeleidingsintensiteit die de nood aan ondersteuning door personen overdag uitdrukt en van de parameter permanentie die de nood aan aanwezigheid van en toezicht door personen overdag uitdrukt bij de aanvraag worden gevoegd.<br>
-<br>
-In afwijking van artikel 12, § 2, beoordeelt de regionale prioriteitencommissie de bovengebruikelijke zorg in de huidige situatie door de budgetcategorie die werd toegewezen te vergelijken met de budgetcategorie die overeenstemt met de gemotiveerde inschatting van het multidisciplinair team van de parameters begeleidingsintensiteit en permanentie.<br>
-<br>
-Als de budgetcategorie die is toegewezen twee budgetcategorieën lager is dan de budgetcategorie die overeenstemt met de met de gemotiveerde inschatting van het multidisciplinair team van de parameters begeleidingsintensiteit en permanentie, is er sprake van bovengebruikelijke zorg in de huidige situatie.
+...
 
 ### ART 52/2.
 
-In afwijking van artikel 13, § 2, tweede lid worden de vragen naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning in het jaar 2017, op het niveau van de provincies chronologisch gerangschikt binnen elke prioriteitengroep.<br>
-<br>
-Voor de toepassing van het eerste lid worden de vragen naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning van de personen met een handicap die gedomicilieerd zijn in het tweetalig gebied Brussel-Hoofdstad conform het tweede lid gerangschikt in de prioriteitengroepen voor de provincie Vlaams-Brabant.
+...
 
 ### ART. 53.
 
