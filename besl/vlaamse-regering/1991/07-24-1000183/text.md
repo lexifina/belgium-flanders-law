@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Dit hoofdstuk is van toepassing op de indiening en afhandeling van een aanvraag van ondersteuning met uitzondering van de ondersteuning die valt onder het toepassingsgebied van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en op een aanvraag van herziening.
+Dit hoofdstuk is van toepassing op de indiening en afhandeling van een aanvraag van ondersteuning&nbsp;en op een aanvraag van herziening, met uitzondering van de ondersteuning die valt onder het toepassingsgebied van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
 
 ## [AFDELING 1 bis (verv. BVR 27 november 2015, art. 38] [HET INDIENEN VAN DE AANVRAAG TOT ONDERSTEUNING OF VAN DE AANVRAAG TOT HERZIENING (verv. BVR 20 juli 2012, art. 2)]
 
@@ -14,13 +14,13 @@ Dit hoofdstuk is van toepassing op de indiening en afhandeling van een aanvraag 
 
 § 1. Personen met een handicap die voldoen aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of hun wettelijke vertegenwoordiger kunnen bij het Vlaams Agentschap voor Personen met een Handicap, hierna agentschap te noemen, een aanvraag tot ondersteuning , evenals een aanvraag tot herziening van een beslissing indienen.<br>
 <br>
-Als de persoon met een handicap rechtelijk beschermd is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, kan de aanvraag van ondersteuning, alsook de aanvraag van herziening, worden ingediend door de bewindvoerder als de persoon volledig onbekwaam is verklaard, zowel wat betreft de persoon als wat betreft de goederen, en als de bewindvoerder vertegenwoordigingsbevoegdheid heeft gekregen, en in de andere gevallen door de persoon met een handicap samen met de bewindvoerder.<br>
+Als de persoon met een handicap rechtelijk beschermd is met toepassing van boek I, titel XI, hoofdstuk II, afdeling 3, van het oud Burgerlijk Wetboek, kan de aanvraag van ondersteuning, alsook de aanvraag van herziening, worden ingediend door de bewindvoerder als de persoon volledig onbekwaam is verklaard, zowel wat betreft de persoon als wat betreft de goederen, en als de bewindvoerder vertegenwoordigingsbevoegdheid heeft gekregen, en in de andere gevallen door de persoon met een handicap samen met de bewindvoerder.<br>
 <br>
-§ 2. De aanvraag tot ondersteuning evenals de aanvraag tot herziening van een beslissing wordt ingediend bij het provinciaal kantoor van het agentschap, dat bevoegd is uit hoofde van de woonplaats van de persoon met een handicap.<br>
+§ 2. ...<br>
 <br>
-§ 3. Voor de aanvragers die in Brussel-Hoofdstad wonen, wordt de aanvraag ingediend bij het provinciaal kantoor Leuven van het agentschap.<br>
+§ 3. ...<br>
 <br>
-§ 4. De aanvragen tot bijstand in Wallonië, ingediend krachtens het samenwerkingsakkoord van 20 oktober 1998 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap, worden ingediend bij het provinciaal kantoor Leuven van het agentschap.<br>
+§ 4. ...<br>
 <br>
 § 5. ...
 
@@ -29,15 +29,15 @@ Als de persoon met een handicap rechtelijk beschermd is met toepassing van de we
 § 1. De aanvraag, vermeld in artikel 1, wordt ingediend op een formulier waarvan het model vastgesteld is door het agentschap. Het formulier wordt aan het agentschap bezorgd met de post of elektronisch op de wijze die het agentschap bepaalt. Als het formulier met de post wordt bezorgd, is het ondertekend door de persoon met een handicap of door zijn wettelijke vertegenwoordiger.<br>
 <br>
 § 2. De aanvraag vermeldt:<br>
-1° de naam, voornamen, geboorteplaats en -datum, adres, nationaliteit en desgevallend het identificatienummer bij het Rijksregister van natuurlijke personen van de persoon met een handicap voor wie de aanvraag tot ondersteuning wordt ingediend;<br>
+1° de naam, voornamen, geboorteplaats en -datum, adres, nationaliteit en desgevallend het identificatienummer bij het Rijksregister van natuurlijke personen van de persoon met een handicap;<br>
 2° desgevallend de naam, voornamen, hoedanigheid, adres en identificatienummer bij het Rijksregister van natuurlijke personen van de wettelijke vertegenwoordiger van de persoon met een handicap;<br>
-3° dat de persoon met een handicap of, in voorkomend geval, de wettelijke vertegenwoordiger werkelijk in België verblijft en dat de persoon met een handicap of de wettelijke vertegenwoordiger, als het een niet-ontvoogde minderjarige, een verlengd minderjarige of een onbekwaam verklaarde betreft gedurende een ononderbroken termijn van vijf jaar of gedurende een niet-aaneengesloten termijn van tien jaar in België verblijft;<br>
-4° dat de persoon met een handicap geen aanspraak maakt op ondersteuning geheel of gedeeltelijk verstrekt op kosten van de Franse of Duitstalige Gemeenschap.<br>
+3° ...;<br>
+4° ...<br>
 <br>
 De aanvraag omvat eveneens een multidisciplinair verslag dat is opgemaakt door een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren en dat de elementen bevat, vermeld in artikel 24, §1, 1°.<br>
 <br>
 § 2bis. Als de persoon met een handicap zich in een van de volgende situaties bevindt en de toepassing vraagt van artikel 6 bis, is de aanvraag vergezeld van:<br>
-1° voor de personen met een handicap die krachtens artikel 47 van de algemene kinderbijslagwet van 19 december 1939 &nbsp;recht geven op bijkomende kinderbijslag of krachtens artikel 16 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, recht geven op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte en minstens achttien punten behalen als eindresultaat van de vaststelling van de gevolgen van de aandoening overeenkomstig artikel 6 van het koninklijk besluit van 28 maart 2003 tot uitvoering van artikelen 47, 56septies en 63, van de : een attest van de uitbetaler van het groeipakket waaruit blijkt dat het eindresultaat van de vaststelling van de gevolgen van de aandoening voor de persoon met een handicap conform artikel 6 van het koninklijk besluit van 28 maart 2003 minstens achttien punten bedraagt;<br>
+1° voor de personen met een handicap die krachtens artikel 47 van de algemene kinderbijslagwet van 19 december 1939 &nbsp;recht geven op bijkomende kinderbijslag of krachtens artikel 16 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, recht geven op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte en minstens achttien punten behalen als eindresultaat van de vaststelling van de gevolgen van de aandoening overeenkomstig artikel 6 van het koninklijk besluit van 28 maart 2003 tot uitvoering van artikelen 47, 56septies en 63, van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet van 24 december 2002: een attest van de uitbetaler van het groeipakket waaruit blijkt dat het eindresultaat van de vaststelling van de gevolgen van de aandoening voor de persoon met een handicap conform artikel 6 van het koninklijk besluit van 28 maart 2003 minstens achttien punten bedraagt;<br>
 2° voor de personen met een handicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming, en van wie de graad van zelfredzaamheid voor onbepaalde duur op tenminste 12 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming: een attest of kopie van de beslissing van de dienst voor Tegemoetkomingen aan Gehandicapten, waaruit blijkt dat de graad van zelfredzaamheid van de persoon met een handicap voor onbepaalde duur op ten minste 12 punten werd vastgesteld;<br>
 3° voor de personen met een handicap tot en met de leeftijd van 25 jaar die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 volgen of gevolgd hebben: een bewijs van toegang tot het buitengewoon onderwijs opleidingsvorm 1 of 2.<br>
 <br>
@@ -59,7 +59,7 @@ De administratie van het provinciaal kantoor van het agentschap behandelt het aa
 
 ### ART. 5.
 
-Wanneer het aanvraagdossier volledig is, legt de administratie van deprovinciaal kantoor van het agentschap het voor aan de Vlaamse toeleidingscommissie.
+Wanneer het aanvraagdossier volledig is, legt de administratie van het provinciaal kantoor van het agentschap het voor aan de Vlaamse toeleidingscommissie.
 
 ### ART. 5bis
 
@@ -69,9 +69,9 @@ De Vlaamse toeleidingscommissie steunt haar beoordeling op het multidisciplinair
 <br>
 Als een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning wordt gevraagd, kent de Vlaamse toeleidingscommissie een prioriteitengroep toe als vermeld in hoofdstuk 2, afdeling 2, van het besluit van de Vlaamse Regering van 4 maart 2016 over de toekenning van prioriteitengroepen. De Vlaamse toeleidingscommissie baseert zich daarbij op de informatie over de dringendheid van de vraag die wordt aangeleverd door de instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
 <br>
-De Vlaamse toeleidingscommissie kan de persoon met een handicap horen.<br>
+De Vlaamse toeleidingscommissie kan de aanvrager horen.<br>
 <br>
-De Vlaamse toeleidingscommissie bezorgt haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap binnen twee maanden te rekenen vanaf de datum waarop de administratie van het provinciaal kantoor van het agentschap heeft vastgesteld dat de aanvraag volledig is.
+De Vlaamse toeleidingscommissie bezorgt haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap binnen drie maanden te rekenen vanaf de datum waarop de administratie van het provinciaal kantoor van het agentschap heeft vastgesteld dat de aanvraag volledig is.
 
 ### ART. 6.
 
@@ -103,7 +103,7 @@ Als de aanvraag vergezeld wordt van een van de documenten, vermeld in artikel 2,
 
 ...
 
-## AFDELING 4 [TOEWIJZING (verv. BVR 20 juli 2012, art. 12)]
+## AFDELING 4 BESLISSING
 
 ### ART. 10.
 
@@ -111,23 +111,17 @@ Het agentschap beslist over de toewijzing op grond van de door de Vlaamse toelei
 
 ### ART. 10bis
 
-§1. Het agentschap bezorgt een gemotiveerd voornemen van beslissing over de toewijzing aan de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen dertig dagen nadat de Vlaamse toeleidingscommissie haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap heeft bezorgd. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, kan het agentschap onmiddellijk een beslissing over de toewijzing meedelen aan de persoon met een handicap of zijn wettelijke vertegenwoordiger.<br>
+§1. Het agentschap bezorgt een gemotiveerd voornemen van beslissing aan de aanvrager binnen dertig dagen nadat de Vlaamse toeleidingscommissie haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap heeft bezorgd. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, kan het agentschap onmiddellijk een beslissing meedelen aan de aanvrager.<br>
 <br>
-De beoordeling van de Vlaamse toeleidingscommissie van de handicap wordt opgenomen in het voornemen van beslissing of in de beslissing tot toewijzing.<br>
+De beoordeling van de Vlaamse toeleidingscommissie van de handicap wordt opgenomen in het voornemen van beslissing of in de beslissing.<br>
 <br>
-§2. Binnen vijfenveertig dagen te rekenen vanaf de dag waarop het agentschap het voornemen van beslissing heeft verzonden, kan de persoon met een handicap of zijn wettelijke vertegenwoordiger met een gemotiveerd verzoekschrift aan het agentschap vragen om zijn voornemen in heroverweging te nemen. In dat verzoekschrift kan de persoon met een handicap of zijn wettelijke vertegenwoordiger vragen om door de adviescommissie, vermeld in artikel 29, gehoord te worden. De persoon met een handicap of zijn wettelijke vertegenwoordiger bezorgt het gemotiveerde verzoekschrift aan het agentschap met de post of elektronisch op de wijze die het agentschap bepaalt. Als het verzoekschrift met de post bezorgd wordt, ondertekent de persoon met een handicap of zijn wettelijke vertegenwoordiger dat verzoekschrift en wordt het aangetekend verstuurd.<br>
+§2. Binnen vijfenveertig dagen vanaf de dag waarop het agentschap het voornemen van beslissing heeft verzonden, kan de aanvrager met een gemotiveerd verzoekschrift aan het agentschap vragen om zijn voornemen in heroverweging te nemen.&nbsp;<br>
 <br>
-Als de persoon met een handicap of zijn wettelijke vertegenwoordiger overmacht aantoont of omstandigheden buiten zijn wil, begint de termijn, vermeld in het eerste lid, pas te lopen op het ogenblik dat de persoon met een handicap of zijn wettelijke vertegenwoordiger effectief kennis heeft kunnen nemen van het voornemen van het agentschap.<br>
+Als de aanvrager binnen die termijn van vijfenveertig dagen geen verzoekschrift aan het agentschap heeft gericht, wordt die geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en verzendt het agentschap de beslissing onmiddellijk naar de aanvrager, behalve in geval van overmacht.<br>
 <br>
-Als de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in het eerste lid, geen verzoekschrift aan het agentschap heeft gericht, wordt hij geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en bezorgt het agentschap de beslissing tot toewijzing.<br>
+§3. ...<br>
 <br>
-§3. Als de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in § 2, tweede lid, aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk aan de adviescommissie voor advies. Als de persoon met een handicap of zijn wettelijke vertegenwoordiger dat in het verzoekschrift heeft gevraagd, wordt hij door de adviescommissie gehoord binnen zestig dagen na de ontvangst van het dossier.<br>
-<br>
-De persoon met een handicap of zijn wettelijke vertegenwoordiger kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling van zijn keuze.<br>
-<br>
-§4. Binnen dertig dagen na de dag waarop de persoon met een handicap of zijn vertegenwoordiger door de adviescommissie werd gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de persoon met een handicap al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br>
-<br>
-Binnen dertig dagen na de ontvangst van het advies van de adviescommissie betekent het agentschap zijn gemotiveerde beslissing en het advies van de adviescommissie aan de persoon met een handicap of zijn wettelijke vertegenwoordiger.
+§4. ...
 
 ### ART. 11.
 
@@ -137,7 +131,7 @@ Binnen dertig dagen na de ontvangst van het advies van de adviescommissie beteke
 
 ### ART. 11bis.
 
-Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap noodzakelijk blijkt, en betrokkene zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, leidt het agentschap bij de Vlaamse toeleidingscommissie de aanvraag tot herziening in.<br>
+Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap noodzakelijk blijkt, en de aanvrager zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, kan het agentschap het initiatief nemen tot een herziening van de beoordeling van de handicap.<br>
 <br>
 Deze aanvraag wordt geformuleerd bij gewone brief ondertekend door de administrateur- generaal van het agentschap of een daartoe door hem gemachtigd ambtenaar, met de vermeldingen bedoeld in artikel 2, § 3, en de motieven en argumenten die het agentschap ertoe aanzetten de herziening aan te vragen.<br>
 <br>
@@ -149,7 +143,7 @@ De behandeling van de aanvraag geschiedt overeenkomstig de bepalingen van de art
 
 §1. Er wordt een Vlaamse toeleidingscommissie opgericht, die de volgende opdrachten heeft:<br>
 1° beoordelen of de persoon die ondersteuning vraagt of voor wie ondersteuning wordt gevraagd, getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-2° beslissen over de toekenning van een prioriteitengroep conform artikel 8 tot en met artikel 13 van het besluit van de Vlaamse Regering van 4 maart 2016 over de regionale prioriteitencommissie, de toekenning van prioriteitengroepen, en de rangschikking binnen prioriteitengroepen.<br>
+2° beslissen over de toekenning van een prioriteitengroep conform artikel 8 tot en met artikel 13 van het besluit van de Vlaamse Regering van 4 maart 2016 de toekenning van prioriteitengroepen en de rangschikking binnen prioriteitengroepen.<br>
 <br>
 §2. De Vlaamse toeleidingscommissie is samengesteld uit:<br>
 1° professionele deskundigen;<br>
@@ -206,7 +200,7 @@ De leidend ambtenaar van het agentschap stelt het huishoudelijk reglement van de
 
 ### ART. 16.
 
-De persoon met een handicap of zijn wettelijke vertegenwoordiger kunnen vragen om door de Vlaamse toeleidingscommissie te worden gehoord.
+De aanvrager kan vragen om door de Vlaamse toeleidingscommissie te worden gehoord.
 
 ### ART. 17.
 
@@ -339,13 +333,13 @@ Een beslissing tot schorsing kan worden uitgesproken voor een termijn van ten ho
 
 ### ART. 28.
 
-§1. Het agentschap betaalt aan de multidisciplinaire teams een bedrag van 314 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, a), te bezorgen, tenzij de informatie conform artikel 24, §1, tweede lid, niet bezorgd hoeft te worden.<br>
+§1. Het agentschap betaalt aan de multidisciplinaire teams een bedrag van 343 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, a), te bezorgen, tenzij de informatie conform artikel 24, §1, tweede lid, niet bezorgd hoeft te worden.<br>
 <br>
-§2. Het agentschap betaalt aan de multidisciplinaire teams een bedrag van 400 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, b), te bezorgen.<br>
+§2. Het agentschap betaalt aan de multidisciplinaire teams een bedrag van 276 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, b), te bezorgen.<br>
 <br>
-§3. In geval van een aanvraag naar een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 8 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, betaalt het agentschap een bedrag van 273 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, c), te bezorgen.<br>
+§3. In geval van een aanvraag naar een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 8 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, betaalt het agentschap een bedrag van 420 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, c), te bezorgen.<br>
 <br>
-§4. In geval van een aanvraag van individuele materiële bijstand als vermeld in artikel 2, 3°, van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap betaalt het agentschap een bedrag van 362 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, d), te bezorgen.<br>
+§4. In geval van een aanvraag van individuele materiële bijstand als vermeld in artikel 2, 3°, van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap betaalt het agentschap een bedrag van 386 euro als vergoeding voor personeelskosten en een bedrag van 25 euro als vergoeding voor werkingsmiddelen om de informatie, vermeld in artikel 24, §1, eerste lid, 1°, d), te bezorgen.<br>
 <br>
 §4bis. Het agentschap betaalt aan de multidisciplinaire teams, vermeld in artikel 22, een vergoeding van 50 euro voor de afname van de storend gedragsschaal, vermeld in artikel 4 van het ministerieel besluit van 26 november 2018 tot uitvoering van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, voor de vaststelling van ernstige gedragsstoornissen in het kader van de bepaling van een zorggroep als vermeld in bijlage 2 bij besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, als het agentschap voor de persoon in kwestie met een handicap geen resultaten heeft van een afname van het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
 <br>
@@ -353,17 +347,17 @@ Een beslissing tot schorsing kan worden uitgesproken voor een termijn van ten ho
 <br>
 De geïndexeerde bedragen worden afgerond tot op de euro.<br>
 <br>
-§5/1. Het agentschap betaalt de vergoedingen, vermeld in paragraaf 1, paragraaf 2, eerste lid, 1° en 2°, en paragraaf 3 en 4, op voorwaarde dat het multidisciplinair team voldoet aan de minimale kwaliteitseisen voor het verslag, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°.<br>
+§5/1. Het agentschap betaalt de vergoedingen, vermeld in paragraaf 1, paragraaf 2, paragraaf 3 en 4, op voorwaarde dat het multidisciplinair team voldoet aan de minimale kwaliteitseisen voor het verslag, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°.<br>
 <br>
-§6. Voor elk verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, eerste lid, dat bij het agentschap wordt ingediend, vult het agentschap een scoreblad in. Als het verslag niet beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, vraagt het agentschap bijkomende informatie op.<br>
+§6. Voor elk verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, dat bij het agentschap wordt ingediend, vult het agentschap een scoreblad in. Als het verslag niet beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, vraagt het agentschap bijkomende informatie op.<br>
 <br>
-Het agentschap rapporteert iedere twaalf maanden, per multidisciplinair team en per verslag voor de prestaties , vermeld in paragraaf 1, 3 en 4, eerste lid, het percentage van die verslagen dat beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, zonder dat er bijkomende informatie door het agentschap is opgevraagd.<br>
+Het agentschap rapporteert iedere twaalf maanden, per multidisciplinair team en per verslag voor de prestaties , vermeld in paragraaf 1, 3 en 4, het percentage van die verslagen dat beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, zonder dat er bijkomende informatie door het agentschap is opgevraagd.<br>
 <br>
-De multidisciplinaire teams waarbij per verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, eerste lid, na de rapportering, vermeld in het tweede lid, minder dan 85% van die verslagen beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, volgen in het daaropvolgende jaar een remediëringstraject voor het verslag in kwestie. Het agentschap bepaalt de voorwaarden en modaliteiten van het remediëringstraject.<br>
+De multidisciplinaire teams waarbij per verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, na de rapportering, vermeld in het tweede lid, minder dan 85% van die verslagen beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, volgen in het daaropvolgende jaar een remediëringstraject voor het verslag in kwestie. Het agentschap bepaalt de voorwaarden en modaliteiten van het remediëringstraject.<br>
 <br>
-De multidisciplinaire teams waarbij twee opeenvolgende periodes als vermeld in het tweede lid, minder dan 85% van de verslagen voor de prestaties, vermeld in paragraaf 1, 3 en 4, eerste lid, beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, ontvangen vanaf de tweede negatieve rapportering 75% van de vastgelegde vergoeding, vermeld in paragraaf 1, 3 en 4, eerste lid voor het verslag in kwestie dat niet voldoet aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°. Zodra het multidisciplinaire team een score van 85% of meer behaalt op de rapportering, vermeld in het tweede lid, ontvangt het opnieuw het volledige bedrag van de vastgelegde vergoeding, vermeld in paragraaf 1, 3 en 4, eerste lid.<br>
+De multidisciplinaire teams waarbij twee opeenvolgende periodes als vermeld in het tweede lid, minder dan 85% van de verslagen voor de prestaties, vermeld in paragraaf 1, 3 en 4, beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, ontvangen vanaf de tweede negatieve rapportering 75% van de vastgelegde vergoeding, vermeld in paragraaf 1, 3 en 4, voor het verslag in kwestie dat niet voldoet aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°. Zodra het multidisciplinaire team een score van 85% of meer behaalt op de rapportering, vermeld in het tweede lid, ontvangt het opnieuw het volledige bedrag van de vastgelegde vergoeding, vermeld in paragraaf 1, 3 en 4.<br>
 <br>
-Een multidisciplinair team kan over een periode van tien jaar maximaal twee remediëringstrajecten volgen als vermeld in het derde lid. In afwijking van het derde lid ontvangt een multidisciplinair team, dat al twee remediëringstrajecten doorlopen heeft en waarbij per verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, eerste lid, na de rapportering, vermeld in het tweede lid, minder dan 85% van de verslagen beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, 75% van de vastgelegde vergoeding, vermeld in paragraaf 1, paragraaf 2, 3 en 4, eerste lid, voor het verslag in kwestie dat niet voldoet aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°.<br>
+Een multidisciplinair team kan over een periode van tien jaar maximaal twee remediëringstrajecten volgen als vermeld in het derde lid. In afwijking van het derde lid ontvangt een multidisciplinair team, dat al twee remediëringstrajecten doorlopen heeft en waarbij per verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, na de rapportering, vermeld in het tweede lid, minder dan 85% van de verslagen beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, 75% van de vastgelegde vergoeding, vermeld in paragraaf 1, paragraaf 2, 3 en 4, voor het verslag in kwestie dat niet voldoet aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°.<br>
 &nbsp; &nbsp; &nbsp;<br>
 De bedragen, vermeld in paragraaf 1, 2, 3 en 4, en de daaraan gekoppelde kostenstructuur worden geëvalueerd ten laatste op 31 december 2025. Daarbij is bijzondere aandacht voor het ontwikkelen van een instrument ter vergoeding van de trajecten die met cliënten doorlopen worden, maar die niet tot een verslag leiden. De maatregelen inzake kwaliteitsbewaking, vermeld in paragraaf 6, worden geëvalueerd ten laatste op 1 april 2027.<br>
 <br>
@@ -391,7 +385,7 @@ De bedragen, vermeld in paragraaf 1, 2, 3 en 4, en de daaraan gekoppelde kostens
 
 ### ART. 29.
 
-Bij het agentschap wordt een adviescommissie opgericht die tot taak heeft advies te verlenen over de verzoeken tot heroverweging, vermeld in artikel 10bis, § 3, en over de verzoeken tot heroverweging van het voornemen van beslissingen van het agentschap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
+Bij het agentschap wordt een adviescommissie opgericht die tot taak heeft advies te verlenen over de verzoeken tot heroverweging van het voornemen van beslissingen van het agentschap.<br>
 <br>
 Het agentschap maakt jaarlijks een verslag van de werking van de adviescommissie met specifieke aandacht voor de adviezen die verschillen van de beoordeling van de Vlaamse toeleidingscommissie, vermeld in artikel 12.
 
@@ -437,7 +431,13 @@ De voorzitters, de leden en hun plaatsvervangers worden door de Vlaamse minister
 
 ### ART. 35.
 
-De presentiegelden, vergoedingen en werkingskosten van de adviescommissie zijn ten laste van het agentschap.
+In dit artikel wordt verstaan onder het besluit van 27 januari 1988: het besluit van de Vlaamse regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse regering behoren.<br>
+<br>
+De voorzitters en de leden van de adviescommissie ontvangen presentiegelden en vergoedingen voor reis- en verblijfkosten, die de maxima voor de instellingen van categorie III, vermeld in artikel 6, 9 en 10 van het besluit van 27 januari 1988, bedragen.<br>
+<br>
+De voorzitters van de adviescommissie of hun plaatsvervangers ontvangen, bovenop de presentiegelden en vergoedingen, vermeld in het tweede lid, een vergoeding voor reiskosten als vermeld in artikel 11 van het besluit van 27 januari 1988, als ze zich buiten de zittingen naar het agentschap verplaatsen om de voorgelegde dossiers te behandelen of te consulteren.<br>
+<br>
+De presentiegelden, de vergoedingen en de werkingskosten van de adviescommissie zijn ten laste van het agentschap.
 
 ### ART. 36.
 
@@ -445,9 +445,17 @@ De leidend ambtenaar van het agentschap stelt het huishoudelijk reglement van de
 
 ## AFDELING 2 PROCEDURE
 
+### ART 36/1.
+
+Binnen vijfenveertig dagen vanaf de dag waarop het agentschap het voornemen van beslissing, vermeld in artikel 10bis, §1, heeft verzonden, kan de aanvrager met een gemotiveerd verzoekschrift aan het agentschap vragen om zijn voornemen in heroverweging te nemen. De aanvrager bezorgt het gemotiveerde verzoekschrift aan het agentschap met de post of elektronisch op de wijze die het agentschap bepaalt. Als het verzoekschrift met de post bezorgd wordt, ondertekent de aanvrager het verzoekschrift.<br>
+<br>
+Als de aanvrager binnen de termijn van vijfenveertig dagen aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk naar de adviescommissie. Als de aanvrager daarom vraagt, wordt die door de adviescommissie gehoord binnen zestig dagen nadat de adviescommissie het dossier heeft ontvangen.&nbsp;<br>
+<br>
+De aanvrager kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling naar keuze.
+
 ### ART. 37.
 
-Elke kamer van de adviescommissie kan alle inlichtingen en adviezen inwinnen die haar dienstig lijken. De eventuele kosten hiervan zijn ten laste van het agentschap.
+Elke kamer van de adviescommissie kan alle inlichtingen en adviezen inwinnen die haar dienstig lijken.
 
 ### ART. 38.
 
@@ -459,9 +467,9 @@ Elk advies van een kamer van de adviescommissie wordt genomen bij meerderheid va
 
 ### ART 39bis.
 
-Als de aanvrager, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, bij het agentschap heroverweging vraagt van een voornemen van beslissing van het agentschap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, dan kan de adviescommissie voor de toegewezen budgetcategorie alleen nagaan of de nood aan ondersteuning, vermeld in artikel 12, tweede lid, 2°, van het voormelde besluit, werd geobjectiveerd conform de regels voor objectivering, vermeld in artikel 13, derde lid, van het voormelde besluit, en in voorkomend geval alleen adviseren om de nood aan ondersteuning opnieuw te laten objectiveren door een multidisciplinair team dat door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
+Binnen dertig dagen na de dag waarop de aanvrager door de adviescommissie is gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de aanvrager al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br>
 <br>
-Als de adviescommissie heeft geadviseerd om de nood aan ondersteuning opnieuw te laten objectiveren, neemt het agentschap een beslissing tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het voormelde decreet op basis van de nieuwe objectivering van de nood aan ondersteuning.
+Binnen dertig dagen nadat het agentschap het advies, vermeld in het eerste lid, heeft ontvangen deelt het agentschap zijn beslissing en het advies van de adviescommissie mee aan de aanvrager.
 
 ### ART. 40.
 
