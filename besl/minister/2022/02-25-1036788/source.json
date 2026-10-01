@@ -2,16 +2,16 @@
   "codex_id": 1036788,
   "title": "Ministerieel besluit van 2022-02-25 over de vaststelling van de lijst van incubatoren en acceleratoren die in aanmerking komen voor een samenwerking als bedoeld in artikel 9 van het besluit van de Vlaamse Regering van 17 december 2021 ter uitvoering van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036788/VolledigDocument?datum=2022-03-01",
-  "source_sha256": "3428841dde3c078664e7366fb68c2f714ad8a5db4cb267d4ed4d30ee0466c047",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036788/VolledigDocument?datum=2026-10-01",
+  "source_sha256": "793d02f2e844bb7a142c4dcb2b646b573cc45745dd8e43fc689844ca7ef740b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036788&param=informatie",
-  "as_of": "2022-03-01",
+  "as_of": "2026-10-01",
   "made": "2022-02-25",
   "gazette": "2022-03-30",
   "numac": 2022040421,
   "document_start": "2022-03-01",
   "document_end": "2026-09-30",
-  "in_force": "2022-03-01",
+  "in_force": "2026-10-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-10-01; future article versions excluded; article text as the API gives it"
 }
