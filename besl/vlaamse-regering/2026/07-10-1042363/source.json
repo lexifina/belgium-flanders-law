@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042363,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot wijziging van de regelgeving over de ondersteuning van personen met een handicap, wat betreft de toeleidingsprocedure naar een persoonsvolgend budget",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042363/VolledigDocument?datum=2026-10-01",
+  "source_sha256": "bf09c6d625622ce32b9b5027167fa9204d4c18078a61f7be2d3716d72e5c235e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042363&param=informatie",
+  "as_of": "2026-10-01",
+  "made": "2026-07-10",
+  "gazette": "2026-09-29",
+  "numac": 2026006973,
+  "document_start": "2026-10-01",
+  "document_end": null,
+  "in_force": "2026-10-01",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2026-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
