@@ -197,11 +197,7 @@ De vergunde zorgaanbieders die op 1 november 2019 ondersteuning bieden aan de pe
 
 ### ART 11/2.
 
-Als de personen met een handicap aan wie het agentschap een aantal zorggebonden punten heeft toegewezen conform artikel 7 tot en met artikel 11/1, aanspraak willen maken op meer zorggebonden punten dan het aantal zorggebonden punten, vermeld in de beslissing, vermeld in artikel 11/1, § 1, moeten ze een herziening van de beslissing vragen conform artikel 35, § 1, van het besluit 27 november 2015.<br>
-<br>
-Als de budgetcategorie van het budget dat door het agentschap wordt toegewezen na herziening, groter is dan het aantal zorggebonden punten, vermeld in de beslissing, vermeld in artikel 11/1, § 1, legt het agentschap het dossier voor aan de Vlaamse toeleidingscommissie, vermeld in artikel 23 van het besluit van 27 november 2015, voor het deel van de budgetcategorie dat het aantal zorggebonden punten, vermeld in de beslissing, vermeld in artikel 11, § 1, overschrijdt.<br>
-<br>
-Als de budgetcategorie van het budget dat door het agentschap wordt toegewezen na herziening, lager is dan het aantal zorggebonden punten, vermeld in de beslissing, vermeld in artikel 11/1, § 1, kunnen de betrokkenen nog gedurende drie maanden vanaf de datum, vermeld in de beslissing van het agentschap tot toewijzing na herziening, beschikken over het deel van de zorggebonden punten dat de budgetcategorie van het budget dat door het agentschap wordt toegewezen, overschrijdt.
+Als de personen met een handicap aan wie het agentschap een aantal zorggebonden punten heeft toegewezen conform artikel 7 tot en met artikel 11/1, aanspraak willen maken op meer zorggebonden punten dan het aantal zorggebonden punten, vermeld in de beslissing, vermeld in artikel 11/1, § 1, moeten ze een herziening van de beslissing vragen conform artikel 35, § 1, van het besluit van 27 november 2015.
 
 ### ART 11/3.
 
