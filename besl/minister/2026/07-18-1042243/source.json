@@ -2,16 +2,16 @@
   "codex_id": 1042243,
   "title": "Ministerieel besluit van 2026-07-18 tot wijziging van het ministerieel besluit van 27 februari 2023 tot uitvoering van boek 6 van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de voorwaarden voor de aanwijzing van een persoon ten laste en de actualisering van de inschrijvingsgegevens",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042243/VolledigDocument?datum=2026-08-10",
-  "source_sha256": "af7a4796ebe3d0e55102dc305542aee0620b867353751b1bcfb66005ec430ba6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042243/VolledigDocument?datum=2026-10-01",
+  "source_sha256": "4fd6102401529325dede34e21913b9c728e2ea8729ce7e808c3f4469a55d4f01",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042243&param=informatie",
-  "as_of": "2026-08-10",
+  "as_of": "2026-10-01",
   "made": "2026-07-18",
   "gazette": "2026-07-31",
   "numac": 2026005794,
   "document_start": "2026-08-10",
   "document_end": null,
-  "in_force": "2026-08-10",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2026-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-10-01; future article versions excluded; article text as the API gives it"
 }

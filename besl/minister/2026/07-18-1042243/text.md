@@ -14,6 +14,12 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMS MINISTER VAN WONEN, ENERGIE EN KLIMAAT, TOERISME EN JEUGD BESLUIT:
 
+### ART 1.
+
+In artikel 2, eerste lid, van het ministerieel besluit van 27 februari 2023 tot uitvoering van boek 6 van het Besluit Vlaamse Codex Wonen van 2021 wordt een punt 2°/1 ingevoegd, dat luidt als:<br>
+“2°/1 het is een persoon die de wettelijke pensioenleeftijd heeft bereikt en bij wie een indicatiestelling is uitgevoerd op basis van de BelRAI-screener, vermeld in artikel 1, 5°/0/1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, en die minstens zeven punten scoort;”.<br>
+&nbsp;
+
 ### ART 2.
 
 In artikel 3, §1, eerste lid, van hetzelfde ministerieel besluit wordt de zinsnede “op de verjaardag van de inschrijvingsdatum, vermeld in artikel 6.7, §1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021” opgeheven.&nbsp;
