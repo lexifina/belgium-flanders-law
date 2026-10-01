@@ -1639,7 +1639,14 @@ Tijdens die opzeggingstermijn :<br>
 1° wordt het personeelslid beschouwd als tijdelijk aangesteld in zijn ambt;<br>
 2° geniet het personeelslid het brutoactiviteitssalaris dat verbonden is aan het ambt waarin het vastbenoemd was.<br>
 <br>
-Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.
+Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.<br>
+<br>
+§3. De Vlaamse Regering kan een einde maken aan de tijdelijke aanstelling, vaste benoeming of het mandaat van een personeelslid dat de wettelijke pensioenleeftijd bereikt heeft. De Vlaamse Regering neemt hierbij een opzeggingstermijn in acht, gelijk aan 3 maanden per begonnen schijf van 10 jaar dienstanciënniteit die het personeelslid heeft verworven. De opzegging wordt gemotiveerd.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, kan het personeelslid bij het voltooien van de opzeggingstermijn voortwerken tot het einde van de maand waarin het personeelslid de opzeggingstermijn volbracht heeft.<br>
+<br>
+De opzeggingstermijn, vermeld in het eerste lid, gaat in op de maandag die volgt op de week waarin de Vlaamse Regering, het personeelslid op de hoogte heeft gebracht van het ontslag.<br>
+&nbsp;
 
 ### ART. 150.
 
