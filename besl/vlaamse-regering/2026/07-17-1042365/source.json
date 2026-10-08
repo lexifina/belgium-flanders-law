@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042365,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot vaststelling van de regels voor de subsidieoproep voor Natuur- en waterbeleving 2026",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042365/VolledigDocument?datum=2026-10-08",
+  "source_sha256": "e732cd266710de1b8ce3b0ed11f14c61d3fe0ebe50a9ac9f9562e0cda1b662b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042365&param=informatie",
+  "as_of": "2026-10-08",
+  "made": "2026-07-17",
+  "gazette": "2026-09-28",
+  "numac": 2026006980,
+  "document_start": "2026-10-08",
+  "document_end": null,
+  "in_force": "2026-10-08",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2026-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
