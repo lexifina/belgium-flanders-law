@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042346,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 over investeringssubsidies voor jeugdverblijven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042346/VolledigDocument?datum=2026-10-08",
+  "source_sha256": "18b159f0757236cd6f78f4648f4c37d3c29d073ac11de9d9e89e99da7e1316ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042346&param=informatie",
+  "as_of": "2026-10-08",
+  "made": "2026-07-17",
+  "gazette": "2026-09-28",
+  "numac": 2026006760,
+  "document_start": "2026-10-08",
+  "document_end": null,
+  "in_force": "2026-10-08",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2026-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
