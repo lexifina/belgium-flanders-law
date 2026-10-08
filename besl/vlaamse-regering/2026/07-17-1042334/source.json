@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042334,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot vaststelling van de regels voor de subsidieoproep in 2026 voor investeringen binnen herdenkingstoerisme WO I",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042334/VolledigDocument?datum=2026-10-08",
+  "source_sha256": "18f1a906bbbfdc6bb001090a73c8d40f56901244393b10d462e4b5dc2fc18b16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042334&param=informatie",
+  "as_of": "2026-10-08",
+  "made": "2026-07-17",
+  "gazette": "2026-09-28",
+  "numac": 2026006619,
+  "document_start": "2026-10-08",
+  "document_end": null,
+  "in_force": "2026-10-08",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2026-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
