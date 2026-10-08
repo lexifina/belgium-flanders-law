@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042264,
+  "title": "Ministerieel besluit van 2026-07-20 over de subsidieoproep voor investeringssubsidies voor jeugdverblijven 2026",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042264/VolledigDocument?datum=2026-10-08",
+  "source_sha256": "efa14b53e937ec68a7b1f01100e4e41d8aa571148e567b675416a6dd60d9e819",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042264&param=informatie",
+  "as_of": "2026-10-08",
+  "made": "2026-07-20",
+  "gazette": "2026-09-28",
+  "numac": 2026006109,
+  "document_start": "2026-10-08",
+  "document_end": null,
+  "in_force": "2026-10-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
