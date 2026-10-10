@@ -2,16 +2,16 @@
   "codex_id": 1042370,
   "title": "Besluit van de Vlaamse Regering van 2026-09-04 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de energetische renovatie van sociale huurwoningen, de infrastructuursubsidies en de subsidiëring van woonwagenterreinen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042370/VolledigDocument?datum=2026-09-08",
-  "source_sha256": "8e77e3b1e3a15d898bb9b2f53f33d7e3ad5b700f240d74ccb31e624c40ca5902",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042370/VolledigDocument?datum=2026-10-10",
+  "source_sha256": "a6a0a359e043740b1ca8a0bdd0a647de751cea973559debae8624cfc60605dac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042370&param=informatie",
-  "as_of": "2026-09-08",
+  "as_of": "2026-10-10",
   "made": "2026-09-04",
   "gazette": "2026-09-30",
   "numac": 2026007007,
   "document_start": "2026-10-10",
   "document_end": null,
-  "in_force": "2026-09-08",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2026-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-10-10",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2026-10-10; future article versions excluded; article text as the API gives it"
 }
