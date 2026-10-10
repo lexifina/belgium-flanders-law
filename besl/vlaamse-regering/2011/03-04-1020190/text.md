@@ -13,11 +13,13 @@ In dit besluit wordt verstaan onder :<br>
 a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-d)een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+e) een gebouw dat erkend en beschermd is overeenkomstig de Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld van 16 november 1972;<br>
 2° Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;;<br>
 3° kinderopvanglocatie: een kinderopvanglocatie als vermeld in artikel 2, eerste lid, 3°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 4° ...;<br>
-5° sector van de kinderopvang: de kinderopvanglocaties.<br>
+5° sector van de kinderopvang: de kinderopvanglocaties;<br>
+6° zorggebruiker: de patiënt of cliënt, namelijk de natuurlijke persoon aan wie zorg wordt verstrekt.<br>
 <br>
 Voor de toepassing van dit besluit gelden bovendien de volgende vereisten voor een kinderopvanglocatie om in aanmerking te komen voor een investeringssubsidie:<br>
 1° de aanvrager komt voor de kinderopvanglocatie in kwestie in aanmerking voor een vergunning voor groepsopvang voor minimaal negentien tegelijk aanwezige kinderen, overeenkomstig de regels, vermeld in of ter uitvoering van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
@@ -26,9 +28,7 @@ Voor de toepassing van dit besluit gelden bovendien de volgende vereisten voor e
 <br>
 De vereisten, vermeld in het tweede lid, 2° en 3°, zijn in de volgende gevallen niet van toepassing op de betrokken kinderopvanglocaties:<br>
 1° de kinderopvanglocatie ligt in het tweetalige gebied Brussel-Hoofdstad en de aanvrager beschikt over kinderopvangplaatsen waarvoor hem in het kader van een capaciteitsuitbreiding een bijkomende gesubsidieerde contractueel is toegewezen op basis van een overeenkomst als vermeld in artikel 101bis van de programmawet van 30 december 1988. De aanvrager bezorgt voor de kinderopvanglocatie in kwestie de beslissing tot toewijzing van het contingent gesubsidieerde contractuelen aan het Fonds;<br>
-2° de kinderopvanglocatie ligt in het tweetalige gebied Brussel-Hoofdstad of de grootsteden Antwerpen of Gent en de aanvrager beschikt over kinderopvangplaatsen waarvoor hij een subsidie van het lokaal bestuur ontvangt conform artikel 112/1, § 2, van het Procedurebesluit van 9 mei 2014. De aanvrager bezorgt voor de kinderopvanglocatie in kwestie de beslissing tot toewijzing van de subsidie aan het Fonds.<br>
-<br>
-De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
+2° de kinderopvanglocatie ligt in het tweetalige gebied Brussel-Hoofdstad of de grootsteden Antwerpen of Gent en de aanvrager beschikt over kinderopvangplaatsen waarvoor hij een subsidie van het lokaal bestuur ontvangt conform artikel 112/1, § 2, van het Procedurebesluit van 9 mei 2014. De aanvrager bezorgt voor de kinderopvanglocatie in kwestie de beslissing tot toewijzing van de subsidie aan het Fonds.
 
 ## HOOFDSTUK 2 Bouwtechnische en bouwfysische normen
 
