@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042373,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-25 over de voorwaarden en procedure om een licentie om een televisieomroepnetwerk aan te bieden en de bijbehorende zendvergunningen te verkrijgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042373/VolledigDocument?datum=2026-10-12",
+  "source_sha256": "9aebae24ee6baf558144d99cbbac09b9cd1f6a1fa5b17ac4edc88461f752539b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042373&param=informatie",
+  "as_of": "2026-10-12",
+  "made": "2026-09-25",
+  "gazette": "2026-10-02",
+  "numac": 2026007018,
+  "document_start": "2026-10-12",
+  "document_end": null,
+  "in_force": "2026-10-12",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2026-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
