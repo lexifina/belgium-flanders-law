@@ -13,10 +13,9 @@ Besluit :
 
 ### ART 1.
 
-De frequentiepakketten voor de netwerkradio-omroeporganisaties, vermeld in bijlage 4 van het besluit van de Vlaamse Regering van 21 april 2017 houdende bepaling van het aantal particuliere landelijke, regionale, netwerk- en lokale radio-omroeporganisaties dat kan worden erkend en houdende de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten die ter beschikking worden gesteld van de particuliere landelijke, regionale, netwerk- en lokale radio-omroeporganisaties, worden op de volgende wijze aan het programma-aanbod van de netwerkradio-omroeporganisaties, vermeld in artikel 143/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, gekoppeld:<br>
-1° frequentiepakket 1 wordt gekoppeld aan het programma-aanbod van de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, van het voormelde decreet;<br>
-2° frequentiepakket 2 wordt gekoppeld aan het programma-aanbod van de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 2°, van het voormelde decreet;<br>
-3° frequentiepakketten 3 en 4 worden gekoppeld aan het programma-aanbod van de netwerkradio-omroeporganisaties, vermeld in artikel 143/1, eerste lid, 3°, van het voormelde decreet.
+De frequentiepakketten voor de netwerkradio-omroeporganisaties, vermeld in bijlage 4 van het besluit van de Vlaamse Regering van 29 maart 2019 houdende bepaling van het aantal particuliere landelijke, netwerk- en lokale radio-omroeporganisaties dat kan worden erkend en houdende de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten die ter beschikking worden gesteld van de particuliere landelijke, netwerk- en lokale radio-omroeporganisaties worden op de volgende wijze gekoppeld aan het programma-aanbod van de netwerkradio-omroeporganisaties, vermeld in artikel 143/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie:<br>
+1°&nbsp;&nbsp; &nbsp;frequentiepakket 1 wordt gekoppeld aan het programma-aanbod, vermeld in artikel 143/1, eerste lid, 1°, van het voormelde decreet;<br>
+2°&nbsp;&nbsp; &nbsp;frequentiepakketten 3 en 4 worden gekoppeld aan het programma-aanbod, vermeld in artikel 143/1, eerste lid, 2°, van het voormelde decreet.
 
 ### ART 2.
 
