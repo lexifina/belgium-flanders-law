@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042404,
+  "title": "Besluit van de Vlaamse Regering van 2026-10-01 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2017 houdende de indeling van de frequentiepakketten voor de netwerkradio-omroeporganisaties per type netwerkradio-omroeporganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042404/VolledigDocument?datum=2026-10-13",
+  "source_sha256": "baba03d28e89e56b64e1d041468c7290a1a73bfe8844e440d9225540e2050fbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042404&param=informatie",
+  "as_of": "2026-10-13",
+  "made": "2026-10-01",
+  "gazette": "2026-10-12",
+  "numac": 2026007398,
+  "document_start": "2026-10-13",
+  "document_end": null,
+  "in_force": "2026-10-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
