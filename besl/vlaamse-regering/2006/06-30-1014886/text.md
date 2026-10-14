@@ -86,24 +86,22 @@ Als de algemene kamer vaststelt dat niet conform de zendvergunning wordt uitgezo
 
 § 1.Als de kamer voor onpartijdigheid en bescherming van minderjarigen hetzij ambtshalve, hetzij op verzoek van de Vlaamse Regering beslist over te gaan tot een procedure op tegenspraak, wordt die beslissing met de documenten die erop betrekking hebben naar de betrokkene gestuurd met vermelding van de gronden waarop de procedure steunt.<br /><br />§ 2. Binnen vijftien dagen na ontvangst kan de betrokkene zijn opmerkingen schriftelijk aan de Regulator meedelen, dan wel via elektronische post of enig ander telecommunicatiemiddel dat resulteert in een schriftelijk stuk aan de zijde van de geadresseerde, en waarop een elektronische handtekening is aangebracht die voldoet aan de vereisten van artikel 1322 van het Burgerlijk Wetboek.<br /><br />De betrokkene kan worden opgeroepen om door de kamer te worden gehoord. Indien de betrokkene hiertoe verzoekt, moet hij door de kamer worden gehoord.<br /><br />
 
-## HOOFDSTUK III Procedure inzake erkenningen, vergunningen en kennisgevingen
+## HOOFDSTUK III Procedure inzake kennisgevingen
 
 ## Afdeling I Algemene bepalingen
 
 ### ART. 19.
 
-Aanvragen voor vergunningen en kennisgevingen worden in het Nederlands ingediend en worden ondertekend door de aanvrager. Als het gaat om een rechtspersoon, worden ze ondertekend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.<br>
+Kennisgevingen worden in het Nederlands ingediend en worden ondertekend door de aanvrager. Als het gaat om een rechtspersoon, worden ze ondertekend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.<br>
 &nbsp;
 
 ### ART. 20.
 
-§ 1. Aanvragen of kennisgevingen die niet voldoen aan de ontvankelijkheidvoorwaarden, worden door de algemene kamer binnen vijfenveertig dagen na ontvangst door de Regulator, niet ontvankelijk verklaard. Vanaf de kennisgeving van die beslissing beschikt de aanvrager of kennisgever over vijftien dagen om de aanvraag te vervolledigen.<br>
+§ 1. Kennisgevingen die niet voldoen aan de ontvankelijkheidvoorwaarden, worden door de algemene kamer binnen vijfenveertig dagen na ontvangst door de Regulator, niet ontvankelijk verklaard. Vanaf de kennisgeving van die beslissing beschikt de aanvrager of kennisgever over vijftien dagen om de aanvraag te vervolledigen.<br>
 <br>
-§ 2. Als een aanvraag voldoet aan de ontvankelijkheidvoorwaarden, neemt de algemene kamer een beslissing binnen zestig dagen na de ontvangst van de aanvraag, behalve indien ze van oordeel is dat een voorafgaand onderzoek door een andere instantie noodzakelijk is. In dat laatste geval begint de termijn van zestig dagen te lopen vanaf de dag waarop het onderzoeksrapport van de andere instantie bij de Regulator is afgeleverd. De aanvrager wordt hiervan op de hoogte gebracht.<br>
+§ 2. ...<br>
 <br>
-De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. Indien de aanvrager hiertoe verzoekt, moet hij door de algemene kamer worden gehoord.<br>
-<br>
-&nbsp;§ 3. Paragraaf 1 en 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+§ 3. ...<br>
 &nbsp;
 
 ## Afdeling II Procedure inzake erkenningen
@@ -122,25 +120,7 @@ De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. 
 
 ### ART. 24.
 
-§1. De erkende landelijke radio-omroeporganisatie betaalt voor de ingebruikneming en het behoud van het toegewezen frequentiepakket een jaarlijkse vergoeding.<br>
-<br>
-De vergoeding bestaat uit de sommatie van twee bedragen die worden vastgesteld op de hierna bepaalde wijze :<br>
-1° een vast bedrag van 150.000 euro voor de schijf van de bruto-inkomsten tot en met 7.500.000 euro;<br>
-2° 2 % van de schijf van de bruto-inkomsten boven 7.500.000 euro.<br>
-<br>
-Voor de toepassing van dit artikel wordt verstaan onder bruto-inkomsten : alle inkomsten die betrekking hebben op radioadvertenties, inclusief zuivere advertenties, sponsoring en advertentieruil. Die inkomsten zijn bruto-inkomsten, met andere woorden de inkomsten zoals ze zijn weergegeven in de officiële jaarrekening van de onderneming en zoals ze zijn geattesteerd door een bedrijfsrevisor. Het attest van de bedrijfsrevisor over de bruto-inkomsten wordt samen met de betaling van de vergoeding voor 30 april van het jaar dat volgt op het jaar waarop de vergoeding betrekking heeft aan de Regulator bezorgd. Sponsoring en advertentieruil, al dan niet met gedeeltelijke geldopleg worden in de boekhouding onder omzet aan de normaal geldende marktprijzen gewaardeerd, en zitten aldus in de bruto-inkomsten vervat.<br>
-<br>
-In de mate dat de inkomsten uit reclamewerving of de rechten ervan door de erkende landelijke radio-omroeporganisatie aan een derde worden overgedragen, dient onder bruto-inkomsten, de bruto-inkomsten die door die derde worden verkregen, te worden verstaan.<br>
-<br>
-De erkende landelijke radio-omroeporganisaties moeten de gegevens met betrekking tot de bruto-inkomsten aan de regulator meedelen, telkens als de algemene kamer erom verzoekt.<br>
-<br>
-De volgende inkomsten worden niet meegerekend bij de bruto-inkomsten :<br>
-1° alle inkomsten van andere commerciële activiteiten zoals bijvoorbeeld de verkoop van cd's, T-shirts, horloges, inkomsten van concerten of andere evenementen, de verkoop van toegangskaarten, de verkoop van advertenties op een website;<br>
-2° alle inkomsten van regie voor derden en verkoop van software<br>
-<br>
-§ 2. De vergoeding wordt uiterlijk betaald op 30 april van het jaar dat volgt op het jaar waarop de vergoeding betrekking heeft.<br>
-<br>
-Vergoedingen die op de vastgestelde vervaldatum niet zijn betaald, geven van rechtswege en zonder ingebrekestelling aanleiding tot een intrest tegen het wettelijke tarief, verhoogd met 2 %. Die intrest wordt berekend naar rato van het aantal dagen achterstand.
+...
 
 ### ART. 25.
 
@@ -182,18 +162,11 @@ Vergoedingen die op de vastgestelde vervaldatum niet zijn betaald, geven van rec
 
 ...
 
-## Afdeling III [Procedure inzake zendvergunningen voor landelijke, [... (opgeh. BVR 2 juli 2021, art. 5, I: 1 januari 2023)] [netwerk- (ing. BVR 21 april 2017, art. 36, I: 9 mei 2017)] of lokale radio-omroeporganisaties (verv. BVR 29 januari 2010, art. 18)]
+## Afdeling III ...
 
 ### ART. 35.
 
-Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een landelijke, netwerk-&nbsp;&nbsp;of lokale radio-omroeporganisatie of een wijziging ervan per frequentie :<br>
-1° een uittreksel van de landkaart (minimale schaal 1/25.000) waarop de bepaalde opstellingsplaats van de zendinstallatie wordt aangegeven, evenals de vermelding van de geografische coördinaten van deze plaats (lengte en breedte in graden, minuten en seconden);<br>
-2° het merk en het type van het genotificeerde zendtoestel;<br>
-3° het merk, het type en de karakteristieken van de antenne met de volledige technische specificaties van de fabrikant, het volledige stralingsdiagrama van de antenne, de hoogte van het midden van de nuttige stralingselementen van de antenne boven de begane grond en de cijferwaarde per 10° in geval van directionele antennes;<br>
-4° het type en de lengte van de kabel die de zendapparatuur met de antenne verbindt, met de vermelding van de volledige technische specificatie van de fabrikant.<br>
-<br>
-Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<br>
-&nbsp;
+...
 
 ### ART. 36.
 
@@ -203,7 +176,7 @@ Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<
 
 ...<br />
 
-## Afdeling IV Gemeenschappelijke bepalingen voor erkenningen en vergunningen
+## Afdeling IV ...
 
 ### ART. 38.
 
@@ -211,24 +184,24 @@ Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<
 
 ### ART. 39.
 
-De algemene kamer kan op ieder ogenblik de erkenning van de particuliere radio-omroeporganisatie of de zendvergunning van de erkende radio-omroeporganisatie schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het decreet van 27 maart 2009, dit besluit, de voorwaarden van de erkenning, alsook in geval van erkende landelijke en netwerk- en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden in overeenstemming waarmee de erkenning door de Vlaamse Regering is verleend.<br>
-<br>
-De schorsing of de intrekking wordt altijd voorafgegaan door een ingebrekestelling door de algemene kamer die de omroeporganisatie de kans biedt aan alle voorschriften te voldoen. De omroeporganisatie of het omroepnetwerk beschikt over ten minste een maand vanaf de verzending van de ingebrekestelling om de toestand te regulariseren. De voormelde termijn kan door de algemene kamer worden verlengd, naargelang van de vastgestelde inbreuk. Op haar verzoek wordt de omroeporganisatie gehoord.<br>
-<br>
-Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de kosten voor het indienen van een dossier tot erkenning als radio-omroeporganisatie of voor het jaarlijkse gebruik van een frequentie of een frequentiepakket
+...
 
 ### ART. 40.
 
-Als een omroeporganisatie wil afzien van zijn erkenning of vergunning, deelt hij dat mee aan de Regulator.<br>
-<br>
-Ter uitvoering van artikel 134, tweede lid, van het decreet van 27 maart 2009 gaat de Vlaamse Regulator voor de Media jaarlijks na welke erkende radio-omroeporganisaties al hun activiteiten stopgezet hebben. De Vlaamse Regulator voor de Media bezorgt die lijst aan de Vlaamse minister, bevoegd voor het mediabeleid.<br>
+...<br>
 &nbsp;
 
 ## Afdeling V [Procedure van kennisgevingen (verv. BVR 29 januari 2010, art. 21)]
 
 ### ART. 41.
 
-Om ontvankelijk te zijn, omvat de kennisgeving van de andere radio-omroeporganisaties : <br />1° de statuten zoals ze verschenen zijn in het Belgisch Staatsblad en een afschrift van de oprichtingsakte;<br />2° een afschrift van de in de bijlagen van het Belgisch Staatsblad gepubliceerde lijst van de beheerders of de bestuurders met de vermelding van hun functie in de vennootschap of vereniging;<br />3° een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel en het hoofdkantoor liggen, alsook van de plaats waar de programmeringsbesluiten genomen worden, waar het personeel werkt en waar wordt uitgezonden;<br />4° een duidelijke omschrijving van de te leveren dienst;<br />5° de wijze waarop het programmasignaal wordt verspreid.
+Om ontvankelijk te zijn, omvat de kennisgeving van de andere radio-omroeporganisaties :<br>
+1° de statuten zoals ze verschenen zijn in het Belgisch Staatsblad en een afschrift van de oprichtingsakte;<br>
+2° een afschrift van de in de bijlagen van het Belgisch Staatsblad gepubliceerde lijst van de beheerders of de bestuurders met de vermelding van hun functie in de vennootschap of vereniging;<br>
+3° een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel en het hoofdkantoor liggen, alsook van de plaats waar de programmeringsbesluiten genomen worden, waar het personeel werkt en waar wordt uitgezonden;<br>
+4° een duidelijke omschrijving van de te leveren dienst;<br>
+4/1° in geval van uitzending in een andere taal dan het Nederlands, een toelichtende nota;<br>
+5° de wijze waarop het programmasignaal wordt verspreid.
 
 ### ART. 42.
 
