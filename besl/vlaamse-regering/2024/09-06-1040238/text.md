@@ -489,6 +489,14 @@ In artikel 5.1.0.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaam
 
 Artikel 5.2.2.8.6 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 28 november 2003, 7 maart 2008, 10 februari 2017 en 3 mei 2019, wordt opgeheven.&nbsp;
 
+### ART 5.
+
+In artikel 5.2.4.1.12, §1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 12 mei 2006 en gewijzigd bij de besluiten van de Vlaamse Regering van 16 mei 2014, 21 september 2018 en 3 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt de zinsnede “van het VLAREL,” vervangen door de zinsnede “van het VLAREL dat erkend is voor de desbetreffende monstername,”;<br>
+2° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“Als de exploitant de monstername van de afvalstof uitvoert, voert die de goedkeuring van die monstername uit conform de code van goede praktijk voor de zelfcontrole van monstername-afval. De voormelde goedkeuring is geldig voor maximaal drie jaar.”;<br>
+3° in het vierde lid wordt de zinsnede “van het VLAREL,” vervangen door de zinsnede “van het VLAREL dat erkend is voor de desbetreffende tests,”.
+
 ### ART 6.
 
 In artikel 5.20.2.1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 7 juni 2013, wordt de zinsnede “1.1 en 20.1.2” vervangen door de zinsnede “20.1.2, a)”.&nbsp;
