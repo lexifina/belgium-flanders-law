@@ -378,24 +378,19 @@ Op voorstel van de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
 Na beraadslaging,<br>
 Besluit :
 
-## HOOFDSTUK 1. Inleidende bepalingen
+## HOOFDSTUK 1. ...
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° decreet van 27 maart 2009: het decreet van 27 maart 2009 betreffende radio-omroep en televisie;<br>
-2° frequentiepakket: een pakket dat bestaat uit een of meer specifieke frequenties die telkens verbonden zijn met een lokaliteit;<br>
-3° lokaliteit: een stad of gemeente waaraan een frequentie gekoppeld is;<br>
-4° minister: de Vlaamse minister, bevoegd voor het mediabeleid.<br>
-&nbsp;
+...
 
-## HOOFDSTUK 2. Bepalingen ter uitvoering van het decreet van 27 maart 2009
+## HOOFDSTUK 2. ...
 
-## Afdeling 1. Aandeel van zendtijd voor de netwerkradio-omroeporganisatie
+## Afdeling 1. ...
 
 ### ART 2.
 
-Het deel van de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod, vermeld in artikel 143/2, § 1, 2°, c), van het decreet van 27 maart 2009, bedraagt twee derde van de uitzendtijd. Onder Nederlandstalige en Vlaamse profiel of muziekaanbod wordt begrepen het muziekaanbod en de andere cultuuruitingen door Nederlandstalige en/of Vlaamse artiesten en/of programma's met als hoofdthema een Nederlandstalige of Vlaamse artiest.
+...
 
 ## Afdeling 1/1. ...
 
@@ -403,591 +398,276 @@ Het deel van de invulling van het Nederlandstalige en Vlaamse profiel of muzieka
 
 ...
 
-## Afdeling 2. Aanvullende kwalificatiecriteria voor de netwerkradio-omroeporganisaties
+## Afdeling 2. ...
 
 ### ART 3.
 
-De aanvullende kwalificatiecriteria voor de netwerkradio-omroeporganisaties, vermeld in artikel 143/1, eerste lid, 1°, van het decreet van 27 maart 2009, waaraan de aanvragen tot erkenning inhoudelijk en kwalitatief worden getoetst, zijn:<br>
-1° voor de concrete invulling van het programma-aanbod en het zendschema:<br>
-a) het format van de radio-omroeporganisatie, namelijk:<br>
-- de omschrijving van het algemene programma-aanbod en het profiel;<br>
-- de motivering van de credibiliteit en de aantoonbare publieke waarde van het vooropgestelde project; de aantoonbare publieke waarde is de omschrijving van wat het concept van de omroep kan betekenen als meerwaarde voor de samenleving;<br>
-- het zendschema;<br>
-b) de inhoud, de mix en de diversiteit van de programma's, in het bijzonder van de programma's met een aanbod van muziek, informatie en ontspanning;<br>
-2° voor de media-ervaring:<br>
-a) voor het hoofd van de netwerkradio-omroeporganisatie, een relevante ervaring van ten minste vijf jaar in de auditieve mediasector of in een crossmediale mediaonderneming;<br>
-b) voor het team van medewerkers, een mix van technische, commerciële, administratieve en radio-eigen competenties;<br>
-3° voor het financiële plan:<br>
-a) een geprojecteerde balans van de twee eerstvolgende exploitatiejaren;<br>
-b) de specificatie van de herkomst van de financiële middelen in eigen vermogen en vreemd vermogen, die het mogelijk maken het businessplan en de geplande investeringen uit te voeren;<br>
-4° voor het businessplan:<br>
-a) de strategische visie en de doelstellingen op langere termijn voor de verdere ontwikkeling van de netwerkradio-omroeporganisatie;<br>
-b) de samenhang tussen deze visie en de activiteiten die uitgebouwd worden voor deze verdere ontwikkeling, met vermelding van de manier waarop, met welke acties en middelen, in het bijzonder de gedane en voorgenomen investeringen, de omschrijving van de beoogde doelgroep, het geraamde marktaandeel en de verhouding ervan tot de adverteerders- en luisteraarsmarkt;<br>
-5° voor de technische (zend)infrastructuur:<br>
-a) de voorziene gedetailleerde technische uitrusting, infrastructuur, transmissie, vestiging en uitbouw van het zenderpark;<br>
-b) de concrete timing voor de uitrol van de technische investeringen;<br>
-6° de concrete invulling van het programma-aanbod voor informatie door een eigen radionieuwsdienst, met bijzondere aandacht voor:<br>
-a) het aantal en de duur van de onderscheiden geplande journaals per dag;<br>
-b) de verscheidenheid aan onderwerpen in de journaals;<br>
-c) de voorgenomen verslaggeving van sociale en culturele evenementen;<br>
-d) het voorziene aantal erkende beroepsjournalisten en overige redactiemedewerkers;<br>
-e) de reeds opgedane ervaring op het vlak van de verzorging van mediaberichtgeving.<br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, worden op de volgende wijze gewogen:<br>
-1° 40% voor het criterium, vermeld in het eerste lid, 1°, met een weging van 20% op onderdeel a) en 20% op onderdeel b);<br>
-2° 10% voor het criterium, vermeld in het eerste lid, 2°, met een weging van 7% op onderdeel a) en 3% op onderdeel b);<br>
-3° 10% voor het criterium, vermeld in het eerste lid, 3°, met een weging van 3% op onderdeel a) en 7% op onderdeel b);<br>
-4° 10% voor het criterium, vermeld in het eerste lid, 4°, met een weging van 3% op onderdeel a) en 7% op onderdeel b);<br>
-5° 15% voor het criterium, vermeld in het eerste lid, 5°, met een weging van 5% op onderdeel a) en 10% op onderdeel b);<br>
-6° 15% voor het criterium, vermeld in het eerste lid, 6°, met een weging van 3% op elk van de onderdelen.
+...
 
 ### ART 4.
 
-De aanvullende kwalificatiecriteria voor de netwerkradio-omroeporganisaties, vermeld in artikel 143/1, eerste lid, 2° en 3°, van het decreet van 27 maart 2009, waaraan de aanvragen tot erkenning inhoudelijk en kwalitatief worden getoetst, zijn:<br>
-1° voor de concrete invulling van het programma-aanbod en het zendschema:<br>
-a) het format van de radio-omroeporganisatie, namelijk:<br>
-- de omschrijving van het specifieke programma-aanbod, het specifieke profiel of de specifieke doelgroep tot wie de radio-omroeporganisatie zich richt;<br>
-- de motivering van de credibiliteit en de aantoonbare publieke waarde van het vooropgestelde project; de aantoonbare publieke waarde is de omschrijving van wat het concept van de omroep kan betekenen als meerwaarde voor de samenleving;<br>
-- het zendschema;<br>
-b) de inhoud, de mix en de diversiteit van de programma's of het aanbod;<br>
-2° voor de media-ervaring:<br>
-a) voor het hoofd van de netwerkradio-omroeporganisatie, een relevante ervaring van ten minste vijf jaar in de auditieve mediasector of in een crossmediale mediaonderneming;<br>
-b) voor het team van medewerkers, een mix van technische, commerciële, administratieve en radio-eigen competenties;<br>
-3° voor het financiële plan:<br>
-a) een geprojecteerde balans van de twee eerstvolgende exploitatiejaren;<br>
-b) de specificatie van de herkomst van de financiële middelen in eigen vermogen en vreemd vermogen, die het mogelijk maken het businessplan en de geplande investeringen uit te voeren;<br>
-4° voor het businessplan:<br>
-a) de strategische visie en de doelstellingen op langere termijn voor de verdere ontwikkeling van de netwerkradio-omroeporganisatie;<br>
-b) de samenhang tussen deze visie en de activiteiten die uitgebouwd worden voor deze verdere ontwikkeling, met vermelding van de manier waarop, met welke acties en middelen, in het bijzonder de gedane en voorgenomen investeringen, de omschrijving van de beoogde doelgroep, het geraamde marktaandeel en de verhouding ervan met de adverteerders- en luisteraarsmarkt;<br>
-5° voor de technische (zend)infrastructuur:<br>
-a) de voorziene gedetailleerde technische uitrusting, infrastructuur, transmissie, vestiging en uitbouw van het zenderpark;<br>
-b) de concrete timing voor de uitrol van de technische investeringen;<br>
-6° a) voor de radio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 2°, van het decreet van 27 maart 2009, het deel van het aanbod via de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod boven het verplichte deel zoals bepaald in artikel 2 van dit besluit,<br>
-b) voor de radio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 3°, van het voormelde decreet, het deel van het aanbod via de invulling van het specifieke gekozen profiel of muziekaanbod en het deel Vlaamse muziekproducties in dat aanbod.<br>
-<br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, worden op de volgende wijze gewogen:<br>
-1° 45% voor het criterium, vermeld in het eerste lid, 1°, met een weging van 20% op onderdeel a) en 25% op onderdeel b);<br>
-2° 10% voor het criterium, vermeld in het eerste lid, 2°, met een weging van 7% op onderdeel a) en 3% op onderdeel b);<br>
-3° 10% voor het criterium, vermeld in het eerste lid, 3°, met een weging van 3% op onderdeel a) en 7% op onderdeel b);<br>
-4° 10% voor het criterium, vermeld in het eerste lid, 4°, met een weging van 3% op onderdeel a) en 7% op onderdeel b);<br>
-5° 15% voor het criterium, vermeld in het eerste lid, 5°, met een weging van 5% op onderdeel a) en 10% op onderdeel b);<br>
-6° 10% voor het criterium, vermeld in het eerste lid, 6° punt a) of punt b), naar gelang van het soort netwerkradio-omroeporganisatie waarvoor men een dossier indient.
+...
 
-## Afdeling 3. Aanvullende kwalificatiecriteria voor de lokale radio-omroeporganisaties
+## Afdeling 3. ...
 
 ### ART 5.
 
-De aanvullende kwalificatiecriteria voor de lokale omroeporganisaties waaraan de aanvragen tot erkenning inhoudelijk en kwalitatief worden getoetst, zijn:<br>
-1° voor de concrete invulling van het programma-aanbod en het zendschema:<br>
-a) het format van de radio-omroeporganisatie, namelijk:<br>
-1) de omschrijving van het specifieke programma-aanbod, het specifieke profiel of de specifieke doelgroep tot wie de radio-omroeporganisatie zich richt;<br>
-2) de motivering van de credibiliteit en de aantoonbare publieke waarde van het vooropgestelde project; de aantoonbare publieke waarde is de omschrijving van wat het concept van de omroep kan betekenen voor de samenleving;<br>
-3) een gedetailleerd zendschema;<br>
-4) de band met lokale gemeenschap als verbindende factor;<br>
-b) de inhoud, de mix en de diversiteit van de programma's;<br>
-c) de concrete invulling van het programma-aanbod voor informatie en journaals uit het eigen verzorgingsgebied, met bijzondere aandacht voor:<br>
-1) het aantal en de duur van de onderscheiden geplande journaals per dag;<br>
-2) de verscheidenheid aan onderwerpen bij het brengen van informatie;<br>
-3) de voorgenomen verslaggeving van sociale en culturele evenementen binnen het verzorgingsgebied;<br>
-2° voor het financiële plan:<br>
-a) een geprojecteerde balans van de twee eerstvolgende exploitatiejaren;<br>
-b) de specificatie van de herkomst van de financiële middelen in eigen vermogen en vreemd vermogen;<br>
-3° voor de technische (zend)infrastructuur:<br>
-a) de voorziene gedetailleerde technische uitrusting, infrastructuur, transmissie, vestiging en uitbouw van het zenderpark;<br>
-b) de concrete timing voor de uitrol van technische investeringen.<br>
-<br>
-De aanvullende kwalificatiecriteria, vermeld in het eerste lid, worden op de volgende wijze gewogen:<br>
-1° 55% voor het criterium, vermeld in het eerste lid, 1°, met een weging van 20% op onderdeel a) 20% op onderdeel b) en 15% op onderdeel c);<br>
-2° 30% voor het criterium, vermeld in het eerste lid, 2°, met een weging van 10% op onderdeel a) en 20% op onderdeel b);<br>
-3° 15% voor het criterium, vermeld in het eerste lid, 3°, met een weging van 5% op onderdeel a) en 10% op onderdeel b).
+...
 
-## [Afdeling 3/1. Aanvullende kwalificatiecriteria voor de landelijke radio-omroeporganisaties (ing. BVR 2 juli 2021, art. 10, I: 14 augustus 2021)]
+## [Afdeling 3/1. ...]
 
 ### ART 5/1.
 
-De volgende criteria zijn de aanvullende kwalificatiecriteria voor de landelijke radio-omroeporganisaties, vermeld in artikel 138, § 2, tweede lid, van het decreet van 27 maart 2009, waaraan de aanvragen tot erkenning inhoudelijk en kwalitatief worden getoetst:<br>
-1° voor de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de verscheidenheid in de programmering:<br>
-a) het format;<br>
-b) de programma's in het zendschema;<br>
-c) de kwalitatieve inhoud en de diversiteit van de programma's naar aanbod van muziek, informatie en ontspanning;<br>
-d) de aandacht die besteed wordt aan de programmamix, aan de journaals, aan de informatie en informatieve programma's, aan cultuur, aan de muzikale keuzes, aan serviceprogramma's en infotainment;<br>
-e) de invulling van het programma-aanbod voor informatie, met bijzondere aandacht voor:<br>
-1) het aantal geplande nieuwsuitzendingen per dag;<br>
-2) de verscheidenheid aan onderwerpen in de nieuwsuitzendingen;<br>
-3) de voorgenomen verslaggeving van sociale en culturele evenementen binnen het verzorgingsgebied;<br>
-4) het aantal erkende beroepsjournalisten, stagiairs-beroepsjournalisten, en overige redactiemedewerkers;<br>
-5) de werking van de eigen nieuwsdienst;<br>
-6) de investeringen in de eigen nieuwsdienst;<br>
-7) de ervaring die de kandidaat al heeft opgedaan op het vlak van de verzorging van de berichtgeving;<br>
-f) de aantoonbare maatschappelijke waarde van het omroepprogramma. De aantoonbare maatschappelijke waarde is de omschrijving van wat het concept van de kandidaat kan betekenen als meerwaarde voor de samenleving;<br>
-g) een audiodemo die de elementen, vermeld in punt a) tot en met f), reflecteert;<br>
-2° voor de media-ervaring:<br>
-a) de opgedane media-ervaring van de rechtspersoon en van het team van medewerkers, inzonderheid inzake omroep;<br>
-b) de creatieve inbreng van de medewerkers;<br>
-c) de opgedane media-ervaring in de Vlaamse mediasector, in het bijzonder de auditieve sector, zowel van de rechtspersoon als van het team van medewerkers;<br>
-d) voor het hoofd van de landelijke omroeporganisatie, een relevante ervaring van ten minste vijf jaar in de auditieve mediasector of in een crossmediale mediaonderneming.<br>
-3° voor het financiële plan: een nota waaruit blijkt hoe en wanneer het businessplan zal worden verwezenlijkt aan de hand van een geprojecteerde balans, een geprojecteerde resultatenrekening en een kasstroomplan van minstens de drie eerstvolgende exploitatiejaren. Alsook een nota waarin de specificatie van de herkomst van de financiële middelen, zowel het eigen vermogen als het vreemd vermogen, die het mogelijk maken het dossier uit te voeren, beschreven wordt;<br>
-4° voor het businessplan:<br>
-a) de strategische visie op langere termijn en de doelstellingen voor de verdere ontwikkeling van de landelijke radio-omroeporganisatie;<br>
-b) de activiteiten die uitgebouwd worden om de vereiste visie en doelstellingen, vermeld in punt a), te realiseren, de manier waarop dat zal gebeuren, de acties en middelen, in het bijzonder de gedane en voorgenomen investeringen, de omschrijving van de beoogde doelgroep, het geraamde marktaandeel en de verhouding ervan met de adverteerders- en luisteraarsmarkt;<br>
-5° voor de technische (zend)infrastructuur:<br>
-a) de gedetailleerde technische uitrusting, studio's, infrastructuur, transmissie met aandacht voor de continuïteit van de uitzendingen, vestiging en uitbouw van het zenderpark;<br>
-b) de vooruitzichten en uitrol inzake technische investeringen;<br>
-6° voor de verwezenlijkingen, plannen, intenties, en engagementen rond digitale radio-uitzendingen via DAB+ en andere vormen van digitale radio:<br>
-a) de uitzendingen die de kandidaat op de dag van het indienen van de aanvraag tot erkenning verzorgt via de verschillende vormen van digitaal radioluisteren;<br>
-b) de mensen en middelen die worden ingezet voor de verschillende vormen van digitaal radioluisteren;<br>
-c) een planning en beschrijving van campagnes over de verschillende vormen van digitaal radioluisteren;<br>
-d) de toekomstige engagementen van de kandidaat voor de verschillende vormen van digitaal radioluisteren.<br>
-De kwalificatiecriteria, vermeld in het eerste lid, worden op de volgende wijze gewogen:<br>
-1° 30% voor het criterium, vermeld in het eerste lid, 1° ;<br>
-2° 20% voor het criterium, vermeld in het eerste lid, 2° ;<br>
-3° 5% voor het criterium, vermeld in het eerste lid, 3° ;<br>
-4° 10% voor het criterium, vermeld in het eerste lid, 4° ;<br>
-5° 10% voor het criterium, vermeld in het eerste lid, 5° ;<br>
-6° 25% voor het criterium, vermeld in het eerste lid, 6°.
+...
 
-## Afdeling 4. De erkenningsprocedure van de netwerkradio-omroeporganisaties
+## Afdeling 4. ...
 
 ### ART 6.
 
-De minister maakt via een oproep in het Belgisch Staatsblad bekend voor welke frequentiepakketten een aanvraag tot erkenning als netwerkradio-omroeporganisatie kan worden ingediend, met vermelding van eventuele bijkomende nuttige informatie.
+...
 
 ### ART 7.
 
-De aanvragen van erkenningen worden ingediend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.
+...
 
 ### ART 8.
 
-De aanvragen van een erkenning worden elektronisch ingediend bij het Departement Cultuur, Jeugd en Media.
+...
 
 ### ART 9.
 
-§ 1. Een kandidaat kan op straffe van onontvankelijkheid maximaal vier dossiers tot erkenning als netwerkradio-omroeporganisatie indienen voor evenveel verschillende frequentiepakketten. De kandidaat geeft de volgorde en voorkeur aan tussen de ingediende erkenningsdossiers en de daarmee verbonden frequentiepakketten.<br>
-<br>
-Kandidaten die voorstellen om niet alle frequentiecapaciteit uit het toegewezen frequentiepakket te gebruiken, komen niet in aanmerking voor erkenning.<br>
-<br>
-§ 2. In afwijking van paragraaf 1, eerste lid, wanneer de minister conform artikel 6 een oproep tot kandidaatstelling bekend maakt voor alle frequentiepakketten voor netwerkradio-omroeporganisaties samen met een oproep tot kandidaatstelling voor alle frequentiepakketten van lokale radio-omroeporganisaties, kan een kandidaat maximaal vier dossiers indienen voor evenveel verschillende frequentiepakketten over de verschillende soorten van radio-omroeporganisaties heen en in een combinatie door de kandidaat-indiener te bepalen. Ook hier geeft de kandidaat de volgorde en voorkeur aan tussen de ingediende dossiers.<br>
-<br>
-§ 3. De aanvragen van een erkenning worden op straffe van niet-ontvankelijkheid ingediend binnen dertig dagen vanaf de bekendmaking van het bericht in het Belgisch Staatsblad. Die termijn kan noch verlengd noch ingekort worden.<br>
-<br>
-De aanvraagdossiers bevatten de erkenningsaanvraag en alle bijbehorende documenten. De nadere modaliteiten over de elektronische indiening worden bepaald in de<br>
-oproepen.<br>
-<br>
-De procedure voor de toekenning van de erkenning start de eerste werkdag nadat de periode van dertig dagen, vermeld in het eerste lid, verstreken is.<br>
-<br>
-Voor eenzelfde omroepprogramma kunnen maximum twee dossiers worden ingediend.
+...
 
 ### ART 10.
 
-De aanvraag tot erkenning van een netwerkradio-omroeporganisatie bevat al de volgende documenten en gegevens:<br>
-1° de identificatie van de aanvrager, inclusief het bewijs dat hij gemachtigd is om namens de rechtspersoon een aanvraag in te dienen. Dit kan blijken via de verwijzing naar de benoeming op basis van de statuten dan wel op basis van een volmachtsdocument namens de rechtspersoon;<br>
-2° de statuten van de rechtspersoon;<br>
-3° de lijst van bestuurders, met de vermelding van hun functie in de rechtspersoon;<br>
-4° een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel, de uitzendstudio, de productie-installaties en de zendinstallaties zullen liggen;<br>
-5° een omschrijving van het algemene of specifieke profiel of concept van de netwerkradio-omroeporganisatie;<br>
-6° een door elke bestuurder persoonlijk ondertekende verklaring dat hij geen politiek mandaat bekleedt en geen beheerder of bestuurder is van de VRT;<br>
-7° a) ofwel het redactiestatuut voor de omroep, vermeld in artikel 143/1, eerste lid, 1°, van het decreet van 27 maart 2009;<br>
-b) ofwel het redactiestatuut dan wel de naam van de redactie waarmee samengewerkt zal worden voor de omroepen vermeld in artikel 143/1, eerste lid, 2° en 3°, van het voormelde decreet;<br>
-c) ofwel de vermelding dat er geen journaals wordt gebracht voor de omroepen, vermeld in artikel 143/1, eerste lid, 2° en 3°, van het voormelde decreet;<br>
-8° een opgave van de medewerkers bij de start;<br>
-9° het bewijs van betaling ter dekking van de kosten;<br>
-10° de roepnaam van het radiostation;<br>
-11° de nodige aanvullende documenten, bewijzen en stukken ter motivering van de aanvullende kwalificatiecriteria.
+...
 
 ### ART 11.
 
-Elke aanvrager van een erkenning als netwerkradio-omroeporganisatie betaalt, voor hij zijn aanvraag bij het Departement Cultuur, Jeugd en Media indient, per aanvraag een som van 5.000 euro aan het Departement Cultuur, Jeugd en Media om de kosten voor het onderzoek en de administratieve handelingen van de erkenning te dekken. Dat bedrag is verschuldigd voor elke afzonderlijke aanvraag die wordt ingediend.<br>
-<br>
-In geen geval kan de aanvrager van een erkenning als netwerkradio-omroeporganisatie de rechtstreeks of onrechtstreeks opgelopen kosten in het kader van de procedure terugvorderen van de Vlaamse Overheid.<br>
-<br>
-Alleen als de aanvraag niet voldoet aan de voorwaarden, vermeld in artikel 10, en dus onontvankelijk is, kan de betaalde som worden teruggevorderd.
+...
 
 ### ART 12.
 
-De erkende netwerkradio-omroeporganisatie betaalt voor het gebruik en het behoud van de toegewezen frequenties vanaf het tweede volle kalenderjaar een jaarlijkse vergoeding per frequentiepakket van 5.000 euro aan de Vlaamse Regulator voor de Media.<br>
-<br>
-De vergoeding wordt uiterlijk betaald op 30 april van het jaar dat volgt op het jaar waarop de vergoeding betrekking heeft.<br>
-<br>
-De vergoedingen die op de vastgestelde vervaldatum niet betaald zijn, geven van rechtswege en zonder ingebrekestelling aanleiding tot een intrest tegen het wettelijke tarief, verhoogd met 2%. Die intrest wordt berekend naar rato van het aantal dagen achterstand.
+...
 
 ### ART 13.
 
-Binnen dertig dagen na het verstrijken van de datum om een dossier in te dienen zendt de minister aan alle kandidaten een aangetekende brief met de lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden. De voormelde brief wordt gestuurd naar de maatschappelijke zetel van de rechtspersoon.<br>
-<br>
-De minister erkent de netwerkradio-omroeporganisaties uit de ontvankelijk bevonden kandidaturen binnen 120 dagen vanaf de datum van de in lid 1 bedoelde kennisgeving. Als de<br>
-minister binnen de voormelde periode geen beslissing neemt, wordt de erkenning voor dat frequentiepakket niet toegekend.<br>
-<br>
-De erkenning wordt verleend onder voorwaarde dat de netwerkradio-omroeporganisatie die de erkenning krijgt, desgevallend en binnen de twee maanden na de datum van het verkrijgen van de erkenning, haar eigendomsstructuren, statuten en bestuurders aanpast ten einde in overeenstemming te zijn met de bepalingen van het decreet van 27 maart 2009 en van dit besluit.
+...
 
 ### ART 14.
 
-De erkende kandidaat wordt binnen de termijn van 120 dagen, vermeld in artikel 13, tweede lid, met een aangetekende brief op de hoogte gebracht van het erkenningsbesluit.<br>
-<br>
-Elke niet-erkende kandidaat die zich voor een specifiek frequentiepakket kandidaat heeft gesteld, ontvangt met een aangetekende brief een afschrift van het erkenningsbesluit.
+...
 
 ### ART 15.
 
-De termijnen in deze afdeling worden opgeschort van 17 juli tot en met 18 augustus en van 25 december tot en met 2 januari.
-
-## Afdeling 5. De erkenningsprocedure van de lokale radio-omroeporganisaties
+...
 
 ## Afdeling 5. ...
 
 ### ART 16.
 
-De minister maakt in het Belgisch Staatsblad bekend voor welke frequentiepakketten een aanvraag tot erkenning als lokale radio-omroeporganisatie kan worden ingediend, met vermelding van de eventuele bijkomende nuttige informatie.
+...
 
 ### ART 17.
 
-De aanvragen van erkenningen worden ingediend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.
+...
 
 ### ART 18.
 
-De aanvragen van een erkenning worden elektronisch ingediend bij het Departement Cultuur, Jeugd en Media.
+...
 
 ### ART 19.
 
-§ 1. Een kandidaat kan op straffe van onontvankelijkheid maximaal vier dossiers tot erkenning als lokale radio-omroeporganisatie voor evenveel verschillende frequentiepakketten indienen. De kandidaat geeft de volgorde en de voorkeur aan tussen de ingediende erkenningsdossiers en de daarmee verbonden frequentiepakketten.<br>
-<br>
-Kandidaten die voorstellen om niet alle frequentiecapaciteit uit het toegewezen frequentiepakket te gebruiken, komen niet in aanmerking voor erkenning.<br>
-<br>
-§ 2. In afwijking van paragraaf 1, eerste lid, wanneer de Minister conform artikel 6 een oproep tot kandidaatstelling bekend maakt voor alle frequentiepakketten voor netwerkradio-omroeporganisaties samen met een oproep tot kandidaatstelling voor alle frequentiepakketten van lokale radio-omroeporganisaties, kan een kandidaat maximaal vier dossiers indienen voor evenveel verschillende frequentiepakketten over de verschillende soorten van radio-omroeporganisaties heen en in een combinatie door de kandidaat-indiener te bepalen. Ook hier geeft de kandidaat de volgorde en voorkeur aan tussen de ingediende dossiers.<br>
-<br>
-§ 3. Overeenkomstig artikel 145, 2°, b) van het decreet van 27 maart 2009, worden de aanvragen van een erkenning op straffe van niet-ontvankelijkheid ingediend binnen dertig dagen vanaf de bekendmaking van het bericht in het Belgisch Staatsblad. Die termijn kan noch verlengd noch ingekort worden.<br>
-<br>
-De kandidaat verwerft maximaal twee lokale frequentiepakketten waarop twee verschillende omroepprogramma's worden uitgezonden.<br>
-<br>
-De aanvraagdossiers bevatten de erkenningsaanvraag en alle bijbehorende documenten. De nadere modaliteiten over de elektronische indiening worden bepaald in de oproepen.<br>
-<br>
-De procedure voor de toekenning start de eerste werkdag nadat de periode van dertig dagen, vermeld in het eerste lid, verstreken is.<br>
-<br>
-Voor eenzelfde omroepprogramma kunnen maximum twee dossiers worden ingediend.
+...
 
 ### ART 20.
 
-De aanvraag tot erkenning van een lokale radio-omroeporganisatie bevat al de volgende documenten en gegevens:<br>
-1° de identificatie van de aanvrager, inclusief het bewijs dat hij gemachtigd is om namens de rechtspersoon een aanvraag in te dienen. Dit kan blijken via de verwijzing naar de benoeming op basis van de statuten dan wel op basis van een volmachtsdocument vanuit de rechtspersoon;<br>
-2° de statuten van de rechtspersoon;<br>
-3° de lijst van bestuurders, met de vermelding van hun functie in de rechtspersoon;<br>
-4° een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel, de uitzendstudio, de productie-installaties en de zendinstallaties zullen liggen;<br>
-5° een omschrijving van het algemene of specifieke profiel of concept van de lokale radio-omroeporganisatie;<br>
-6° a) ofwel het redactiestatuut dan wel de naam van de redactie waarmee samengewerkt zal worden voor de journaals;<br>
-b) ofwel de vermelding dat er geen journaals worden gebracht;<br>
-7° een opgave van de medewerkers bij de start;<br>
-8° het bewijs van betaling ter dekking van de kosten;<br>
-9° de roepnaam van het radiostation;<br>
-10° de nodige aanvullende documenten, bewijzen en stukken ter motivering van de aanvullende kwalificatiecriteria.
+...
 
 ### ART 21.
 
-Elke aanvrager van een erkenning als lokale radio-omroeporganisatie betaalt, voor hij zijn aanvraag bij het Departement Cultuur, Jeugd en Media indient, per aanvraag een som van 500 euro aan het Departement Cultuur, Jeugd en Media om de kosten voor het onderzoek en de administratieve handelingen van de erkenning te dekken. Dat bedrag is verschuldigd voor elke afzonderlijke aanvraag die wordt ingediend.<br>
-<br>
-In geen geval kan de aanvrager van een erkenning als lokale radio-omroeporganisatie de rechtstreeks of onrechtstreeks opgelopen kosten in het kader van de procedure terugvorderen van de Vlaamse Overheid.<br>
-<br>
-Alleen als de aanvraag niet voldoet aan de voorwaarden, vermeld in artikel 20, en dus onontvankelijk is, kan de betaalde som worden teruggevorderd.
+...
 
 ### ART 22.
 
-De erkende lokale radio-omroeporganisatie betaalt voor het gebruik en het behoud van de toegewezen frequenties of frequentiepakketten vanaf het tweede volle kalenderjaar een jaarlijkse vergoeding van 500 euro per radio-omroepprogramma aan de Vlaamse Regulator voor de Media.<br>
-<br>
-De vergoeding wordt uiterlijk betaald op 30 april van het jaar dat volgt op het jaar waarop de vergoeding betrekking heeft.<br>
-<br>
-De vergoedingen die op de vastgestelde vervaldatum niet betaald zijn, geven van rechtswege en zonder ingebrekestelling aanleiding tot een intrest tegen het wettelijke tarief, verhoogd met 2%. Die intrest wordt berekend naar rato van het aantal dagen achterstand.
+...
 
 ### ART 23.
 
-Binnen dertig dagen na het verstrijken van de datum om een dossier in te dienen zendt de minister aan alle kandidaten een aangetekende brief met de lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden. De aangetekende brief wordt gestuurd naar de maatschappelijke zetel van de rechtspersoon.<br>
-<br>
-De minister erkent de lokale radio-omroeporganisaties binnen 120 dagen vanaf de datum van de in lid 1 bedoelde kennisgeving. Als de minister binnen die periode geen beslissing neemt, wordt de erkenning voor de betrokken frequentie of het betrokken frequentiepakket niet toegekend.<br>
-<br>
-De erkenning wordt verleend onder voorwaarde dat de lokale radio-omroeporganisatie die de erkenning krijgt, desgevallend en binnen de twee maanden na de datum van het verkrijgen van de erkenning, haar eigendomsstructuren, statuten en bestuurders aanpast ten einde in overeenstemming te zijn met de bepalingen van het decreet van 27 maart 2009 en van dit besluit.
+...
 
 ### ART 24.
 
-De erkende kandidaat wordt binnen de termijn van 120 dagen, vermeld in artikel 23, tweede lid, met een aangetekende brief op de hoogte gebracht van het erkenningsbesluit.<br>
-<br>
-Elke niet-erkende kandidaat die zich voor een specifiek frequentiepakket kandidaat heeft gesteld, ontvangt met een aangetekende brief een afschrift van het erkenningsbesluit.
+...
 
 ### ART 25.
 
-De termijnen in deze afdeling worden opgeschort van 17 juli tot en met 18 augustus en van 25 december tot en met 2 januari.
+...
 
-## [Afdeling 6. De erkenningsprocedure voor de landelijke radio-omroeporganisaties (ing. BVR 2 juli 2021, art. 13, I: 14 augustus 2021)]
+## [Afdeling 6. ...]
 
 ### ART 25/1.
 
-De minister maakt in het Belgisch Staatsblad de oproep tot kandidaatstelling als landelijke radio-omroeporganisatie bekend, met vermelding van de nadere modaliteiten.
+...
 
 ### ART 25/2.
 
-De aanvragen van erkenningen worden ingediend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.
+...
 
 ### ART 25/3.
 
-De aanvragen voor een erkenning worden ingediend bij het Departement Cultuur, Jeugd en Media via de door het Departement Cultuur, Jeugd en Media ter beschikking gestelde webtoepassing.<br>
-<br>
-Het Departement Cultuur, Jeugd en Media kan deze webtoepassing inzetten voor alle communicatie tussen het Departement Cultuur, Jeugd en Media en de kandidaat over de door hem ingediende aanvraag.
+...
 
 ### ART 25/4.
 
-§ 1. Een kandidaat kan op straffe van onontvankelijkheid maximaal twee dossiers tot erkenning als landelijke radio-omroeporganisatie indienen. Elk ingediend dossier betreft een verschillend omroepprogramma.<br>
-<br>
-Als bij een erkenningsronde verschillende erkenningen uit te reiken zijn, geeft de kandidaat per ingediend dossier aan voor welke frequentiepakketten hij kandideert, met vermelding van de volgorde en de voorkeur van de pakketten.<br>
-<br>
-§ 2. Kandidaten die een dossier indienen waarbij niet alle frequentiecapaciteit wordt gebruikt, komen niet in aanmerking voor erkenning.<br>
-<br>
-§ 3. De aanvragen tot het verkrijgen van een erkenning worden op straffe van niet-ontvankelijkheid binnen dertig dagen vanaf de publicatie van de oproep in het Belgisch Staatsblad, vermeld in artikel 25/1, ingediend bij het Departement Cultuur, Jeugd en Media. Die termijn kan niet verlengd of ingekort worden.<br>
-<br>
-§ 4. De aanvraagdossiers bestaan uit de erkenningsaanvraag en alle bijbehorende documenten. De nadere modaliteiten over de elektronische indiening worden bepaald in de oproepen.<br>
-<br>
-§ 5. De procedure van toekenning start de eerste werkdag nadat de periode van dertig dagen, vermeld in paragraaf 3, is verstreken.<br>
-<br>
-§ 6. Bij de kandidaten die twee dossiers indienen en twee erkenningen als landelijke radio-omroeporganisatie verkrijgen, vervalt automatisch de eerder verkregen erkenning als netwerkradio-omroeporganisatie indien deze kandidaat reeds een erkenning had als netwerkradio-omroeporganisatie. Bij de kandidaten die één of twee dossiers indienen en één of twee erkenningen als landelijke radio-omroeporganisatie verkrijgen, vervalt automatisch de eerder verkregen erkenning als lokale radio-omroeporganisatie indien deze kandidaat reeds een erkenning had als lokale radio-omroeporganisatie.
+...
 
 ### ART 25/5.
 
-De aanvraag tot erkenning van een landelijke radio-omroeporganisatie bevat al de volgende documenten en gegevens:<br>
-1° de identificatie van de kandidaat, inclusief het bewijs dat de kandidaat gemachtigd is om namens de rechtspersoon een aanvraag in te dienen. Dat kan blijken door de verwijzing naar de benoeming op basis van de statuten of op basis van een volmachtsdocument namens de rechtspersoon;<br>
-2° de statuten van de rechtspersoon;<br>
-3° de lijst van bestuurders, met de vermelding van hun functie in de rechtspersoon;<br>
-4° een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel, de uitzendstudio, de productie-installaties en de zendinstallaties zullen liggen;<br>
-5° het redactiestatuut;<br>
-6° een opgave van de medewerkers bij de start;<br>
-7° het bewijs van betaling van de som zoals bepaald in artikel 25/6, eerste lid;<br>
-8° de roepnaam van het radiostation;<br>
-9° de nodige aanvullende documenten en bewijzen voor de motivering van de erkenningsvoorwaarden en de invulling van de aanvullende kwalificatiecriteria.
+...
 
 ### ART 25/6.
 
-Elke kandidaat van een erkenning als landelijke radio-omroeporganisatie betaalt, voor de indiening van de aanvraag bij het Departement Cultuur, Jeugd en Media, een som van 50.000 euro per ingediend dossier om de kosten voor de administratieve handelingen te dekken.<br>
-<br>
-Op straffe van niet-ontvankelijkheid wordt het bewijs van betaling bij elk dossier gevoegd. In geen geval kan de kandidaat van een erkenning als landelijke radio-omroeporganisatie de rechtstreeks of onrechtstreeks opgelopen kosten in het kader van de procedure terugvorderen van de Vlaamse overheid. Alleen als de aanvraag niet voldoet aan de ontvankelijkheidvoorwaarden, vermeld in artikel 25/5, kan de betaalde som worden teruggevorderd.
+...
 
 ### ART 25/7.
 
-Elke ontvankelijk bevonden kandidaat legt bij de Deposito- en Consignatiekas in geld of in openbare fondsen een borgtocht van 150.000 euro neer om de geldelijke verplichtingen te waarborgen die aan de landelijke radio-omroeporganisatie worden opgelegd. Die borgtocht wordt neergelegd uiterlijk tien dagen na de dag waarop de kandidaat de beslissing, vermeld in artikel 25/8, § 1, ontvangt. Indien de borgtocht niet tijdig wordt neergelegd, komt de kandidaat niet in aanmerking voor erkenning.
+...
 
 ### ART 25/8.
 
-§ 1. Binnen 30 dagen nadat de datum om een dossier in te dienen is verstreken, zendt de minister aan alle kandidaten voor het verkrijgen van een erkenning als landelijke radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br>
-<br>
-§ 2. De minister erkent de landelijke radio-omroeporganisaties uit de ontvankelijk bevonden kandidaturen binnen 120 dagen vanaf de datum van de kennisgeving, vermeld in paragraaf 1. Als de minister binnen de voormelde periode geen beslissing neemt, wordt een erkenning geacht niet toegekend te zijn.<br>
-<br>
-Een kandidaat voert, zoals beschreven in het dossier, het door hem ingediende dossier uit.
+...
 
 ### ART 25/9.
 
-De erkende kandidaat wordt binnen de termijn van 120 dagen, vermeld in artikel 13, tweede lid, met een aangetekende brief op de hoogte gebracht van het erkenningsbesluit.<br>
-<br>
-Elke niet-erkende kandidaat ontvangt met een aangetekende brief een afschrift van het erkenningsbesluit.
+...
 
-## [Afdeling 7. Verwerken van persoonsgegevens (ing. BVR 2 juli 2021, art. 13, I: 14 augustus 2021)]
+## [Afdeling 7. ...]
 
 ### ART 25/10.
 
 ...
 
-## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale en lokale radio-omroepen
+## HOOFDSTUK 3. ...
 
 ### ART 26.
 
-In het opschrift van het besluit van de Vlaamse Regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale en lokale radio-omroepen wordt tussen het woord "regionale" en de woorden "en lokale" de zinsnede ", netwerk-" ingevoegd.
+...
 
 ### ART 27.
 
-In artikel 1 van hetzelfde besluit wordt tussen het woord "regionale" en de woorden "en lokale" de zinsnede ", netwerk-" ingevoegd.
+...
 
 ### ART 28.
 
-In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 2 februari 2007 en 29 januari 2010, wordt een artikel 1/1 ingevoegd, dat luidt als volgt:<br>
-<br>
-"Art. 1/1. § 1. De aanvragen van tijdelijke zendvergunningen vermelden de volgende gegevens:<br>
-1° de rechtspersoon of de aanvrager, met vermelding van het volledige adres;<br>
-2° de contactpersonen;<br>
-3° de benaming van het initiatief;<br>
-4° de roepnaam;<br>
-5° de datum of de periode van het evenement;<br>
-6° de tijdstippen van uitzending;<br>
-7° een uittreksel van de landkaart - met een minimale schaal 1/25.000 - of een kaart uit gangbare internettoepassingen waarop de bepaalde opstellingsplaats van de zendinstallatie wordt aangegeven, alsook de vermelding van de geografische coördinaten van die plaats in lengte en breedte in graden, minuten en seconden;<br>
-8° het merk en het type van het genotificeerde zendtoestel, met de vermelding van de volledige technische specificaties van de fabrikant;<br>
-9° het merk, het type en de karakteristieken van de antenne, met de volledige technische specificaties van de fabrikant, het volledige stralingsdiagram van de antenne, de hoogte van het midden van de nuttige stralingselementen van de antenne boven de begane grond en de cijferwaarde per 10° in geval van directionele antennes;<br>
-10° het type en de lengte van de kabel die de zendapparatuur met de antenne verbindt, met de vermelding van de volledige technische specificatie van de fabrikant.<br>
-<br>
-§ 2. Aanvragen van tijdelijke zendvergunningen moeten maximaal twaalf en minimaal negen weken voor de aanvang van het initiatief ingediend worden. De toekenning van een tijdelijke zendvergunning voor een bepaalde locatie is onder voorbehoud van de beschikbaarheid van een frequentie die inpasbaar is in het frequentieplan en die geen aanleiding geeft tot storing van het zendcomfort van andere omroepen.".
+...
 
 ### ART 29.
 
-In artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, worden de volgende wijzigingen aangebracht:<br>
-1° de woorden "het Vlaamse Regulator voor de Media" worden telkens vervangen door de woorden "de Vlaamse Regulator voor de Media";<br>
-2° het woord "zendvergunning" wordt telkens vervangen door de woorden "zendvergunning of tijdelijke zendvergunning".
+...
 
 ### ART 30.
 
-In artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, worden de volgende wijzigingen aangebracht:<br>
-1° het eerste lid wordt opgeheven;<br>
-2° de woorden "het Vlaamse Regulator voor de Media" worden vervangen door de woorden "de Vlaamse Regulator voor de Media".
+...
 
 ### ART 31.
 
-In artikel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, worden de volgende wijzigingen aangebracht:<br>
-1° in de inleidende zin worden de woorden "Het Vlaamse Regulator voor de Media" vervangen door de woorden "De Vlaamse Regulator voor de Media";<br>
-2° in punt 5° worden de woorden "het Vlaamse Regulator voor de Media" vervangen door de woorden "de Vlaamse Regulator voor de Media".
+...
 
 ### ART 32.
 
-In artikel 6, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 2 februari 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, wordt het bedrag "200 euro" vervangen door het bedrag "250 euro".
+...
 
 ### ART 33.
 
-In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 2 februari 2007 en 29 januari 2010, wordt een artikel 6/1 ingevoegd, dat luidt als volgt:<br>
-<br>
-"Art. 6/1. Voor een tijdelijke zendvergunning wordt een recht van 100 euro aangerekend, dat vooraf betaald wordt op het rekeningnummer van de Vlaamse Regulator voor de Media.".
+...
 
-## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media
+## HOOFDSTUK 4. ...
 
 ### ART 34.
 
-In artikel 20, § 3, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, vervangen bij het besluit van de Vlaamse Regering van 30 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, wordt tussen het woord "regionale" en de woorden "en lokale" de zinsnede ", netwerk-" ingevoegd.
+...
 
 ### ART 35.
 
-Artikel 29 tot en met 31 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, worden opgeheven.
+...
 
 ### ART 36.
 
-In hoofdstuk III van hetzelfde besluit, gewijzigd bij besluit van 30 maart 2007, 8 juni 2007, 18 juli 2008 en 29 januari 2010 wordt in het opschrift van afdeling III tussen het woord "regionale" en de woorden "of lokale" de zinsnede ", netwerk-" ingevoegd.
+...
 
 ### ART 37.
 
-In artikel 35, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2010, wordt tussen het woord "regionale" en de woorden "of lokale" de zinsnede ", netwerk-" ingevoegd.
+...
 
 ### ART 38.
 
-In artikel 38 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juli 2008 en 29 januari 2010, wordt het woord "omroeporganisatie" vervangen door de woorden "regionale televisieomroeporganisatie".
+...
 
 ### ART 39.
 
-Artikel 39 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juli 2008 en 29 januari 2010, wordt vervangen door wat volgt:<br>
-<br>
-"Art. 39. De algemene kamer kan op ieder ogenblik de erkenning van de particuliere radio-omroeporganisatie of de zendvergunning van de erkende radio-omroeporganisatie schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het decreet van 27 maart 2009, dit besluit, de voorwaarden van de erkenning, alsook in geval van erkende landelijke, regionale en netwerk- en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden in overeenstemming waarmee de erkenning door de Vlaamse Regering is verleend.<br>
-<br>
-De schorsing of de intrekking wordt altijd voorafgegaan door een ingebrekestelling door de algemene kamer die de omroeporganisatie de kans biedt aan alle voorschriften te voldoen. De omroeporganisatie of het omroepnetwerk beschikt over ten minste een maand vanaf de verzending van de ingebrekestelling om de toestand te regulariseren. De voormelde termijn kan door de algemene kamer worden verlengd, naargelang van de vastgestelde inbreuk. Op haar verzoek wordt de omroeporganisatie gehoord.<br>
-<br>
-Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de kosten voor het indienen van een dossier tot erkenning als radio-omroeporganisatie of voor het jaarlijkse gebruik van een frequentie of een frequentiepakket".
+...
 
 ### ART 40.
 
-Aan artikel 40 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juli 2008 en 29 januari 2010, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
-<br>
-"Ter uitvoering van artikel 134, tweede lid, van het decreet van 27 maart 2009 gaat de Vlaamse Regulator voor de Media jaarlijks na welke erkende radio-omroeporganisaties al hun activiteiten stopgezet hebben. De Vlaamse Regulator voor de Media bezorgt die lijst aan de Vlaamse minister, bevoegd voor het mediabeleid.".
+...
 
-## HOOFDSTUK 5. Wijzigingen van het besluit van de Vlaamse Regering van 9 maart 2007 waarbij de nodige frequenties voor analoge radio ter beschikking van de Vlaamse Radio- en Televisieomroep worden gesteld
+## HOOFDSTUK 5. ...
 
 ### ART 41.
 
-Aan artikel 1 van het besluit van de Vlaamse Regering van 9 maart 2007 waarbij de nodige frequenties voor analoge radio ter beschikking van de Vlaamse Radio- en Televisieomroep worden gesteld wordt de volgende zin toegevoegd:<br>
-<br>
-"De Vlaamse Radio- en Televisieomroeporganisatie brengt de Vlaamse overheid bij elke ingebruikneming van een frequentie op de hoogte en verstrekt haar de nodige gegevens om nationale en internationale verplichtingen te vervullen.".
+...
 
 ### ART 42.
 
-In de bijlage bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 11 april 2008, wordt de volgende tabel opgeheven:<br>
-<br>
-"In de hectometerband
-<table border="1">
-	<tbody>
-		<tr>
-			<td>Frequentie (kHz)</td>
-			<td>Opstelplaats</td>
-			<td colspan="2">Positie (WGS84)</td>
-			<td>Vermogen (kW)</td>
-			<td>D (Directief) ND (Niet Directief)</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>OL</td>
-			<td>NB</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>927</td>
-			<td>Wolvertem</td>
-			<td>04° 18'05"</td>
-			<td>50° 58'42"</td>
-			<td>300</td>
-			<td>ND</td>
-		</tr>
-	</tbody>
-</table>
-".
+...
 
-## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 30 maart 2007 betreffende de procedure en de aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere landelijke, regionale en lokale radio-omroeporganisaties
+## HOOFDSTUK 6. ...
 
 ### ART 43.
 
-In het opschrift van het besluit van de Vlaamse Regering van 30 maart 2007 betreffende de procedure en de aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere landelijke, regionale en lokale radio-omroeporganisaties, gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2010, worden de woorden ",regionale en lokale" vervangen door de woorden "en regionale".
+...
 
 ### ART 44.
 
-In artikel 1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 juli 2010, worden de volgende wijzigingen aangebracht:<br>
-1° in paragraaf 1 wordt het derde lid opgeheven;<br>
-2° in paragraaf 2 wordt de zinsnede ", regionale en lokale" vervangen door de woorden "en regionale".
+...
 
 ### ART 45.
 
-Artikel 6 en 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2010, worden opgeheven.
+...
 
 ### ART 46.
 
-In artikel 8, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2010, worden de volgende wijzigingen aangebracht:<br>
-1° de zinsnede ", als regionale, of als lokale" wordt vervangen door de woorden "of als regionale".<br>
-2° de woorden "de lokaliteit of naargelang van" worden opgeheven.
+...
 
-## HOOFDSTUK 7. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de vaststelling van het digitaal frequentieplan voor aanbieders van radio- en televisieomroepnetwerken
+## HOOFDSTUK 7. ...
 
 ### ART 47.
 
-In de bijlage bij het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de vaststelling van het digitaal frequentieplan voor aanbieders van radio- en televisieomroepnetwerken worden de volgende bepalingen opgeheven:<br>
-"
-<table border="1">
-	<tbody>
-		<tr>
-			<td>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
-			<td>65</td>
-		</tr>
-		<tr>
-			<td>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</td>
-			<td>62</td>
-		</tr>
-	</tbody>
-</table>
-".
+...
 
-## HOOFDSTUK 8. Wijzigingen van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de voorwaarden en procedure voor het verkrijgen van een licentie voor het aanbieden van een radio- of televisieomroepnetwerk en de bijbehorende zendervergunningen
+## HOOFDSTUK 8. ...
 
 ### ART 48.
 
-In artikel 28 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de voorwaarden en procedure voor het verkrijgen van een licentie voor het aanbieden van een radio- of televisieomroepnetwerk en de bijbehorende zendervergunningen worden tussen het woord "of" en het woord "frequentiekanalen" de woorden "de hen toegekende individuele of gegroepeerde" ingevoegd.
+...
 
-## HOOFDSTUK 9. Wijzigingen van het besluit van de Vlaamse Regering van 17 oktober 2008 houdende de vastlegging van de pakketten van digitale frequenties die zullen worden vrijgegeven tijdens een eerste vergelijkende toets voor het verkrijgen van een vergunning voor het aanbieden van een radio- of televisieomroepnetwerk en de bijhorende zendvergunningen
+## HOOFDSTUK 9. ...
 
 ### ART 49.
 
-In artikel 1 van het besluit van de Vlaamse Regering van 17 oktober 2008 houdende de vastlegging van de pakketten van digitale frequenties die zullen worden vrijgegeven tijdens een eerste vergelijkende toets voor het verkrijgen van een vergunning voor het aanbieden van een radio- of televisieomroepnetwerk en de bijhorende zendvergunningen worden de volgende wijzigingen aangebracht:<br>
-1° punt 2° wordt opgeheven;<br>
-2° aan punt 3° wordt de zin "DAB+ is een geavanceerde versie van DAB;" toegevoegd.
+...
 
-## HOOFDSTUK 10. Slotbepalingen
+## HOOFDSTUK 10. ...
 
 ### ART 50.
 
-Het koninklijk besluit van 10 december 1987 waarbij de nodige frequenties ter beschikking van de "Belgische Radio en Televisie, Nederlandse Uitzendingen" worden gesteld, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt opgeheven.
+...
 
 ### ART 51.
 
-Dit besluit treedt in werking op datum van publicatie in het Belgisch Staatsblad.
+...
 
 ### ART 52.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
