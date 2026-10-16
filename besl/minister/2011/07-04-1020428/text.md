@@ -28,7 +28,9 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 Lijst van sociaalrechtelijke inspecteurs als vermeld in artikel 3<br>
 <br>
-De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie:
+De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie:<br>
+<br>
+&nbsp;
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -100,6 +102,9 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dhondt Nathalie</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Di Tullio Adeline</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dumeez Nele</td>
@@ -190,9 +195,6 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Nollet Bart</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Paternoster Johanna</td>
-								</tr>
-								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Peeraer Hans</td>
 								</tr>
 								<tr>
@@ -259,10 +261,10 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Velghe Wim</td>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Velghe Wim</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verdickt Nona</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Verdickt Nona</td>
 								</tr>
 								<tr>
 									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verhaegen Jelle</td>
@@ -271,10 +273,13 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verhellen Flor</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verlackt Lander</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verlackt Lander</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vossen Floriaan</td>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Vossen Floriaan</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">&nbsp;</td>
 								</tr>
 							</tbody>
 						</table>

@@ -2,16 +2,16 @@
   "codex_id": 1020428,
   "title": "Ministerieel besluit van 2011-07-04 tot aanwijzing van de sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020428/VolledigDocument?datum=2025-12-29",
-  "source_sha256": "c39fdc7c4af3cb28b8e5753648e2146fe254263944fc15f968ee7e41c047b304",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020428/VolledigDocument?datum=2026-10-16",
+  "source_sha256": "f99937462ddbc071b0e04126f9bdb3185f0b7e2312ea80c360ebb2d64790af70",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020428&param=informatie",
-  "as_of": "2025-12-29",
+  "as_of": "2026-10-16",
   "made": "2011-07-04",
   "gazette": "2011-07-14",
   "numac": 2011203559,
   "document_start": "2011-07-24",
   "document_end": null,
-  "in_force": "2025-12-29",
+  "in_force": "2026-10-16",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2025-12-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-10-16; future article versions excluded; article text as the API gives it"
 }
