@@ -61,13 +61,20 @@ Als het totaalbedrag van de ontvankelijke aanvragen de beschikbare middelen verm
 §2. Voor de periode van 1 maart 2026 tot en met 31 mei 2026 bedraagt de compensatie:<br>
 1° voor vaartuigen uit het groot vlootsegment: 775 euro per vaartdag;<br>
 2° voor vaartuigen uit het klein vlootsegment, met uitzondering van kustvissersvaartuigen: 375 euro per vaartdag;<br>
-3° voor kustvissersvaartuigen: 200 euro per vaartdag.
+3° voor kustvissersvaartuigen: 200 euro per vaartdag.<br>
+<br>
+Voor de periode van 1 juni 2026 tot en met 30 september 2026 bedraagt de compensatie:<br>
+1°&nbsp;&nbsp; &nbsp;voor vaartuigen uit het groot vlootsegment: 934 euro per vaartdag;<br>
+2°&nbsp;&nbsp; &nbsp;voor vaartuigen uit het klein vlootsegment, met uitzondering van kustvissersvaartuigen: 446 euro per vaartdag;<br>
+3°&nbsp;&nbsp; &nbsp;voor kustvissersvaartuigen: 235 euro per vaartdag.
 
 ### ART 6.
 
 De aanvraag, vermeld in artikel 2, wordt door een aanvrager als vermeld in artikel 4, §1, 1°, 2° en 3°, van het besluit van 16 juni 2023 ingediend via het e-loket bij de beheerautoriteit.<br>
 <br>
 Voor de compensatie in de periode van 1 maart 2026 tot en met 31 mei 2026, wordt de aanvraag ingediend van 29 juni 2026 tot en met 12 juli 2026.&nbsp;<br>
+<br>
+Voor de compensatie in de periode van 1 juni 2026 tot en met 30 september 2026 wordt de aanvraag, vermeld in artikel 2, ingediend in de periode van 26 oktober 2026 tot en met 15 november 2026.<br>
 <br>
 De aanvraag geldt tevens als een betalingsaanvraag.&nbsp;
 
