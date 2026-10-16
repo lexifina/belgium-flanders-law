@@ -30,22 +30,3 @@ Dit besluit sluit aan bij de volgende regelgeving:<br>
 - het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
 DE VLAAMSE MINISTER VAN OMGEVING EN LANDBOUW BESLUIT:
-
-### ART 1.
-
-Voor de toepassing van dit besluit gelden de definities, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 14 juli 2023 houdende reglementering inzake de kwaliteit en de productie, de levering en het gebruik van teruggewonnen water.
-
-### ART 2.
-
-§1. Voor waterhergebruikssystemen voor irrigatie of beregening voor land- of tuinbouwactiviteiten, geldt voor het volledige grondgebied van het Vlaams Gewest een vrijstelling van de in artikel 5 van het besluit van de Vlaamse Regering van 14 juli 2023 houdende reglementering inzake de kwaliteit en de productie, de levering en het gebruik van teruggewonnen water opgelegde verplichting tot aanvraag van de toelating bij de bevoegde autoriteit voor het gebruik van teruggewonnen water voor irrigatie en beregening voor land- en tuinbouwactiviteiten en dit tot en met 15 oktober 2026.&nbsp;<br>
-<br>
-§2. De vrijstelling van de verplichting tot aanvraag van de toelating, zoals vermeld in de vorige paragraaf, geldt voor de volgende bronnen van teruggewonnen water:<br>
-1° gezuiverd bedrijfsafvalwater van voedingsbedrijven met uitzondering van slachthuizen en uitsnijderijen.
-
-### ART 3.
-
-De Vlaamse minister, bevoegd voor de omgeving en de natuur, is belast met de uitvoering van dit besluit.&nbsp;
-
-### ART 4.
-
-Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad en geldt tot 15 oktober 2026.
