@@ -406,7 +406,9 @@ Het is voor een vissersvaartuig die gecombineerde visreizen in de ICES-gebieden 
 
 §1. In de periode van 1 januari 2026 tot en met 30 juni 2026 is het in het ICES-gebied VIIh, j, k voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.<br>
 <br>
-In de periode van 1 juli 2026 tot en met 31 oktober 2026 is het in het ICES-gebied VIIh, j, k voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+In de periode van 1 juli 2026 tot en met 16 oktober 2023 is het in het ICES-gebied VIIh, j, k voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+In de periode van 17 oktober 2026 tot en met 31 december 2026 is het voor een vissersvaartuig verboden te vissen in het ICES-gebied VIIh, j, k, met uitzondering van het vaartuig dat overeenkomstig §2 voor het laatste kwartaal is uitgeloot.<br>
 &nbsp;&nbsp; &nbsp;<br>
 §2. Er wordt een wetenschappelijk tongquotum voorbehouden van zes ton. Dit quotum wordt verdeeld over één visreis per kwartaal, met een maximum van 1500 kg tong per visreis.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -442,7 +444,9 @@ Vanaf 1 mei 2026 is het in het ICES-gebied VIIa voor een vissersvaartuig van het
 <br>
 §4. In de periode van 1 januari 2026 tot en met 30 juni 2026 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 400 kg.<br>
 <br>
-In de periode van 1 juli 2026 tot en met 31 oktober 2026 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;
+In de periode van 1 juli 2026 tot en met 16 oktober 2026 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+<br>
+In de periode van 17 oktober 2026 tot en met 31 december 2026 is de scholvangst in de ICES-gebieden VIIh,j,k verboden.
 
 ## Afdeling 4. Kabeljauw en zeeduivel
 
