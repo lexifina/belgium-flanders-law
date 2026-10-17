@@ -16,7 +16,7 @@ DE VLAAMSE MINISTER VAN WELZIJN EN ARMOEDEBESTRIJDING, CULTUUR EN GELIJKE KANSEN
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder indicatiestelling: de indicatiestelling vermeld in artikel 152 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+In dit besluit wordt verstaan onder indicatiestelling: de indicatiestelling vermeld in artikel 152 en artikel 193/1, eerste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ### ART 2.
 
