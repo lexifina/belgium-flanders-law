@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042376,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-04 tot bepaling van het maximumaantal en minimumaantal kandidaten dat tot de opleiding voor bepaalde bijzondere beroepstitels kan en moet worden toegelaten voor het jaar 2029",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042376/VolledigDocument?datum=2026-10-17",
+  "source_sha256": "28ff54f84ff95e8320364cadf6e987b7e7410186ce12ff97baf535840c181deb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042376&param=informatie",
+  "as_of": "2026-10-17",
+  "made": "2026-09-04",
+  "gazette": "2026-10-07",
+  "numac": 2026007055,
+  "document_start": "2026-10-17",
+  "document_end": null,
+  "in_force": "2026-10-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
