@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042411,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-11 tot wijziging van het besluit van de Vlaamse Regering van 16 oktober 2020 over de aanvullende erkenningsvoorwaarden en de subsidiëringsvoorwaarden van cliëntenorganisaties in de integrale jeugdhulp, vermeld in artikel 45/1 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en het besluit van de Vlaamse Regering van 16 oktober 2020 over de samenstelling, de opdrachten en de subsidiëring van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042411/VolledigDocument?datum=2026-10-19",
+  "source_sha256": "3aecf0dac65420e103b4c655eea2ca1fb9a03069e08a655024e9a512b133ed1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042411&param=informatie",
+  "as_of": "2026-10-19",
+  "made": "2026-09-11",
+  "gazette": "2026-10-16",
+  "numac": 2026007546,
+  "document_start": "2026-10-26",
+  "document_end": null,
+  "in_force": "2026-10-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
