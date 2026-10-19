@@ -66,26 +66,44 @@ c) andere organisaties die een zinvolle bijdrage kunnen leveren om de opdrachten
 
 ### ART 4.
 
-§ 1. Het cliëntenforum komt in aanmerking voor subsidiëring voor de uitvoering van de opdrachten, vermeld in artikel 3 van dit besluit en artikel 45/2, tweede lid, van het decreet van 12 juli 2013, als het cliëntenforum beschikt over een goedgekeurd jaarplan en als voldaan wordt aan al de volgende voorwaarden :<br>
-1° het cliëntenforum is opgericht als een privaatrechtelijke vereniging met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mag uitkeren of bezorgen, behalve voor het belangeloze doel dat in de statuten bepaald is;<br>
-2° het cliëntenforum stelt zijn statuten op in overeenstemming artikel 45/2 van het voormelde decreet en de bepalingen van dit besluit;<br>
-3° in het bestuursorgaan van het cliëntenforum zitten minstens twee bestuurders met ervaring als cliënt in de jeugdhulp, van wie er een behoort tot elke categorie, vermeld in artikel 45/1, § 1, tweede lid, 1°, a) en b), van het voormelde decreet.<br>
-<br>
-§ 2. Het jaarplan, vermeld in paragraaf 1, betreft de periode van één kalenderjaar en bevat al de volgende gegevens :<br>
-1° de gegevens van de organisatie en specifieke kenmerken van het cliëntenforum, namelijk :<br>
-a) de missie en de visie op een participatieve jeugdhulpverlening;<br>
-b) de interne organisatiestructuur, waaronder een opsomming van de organisaties die lid zijn van het cliëntenforum;<br>
-c) het aantal beroepskrachten en de gegevens over de inschakeling, de omkadering en de ondersteuning van de vrijwilligers;<br>
-2° een omschrijving van de wijze waarop het cliëntenforum de opdrachten, vermeld in artikel 3 van dit besluit en artikel 45/2, tweede lid, van het decreet van 12 juli 2013, zal uitvoeren met een bepaling van maximaal vijf prioriteiten waarop het cliëntenforum dat jaar zal inzetten;<br>
-3° de beoogde resultaten;<br>
-4° het tijdstip en de wijze waarop de resultaten geëvalueerd worden;<br>
-5° de manier waarop de directe betrokkenheid van cliënten bij de opmaak en de uitvoering van het jaarplan gewaarborgd wordt;<br>
-6° de begroting voor de volledige periode van het jaarplan;<br>
-7° de datum en de handtekening van een rechtsgeldige vertegenwoordiger van het cliëntenforum.<br>
-<br>
-Het cliëntenforum dient het plan via e-mail in bij het agentschap uiterlijk op 1 oktober van het jaar dat voorafgaat aan de periode waarop het jaarplan betrekking heeft. Als het jaarplan onvolledig is, meldt het agentschap dat binnen zeven dagen via e-mail aan het cliëntenforum. Vanaf die melding beschikt het cliëntenforum over zeven dagen om het jaarplan te vervolledigen.<br>
-<br>
-Het agentschap beslist over de goedkeuring van het jaarplan. Voor het agentschap het jaarplan goedkeurt, kan het aan het cliëntenforum na overleg vragen om het jaarplan te wijzigen. Uiterlijk op 1 december van het jaar dat voorafgaat aan de periode waarop het jaarplan betrekking heeft, brengt het agentschap het cliëntenforum via e-mail op de hoogte van zijn beslissing.
+§1. Het cliëntenforum wordt voor de toepassing van dit besluit beschouwd als organisator en komt in aanmerking voor subsidiëring voor de uitvoering van de opdrachten, vermeld in artikel 3 van dit besluit en artikel 45/2, tweede lid, van het decreet van 12 juli 2013, als voldaan wordt aan al de volgende voorwaarden:&nbsp;<br>
+1° het cliëntenforum is opgericht als een privaatrechtelijke vereniging met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mag uitkeren of bezorgen, behalve voor het belangeloze doel dat in de statuten bepaald is;&nbsp;<br>
+2° het cliëntenforum stelt zijn statuten op in overeenstemming met artikel 45/2 van het voormelde decreet en de bepalingen van dit besluit;&nbsp;<br>
+3° in de algemene vergadering van het cliëntenforum zitten minstens twee leden met ervaring als cliënt in de jeugdhulp, van wie er een behoort tot elke categorie, vermeld in artikel 45/1, § 1, tweede lid, 1°, a) en b), van het voormelde decreet.&nbsp;<br>
+4° het cliëntenforum heeft, met toepassing van artikel 5, § 1, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, een kwaliteitsbeleid dat al de volgende elementen bevat:&nbsp;<br>
+a) de missie van het cliëntenforum;&nbsp;<br>
+b) de visie van het cliëntenforum;&nbsp;<br>
+c) de waarden;&nbsp;<br>
+d) de te creëren maatschappelijke meerwaarde en de strategische doelstellingen om die meerwaarde te realiseren;&nbsp;<br>
+5° het cliëntenforum evalueert zijn kwaliteitsbeleid als vermeld in punt 4°, en de uitvoering van de opdrachten, vermeld in artikel 45/2, tweede lid, van het decreet van 12 juli 2013, op systematische wijze en formuleert daaruit verbeterpunten;&nbsp;<br>
+6° het cliëntenforum draagt bij tot een visie op een participatieve jeugdhulp vanuit cliëntperspectief;&nbsp;<br>
+7° het cliëntenforum beschikt over een beleidsplan voor een periode van vijf jaar, die start bij het begin van een kalenderjaar, dat de gegevens, vermeld in paragraaf 2 bevat;&nbsp;<br>
+8° het cliëntenforum beschikt per werkingsjaar over een jaarplan dat het agentschap heeft goedgekeurd;<br>
+9° het cliëntenforum erkent het belang van het gebruik van het Nederlands.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Op basis van de opdrachten van het cliëntenforum, vermeld in artikel 3 van dit besluit en artikel 45/2, tweede lid van het decreet van 12 juli 2013 en op voorwaarde dat de voorwaarden, vermeld in dit artikel, worden nageleefd, draagt de subsidiëring bij tot een kwaliteitsvolle jeugdhulpverlening die beter aansluit bij de noden, ervaringen en rechten van cliënten. Dat gebeurt door een systematische doorstroming van signalen en aanbevelingen vanuit het cliëntperspectief naar het beleid met het cliëntenforum als structurele gesprekspartner, met bijzondere aandacht voor moeilijk bereikbare cliëntengroepen.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+§ 2. Het beleidsplan, vermeld in §1, eerste lid, 7°, betreft de periode van vijf kalenderjaren en bevat al de volgende gegevens :&nbsp;<br>
+1° de gegevens van de organisatie en specifieke kenmerken van het cliëntenforum, namelijk:&nbsp;<br>
+a) de interne organisatiestructuur, waaronder een opsomming van de organisaties die lid zijn van het cliëntenforum;&nbsp;<br>
+b) het aantal beroepskrachten en de gegevens over de inschakeling, de omkadering en de ondersteuning van de vrijwilligers;&nbsp;<br>
+2° de missie en de visie van het cliëntenforum;&nbsp;<br>
+3° een omschrijving van de wijze waarop het cliëntenforum de opdrachten, vermeld in artikel 3 van dit besluit en artikel 45/2, tweede lid, van het decreet van 12 juli 2013 uitvoert met een omschrijving van de strategische en operationele doelstelling en de beoogde resultaten met bijbehorende indicatoren; &nbsp;&nbsp;<br>
+4° de wijze waarop het forum innovatie in zijn werking brengt;&nbsp;<br>
+5° de wijze waarop het forum vorm geeft aan het kwaliteitsbeleid, vermeld in §1, eerste lid, 4° en 5°; &nbsp;<br>
+6° de begroting voor de volledige periode van het beleidsplan;&nbsp;<br>
+7° de datum en de handtekening van een rechtsgeldige vertegenwoordiger van het cliëntenforum.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Als tijdens de looptijd van het beleidsplan, vermeld in §1, eerste lid, 7°, het cliëntenforum een wijziging in het beleidsplan wil aanbrengen, dient het cliëntenforum daarvoor bij het agentschap een dossier in waarin die wijziging wordt gesitueerd en gemotiveerd. Het agentschap beslist over de goedkeuring van de wijziging binnen zestig dagen na ontvangst van het dossier.&nbsp;<br>
+&nbsp;<br>
+Het agentschap kan zelf ook vragen om wijzigingen in het beleidsplan aan te brengen na overleg met het cliëntenforum.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+§3. Het jaarplan, vermeld in §1, eerste lid, 8°, behandelt de periode van één kalenderjaar dat kadert in het beleidsplan vermeld in §1, eerste lid, 7°, en beschrijft de opdrachten uit het beleidsplan, die het cliëntenforum dat jaar zal uitvoeren, de wijze waarop het die opdrachten zal uitvoeren, de beoogde resultaten met zowel kwantitatieve als kwalitatieve indicatoren en de daaraan gekoppelde begroting.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Het cliëntenforum dient het plan via e-mail in bij het agentschap uiterlijk op 1 november van het jaar dat voorafgaat aan de periode waarop het jaarplan&nbsp;betrekking heeft. Voor het jaar waarin een beleidsplan, als vermeld in §1, eerste lid, 7°, wordt ingediend, wordt het jaarplan van het eerste werkjaar samen met dat beleidsplan bezorgd. Als het jaarplan onvolledig is, meldt het agentschap dat binnen zeven dagen via e-mail aan het cliëntenforum. Vanaf die melding beschikt het cliëntenforum over zeven dagen om het jaarplan te vervolledigen.&nbsp;<br>
+&nbsp;<br>
+Het agentschap beslist over de goedkeuring van het jaarplan. Voor het&nbsp;agentschap het jaarplan goedkeurt, kan het aan het cliëntenforum na overleg&nbsp;vragen om het jaarplan te wijzigen. Uiterlijk op 1 december van het jaar dat&nbsp;voorafgaat aan de periode waarop het jaarplan betrekking heeft, brengt het&nbsp;agentschap het cliëntenforum via e-mail op de hoogte van zijn beslissing.<br>
+&nbsp;&nbsp; &nbsp;
 
 ## Afdeling 2. Toekenning van de subsidie
 
