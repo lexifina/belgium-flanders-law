@@ -26,3 +26,62 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Begroting en FinanciÃ
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 worden herverdeeld overeenkomstig onderstaande tabel:<br>
+(in duizend euro)
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; text-align:center; vertical-align:middle; width:23%">Begrotingsartikel</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:10%">Ent.</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:10%">Basisall.</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:11%">ESR</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:10%">Van<br>
+			VAK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:11%">Van<br>
+			VEK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:10%">Naar<br>
+			VAK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:11%">Naar<br>
+			VEK</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:23%">CB0-1CBD2AB-PR</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">CB0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">1CB024</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">0100</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">5.268</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">4.297</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:23%">CE0-1CDD2DE-WT</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">CE0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">1CD025</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">1211</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">5.268</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">4.297</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:23%">Totaal</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">5.268</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">4.297</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:10%">5.268</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:11%">4.297</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor Begroting en FinanciÃ«n is belast met de uitvoering van dit besluit.&nbsp;
