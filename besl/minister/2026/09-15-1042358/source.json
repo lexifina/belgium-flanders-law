@@ -2,16 +2,16 @@
   "codex_id": 1042358,
   "title": "Ministerieel besluit van 2026-09-15 tot wijziging van het ministerieel besluit van 25 augustus 2022 tot nadere invulling van de regels voor de indeling van de verrichtingen in de financiële administratie, de boekhoudkundige waarderings- en rubriceringsregels, de financiële rapportering aan de Vlaamse overheid en de boekhoudkundige organisatie van de woonmaatschappijen, wat betreft de financiële administratie en de boekhoudkundige organisatie van de woonmaatschappijen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042358/VolledigDocument?datum=2026-07-01",
-  "source_sha256": "79e9a1da555dbee3b30b5b5154c36ccd0e099daf981f77df4909c1fc1d8dc06e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042358/VolledigDocument?datum=2026-10-25",
+  "source_sha256": "dc376342efe16ec0fba24a055cfb8684967a2526e6ac928abbb2e3eb22959af0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042358&param=informatie",
-  "as_of": "2026-07-01",
+  "as_of": "2026-10-25",
   "made": "2026-09-15",
   "gazette": "2026-10-15",
   "numac": 2026006945,
   "document_start": "2026-10-25",
   "document_end": null,
-  "in_force": "2026-07-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2026-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-10-25",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2026-10-25; future article versions excluded; article text as the API gives it"
 }
