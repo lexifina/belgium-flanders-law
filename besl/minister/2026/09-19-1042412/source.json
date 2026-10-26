@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042412,
+  "title": "Ministerieel besluit van 2026-09-19 tot wijziging van het ministerieel besluit van 15 maart 2018 houdende de aanwijzing van de fietssnelwegen, in uitvoering van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de organisatorische omkadering, de financiering en de samenwerking voor het mobiliteitsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042412/VolledigDocument?datum=2026-10-26",
+  "source_sha256": "0048dbd95ec57911b354fa64f5095519500f31a490284d227bc56e2972d42f69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042412&param=informatie",
+  "as_of": "2026-10-26",
+  "made": "2026-09-19",
+  "gazette": "2026-10-16",
+  "numac": 2026007566,
+  "document_start": "2026-10-26",
+  "document_end": null,
+  "in_force": "2026-10-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
