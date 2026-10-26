@@ -109,9 +109,11 @@ Het agentschap beslist over de goedkeuring van het jaarplan. Voor het&nbsp;agent
 
 ### ART 5.
 
-Binnen de beschikbare begrotingskredieten kent het agentschap, aan het cliëntenforum een jaarlijkse subsidie toe van maximaal 236.068 euro.<br>
-<br>
-De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
+Binnen de beschikbare begrotingskredieten kent het agentschap, aan vzw Cliëntenforum, met ondernemingsnummer: 0779375994, een jaarlijkse subsidie toe van 249 040 euro.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 maart 2026. Ze wordt gekoppeld aan de afgevlakte gezondheidsindex, vermeld in artikel 2, §2, eerste lid van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ’s lands concurrentievermogen, die wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit. Het bedrag wordt aangepast twee maanden nadat de afgevlakte gezondheidsindex een bepaalde drempelwaarde overschrijdt.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+De subsidiebeslissing die verleend wordt, wordt verleend voor een termijn van vijf jaar. De uitbetaling van de subsidie gedurende de termijn van het beleidsplan, wordt van rechtswege beëindigd als het cliëntenforum niet langer voldoet aan de voorwaarden vermeld in artikel 4, §1. De uitbetaling van de subsidie wordt in dat geval onmiddellijk stopgezet.<br>
 &nbsp;
 
 ### ART 6.
@@ -122,14 +124,10 @@ Het cliëntenforum wendt ten minste 70 % van de jaarlijkse subsidie aan voor per
 
 ### ART 7.
 
-De subsidie wordt uitbetaald in de volgende drie schijven :<br>
-1° een eerste schijf van 45 % wordt uitbetaald in de loop van de maand februari van het jaar waarop de subsidie betrekking heeft;<br>
-2° een tweede schijf van 45 % wordt uitbetaald in de loop van de maand september van het jaar waarop de subsidie betrekking heeft;<br>
-3° het saldo van 10 % wordt uitbetaald na goedkeuring van de verslagen, vermeld in artikel 8.<br>
-<br>
-In afwijking van het eerste lid wordt de subsidie in het eerste jaar waarin ze toegekend wordt, uitbetaald in de volgende schijven :<br>
-1° een eerste schijf van 90 % wordt uitbetaald in de loop van de maand februari;<br>
-2° het saldo van 10 % wordt uitbetaald na de goedkeuring van de verslagen, vermeld in artikel 8.
+De subsidie wordt uitbetaald met voorschotten per kwartaal en een saldoafrekening. De voorschotten bedragen op jaarbasis in totaal 90% van de subsidie en worden telkens uitbetaald in de eerste maand van elk kwartaal. Het saldo wordt betaald na goedkeuring van de verslagen, vermeld in artikel 8.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als het cliëntenforum de verslagen, vermeld in artikel 8 niet of niet tijdig aan het agentschap bezorgt, wordt de uitbetaling van het eerste voorschot en het saldo van rechtswege opgeschort. De uitbetaling wordt pas hervat nadat het agentschap de vereiste verslagen volledig heeft ontvangen en goedgekeurd. Het cliëntenforum kan na laattijdige betaling geen aanspraak maken op interest of schadevergoeding wegens de opgeschorte uitbetaling.<br>
+&nbsp;
 
 ### ART 8.
 
@@ -158,6 +156,41 @@ Als het agentschap het cliëntenforum vraagt om het dossier te vervolledigen, wo
 Nadat de verslagen zijn goedgekeurd, is de subsidie definitief verworven voor het cliëntenforum.<br>
 <br>
 § 4. Als het inhoudelijke verslag of het financiële verslag te laat wordt ingediend, wordt 5 % afgehouden van de subsidie, vermeld in artikel 5.
+
+### ART 8/1.
+
+Het cliëntenforum meldt elke mediacampagne over de activiteiten, vermeld in dit besluit, wordt minimaal veertien dagen vooraf aan het agentschap.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;&nbsp; &nbsp;Resultaten van activiteiten die gefinancierd worden in het kader van dit besluit, mogen alleen openbaar gemaakt of gepubliceerd worden nadat ze bezorgd zijn aan het agentschap.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+De steun van de Vlaamse overheid wordt vermeld bij publicaties, presentaties en andere mededelingen over de activiteiten, vermeld in dit besluit. Daarvoor wordt het logo van de Vlaamse overheid met ‘Vlaanderen is zorg’ opgenomen op de publicaties, presentaties en andere mededelingen.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+De Vlaamse overheid en de organisaties of personen die ze aanwijst, mogen, zonder dat ze eventuele kosten moeten betalen of aan andere verplichtingen moeten voldoen, gebruikmaken van alle gegevens, producten, documenten en materialen, zoals ontwikkelde software en bijbehorende broncodes, logo’s en publicaties die in het kader van dit besluit zijn ontwikkeld en waarvan de begunstigde, of zijn onderaannemer, de rechten bezit.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het agentschap kan twee vertegenwoordigers kosteloos laten deelnemen aan vormingsdagen of studiedagen die de begunstigde organiseert ter uitvoering van dit besluit. De kosten van de deelname aan intensieve trainingen en de reis- en verblijfskosten blijven ten laste van het agentschap.<br>
+&nbsp;
+
+## Afdeling 2/1. Verlenging van de subsidiëring
+
+### ART 8/2.
+
+Binnen de beschikbare begrotingskredieten en op voorwaarde dat de organisatie is blijven voldoen aan de voorwaarden, vermeld in artikel 4, kan het cliëntenforum na de subsidiëringsperiode van vijf jaar een verlenging van de subsidiëring aanvragen.
+
+### ART 8/3.
+
+De aanvraag tot verlenging van de subsidiebeslissing is ontvankelijk als ze aan al de volgende voorwaarden voldoet:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;ze is ingediend zes maanden voor de lopende subsidietermijn verstrijkt;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;ze bevat een dossier met de volgende gegevens en documenten:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;a) &nbsp;&nbsp; &nbsp;de identificatiegegevens van de organisator;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;b) &nbsp;&nbsp; &nbsp;de identiteitsgegevens van het bestuur en de directie van de aanvrager;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;c) &nbsp;&nbsp; &nbsp;de voor- en achternaam, het telefoonnummer, het e-mailadres van de contactpersoon van de aanvrager;<br>
+&nbsp;&nbsp; &nbsp;d)&nbsp;&nbsp; &nbsp;het machtigingsbewijs om een aanvraag in te dienen;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;e) &nbsp;&nbsp; &nbsp;de rechtsgeldige beslissing van de organisator om de subsidie aan te vragen;<br>
+&nbsp;&nbsp; &nbsp;f) &nbsp;&nbsp; &nbsp;een beleidsplan, vermeld in artikel 4, §1, eerste lid, 7°;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;g) &nbsp;&nbsp; &nbsp;een jaarplan dat de gegevens, vermeld in artikel 4, §3, bevat.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Het agentschap bezorgt de beslissing tot verlenging of tot weigering van de verlenging van de subsidiëringstermijn uiterlijk zestig dagen voor de subsidietermijn verstrijkt.<br>
+&nbsp;
 
 ## Afdeling 3. Opbouw van reserves
 
