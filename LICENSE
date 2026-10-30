@@ -1,0 +1,12 @@
+The law texts in this repository are official texts of the Flemish Region and Community (Belgium), taken
+from the Vlaamse Codex (Flemish Government, https://codex.vlaanderen.be/) through its Open Data API.
+
+Belgian law does not protect them by copyright. Code of Economic Law, Art. XI.172 §2: "Les actes officiels de
+l'autorité ne donnent pas lieu au droit d'auteur." / "Officiële akten van de overheid geven geen aanleiding tot
+auteursrecht." (Official acts of the authorities do not give rise to copyright.)
+
+Source: Vlaamse Codex, Flemish Government. This repository is not an official publication; the binding text is the
+one published in the Belgisch Staatsblad / Moniteur belge.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

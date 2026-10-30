@@ -1,0 +1,11 @@
+{
+  "path": "be-vlg",
+  "code": "BE-VLG",
+  "name": "Flanders",
+  "level": "region",
+  "parent": "be",
+  "repo": "https://github.com/lexifina/belgium-flanders-law",
+  "build": "built: special decrees and decrees (45 acts, 161 versions) from the Vlaamse Codex",
+  "language": "nl",
+  "sources": 1
+}

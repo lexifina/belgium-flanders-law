@@ -1,0 +1,1331 @@
+{
+ "country": "BE-VLG",
+ "acts": [
+  {
+   "slug": "decr-1992-12-18-1001310",
+   "short": "Decreet van 18 december 1992",
+   "title": "Decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001310&param=informatie",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-06-19",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2020-12-07",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-03",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2026-07-23",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001310/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1994-12-21-1001602",
+   "short": "Decreet van 21 december 1994",
+   "title": "Decreet van 21 december 1994 houdende bekrachtiging van het besluit van de Vlaamse regering van 16 november 1994 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001602&param=informatie",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001602/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1991-04-29-1001605",
+   "short": "Decreet van 29 april 1991",
+   "title": "Decreet van 29 april 1991 tot vaststelling van de algemene regelen inzake de erkenning en subsidiëring van [de milieu-, natuur-, en ruimteverenigingen]",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001605&param=informatie",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001605/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-01-08",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001605/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2021-01-09",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001605/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2024-07-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001605/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1991-04-29-1001607",
+   "short": "Decreet van 29 april 1991",
+   "title": "Decreet van 29 april 1991 betreffende het Vlaams Provinciefonds",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001607&param=informatie",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-08-09",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1984-03-20-1001609",
+   "short": "Decreet van 20 maart 1984",
+   "title": "Decreet van 20 maart 1984 houdende het statuut van de logiesverstrekkende bedrijven",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001609&param=informatie",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001609/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001609/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1990-12-21-1001610",
+   "short": "Decreet van 21 december 1990",
+   "title": "Decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001610&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-11-30",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 6,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-27",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2011-08-04",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-07-25",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-01-01",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-09-01",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-09-01",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2021-08-21",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-01",
+     "units": 8,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2026-04-01",
+     "units": 8,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2028-01-01",
+     "units": 6,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001610/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1994-12-21-1001611",
+   "short": "Decreet van 21 december 1994",
+   "title": "Decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001611&param=informatie",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001611/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-08-09",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001611/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-07-09",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001611/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001611/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001611/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1990-07-31-1001627",
+   "short": "Decreet van 31 juli 1990",
+   "title": "Decreet van 31 juli 1990 [betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn]",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001627&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-07-09",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-22",
+     "units": 12,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-04",
+     "units": 28,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2020-01-01",
+     "units": 27,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-26",
+     "units": 29,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-03",
+     "units": 35,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-01",
+     "units": 36,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-15",
+     "units": 41,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001627/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1976-03-03-1001628",
+   "short": "Decreet van 3 maart 1976",
+   "title": "Decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001628&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 17,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-07-01",
+     "units": 16,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 16,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-09-01",
+     "units": 18,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-06-16",
+     "units": 18,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-01-01",
+     "units": 18,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2015-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001628/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1991-01-23-1001876",
+   "short": "Decreet van 23 januari 1991",
+   "title": "Decreet van 23 januari 1991 betreffende de Vlaamse Instelling voor Technologisch Onderzoek",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001876&param=informatie",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001876/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001876/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001876/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1986-12-23-1001879",
+   "short": "Decreet van 23 december 1986",
+   "title": "Decreet van 23 december 1986 houdende uitroeping van het Ijzermonument en het omringende domein te Diksmuide tot memoriaal van de Vlaamse ontvoogding",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001879&param=informatie",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001879/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2011-08-20",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001879/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1976-12-21-1001935",
+   "short": "Decreet van 21 december 1976",
+   "title": "Decreet van 21 december 1976 houdende organisatie van de Vlaamse interuniversitaire samenwerking",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001935&param=informatie",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001935/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-11-30",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001935/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001935/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1995-02-22-1001974",
+   "short": "Decreet van 22 februari 1995",
+   "title": "Decreet van 22 februari 1995 tot regeling van het administratief toezicht op de provincies in het Vlaamse Gewest",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001974&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001974/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001974/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1990-07-12-1002022",
+   "short": "Decreet van 12 juli 1990",
+   "title": "Decreet van 12 juli 1990 houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002022&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-03-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-09-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2010-09-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002022/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1994-12-21-1002023",
+   "short": "Decreet van 21 december 1994",
+   "title": "Decreet van 21 december 1994 betreffende het onderwijs VI",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002023&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002023/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002023/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002023/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1994-12-21-1002212",
+   "short": "Decreet van 21 december 1994",
+   "title": "Decreet van 21 december 1994 houdende vaststelling van het wapen en de vlag van de provincies en gemeenten",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002212&param=informatie",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002212/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002212/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1995-02-22-1002341",
+   "short": "Decreet van 22 februari 1995",
+   "title": "Decreet van 22 februari 1995 betreffende de bodemsanering",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002341&param=informatie",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002341/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-07-28",
+     "units": 11,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002341/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-11-30",
+     "units": 13,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002341/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-01-14",
+     "units": 14,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002341/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-06-01",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002341/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1991-07-24-1002550",
+   "short": "Decreet van 24 juli 1991",
+   "title": "Decreet van 24 juli 1991 jachtdecreet",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002550&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 49,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-02-14",
+     "units": 49,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-06-25",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-09-01",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2011-02-28",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-06-01",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-04-04",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2015-07-30",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-01-08",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-07-01",
+     "units": 47,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-29",
+     "units": 47,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2020-01-01",
+     "units": 47,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-01",
+     "units": 47,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2026-04-01",
+     "units": 47,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2026-08-20",
+     "units": 50,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002550/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1991-06-26-1002607",
+   "short": "Decreet van 26 juni 1991",
+   "title": "Decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002607&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2016-08-29",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002607/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decr-1995-02-22-1002719",
+   "short": "Decreet van 22 februari 1995",
+   "title": "Decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002719&param=informatie",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002719/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2006-07-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002719/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002719/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-12-24",
+     "units": 6,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002719/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2024-12-08",
+     "units": 0,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002719/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2006-07-07-1015039",
+   "short": "Bijzonder Decreet van 7 juli 2006",
+   "title": "Bijzonder Decreet van 7 juli 2006 over de Vlaamse instellingen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015039&param=informatie",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 29,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015039/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2008-08-22",
+     "units": 29,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015039/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-1988-12-19-1000612",
+   "short": "Bijzonder Decreet van 19 december 1988",
+   "title": "Bijzonder Decreet van 19 december 1988 [betreffende de Vlaamse Autonome Hogescholen (verv. Bijz. Decr. 14 juli 1998, art. 69)]",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000612&param=informatie",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000612/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000612/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000612/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-1991-06-26-1002753",
+   "short": "Bijzonder Decreet van 26 juni 1991",
+   "title": "Bijzonder Decreet van 26 juni 1991 betreffende de Universiteit Gent [...]",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002753&param=informatie",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 23,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-04-01",
+     "units": 23,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2017-02-01",
+     "units": 23,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 43,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-23",
+     "units": 43,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-01",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2020-07-20",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2022-08-19",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-01",
+     "units": 44,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002753/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-1998-07-14-1006342",
+   "short": "Bijzonder Decreet van 14 juli 1998",
+   "title": "Bijzonder Decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006342&param=informatie",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006342/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2026-09-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006342/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2002-07-19-1009703",
+   "short": "Bijzonder Decreet van 19 juli 2002",
+   "title": "Bijzonder Decreet van 19 juli 2002 houdende de controle op de mededelingen van de voorzitter van het Vlaamse Parlement",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009703&param=informatie",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009703/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2003-04-04-1011464",
+   "short": "Bijzonder Decreet van 4 april 2003",
+   "title": "Bijzonder Decreet van 4 april 2003 houdende de deelname van gemeenschapsinstellingen aan de associaties in het hoger onderwijs",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011464&param=informatie",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011464/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2008-06-20-1016950",
+   "short": "Bijzonder Decreet van 20 juni 2008",
+   "title": "Bijzonder Decreet van 20 juni 2008 houdende vervanging van artikel 10 van het bijzonder decreet van 7 juli 2006 over de Vlaamse instellingen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016950&param=informatie",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016950/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2009-02-20-1017846",
+   "short": "Bijzonder Decreet van 20 februari 2009",
+   "title": "Bijzonder Decreet van 20 februari 2009 [betreffende de Hogere Zeevaartschool (verv. Bijz. Decr. 13 juli 2012, art. 45, I: 1 oktober 2013)]",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017846&param=informatie",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 23,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017846/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-09-17",
+     "units": 23,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017846/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 12,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017846/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2011-07-08-1020563",
+   "short": "Bijzonder Decreet van 8 juli 2011",
+   "title": "Bijzonder Decreet van 8 juli 2011 tot aanvulling van het decreet houdende de organisatie van de lokale en provinciale verkiezingen en houdende wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020563&param=informatie",
+   "versions": [
+    {
+     "from": "2011-09-04",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020563/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2012-12-03",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020563/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2012-07-13-1022064",
+   "short": "Bijzonder Decreet van 13 juli 2012",
+   "title": "Bijzonder Decreet van 13 juli 2012 houdende wijziging van het bijzonder decreet van 4 april 2003 houdende de deelname van gemeenschapsinstellingen aan de associaties in het hoger onderwijs",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022064&param=informatie",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 5,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022064/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2012-07-13-1022097",
+   "short": "Bijzonder Decreet van 13 juli 2012",
+   "title": "Bijzonder Decreet van 13 juli 2012 houdende wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022097&param=informatie",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022097/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 32,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022097/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2012-07-13-1022262",
+   "short": "Bijzonder Decreet van 13 juli 2012",
+   "title": "Bijzonder Decreet van 13 juli 2012 houdende regeling van de bestuurlijke organisatie en werking van twee fusiehogescholen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022262&param=informatie",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022262/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 51,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022262/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2012-07-13-1022267",
+   "short": "Bijzonder Decreet van 13 juli 2012",
+   "title": "Bijzonder Decreet van 13 juli 2012 houdende regeling van de bestuurlijke organisatie en werking van sommige publiekrechtelijke hogescholen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022267&param=informatie",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022267/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-01-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022267/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-01",
+     "units": 70,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022267/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2014-04-04-1024192",
+   "short": "Bijzonder Decreet van 4 april 2014",
+   "title": "Bijzonder Decreet van 4 april 2014 houdende wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft de schoolraad",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024192&param=informatie",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024192/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2014-04-25-1024202",
+   "short": "Bijzonder Decreet van 25 april 2014",
+   "title": "Bijzonder Decreet van 25 april 2014 houdende wijziging van de regeling met betrekking tot de commissies van beroep in de publiekrechtelijke hogescholen en van de regeling met betrekking tot de verkiezing van sommige leden van het bestuurscollege van de Universiteit Gent",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024202&param=informatie",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 6,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024202/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2014-04-01",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024202/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2017-02-03-1028015",
+   "short": "Bijzonder Decreet van 3 februari 2017",
+   "title": "Bijzonder Decreet van 3 februari 2017 tot wijziging van diverse bepalingen van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028015&param=informatie",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028015/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 33,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028015/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2017-06-30-1028410",
+   "short": "Bijzonder Decreet van 30 juni 2017",
+   "title": "Bijzonder Decreet van 30 juni 2017 houdende wijziging van het Provinciedecreet van 9 december 2005 en van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028410&param=informatie",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028410/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2018-06-15-1029538",
+   "short": "Bijzonder Decreet van 15 juni 2018",
+   "title": "Bijzonder Decreet van 15 juni 2018 tot wijziging van het decreet van 28 november 2008 betreffende de intergemeentelijke onderwijsvereniging en het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029538&param=informatie",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 9,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029538/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2019-03-01-1030453",
+   "short": "Bijzonder Decreet van 1 maart 2019",
+   "title": "Bijzonder Decreet van 1 maart 2019 tot wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen, wat betreft het toezicht",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030453&param=informatie",
+   "versions": [
+    {
+     "from": "2019-09-01",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030453/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2020-05-08-1032991",
+   "short": "Bijzonder Decreet van 8 mei 2020",
+   "title": "Bijzonder Decreet van 8 mei 2020 tot dringende, tijdelijke afwijking van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs naar aanleiding van de coronacrisis, wat de leerlingenevaluatie betreft",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032991&param=informatie",
+   "versions": [
+    {
+     "from": "2020-05-09",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032991/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2020-06-19-1033385",
+   "short": "Bijzonder Decreet van 19 juni 2020",
+   "title": "Bijzonder Decreet van 19 juni 2020 tot wijziging van artikel 5 en 22 van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033385&param=informatie",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033385/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2022-07-15-1037324",
+   "short": "Bijzonder Decreet van 15 juli 2022",
+   "title": "Bijzonder Decreet van 15 juli 2022 tot wijziging van artikel 40sexies van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037324&param=informatie",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 2,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037324/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2023-11-17-1039018",
+   "short": "Bijzonder Decreet van 17 november 2023",
+   "title": "Bijzonder Decreet van 17 november 2023 tot wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen, wat betreft de delegatie door de raad van bestuur",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039018&param=informatie",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 4,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039018/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2024-05-17-1039770",
+   "short": "Bijzonder Decreet van 17 mei 2024",
+   "title": "Bijzonder Decreet van 17 mei 2024 tot wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039770&param=informatie",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 7,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039770/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "bijz-decr-2025-07-18-1041117",
+   "short": "Bijzonder Decreet van 18 juli 2025",
+   "title": "Bijzonder Decreet van 18 juli 2025 tot wijziging van de inwerkingtreding van het bijzonder decreet van 17 mei 2024 tot wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht",
+   "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041117&param=informatie",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 3,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041117/Structuur?includeArtikelen=true&includeVersies=true",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
