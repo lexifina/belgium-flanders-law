@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042419,
+  "title": "Ministerieel besluit van 2026-07-15 tot vastlegging van de voorwaarden voor de toekenning van een subsidiabel urencontingent gezinszorg voor het werkjaar 2026 en tot wijziging van het ministerieel besluit van 4 februari 2021 tot vastlegging voor de diensten voor gezinszorg van de voorwaarden voor de toekenning van een subsidiabel urencontingent gezinszorg, vermeld in artikel 49, en van de ontvankelijkheidscriteria voor de aanvraag van extra uren gezinszorg, vermeld in artikel 50 van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042419/VolledigDocument?datum=2026-10-31",
+  "source_sha256": "3787b5cc5f0a3d45950b43d555bd6eaeb38893e3d64ffaa6202ba78465149fdb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042419&param=informatie",
+  "as_of": "2026-10-31",
+  "made": "2026-07-15",
+  "gazette": "2026-10-21",
+  "numac": 2026007661,
+  "document_start": "2026-10-31",
+  "document_end": null,
+  "in_force": "2026-10-31",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
