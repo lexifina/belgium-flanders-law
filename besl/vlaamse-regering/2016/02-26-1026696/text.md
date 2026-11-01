@@ -10,8 +10,8 @@
 
 In dit besluit wordt verstaan onder :<br>
 1° agentschap : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-2° collectief overlegorgaan : het overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
-3° collectieve inspraak : de collectieve inspraak, vermeld in artikel 30 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+2° ...;<br>
+3° collectieve inspraak : de collectieve inspraak, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 4° decreet van 12 juli 2013 : het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 4°/1 decreet van 3 juni 2022: het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers;”;<br>
 4°/2 pleeggezin: een pleeggezin als vermeld in artikel 2, §1, 45°, van het decreet van 12 juli 2013;<br>
@@ -40,7 +40,11 @@ Om erkend te worden en te blijven, moet een MFC voldoen aan de bepalingen, verme
 
 ### ART. 5.
 
-<P>§   1. Een MFC voorziet, wat betreft de infrastructuur en basisuitrusting die het   ter beschikking stelt aan gebruikers, in veilige en aangepaste accommodatie   waarbij de privacy van de gebruiker gegarandeerd wordt. De infrastructuur moet   voldoende verwarmd, verlicht en geventileerd zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Een MFC neemt maatregelen voor brandpreventie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   gebouwen waarin verblijf aangeboden wordt, en voor lokalen voor   schoolaanvullende dagopvang of schoolvervangende dagopvang, beschikt een MFC   over een brandweerverslag over de brandveiligheid van het   gebouw.</P>
+<p>§ 1. Een MFC voorziet in noodzakelijke hulpmiddelen en infrastructurele aanpassingen, inclusief herstellingen en onderhoud, zodat gebruikers op een comfortabele en veilige manier kunnen wonen, leven en deelnemen aan de activiteiten, waarbij de privacy van de gebruiker gegarandeerd wordt. De infrastructuur is voldoende verwarmd, verlicht en geventileerd.</p>
+
+<p>§ 2. Een MFC neemt maatregelen voor brandpreventie.</p>
+
+<p>Voor gebouwen waarin verblijf aangeboden wordt, en voor lokalen voor schoolaanvullende dagopvang of schoolvervangende dagopvang, beschikt een MFC over een brandweerverslag over de brandveiligheid van het gebouw.</p>
 
 ### ART 5/1.
 
@@ -215,7 +219,7 @@ Minstens   75% van het puntenpakket in erkenning wordt besteed aan functies van 
 
 <p>Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).</p>
 
-<p>Het bedrag, vermeld in het eerste lid, wordt alleen gesubsidieerd op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectief overlegorgaan of dat er collectieve inspraak is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan deze overlegkanalen transparantie is geboden over de aanwending. Op verzoek van het agentschap bewijst het MFC het resultaat van het overleg met het collectief overlegorgaan of collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.</p>
+<p>Het bedrag, vermeld in het eerste lid, wordt alleen gesubsidieerd op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd via collectieve inspraak en dat er overleg met de medewerkers heeft plaatsgevonden, en dat er aan die overlegkanalen transparantie is geboden over de aanwending van het bedrag. Op verzoek van het agentschap bewijst het MFC het resultaat van de collectieve inspraak en het overleg met de medewerker.</p>
 
 <p>Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
 <br>
@@ -305,7 +309,7 @@ Voor individuele praktische hulp, globale ondersteuning en oproepbare permanenti
 <br>
 Aan gebruikers die een financiële bijdrage betalen, mogen alleen nog persoonlijke, individueel toewijsbare kosten aangerekend worden.<br>
 <br>
-Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, energiekosten, vervoer naar de collectieve dagbesteding, kosten en heffingen ten laste van een FAM, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten<br>
+Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, noodzakelijke hulpmiddelen met inbegrip van herstelling en onderhoud, energiekosten, vervoer naar de collectieve dagbesteding, kosten en heffingen ten laste van een FAM, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten<br>
 <br>
 § 2. De gebruiker, vermeld in artikel 9, die gebruikmaakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, behoudt 357,39 euro per maand van zijn persoonlijke inkomsten of minstens een derde van zijn arbeidsinkomen of vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, als hij voldoet aan een van de volgende voorwaarden :<br>
 1° hij is bekwaam om tewerkgesteld te worden of in een erkend maatwerkbedrijf te werken;<br>
@@ -343,7 +347,11 @@ Een   MFC vermindert de bijdrage voor schoolaanvullende dagopvang of schoolverva
 
 ### ART. 31.
 
-<P>Aan   de gebruiker mogen behoudens de financiële bijdrage alleen persoonlijke,   individueel toewijsbare kosten aangerekend worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Die   kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van   infrastructuur, energiekosten, vervoer naar de collectieve dagbesteding, kosten   en heffingen ten laste van het MFC, kosten voor de collectieve atelierwerking   binnen de dagondersteuning of administratiekosten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Binnen   de regels, vermeld in deze afdeling, wordt de regeling voor de kosten die   verschuldigd zijn door de gebruikers, in overleg met het collectief   overlegorgaan of collectieve inspraak bepaald.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Aan de gebruiker mogen behoudens de financiële bijdrage alleen persoonlijke, individueel toewijsbare kosten aangerekend worden.</p>
+
+<p>Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, noodzakelijke hulpmiddelen met inbegrip van herstelling en onderhoud, energiekosten, vervoer naar de collectieve dagbesteding, kosten en heffingen ten laste van het MFC, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten.</p>
+
+<p>Binnen de regels, vermeld in deze afdeling, wordt de regeling voor de kosten die verschuldigd zijn door de gebruikers, via collectieve inspraak bepaald.</p>
 
 ## Afdeling 3 Betaling van de subsidies
 

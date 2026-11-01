@@ -2,16 +2,16 @@
   "codex_id": 1026696,
   "title": "Besluit van de Vlaamse Regering van 2016-02-26 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026696/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "8cb6352c56b5b892a98be74b989a2c899264131eced457a0e64fbc8b201311ec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026696/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "08d036d20053821e3100b29a1fe9063fffa2a86718ddc6140d0899712fb4e98c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026696&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-11-01",
   "made": "2016-02-26",
   "gazette": "2016-04-12",
   "numac": 2016035423,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2025-01-01",
+  "in_force": "2026-11-01",
   "article_versions": 52,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
