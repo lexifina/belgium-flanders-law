@@ -127,7 +127,7 @@ Het agentschap erkent de voorziening, die een aanvraag tot verlenging heeft inge
 
 §1. De voorziening voor rechtstreeks toegankelijke hulp kan een erkenning van onbepaalde duur krijgen als de volgende voorwaarden zijn vervuld:<br>
 1°&nbsp;&nbsp; &nbsp;de voorziening toont een effectieve werking aan. In dit artikel wordt verstaan onder effectieve werking: dat er binnen een aaneengesloten periode van drie jaar jaarlijks minstens de helft van de personeelspunten waarvoor de voorziening voor rechtstreeks toegankelijke hulp is erkend, vermeld in artikel 3, door de voorziening voor rechtstreeks toegankelijke hulp zelf is gepresteerd en geregistreerd, conform artikel 7;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;Zorginspectie heeft geen inbreuken vastgesteld op artikel 45 tot en met 49 van het besluit van 4 februari 2011, tenzij uit een verslag van Zorginspectie blijkt dat die inbreuken ondertussen zijn geremedieerd. Bij de aanvraag tot verlenging naar onbepaalde duur beoordeelt het agentschap het plan van de voorziening om de bestaande inbreuken weg te werken binnen de remediëringstermijnen, vermeld in artikel 55 tot en met 59/1 van het besluit van 4 februari 2011. Als het agentschap dat plan voldoende acht, kan het de erkenning van onbepaalde duur toestaan, ondanks de vastgestelde inbreuken;<br>
+2°&nbsp;&nbsp; &nbsp;Zorginspectie heeft geen inbreuken vastgesteld op de bepalingen van hoofdstuk 9 van het besluit van 4 februari 2011, tenzij uit een verslag van Zorginspectie blijkt dat die inbreuken ondertussen zijn geremedieerd. Bij de aanvraag tot verlenging naar onbepaalde duur beoordeelt het agentschap het plan van de voorziening om de bestaande inbreuken weg te werken binnen de remediëringstermijnen, vermeld in artikel 55 tot en met 58 van het besluit van 4 februari 2011. Als het agentschap dat plan voldoende acht, kan het de erkenning van onbepaalde duur toestaan, ondanks de vastgestelde inbreuken;<br>
 3°&nbsp;&nbsp; &nbsp;uit de beschikbare financiële gegevens en de aanvraag tot erkenning blijken de volgende elementen:<br>
 a) &nbsp;&nbsp; &nbsp;er zijn geen ernstige problemen met de rendabiliteit, solvabiliteit of liquiditeit van de kandidaat;<br>
 b) &nbsp;&nbsp; &nbsp;er zijn geen ernstige moeilijkheden met de doelmatige aanwending van de overheidsmiddelen die bestemd zijn voor de zorg voor en ondersteuning van personen met een handicap en personen met een vermoeden van een handicap;<br>
@@ -279,9 +279,9 @@ Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011 of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd via collectieve inspraak, vermeld in artikel 27 van het besluit van 4 februari 2011, en dat er overleg met de medewerkers heeft plaatsgevonden en er aan die overlegkanalen transparantie is geboden over de aanwending van het bedrag.<br>
 <br>
-Op verzoek van het agentschap bewijst de voorziening het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.<br>
+Op verzoek van het agentschap bewijst de voorziening het resultaat van de collectieve inspraak en het overleg met de medewerkers.<br>
 <br>
 Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.</p>
 
@@ -400,7 +400,7 @@ De maximumbedragen, vermeld in het eerste tot en met het zesde lid, worden jaarl
 <br>
 §4. De voorziening rekent aan de gebruiker, behoudens de financiële bijdrage, alleen persoonlijke, individueel toewijsbare kosten aan.<br>
 <br>
-Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, energiekosten, kosten en heffingen ten laste van de voorziening, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten.<br>
+Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, noodzakelijke hulpmiddelen met inbegrip van herstelling en onderhoud, energiekosten, kosten en heffingen ten laste van de voorziening, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten.<br>
 <br>
 De regeling voor de kosten die verschuldigd zijn door de gebruikers, wordt vastgelegd in overleg met de collectieve inspraak, vermeld in artikel 30 van het besluit van 4 februari 2011.<br>
 <br>
