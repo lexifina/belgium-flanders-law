@@ -27,7 +27,7 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° asiel: een dierenasiel dat erkend is conform het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
 2° asielfiche: een document dat in papieren of elektronische vorm kan bestaan. Met dit document kan een asiel de gegevens van een hond die geregistreerd is in de databank, vermeld in artikel 3, wijzigen. Het document bevat de gegevens, vermeld in bijlage 5, die bij dit besluit is gevoegd;<br>
-3° dienst: de dienst, vermeld in artikel 3, punt 23, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+3° ...;<br>
 4° dierenarts: een dierenarts die gemachtigd is om de diergeneeskunde uit te oefenen op het grondgebied van het Vlaamse Gewest;<br>
 5° digitale sleutel: een elektronisch middel waarmee de identificatie en authenticatie van de persoonsgegevens op de identiteitskaart mogelijk worden gemaakt;<br>
 6° erkende kwekerij: een hondenkwekerij die erkend is conform het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
@@ -51,7 +51,7 @@ De bepalingen van dit besluit zijn niet van toepassing op:<br>
 3° de handel in honden en het verkeer van honden controleren;<br>
 4° de handhaving van de dierenwelzijnsregelgeving opvolgen.<br>
 <br>
-De databank, vermeld in het eerste lid, wordt van dit besluit beheerd door de dienst die optreedt als verwerkingsverantwoordelijke. De dienst kan voor de volledige taak van het voormelde beheer of voor een deel van die taak een beroep doen op een dienstverlenend bedrijf dat dan optreedt als verwerker als vermeld in artikel 4, 8), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+De databank, vermeld in het eerste lid, wordt van dit besluit beheerd door het departement die optreedt als verwerkingsverantwoordelijke. Het departement kan voor de volledige taak van het voormelde beheer of voor een deel van die taak een beroep doen op een dienstverlenend bedrijf dat dan optreedt als verwerker als vermeld in artikel 4, 8), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
 §2. Zonder afbreuk te doen aan de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens kan de databank, vermeld in paragraaf 1, gegevens verstrekken aan andere overheidsinstanties dan de overheidsinstanties, vermeld in dit besluit, over honden die geregistreerd zijn in die databank en hun verantwoordelijken, voor andere doeleinden dan de doeleinden, vermeld in paragraaf 1, eerste lid, onder voorbehoud van de wettigheid van het verzoek en de vergoeding voor de kosten die deze instanties moeten betalen.
 
@@ -135,7 +135,7 @@ Voor een hond die afkomstig is uit het buitenland, vult de dierenarts het voorlo
 
 ### ART 17.
 
-De dierenarts stuurt het origineel van het voorlopige registratiecertificaat, vermeld in artikel 14, binnen acht dagen na het invullen naar de dienst.
+De dierenarts stuurt het origineel van het voorlopige registratiecertificaat, vermeld in artikel 14, binnen acht dagen na het invullen naar het departement.
 
 ### ART 18.
 
@@ -148,7 +148,7 @@ De dierenarts bewaart de groene kopie, vermeld in artikel 15, tot een jaar na de
 Binnen acht dagen na de identificatie conform artikel 7 tot en met 13 of, voor een hond die afkomstig is uit het buitenland, binnen acht dagen na de controle van de microchip voert de dierenarts de volgende acties uit:&nbsp;<br>
 1° de dierenarts vult het elektronische voorlopige registratiecertificaat, vermeld in artikel 14, in;<br>
 2° de dierenarts bevestigt de volledigheid en de juistheid van de gegevens met een digitale sleutel;<br>
-3° de dierenarts stuurt het voorlopige registratiecertificaat, vermeld in artikel 14, door naar de dienst.&nbsp;
+3° de dierenarts stuurt het voorlopige registratiecertificaat, vermeld in artikel 14, door naar het departement.&nbsp;
 
 ### ART 20.
 
@@ -162,7 +162,7 @@ Op het ogenblik van de identificatie conform artikel 7 tot en met 13 of, voor ee
 
 ### ART 22.
 
-Na ontvangst van het origineel van het elektronische of het papieren voorlopige registratiecertificaat, vermeld in artikel 14, registreert de dienst de gegevens van de hond en zijn verantwoordelijke en stuurt een registratiecertificaat naar de verantwoordelijke, samen met een papieren fiche Wijziging gegevens.
+Na ontvangst van het origineel van het elektronische of het papieren voorlopige registratiecertificaat, vermeld in artikel 14, registreert het departement de gegevens van de hond en zijn verantwoordelijke en stuurt een registratiecertificaat naar de verantwoordelijke, samen met een papieren fiche Wijziging gegevens.
 
 ### ART 23.
 
@@ -170,7 +170,7 @@ De verantwoordelijke kleeft het registratiecertificaat onmiddellijk na de ontvan
 
 ### ART 24.
 
-Bij elke wijziging van de gegevens, vermeld op het registratiecertificaat, stuurt de dienst een nieuw registratiecertificaat naar de verantwoordelijke waarbij een papieren fiche Wijziging gegevens is gevoegd.
+Bij elke wijziging van de gegevens, vermeld op het registratiecertificaat, stuurt het departement een nieuw registratiecertificaat naar de verantwoordelijke waarbij een papieren fiche Wijziging gegevens is gevoegd.
 
 ## Hoofdstuk 4. Wijziging van de gegevens van de verantwoordelijke of van de hond
 
@@ -217,23 +217,23 @@ De dierenarts attesteert de volledigheid en de juistheid van de gegevens, vermel
 
 ### ART 26.
 
-Bij elke wijziging van de gegevens op het registratiecertificaat stuurt de dienst een nieuw registratiecertificaat naar de verantwoordelijke, met inbegrip van een papieren fiche Wijziging gegevens.<br>
+Bij elke wijziging van de gegevens op het registratiecertificaat stuurt het departement een nieuw registratiecertificaat naar de verantwoordelijke, met inbegrip van een papieren fiche Wijziging gegevens.<br>
 <br>
-Bij de verhuizing van een hond naar het buitenland wordt in de databank, vermeld in artikel 3, alleen opgenomen dat de hond zich niet meer in België bevindt. In het voormelde geval stuurt de dienst in afwijking van het eerste lid geen registratiecertificaat of een fiche Wijziging gegevens naar de verantwoordelijke.
+Bij de verhuizing van een hond naar het buitenland wordt in de databank, vermeld in artikel 3, alleen opgenomen dat de hond zich niet meer in België bevindt. In het voormelde geval stuurt het departement in afwijking van het eerste lid geen registratiecertificaat of een fiche Wijziging gegevens naar de verantwoordelijke.
 
 ## Afdeling 2. Wijzigingen naar aanleiding van het verhandelen van de hond
 
 ### ART 27.
 
 Als een hond wordt verhandeld, voert de overdrager een van de volgende acties uit:<br>
-1° de overdrager deelt de gegevens van de nieuwe verantwoordelijke binnen acht dagen na de overdracht mee aan de dienst met een papieren fiche Wijziging gegevens;<br>
+1° de overdrager deelt de gegevens van de nieuwe verantwoordelijke binnen acht dagen na de overdracht mee aan het departement met een papieren fiche Wijziging gegevens;<br>
 2° de overdrager voert binnen acht dagen na de overdracht de gegevens van de nieuwe verantwoordelijke in de databank in, vermeld in artikel 3, via de elektronische fiche Wijziging gegevens, op voorwaarde dat de wijziging gevalideerd wordt met een digitale sleutel van de overdrager en de nieuwe verantwoordelijke.&nbsp;<br>
 <br>
 In beide gevallen, vermeld in het eerste lid, gebruiken de asielen de asielfiche.&nbsp;<br>
 <br>
 Als een dierenarts de wijziging meldt, voert die in afwijking van het eerste lid binnen acht dagen na de overdracht de gegevens van de nieuwe verantwoordelijke, inclusief het rijksregisternummer van de nieuwe verantwoordelijke in de databank in, vermeld in artikel 3, via de elektronische fiche Wijziging gegevens en valideert ze met een digitale sleutel.<br>
 <br>
-In afwijking van het eerste lid gebeurt de mededeling of invoering voor zwervende, verloren of achtergelaten honden na afloop van de termijn, vermeld in artikel 9, §2, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.&nbsp;
+In afwijking van het eerste lid gebeurt de mededeling of invoering voor zwervende, verloren of achtergelaten honden na afloop van de termijn, vermeld in artikel 15, §4, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.&nbsp;
 
 ### ART 28.
 
@@ -245,9 +245,9 @@ Het paspoort, met inbegrip van het registratiecertificaat, wordt bij de overdrac
 
 ### ART 30.
 
-Bij de overdracht van een hond stuurt de dienst een nieuw registratiecertificaat naar de nieuwe verantwoordelijke, met inbegrip van een papieren fiche Wijziging gegevens.<br>
+Bij de overdracht van een hond stuurt het departement een nieuw registratiecertificaat naar de nieuwe verantwoordelijke, met inbegrip van een papieren fiche Wijziging gegevens.<br>
 <br>
-Bij de verhuizing van een hond naar het buitenland wordt in de databank, vermeld in artikel 3, alleen opgenomen dat de hond zich niet meer in België bevindt. In het voormelde geval stuurt de dienst in afwijking van het eerste lid geen registratiecertificaat of een papieren fiche Wijziging gegevens naar de nieuwe verantwoordelijke.&nbsp;
+Bij de verhuizing van een hond naar het buitenland wordt in de databank, vermeld in artikel 3, alleen opgenomen dat de hond zich niet meer in België bevindt. In het voormelde geval stuurt het departement in afwijking van het eerste lid geen registratiecertificaat of een papieren fiche Wijziging gegevens naar de nieuwe verantwoordelijke.&nbsp;
 
 ## Hoofdstuk 5. Asielen
 
@@ -255,7 +255,7 @@ Bij de verhuizing van een hond naar het buitenland wordt in de databank, vermeld
 
 Een asiel kan niet-geïdentificeerde en niet-geregistreerde honden opvangen.<br>
 <br>
-In geval van de opvang van een hond, vermeld in artikel 9, §1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, laat de verantwoordelijke van het asiel het dier pas identificeren en registreren, conform artikel 7 tot en met 24 van dit besluit, na afloop van de termijn, vermeld in artikel 9, §2, van de voormelde wet. De contractdierenarts identificeert en registreert de hond op naam van de verantwoordelijke van het asiel.
+In geval van de opvang van een hond, vermeld in artikel 15, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, laat de verantwoordelijke van het asiel het dier pas identificeren en registreren, conform artikel 7 tot en met 24 van dit besluit, na afloop van de termijn, vermeld in artikel 15, §4, van het voormelde decreet. De contractdierenarts identificeert en registreert de hond op naam van de verantwoordelijke van het asiel.
 
 ### ART 32.
 
@@ -267,11 +267,11 @@ Een geïdentificeerde maar niet-geregistreerde hond wordt pas teruggegeven aan z
 
 ### ART 33.
 
-Als een hond die door het asiel is opgenomen, al geregistreerd is, vult de verantwoordelijke van het asiel de asielfiche in en bezorgt die fiche binnen veertien dagen na de opname aan de dienst. In geval van een elektronische procedure gebeurt er een validatie met een digitale sleutel.
+Als een hond die door het asiel is opgenomen, al geregistreerd is, vult de verantwoordelijke van het asiel de asielfiche in en bezorgt die fiche binnen veertien dagen na de opname aan het departement. In geval van een elektronische procedure gebeurt er een validatie met een digitale sleutel.
 
 ### ART 34.
 
-Als een hond die door het asiel is opgenomen, geadopteerd wordt, vult de verantwoordelijke van het asiel de gegevens van de adoptant in de asielfiche in en bezorgt die fiche binnen veertien dagen na de adoptie aan de dienst. In geval van een elektronische procedure gebeurt er een validatie met een digitale sleutel.
+Als een hond die door het asiel is opgenomen, geadopteerd wordt, vult de verantwoordelijke van het asiel de gegevens van de adoptant in de asielfiche in en bezorgt die fiche binnen veertien dagen na de adoptie aan het departement. In geval van een elektronische procedure gebeurt er een validatie met een digitale sleutel.
 
 ## Hoofdstuk 6. Verlies en vervanging van paspoort
 
@@ -284,7 +284,7 @@ In de volgende gevallen vraagt de verantwoordelijke van een geregistreerde hond 
 <br>
 In het geval, vermeld in het eerste lid, 3°, laat de verantwoordelijke de hond zo snel mogelijk opnieuw identificeren.&nbsp;<br>
 <br>
-In de gevallen, vermeld in het eerste lid, deelt de dierenarts de nieuwe gegevens binnen acht dagen na de aanvraag mee aan de dienst.&nbsp;<br>
+In de gevallen, vermeld in het eerste lid, deelt de dierenarts de nieuwe gegevens binnen acht dagen na de aanvraag mee aan het departement.&nbsp;<br>
 <br>
 In het geval, vermeld in het eerste lid, 3°, wordt naast de gegevens, vermeld in het derde lid, ook het nummer van de microchip en het onleesbaar geworden identificatienummer meegedeeld. De dierenarts gebruikt daarvoor de fiche Vervanging paspoort. Voor de asielen gebeurt dat via de asielfiche. Als de gegevens worden gewijzigd via de elektronische procedure, gebeurt er een validatie met een digitale sleutel.&nbsp;
 
@@ -331,7 +331,7 @@ Als de verantwoordelijke de beheerder van een asiel of een erkende kweker is, be
 
 De volgende personen hebben toegang tot de gegevens in de databank, vermeld in artikel 36 van dit besluit:<br>
 1° de verantwoordelijken van de honden: voor alle actuele gegevens van de honden waarvoor ze verantwoordelijk zijn;<br>
-2° de bevoegde overheid met toepassing van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, en de Dierengezondheidswet van 24 maart 1987;<br>
+2° de bevoegde overheid met toepassing van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, en de Dierengezondheidswet van 24 maart 1987;<br>
 3° de dierenartsen en de asielen: uitsluitend voor de gegevens die nodig zijn om de verantwoordelijke van een dolende, verloren of achtergelaten hond terug te vinden;<br>
 4° de dierenartsen: voor alle actuele gegevens van de honden waaraan ze op verzoek van de verantwoordelijke wijzigingen moeten aanbrengen.<br>
 <br>
@@ -346,9 +346,9 @@ Het beheer van de databank, vermeld in artikel 3, omvat al de volgende taken:<br
 4° het verband verzekeren tussen de gegevens van de hond en de verantwoordelijke van die hond en de verschillende documenten die daarop betrekking hebben door het rijksregisternummer van de verantwoordelijke en een centraal adressenbestand dat alle officiële adressen in België bevat, te gebruiken. Het voormelde bestand wordt altijd geüpdatet bij veranderingen;<br>
 5° blanco voorlopige registratiecertificaten en blanco fiches Vervanging paspoort afleveren aan de dierenartsen;<br>
 6° digitaal een kopie van het voorlopige registratiecertificaat bezorgen aan de dierenarts en aan de verantwoordelijke in geval van elektronische voorlopige registratie van een hond door de dierenarts;<br>
-7° de traceerbaarheid verzekeren van de verdeelde voorlopige registratiecertificaten en fiches Vervanging paspoort. Op verzoek van de dienst stuurt de beheerder van de databank binnen twee werkdagen na het verzoek op elektronische wijze de nummers van de registratiecertificaten en de persoonsgegevens van de personen aan wie dat nummer en die gegevens zijn afgeleverd;&nbsp;<br>
+7° de traceerbaarheid verzekeren van de verdeelde voorlopige registratiecertificaten en fiches Vervanging paspoort. Op verzoek van het departement stuurt de beheerder van de databank binnen twee werkdagen na het verzoek op elektronische wijze de nummers van de registratiecertificaten en de persoonsgegevens van de personen aan wie dat nummer en die gegevens zijn afgeleverd;&nbsp;<br>
 8° blanco asielfiches afleveren aan de asielen;<br>
-9° een registratiecertificaat bezorgen aan de verantwoordelijke binnen vijf werkdagen na de dag waarop de dienst de aanvraag tot registratie of tot wijziging van de gegevens heeft ontvangen;<br>
+9° een registratiecertificaat bezorgen aan de verantwoordelijke binnen vijf werkdagen na de dag waarop het departement de aanvraag tot registratie of tot wijziging van de gegevens heeft ontvangen;<br>
 10° de nummers van de registratiecertificaten en de gegevens van de persoon aan wie die certificaten en gegevens zijn afgeleverd, bijhouden;<br>
 11° dierenartsen, asielen en erkende kwekers registreren.<br>
 <br>
