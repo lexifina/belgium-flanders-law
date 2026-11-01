@@ -2,16 +2,16 @@
   "codex_id": 1039838,
   "title": "Besluit van de Vlaamse Regering van 2024-05-31 over de fokkerij van honden en katten en de voorwaarden om stambomen af te leveren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039838/VolledigDocument?datum=2025-07-01",
-  "source_sha256": "db234dcb34643f7682211f2e29f5f29518bc80b3b17851fb875457db4750c21e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039838/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "7130e797ea87f86acf4d15a716cedcebb2cc99955ce1015b7d51a114f4ecd162",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039838&param=informatie",
-  "as_of": "2025-07-01",
+  "as_of": "2026-11-01",
   "made": "2024-05-31",
   "gazette": "2024-06-19",
   "numac": 2024006163,
   "document_start": "2024-06-29",
   "document_end": null,
-  "in_force": "2025-07-01",
+  "in_force": "2026-11-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }

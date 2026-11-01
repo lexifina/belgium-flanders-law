@@ -242,7 +242,7 @@ Met het oog op het welzijn van de dieren worden bij de organisatie van tentoonst
 
 ### ART 19.
 
-Ter uitvoering van artikel 6, §1 en §2, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en met het oog op het welzijn van de dieren, kan de minister bijkomende voorwaarden opleggen voor de organisatie van tentoonstellingen, wedstrijden en keuringen en de beoordeling van honden en katten tijdens die evenementen.
+Ter uitvoering van artikel 25 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 en met het oog op het welzijn van de dieren, kan de minister bijkomende voorwaarden opleggen voor de organisatie van tentoonstellingen, wedstrijden en keuringen en de beoordeling van honden en katten tijdens die evenementen.
 
 ## Hoofdstuk 6. Slotbepalingen
 
