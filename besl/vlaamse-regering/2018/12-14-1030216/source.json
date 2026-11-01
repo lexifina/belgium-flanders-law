@@ -2,16 +2,16 @@
   "codex_id": 1030216,
   "title": "Besluit van de Vlaamse Regering van 2018-12-14 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030216/VolledigDocument?datum=2026-10-01",
-  "source_sha256": "27e7318cd95182da041e383ef73a8c9be3d3453b521682b18e525d1d8991b41b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030216/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "0990f5366d238468a866cda6aa941fc6380f84ec20afd79fb6769021fb9a08b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030216&param=informatie",
-  "as_of": "2026-10-01",
+  "as_of": "2026-11-01",
   "made": "2018-12-14",
   "gazette": "2019-02-01",
   "numac": 2019010525,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2026-10-01",
+  "in_force": "2026-11-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2026-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
