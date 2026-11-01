@@ -17,7 +17,8 @@ In dit besluit wordt verstaan onder:<br>
 6° decreet van 25 april 2014: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
 7° handicap: een handicap, als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004;<br>
 8° leden: de leden van een bijstandsorganisatie die budgethouder zijn;<br>
-9° zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
+9° zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+10° besluit van 4 februari 2011: het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap.
 
 ## HOOFDSTUK 2 Besluit 2012/21/EU
 
@@ -50,35 +51,12 @@ Een bijstandsorganisatie kan reserves aanleggen conform artikel 72, § 1, van he
 6° de organisatie toont aan dat ze openstaat voor een ruime, diverse doelgroep van personen met een handicap;<br>
 7° de organisatie hangt niet af van organisaties die instaan voor de indicatiestelling of van organisaties die niet-rechtsreeks toegankelijke zorg en ondersteuning aanbieden;<br>
 8° de organisatie voldoet aan de door de Vlaamse minister, bevoegd voor de bijstand aan personen, vastgestelde kwaliteitseisen;<br>
-9° de werking van de organisatie bestrijkt het volledige grondgebied van het Nederlands taalgebied en het tweetalige gebied Brussel-hoofdstad.<br>
+9° de werking van de organisatie bestrijkt het volledige grondgebied van het Nederlands taalgebied en het tweetalige gebied Brussel-hoofdstad;<br>
+10° de zorginspectie of het agentschap heeft geen inbreuken vastgesteld op de bepalingen van hoofdstuk 9 van het besluit van 4 februari 2011, tenzij uit een verslag van de zorginspectie of het rapport van het agentschap blijkt dat die inbreuken ondertussen zijn geremedieerd. Voor nog openstaande inbreuken op het moment van de verlenging wordt er gekeken naar het plan van aanpak om de inbreuken weg te werken binnen de remediëringstermijnen, vermeld in artikel 55 tot en met 58 van het besluit van 4 februari 2011.<br>
 <br>
-Om vergund te blijven moeten de bijstandsorganisaties beschikken over een kwaliteitshandboek als vermeld in artikel 5, § 4, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, dat de gegevens bevat die opgenomen zijn in de bijlage, die bij dit besluit is gevoegd.<br>
+De bijstandsorganisaties moeten aan de voorwaarde, vermeld in het eerste lid, 10°, voldoen na afloop van een periode van twee jaar te rekenen vanaf de aanvangsdatum van de vergunning.<br>
 <br>
-Het kwaliteitshandboek is actueel, vormt een samenhangend geheel en komt overeen met de praktijk. Het ligt permanent ter beschikking van de medewerkers van de bijstandsorganisaties en van de budgethouders.<br>
-<br>
-Het kwaliteitshandboek waarborgt en is niet in tegenspraak met de kwaliteitseisen, vermeld in het eerste lid, 8°.<br>
-<br>
-De zelfevaluatie, vermeld in artikel 5, § 3, van het voormelde decreet van 17 oktober 2003, die de bijstandsorganisatie uitvoert, bevat minstens:<br>
-1° een evaluatie van de gebruikersgerichte processen;<br>
-2° een evaluatie van de organisatiegerichte processen en ingezette middelen.<br>
-<br>
-De zelfevaluatie gebeurt in samenspraak met de medewerkers en de budgethouders.<br>
-<br>
-Bij de evaluatie, vermeld in het vijfde lid, 1° en 2°, wordt in het bijzonder aandacht geschonken aan de doeltreffendheid en doelmatigheid van de processen.<br>
-<br>
-In het zevende lid wordt verstaan onder:<br>
-1° doeltreffendheid: de mate waarin de doelstellingen gerealiseerd worden;<br>
-2° doelmatigheid: de mate waarin de resultaten zich verhouden tot de middelen.<br>
-<br>
-In het achtste lid, 2°, wordt verstaan onder middelen: personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden.<br>
-<br>
-Bij elk van de evaluaties, vermeld in het vijfde lid, 1° en 2°, worden de vijf elementen, vermeld in artikel 5, § 3, tweede lid, 1° tot en met 5°, van het voormelde decreet van 17 oktober 2003, doorlopen, telkens gedurende maximaal vijf jaar.<br>
-<br>
-De bijstandsorganisaties moeten aan de voorwaarden, vermeld in het tweede tot en met het tiende lid, voldoen na afloop van een periode van twee jaar te rekenen vanaf de aanvangsdatum van de vergunning.<br>
-<br>
-In afwijking van het elfde lid moeten de bijstandsorganisaties die op 1 januari 2018 zijn vergund door het agentschap met ingang van 1 juli 2020 voldoen aan de voorwaarde, vermeld in derde lid.</p>
-
-<p>Er worden maximaal vijf bijstandsorganisaties vergund. De vergunning, vermeld in het eerste lid, wordt toegekend voor onbepaalde duur.</p>
+Er worden maximaal vijf bijstandsorganisaties vergund. De vergunning, vermeld in het eerste lid, wordt toegekend voor onbepaalde duur.</p>
 
 ### ART. 7.
 
@@ -87,6 +65,10 @@ De   bijstandsorganisaties hebben minstens vijfhonderd aangesloten leden. De   b
 ### ART. 8.
 
 <P>De   bijstandsorganisaties hebben een goede kennis van alle actoren die betrokken   zijn bij de organisatie en het aanbieden van zorg en ondersteuning, zowel   handicapspecifiek als regulier. De bijstandsorganisaties stellen de behoeften,   wensen en de situatie van de budgethouders centraal bij het vervullen van hun   opdrachten en taken en vertrekken daarbij vanuit de basisprincipes van   zelfsturing, emancipatie en het krachtiger maken van de budgethouders. De   bijstandsorganisaties hebben er, in samenwerking met het agentschap, oog voor of   de toegekende budgetten voor niet-rechtstreeks toegankelijke zorg en   ondersteuning ook werkelijk ten goede komen van de bestaanskwaliteit van de   budgethouders en hun gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bijstandsorganisaties richten zich tot alle budgethouders, ongeacht de aard van   hun handicap en ongeacht of de budgethouders hun budget voor niet-rechtstreeks   toegankelijke zorg en ondersteuning inzetten als cashbudget of als   voucher.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART 8/1.
+
+Het besluit van 4 februari 2011 is van toepassing op de bijstandsorganisaties.
 
 ## HOOFDSTUK 4 Opdrachten en taken van de bijstandsorganisaties
 
@@ -204,21 +186,23 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 Het bedrag, vermeld in artikel 16, tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
-## HOOFDSTUK 7 Toezicht
+## HOOFDSTUK 7 ...
 
 ### ART. 18.
 
-<P>De   vergunde bijstandsorganisaties leggen op de door het agentschap vastgelegde   wijze verantwoording af over de besteding van de ter beschikking gestelde   middelen. Uit deze verantwoording moet blijken dat de ter beschikking gestelde   middelen zijn aangewend voor de doelstellingen, vermeld in dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Zorginspectie   controleert ter plaatse of de kwaliteitseisen en de voorschriften, vermeld in   dit besluit, worden nageleefd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De vergunde bijstandsorganisaties leggen op de door het agentschap vastgelegde wijze verantwoording af over de besteding van de ter beschikking gestelde middelen. Uit deze verantwoording moet blijken dat de ter beschikking gestelde middelen zijn aangewend voor de doelstellingen, vermeld in dit besluit.</p>
+
+<p>Zorginspectie of het agentschap controleert of de kwaliteitseisen en de voorschriften, vermeld in dit besluit, worden nageleefd.</p>
 
 ### ART 18/1.
 
-Als een budgethouder een klacht heeft ingediend bij een bijstandsorganisatie, maar het antwoord van de bijstandsorganisatie de klager geen voldoening schenkt, of als de bijstandsorganisatie de klacht niet afhandelt binnen de termijn die is vastgesteld in de interne klachtenprocedure, dan bestaat de mogelijkheid voor de budgethouder om klacht in te dienen bij het agentschap.
+...
 
-## HOOFDSTUK 8 Sancties
+## HOOFDSTUK 8 ...
 
 ### ART. 19.
 
-<P>Als   vastgesteld wordt dat een bijstandsorganisatie niet voldoet aan de   kwaliteitseisen of andere voorschriften, vermeld in dit besluit, niet naleeft,   kan het agentschap:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   een vertegenwoordiger laten deelnemen aan de raad van bestuur van die   bijstandsorganisatie. Die vertegenwoordiger van het agentschap heeft het recht   om te spreken en aanbevelingen te doen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de periodiciteit van de rapportering, vermeld in artikel 14, opdrijven en   bijkomende elementen vaststellen waarover gerapporteerd moet worden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de basissubsidie, vermeld in artikel 16, tweede lid, of de subsidie, vermeld in   artikel 16, derde lid, geheel of gedeeltelijk terugvorderen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de vergunning van de bijstandsorganisatie intrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bijstandsorganisaties nemen de mogelijkheid, vermeld in het eerste lid, 1°, op   in hun statuten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap bepaalt welke sanctie het meest aangewezen is en betekent de   beslissing aan de bijstandsorganisatie. De beslissing wordt met redenen omkleed   en in een aangetekende brief meegedeeld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bijstandsorganisatie kan schriftelijk bezwaar indienen bij de Vlaamse minister,   bevoegd voor de bijstand aan personen, op straffe van verval binnen veertien   dagen na de ontvangst van de betekening. Na onderzoek van de bezwaren bevestigt   of ontkracht de minister de sanctie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van het vierde lid kan tegen een beslissing tot intrekking van de   vergunning beroep worden aangetekend conform de bepalingen van artikel 17 van   het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de   algemene regels inzake het verlenen van vergunningen en erkenningen door het   Vlaams Agentschap voor Personen met een Handicap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>...</p>
 
 ## HOOFDSTUK 9 Slotbepalingen
 
