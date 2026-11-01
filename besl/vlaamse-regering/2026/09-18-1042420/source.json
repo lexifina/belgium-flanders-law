@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042420,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-18 tot wijziging van de regelgeving over de kwaliteitszorg van voorzieningen van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042420/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "6bd1368c05e2d072a490f72d8ee948b2bf5b6b507b5edc1278c1d1207bcb278a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042420&param=informatie",
+  "as_of": "2026-11-01",
+  "made": "2026-09-18",
+  "gazette": "2026-10-27",
+  "numac": 2026007681,
+  "document_start": "2026-11-01",
+  "document_end": null,
+  "in_force": "2026-11-01",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2026-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
