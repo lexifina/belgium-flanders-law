@@ -49,7 +49,7 @@ g) een overeenkomst over hoogdrempelige individuele bijstand met een bijstandsor
 h) een overeenkomst met een natuurlijke persoon of rechtspersoon over het verlenen van individuele ondersteuningsfuncties als vermeld in artikel 1, 7°, van het besluit van 27 november 2015;<br>
 i) een overeenkomst die afgesloten wordt met een familielid dat tot de tweede graad verwant is of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 j) een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning.<br>
-3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor maximaal vijftien personen met een handicap per dag, die al of niet beschikken over een budget. De ingezette budgetten worden in solidariteit aangewend om zorg en ondersteuning te organiseren voor alle personen met een handicap. Minimaal &nbsp;een derde van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen en verenigingen van 23 maart 2019, zijn mantelzorgers of familie tot de tweede graad van de personen met een handicap die worden ondersteund. De rechtspersoon registreert zich bij het agentschap op de wijze die wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert, die niet structureel en niet uitsluitend gekoppeld is aan een verblijf op een specifieke locatie, voor maximaal vijftien personen met een handicap per dag, die al of niet beschikken over een budget. De ingezette budgetten worden in solidariteit aangewend om zorg en ondersteuning te organiseren voor alle personen met een handicap. Minimaal een derde van de leden van de organen van de rechtspersoon, vermeld in het Wetboek van vennootschappen en verenigingen van 23 maart 2019, zijn mantelzorgers of familie tot de tweede graad van de personen met een handicap die worden ondersteund. De rechtspersoon registreert zich bij het agentschap op de wijze die wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
 <br>
 De Vlaamse minister, bevoegd voor de bijstand aan personen, kan vaststellen in welke gevallen en onder welke voorwaarden groene zorg initiatieven die zich registeren bij het agentschap, dagondersteuning als vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, kunnen verlenen aan verschillende personen met een handicap zonder vergunning.<br>
 &nbsp;
@@ -123,7 +123,7 @@ Vergunde zorgaanbieders brengen het agentschap onmiddellijk op de hoogte van al 
 
 De vergunde zorgaanbieder registreert elke vestigingseenheid in een webapplicatie die het agentschap ter beschikking stelt.<br>
 <br>
-In het eerste lid wordt verstaan onder vestigingseenheid een plaats die men geografisch kan identificeren door een uniek adres, waar ten minste een activiteit van de vergunde zorgaanbieder wordt uitgeoefend of van waaruit de activiteit wordt uitgeoefend.
+In het eerste lid wordt verstaan onder vestigingseenheid: een plaats die men geografisch kan identificeren door een uniek adres, waar of vanwaaruit ondersteuning door de vergunde zorgaanbieder wordt uitgeoefend. Locaties waar collectief wonen structureel en uitsluitend gekoppeld is aan ondersteuning door een vergunde zorgaanbieder, in die zin dat verblijf op die locatie niet mogelijk is zonder die ondersteuning, worden als vestigingseenheid beschouwd.
 
 ## HOOFDSTUK 3 Procedure voor aanvragen en verlenen van de vergunning
 
@@ -156,7 +156,7 @@ Tegen een beslissing tot weigering van de vergunning kan beroep worden aangeteke
 Het agentschap kent een vergunning toe als de aanvrager voldoet aan de vergunningsnormen, vermeld in hoofdstuk 2 en de volgende voorwaarden:<br>
 1° de aanvrager kan aan de hand van het ondernemingsplan en het financieel plan, vermeld in artikel 3, eerste lid, 3°, van dit besluit, aantonen dat het initiatief voldoende financieel leefbaar is. Om de financiële leefbaarheid te beoordelen, kan het agentschap zich baseren op de jaarrekeningen en de resultatenrekening, als die beschikbaar zijn. Uit die jaarrekeningen en resultatenrekening mogen geen ernstige problemen voor de rendabiliteit, solvabiliteit of liquiditeit blijken;<br>
 2° er werden door de Vlaamse Regering of Zorginspectie geen beschermende maatregelen opgelegd betreffende het gezondheidsbeleid en het welzijns-en gezinsbeleid zoals vermeld in artikel 14 van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid, die tot gevolg hebben dat er niet meer is voldaan aan de vergunningsnormen vermeld in hoofdstuk 2, of de bepalingen van het besluit van 4 februari 2011;<br>
-3° er werden door een overheidsinstantie of door Zorginspectie geen begeleidende maatregelen of toezichtsmaatregelen opgelegd ten gevolge een inspectie uitgevoerd door Zorginspectie, die tot gevolg hebben dat er niet meer is voldaan aan de vergunningsnormen vermeld in hoofdstuk 2, of de bepalingen van het besluit van 4 februari 2011.<br>
+3° er werden door een overheidsinstantie of door Zorginspectie geen begeleidende maatregelen of toezichtsmaatregelen opgelegd ten gevolge een inspectie uitgevoerd door Zorginspectie of ten gevolge van een rapport van het agentschap, die tot gevolg hebben dat er niet meer is voldaan aan de vergunningsnormen vermeld in hoofdstuk 2, of de bepalingen van het besluit van 4 februari 2011.<br>
 <br>
 De voorwaarden, vermeld in het eerste lid, 2° en 3°, gelden voor elke activiteit die de aanvrager uitoefent in het kader van het gezondheidsbeleid en het welzijns- en gezinsbeleid.
 
@@ -177,7 +177,7 @@ De vergunde zorgaanbieder met een vergunning van bepaalde duur dient, uiterlijk 
 §1. De vergunde zorgaanbieder kan een vergunning van onbepaalde duur krijgen als de volgende voorwaarden zijn vervuld:<br>
 1° binnen een aaneengesloten periode van minstens drie jaar kan de vergunde zorgaanbieder een effectieve werking aantonen. Onder de voormelde effectieve werking wordt verstaan dat er op elk moment ten minste één budgethouder een persoonsvolgend budget heeft besteed;<br>
 2° op het einde van de drie jaar, vermeld in punt 1°, besteden er minstens drie budgethouders een persoonsvolgend budget;<br>
-3° Zorginspectie heeft geen inbreuken vastgesteld op artikel 45 tot en met 49 van het besluit van de Vlaamse Regering van 4 februari 2011, tenzij uit een verslag van Zorginspectie blijkt dat die inbreuken ondertussen zijn geremedieerd. Voor nog openstaande inbreuken op het moment van de verlenging wordt er gekeken naar het plan van aanpak om de inbreuken weg te werken binnen de remediëringstermijnen, vermeld in artikel 55 tot en met 59/1 van het besluit van 4 februari 2011;<br>
+3° Zorginspectie of het agentschap heeft geen inbreuken vastgesteld op de bepalingen van hoofdstuk 9 van het besluit van de Vlaamse Regering van 4 februari 2011, tenzij uit een verslag van Zorginspectie of het rapport van het agentschap blijkt dat die inbreuken ondertussen zijn geremedieerd. Voor nog openstaande inbreuken op het moment van de verlenging wordt er gekeken naar het plan van aanpak om de inbreuken weg te werken binnen de remediëringstermijnen, vermeld in artikel 55 tot en met 58 van het besluit van 4 februari 2011;<br>
 4° uit de beschikbare financiële gegevens en het ingediende ondernemings- en financieel plan blijken al de volgende elementen:<br>
 a) er zijn geen ernstige problemen met de rendabiliteit, solvabiliteit of liquiditeit;<br>
 b) de minimumdoelen om financieel leefbaar te zijn, vermeld in artikel 3, eerste lid, 3°, g), 3), van dit besluit, die bij de eerste aanvraag zijn vooropgesteld, de inkomsten uit de inzet van een persoonsvolgend budget door budgethouders, vermeld in artikel 3, eerste lid, 3°, e), van dit besluit, en het verwachte jaarresultaat zijn behaald;<br>
@@ -227,7 +227,7 @@ Als er binnen twee jaar vanaf het moment dat de vergunde zorgaanbieder opnieuw e
 
 Een Multifunctioneel Centrum als vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, krijgt van rechtswege een vergunning voor onbepaalde duur. De voormelde vergunning kan alleen gebruikt worden om ondersteuning te bieden als de volgende voorwaarden cumulatief vervuld zijn:<br>
 1°&nbsp; het moet gaan om een gebruiker van het MFC die een persoonsvolgend budget ter beschikking heeft gekregen van het agentschap;<br>
-2°&nbsp; op het moment van de terbeschikkingstelling van het persoonsvolgend budget, dient er een lopende individuele dienstverleningsovereenkomst, zoals vermeld in artikel 7°/1 van het besluit van 4 februari 2011, te bestaan tussen de gebruiker en het MFC;<br>
+2°&nbsp; op het moment van de terbeschikkingstelling van het persoonsvolgend budget, dient er een lopende individuele dienstverleningsovereenkomst, zoals vermeld in artikel 8, §1, 1° van het besluit van 4 februari 2011, te bestaan tussen de gebruiker en het MFC;<br>
 3°&nbsp; de besteding van het persoonsvolgend budget moet opgestart worden binnen de wettelijke termijn waarbinnen het persoonsvolgend budget moet opgestart worden;<br>
 4°&nbsp; de ondersteuning door de inzet van een persoonsvolgend budget kan enkel éénmalig gebeuren en voor een periode van maximum twee aaneengesloten jaren.<br>
 <br>
@@ -237,11 +237,11 @@ Artikel 3, en artikel 6 tot en met 11 zijn niet van toepassing op de vergunning 
 
 ### ART 12.
 
-De afdeling Zorginspectie van het Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, controleert ter plaatse of de vergunningsnormen, vermeld in hoofdstuk 2 van dit besluit, worden nageleefd.<br>
+De afdeling Zorginspectie, vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg of het agentschap, controleert of de vergunningsnormen, vermeld in hoofdstuk 2 van dit besluit, worden nageleefd.<br>
 <br>
-Tijdens de periode van de vergunning van bepaalde duur, vermeld in artikel 9, tweede lid, van dit besluit, voert Zorginspectie ten vroegste een eerste controle uit als de eerste budgethouder een overeenkomst heeft gesloten met de vergunde zorgaanbieder. De voormelde controle heeft ook betrekking op de naleving van de bepalingen van het besluit van 4 februari 2011.<br>
+Tijdens de periode van de vergunning van bepaalde duur, vermeld in artikel 9, tweede lid, van dit besluit, voert Zorginspectie of het agentschap ten vroegste een eerste controle uit als de eerste budgethouder een overeenkomst heeft gesloten met de vergunde zorgaanbieder. De voormelde controle heeft ook betrekking op de naleving van de bepalingen van het besluit van 4 februari 2011.<br>
 <br>
-De afdeling Zorginspectie voert het toezicht en evaluatie uit zoals bepaald in hoofdstuk 11 van het besluit van 4 februari 2011.<br>
+De afdeling Zorginspectie of het agentschap voert het toezicht en evaluatie uit zoals bepaald in hoofdstuk 11 van het besluit van 4 februari 2011.<br>
 &nbsp;
 
 ### ART 13.
