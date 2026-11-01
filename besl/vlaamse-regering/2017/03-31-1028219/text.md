@@ -17,7 +17,7 @@ Besluit :
 
 ### ART 1.
 
-In toepassing van artikel 5, § 2, tweede lid van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren wordt een comité van deskundigen opgericht dat Vlaamse Dierentuinencommissie wordt genoemd.
+In toepassing van artikel 17, §2, derde lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 wordt een comité van deskundigen opgericht dat Vlaamse Dierentuinencommissie wordt genoemd.
 
 ## HOOFDSTUK 2. Definities
 
@@ -49,7 +49,7 @@ Het lidmaatschap is onbezoldigd. De leden van de Vlaamse Dierentuinencommissie h
 
 ### ART 7.
 
-De Vlaamse Dierentuinencommissie brengt het advies uit bedoeld in de artikelen 3bis, § 2, 3°, b) en 5, § 2, tweede lid, van de genoemde wet van 14 augustus 1986. De Vlaamse Dierentuinencommissie geeft meer bepaald advies over de dossiers die de minister of de dienst voor onderzoek heeft voorgelegd en kan ook zelf voorstellen doen aan de minister of de dienst.
+De Vlaamse Dierentuinencommissie brengt het advies uit bedoeld in artikel 8, §2, eerste lid, 3°, b), en artikel 17, §2, derde lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024. De Vlaamse Dierentuinencommissie geeft meer bepaald advies over de dossiers die de minister of de dienst voor onderzoek heeft voorgelegd en kan ook zelf voorstellen doen aan de minister of de dienst.
 
 ### ART 8.
 

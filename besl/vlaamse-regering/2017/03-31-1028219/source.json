@@ -2,16 +2,16 @@
   "codex_id": 1028219,
   "title": "Besluit van de Vlaamse Regering van 2017-03-31 tot regeling van de samenstelling en werking van de Vlaamse Dierentuinencommissie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028219/VolledigDocument?datum=2017-05-22",
-  "source_sha256": "17305bee2da7a6b07a90eef2c4ccd1498a798f131a793aee68e7e01417543daa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028219/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "2040c9b4c2761758b72747703a08177df5e58141d1133d614b2e83a92021418e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028219&param=informatie",
-  "as_of": "2017-05-22",
+  "as_of": "2026-11-01",
   "made": "2017-03-31",
   "gazette": "2017-05-12",
   "numac": 2017011868,
   "document_start": "2017-05-22",
   "document_end": null,
-  "in_force": "2017-05-22",
+  "in_force": "2026-11-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2017-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
