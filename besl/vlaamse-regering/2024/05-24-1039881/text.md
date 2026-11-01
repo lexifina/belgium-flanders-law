@@ -27,7 +27,7 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° asiel: een dierenasiel dat erkend is conform het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
 2° asielfiche: document dat in papieren of elektronische vorm kan bestaan. Met dit document kan een asiel de gegevens van een kat die geregistreerd is in de databank, vermeld in artikel 3, wijzigen. Het document bevat de gegevens, vermeld in bijlage 3, die bij dit besluit is gevoegd;<br>
-3° dienst: de dienst, vermeld in artikel 3, punt 23, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+3° ...;<br>
 4° dierenarts: een dierenarts die gemachtigd is om de diergeneeskunde uit te oefenen op het grondgebied van het Vlaamse Gewest;<br>
 5° digitale sleutel: een elektronisch middel waarmee de identificatie en authenticatie van de persoonsgegevens op de identiteitskaart mogelijk worden gemaakt;<br>
 6° erkende kwekerij: een kattenkwekerij die erkend is conform het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
@@ -54,7 +54,7 @@ De bepalingen van dit besluit zijn niet van toepassing op:<br>
 3° de handel in katten en het verkeer van katten controleren;<br>
 4° de handhaving van de dierenwelzijnsregelgeving opvolgen.<br>
 <br>
-De databank, vermeld in het eerste lid, wordt beheerd door de dienst die optreedt als verwerkingsverantwoordelijke. De dienst kan voor de volledige taak van het voormelde beheer of voor een deel van die taak een beroep doen op een dienstverlenend bedrijf dat dan optreedt als verwerker als vermeld in artikel 4, 8), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+De databank, vermeld in het eerste lid, wordt beheerd door het departement die optreedt als verwerkingsverantwoordelijke. Het departement kan voor de volledige taak van het voormelde beheer of voor een deel van die taak een beroep doen op een dienstverlenend bedrijf dat dan optreedt als verwerker als vermeld in artikel 4, 8), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
 §2. Zonder afbreuk te doen aan de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens kan de databank, vermeld in paragraaf 1, gegevens verstrekken aan andere overheidsinstanties dan de overheidsinstanties, vermeld in dit besluit, over de katten die geregistreerd zijn in die databank, en hun verantwoordelijken voor andere doeleinden dan de doeleinden, vermeld in paragraaf 1, eerste lid, onder voorbehoud van de wettigheid van het verzoek en de vergoeding voor de kosten die deze instanties moeten betalen.
 
@@ -207,7 +207,7 @@ Bij de verhuizing van een kat naar het buitenland wordt in de databank, vermeld 
 
 Een asiel kan niet-geïdentificeerde en niet-geregistreerde katten opvangen.&nbsp;<br>
 <br>
-In geval van de opvang van een kat, vermeld in artikel 9, §1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, laat de verantwoordelijke van het asiel het dier pas identificeren en registreren conform artikel 7 tot en met 14 van dit besluit na afloop van de termijn, vermeld in artikel 9, §2,van de voormelde wet. De contractdierenarts identificeert en registreert de kat op naam van de verantwoordelijke van het asiel. &nbsp;
+In geval van de opvang van een kat, vermeld in artikel 15, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, laat de verantwoordelijke van het asiel het dier pas identificeren en registreren conform artikel 7 tot en met 14 van dit besluit na afloop van de termijn, vermeld in artikel 15, §4, van het voormelde decreet. De contractdierenarts identificeert en registreert de kat op naam van de verantwoordelijke van het asiel. &nbsp;
 
 ### ART 22.
 
@@ -329,7 +329,7 @@ Als de verantwoordelijke de beheerder van een asiel of een erkende kweker is, be
 
 De volgende personen hebben toegang tot de gegevens in de databank, vermeld in artikel 36 van dit besluit:<br>
 1° de verantwoordelijken van katten: voor alle actuele gegevens van de katten waarvoor ze verantwoordelijk zijn;<br>
-2° de bevoegde overheid met toepassing van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, en de Dierengezondheidswet van 24 maart 1987;<br>
+2° de bevoegde overheid met toepassing van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, en de Dierengezondheidswet van 24 maart 1987;<br>
 3° de dierenartsen en de asielen: uitsluitend voor de gegevens die nodig zijn om de verantwoordelijke van een dolende, verloren of achtergelaten kat terug te vinden;<br>
 4° de dierenartsen: voor alle actuele gegevens van de katten waaraan ze op verzoek van de verantwoordelijke wijzigingen moeten aanbrengen.<br>
 <br>
