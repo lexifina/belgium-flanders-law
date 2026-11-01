@@ -2,16 +2,16 @@
   "codex_id": 1026539,
   "title": "Besluit van de Vlaamse Regering van 2016-02-19 betreffende de bescherming van dieren bij het slachten of doden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026539/VolledigDocument?datum=2026-03-26",
-  "source_sha256": "6960894e80c2fde284c63375ac3ce9d70761fd0f1000f177354049502a2eed2b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026539/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "70a8a87e27f73bf4a8fa60ceb77df21ae2be0c809cd8de606dbb2ffe8a4c55c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026539&param=informatie",
-  "as_of": "2026-03-26",
+  "as_of": "2026-11-01",
   "made": "2016-02-19",
   "gazette": "2016-03-14",
   "numac": 2016035293,
   "document_start": "2016-03-24",
   "document_end": null,
-  "in_force": "2026-03-26",
+  "in_force": "2026-11-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2026-03-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
