@@ -18,8 +18,8 @@ Besluit :
 
 ### ART 1.
 
-De Vlaamse Regering bepaalt de datum waarop de omkeerbare bedwelming voor de kalveren praktisch toepasbaar is, zoals vermeld in artikel 45ter van de Wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, op 1 januari 2020.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor het dierenwelzijn, is belast met de uitvoering van dit besluit.
+...

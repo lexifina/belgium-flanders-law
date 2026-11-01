@@ -2,16 +2,16 @@
   "codex_id": 1031779,
   "title": "Besluit van de Vlaamse Regering van 2019-04-26 betreffende het slachten van kalveren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031779/VolledigDocument?datum=2019-06-23",
-  "source_sha256": "d259581f8b82d11775c0e7278f162c82c0bdf5378e25009b8c42f34d8f588781",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031779/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "b0a99f4c218657edb834a6a8a98c73356504b55083501c0ab6f7190296ccc0df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031779&param=informatie",
-  "as_of": "2019-06-23",
+  "as_of": "2026-11-01",
   "made": "2019-04-26",
   "gazette": "2019-06-13",
   "numac": 2019012936,
   "document_start": "2019-06-23",
   "document_end": null,
-  "in_force": "2019-06-23",
+  "in_force": "2026-11-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
