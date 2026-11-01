@@ -21,6 +21,56 @@ Dit besluit is gebaseerd op de volgende motieven:<br>
 <br>
 DE VLAAMSE MINISTER VAN BINNENLAND, STEDEN- EN PLATTELANDSBELEID, SAMENLEVEN, INTEGRATIE EN INBURGERING, BESTUURSZAKEN, SOCIALE ECONOMIE EN ZEEVISSERIJ BESLUIT:
 
+### ART 1.
+
+In artikel 14 van het ministerieel besluit van 22 december 2025 houdende tijdelijke aanvullende maatregelen voor 2026 tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriële besluiten van 29 juni 2026 en 17 september 2026, worden de volgende wijzigingen aangebracht: &nbsp;<br>
+1° aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+2° in paragraaf 3, tweede lid, wordt de hoeveelheid “25 kg” vervangen door de hoeveelheid “30 kg”;<br>
+3° aan paragraaf 3 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst die gelijk is aan 20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 2.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+2° aan paragraaf 3 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 260 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 3.
+
+Aan artikel 16, §3, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 500 kg per vissersvaartuig.”.
+
+### ART 4.
+
+In artikel 17 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 25 kg.”;<br>
+2° er wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 50 kg.”.
+
+### ART 5.
+
+Aan artikel 18 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 6.
+
+In artikel 20 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 26 maart 2026, 27 april 2026 en 28 mei 2026, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragaaf 1 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+2° in paragraaf 2 wordt in het derde lid de zin “Vanaf 1 juni 2026 bedraagt deze maximale hoeveelheid 100 kg per vaartdag.” vervangen door de zinnen “In de periode van 1 juni 2026 tot en met 31 oktober 2026 bedraagt de maximale hoeveelheid 100 kg per vaartdag. In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 4000 kg.”;<br>
+3° in paragraaf 2 wordt tussen het vijfde en het zesde lid een lid ingevoegd, dat luidt als volgt:<br>
+“In het ICES-gebied VIId is het voor een vissersvaartuig van het GVS tijdens de periode van 1 november 2026 tot 31 december 2026 verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+4° in paragraaf 3 wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS met vismachtiging overeenkomstig artikel 11, §2, verboden een totale tongvangst te realiseren die groter is dan 500 kg.”;<br>
+5° in paragraaf 3 wordt tussen het bestaande vierde en vijfde lid, dat het vijfde en het zevende lid wordt, een lid ingevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS met vismachtiging overeenkomstig artikel 11, §2, verboden een totale tongvangst te realiseren die groter is dan 1000 kg.”.
+
 ### ART 7.
 
 In artikel 21 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, worden de volgende wijzigingen aangebracht:<br>
@@ -34,3 +84,35 @@ In artikel 22, §4, van hetzelfde besluit, gewijzigd bij het ministerieel beslui
 1° in het tweede lid wordt de zinsnede “31 oktober 2026” vervangen door de zinsnede “16 oktober 2026”;<br>
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
 “In de periode van 17 oktober 2026 tot en met 31 december 2026 is de scholvangst in de ICES-gebieden VIIh,j,k verboden.”.
+
+### ART 9.
+
+Aan artikel 23, §3, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg.”.
+
+### ART 10.
+
+In artikel 24 van hetzelfde besluit wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+“§2. In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in het desbetreffende ICES-gebied.<br>
+<br>
+In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 300 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in het desbetreffende ICES-gebied.<br>
+<br>
+In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in het ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in het desbetreffende ICES-gebied.<br>
+<br>
+In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 600 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in het desbetreffende ICES-gebied.”.
+
+### ART 11.
+
+In artikel 25 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2026, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 5 wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+“Het is in de ICES-gebieden VIIbc-ek voor een vissersvaartuig tijdens de periode van 1 november 2026 tot en met 31 december 2026 verboden bij de wijtingvangsten per vaartuig een hoeveelheid te overschrijden die gelijk is aan 500 kg.”;<br>
+2° aan paragraaf 7 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 100 kg.”;<br>
+3° in paragraaf 11 wordt tussen het derde en het vierde lid een lid ingevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2026 tot en met 31 december 2026 is het in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg per vaartuig.”.
+
+### ART 12.
+
+Dit besluit treedt in werking op 1 november 2026, met uitzondering van artikel 7 en 8, die in werking treden op 17 oktober 2026.
