@@ -77,7 +77,7 @@ Elk dierenverblijf is voorzien van een waterbad.
 
 ### ART 10.
 
-Er wordt bij de huisvesting van de dieren op toegezien dat er zich geen schadelijke interactie voordoet binnen een diergroep.&nbsp;De verantwoordelijke kan, bij controle door een bevoegd persoon als vermeld in artikel 34, § 1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, de ongehinderde samenhuizing van deze diergroep aantonen.
+Er wordt bij de huisvesting van de dieren op toegezien dat er zich geen schadelijke interactie voordoet binnen een diergroep.&nbsp;De verantwoordelijke kan, bij controle door een bevoegd persoon als vermeld in artikel 64, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, de ongehinderde samenhuizing van deze diergroep aantonen.
 
 ### ART 11.
 
@@ -97,7 +97,7 @@ Uitsluitend in de volgende gevallen mogen roofvogels tijdelijk aangebonden gehui
 3° tijdens het vervoer van roofvogels;<br>
 4° tijdens revalidatie of medische behandeling van roofvogels.<br>
 <br>
-De verantwoordelijke die een roofvogel tijdelijk aangebonden huisvest tijdens de training voor jacht of vrije vluchten, voert op regelmatige basis vrije vluchten uit met de roofvogels. Hij toont dat aan door een vliegdemonstratie met de roofvogel tijdens de controle door de bevoegde personen, vermeld in artikel 34, § 1 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.
+De verantwoordelijke die een roofvogel tijdelijk aangebonden huisvest tijdens de training voor jacht of vrije vluchten, voert op regelmatige basis vrije vluchten uit met de roofvogels. Hij toont dat aan door een vliegdemonstratie met de roofvogel tijdens de controle door de bevoegde personen, vermeld in artikel 64, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
 
 ### ART 14.
 
@@ -157,7 +157,7 @@ Bij elke verhandeling van de roofvogel overhandigt de verantwoordelijke aan de n
 
 ### ART 22.
 
-Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld en gestraft conform de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.
+Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld en gestraft conform de bepalingen van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
 
 ### ART 23.
 
