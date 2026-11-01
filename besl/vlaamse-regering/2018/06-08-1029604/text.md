@@ -22,8 +22,8 @@ Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn 1999/22/EG van 
 ### ART 2.
 
 Dit besluit is niet van toepassing op:<br>
-1° overeenkomstig artikel 3, 9., van de wet van 14 augustus 1986, circussen en rondreizende tentoonstellingen;<br>
-2° overeenkomstig artikel 3, 9., van de wet van 14 augustus 1986, handelszaken voor dieren;<br>
+1° overeenkomstig artikel 3, 6°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, circussen en rondreizende tentoonstellingen;<br>
+2° overeenkomstig artikel 3, 6°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, handelszaken voor dieren;<br>
 3° inrichtingen die alleen runderen, schapen, geiten, varkens- en hertachtigen of loopvogels houden en dit in hoofdzaak voor productiedoeleinden;<br>
 4° inrichtingen die niet meer dan vijf frequent gehouden soorten houden en die daarnaast geen enkel ander dier van een niet-gedomesticeerde soort houden;<br>
 5° inrichtingen die niet meer dan vijf aquaria tentoonstellen, met een totaalvolume water van minder dan 5000 liter;<br>
@@ -33,17 +33,17 @@ Dit besluit is niet van toepassing op:<br>
 
 In dit besluit wordt verstaan onder:<br>
 1° Departement Omgeving: het departement, vermeld in artikel 29, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° dierentuin: inrichting bedoeld in artikel 3, 9., van de wet van 14 augustus 1986 die gedurende zeven dagen of meer per jaar toegankelijk is voor het publiek;<br>
+2° dierentuin: inrichting als vermeld in artikel 3, 6°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 die gedurende zeven dagen of meer per jaar toegankelijk is voor het publiek;<br>
 3° gedomesticeerde soorten: de diersoorten, vermeld op de lijst, opgenomen in bijlage 1 die bij dit besluit is gevoegd;<br>
 4° frequent gehouden soorten: de diersoorten, vermeld op de lijst, opgenomen in bijlage 2 die bij dit besluit is gevoegd;<br>
 5° dierenverblijf: de binnen- of buitenruimte waarin het dier is ondergebracht;<br>
 6° collectieplan: het overzicht van alle diersoorten die de dierentuin wil houden, met vermelding van de manier waarop invulling gegeven wordt aan de instandhouding van soorten, de voorlichting van het publiek en het wetenschappelijk onderzoek;<br>
 7° uitbater: elke natuurlijke persoon of rechtspersoon die een dierentuin uitbaat of voor rekening van wie een dierentuin wordt uitgebaat;<br>
-8° verantwoordelijke: de uitbater of de natuurlijke persoon, aangewezen door de uitbater die instaat voor de toepassing van de wet van 14 augustus 1986 en dit besluit;<br>
+8° verantwoordelijke: de uitbater of de natuurlijke persoon, aangewezen door de uitbater die instaat voor de toepassing van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 en dit besluit;<br>
 9° minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
 10° dienst: de subentiteit van het Departement Omgeving die bevoegd is voor het dierenwelzijn;<br>
-11° wet van 14 augustus 1986: de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
-12° Vlaamse Dierentuinencommissie: het comité van deskundigen, vermeld in artikel 5, § 2, van de wet van 14 augustus 1986.
+11° ...;<br>
+12° Vlaamse Dierentuinencommissie: het comité van deskundigen, vermeld in artikel 17, §2, derde lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
 
 ### ART 4.
 
@@ -82,7 +82,7 @@ De lijst van de erkende dierentuinen wordt bekendgemaakt op de website van de di
 
 ### ART 7.
 
-De minister kan, op ieder ogenblik, de erkenning van een dierentuin intrekken, overeenkomstig artikel 5, § 4, tweede lid, van de wet van 14 augustus 1986, of schorsen als die niet langer voldoet aan de voorwaarden, vermeld in hoofdstuk 4, en in de ministeriële besluiten ter uitvoering daarvan.<br>
+De minister kan, op ieder ogenblik, de erkenning van een dierentuin intrekken, overeenkomstig artikel 17, §5, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, of schorsen als die niet langer voldoet aan de voorwaarden, vermeld in hoofdstuk 4, en in de ministeriële besluiten ter uitvoering daarvan.<br>
 <br>
 De schorsing of intrekking kan betrekking hebben op de hele dierentuin of een gedeelte ervan.<br>
 <br>
@@ -100,7 +100,7 @@ Een wijziging van de contractdierenarts, van de diergeneeskundige rechtspersoon 
 <br>
 In geval van stopzetting van de activiteit blijft de erkenning behouden, op voorwaarde dat een nieuwe uitbater de uitbating binnen dertig dagen na de stopzetting overneemt, een verantwoordelijke aanwijst, en de dienst daarvan op de hoogte brengt.<br>
 <br>
-Bij stopzetting zonder overname van de activiteit door een nieuwe uitbater of bij intrekking van de erkenning zoals bedoeld in artikel 7, zorgen de laatste uitbater en de verantwoordelijke ervoor dat de dieren goed worden verzorgd op hun oorspronkelijke locatie, conform artikel 4 van de wet van 14 augustus 1986, in afwachting dat ze overgebracht worden naar een definitieve bestemming. Naargelang het geval wordt daarvoor op het moment van de stopzetting of binnen de veertien dagen na de intrekking aan de dienst een plan van aanpak over de bestemmingen en de termijnen bezorgd.
+Bij stopzetting zonder overname van de activiteit door een nieuwe uitbater of bij intrekking van de erkenning zoals bedoeld in artikel 7, zorgen de laatste uitbater en de verantwoordelijke ervoor dat de dieren goed worden verzorgd op hun oorspronkelijke locatie, conform artikel 10 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, in afwachting dat ze overgebracht worden naar een definitieve bestemming. Naargelang het geval wordt daarvoor op het moment van de stopzetting of binnen de veertien dagen na de intrekking aan de dienst een plan van aanpak over de bestemmingen en de termijnen bezorgd.
 
 ## HOOFDSTUK 4. Erkenningsvoorwaarden
 

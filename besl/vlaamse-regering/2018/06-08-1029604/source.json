@@ -2,16 +2,16 @@
   "codex_id": 1029604,
   "title": "Besluit van de Vlaamse Regering van 2018-06-08 betreffende de erkenning van dierentuinen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029604/VolledigDocument?datum=2019-08-01",
-  "source_sha256": "71d4dfc0b64c1b78d4d052c0783ce893054520d47fa09795d38eeff7e2d09a20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029604/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "4f1c480f85c4482501e0ccc3110a48683cbc41ff7d769d0581c670a540cab5af",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029604&param=informatie",
-  "as_of": "2019-08-01",
+  "as_of": "2026-11-01",
   "made": "2018-06-08",
   "gazette": "2018-08-03",
   "numac": 2018013062,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-08-01",
+  "in_force": "2026-11-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2019-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }
