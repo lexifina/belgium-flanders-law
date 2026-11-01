@@ -10,43 +10,40 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 17 oktober 2003 betreff
 
 In dit besluit wordt verstaan onder :<br>
 1° agentschap : het Vlaams Agentschap voor Personen met een Handicap, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-2° besluit van 26 februari 2016 FAM: het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van flexibele aanbodcentra voor meerderjarige personen met een handicap;<br>
-2° /1 besluit van 26 februari 2016 MFC: het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+2° infrastructuurforfait: een vorm van investeringssubsidie als vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+2° /1 besluit van 26 februari 2016: het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 2° /2 besluit van 24 juni 2016: het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders;<br>
-3° collectief overlegorgaan van de voorziening : het orgaan waarbij de gebruikers als groep in overleg treden met de voorziening;<br>
+3° vrijheidsbeperkende maatregelen: alle maatregelen (met inbegrip van de maatregelen afzondering en fixatie) die een beperking van de keuzevrijheid of de bewegingsvrijheid of contact met de buitenwereld van de gebruiker inhouden;<br>
 4° collectieve rechten en plichten: de collectieve rechten en plichten voor voorziening en gebruikers, vermeld in artikel 15;<br>
 5° continuïteit : de mate waarin de hulpverlener zorg draagt voor een goede overdracht van ondersteuning in situaties waarin verschillende hulp- en dienstverleners betrokken zijn, die elkaar aflossen, vervangen of opvolgen;<br>
 6° decreet van 17 oktober 2003 : het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen;<br>
 6° /1 diensten Ondersteuningsplan: de diensten Ondersteuningsplan vermeld in artikel 2 van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
-7° gebruiker : de persoon&nbsp;met een handicap die een beroep doet op&nbsp;rechtstreeks toegankelijke hulp of niet rechtstreeks toegankelijke zorg en ondersteuning van een voorziening;<br>
+7° gebruiker : de persoon&nbsp;met een handicap of met een vermoeden van handicap die een beroep doet op&nbsp;rechtstreeks toegankelijke hulp of niet rechtstreeks toegankelijke zorg en ondersteuning van een voorziening;<br>
 7° /1 individuele dienstverleningsovereenkomst: de individuele dienstverleningsovereenkomst, vermeld in artikel 9;<br>
 8° kwaliteitshandboek : het kwaliteitshandboek, vermeld in artikel 5, § 4, van het decreet van 17 oktober 2003;<br>
 8° /1 leefkosten: de leefkosten, vermeld in artikel 9, § 3, derde lid;<br>
 9° leidend ambtenaar : de administrateur-generaal van het Vlaams Agentschap voor Personen met een Handicap;<br>
-10° ...;<br>
-11° ...;<br>
+10° belangrijke betrokken derde: de persoon die de gebruiker heeft aangewezen om hem bij te staan. Die persoon is geen personeelslid van de voorziening;<br>
+11° besluit van 22 februari 2013: het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap;<br>
 12° vertegenwoordiger : de persoon die de gebruiker vertegenwoordigt met toepassing van artikel 2;<br>
-13° voorziening: de voorzieningen, vermeld in artikel 4;<br>
+13° voorziening: de voorzieningen, vermeld in artikel 4 of de ouderinitiatieven die conform het ministerieel besluit van 19 december 2018 betreffende de registratie van ouderinitiatieven in het kader van de persoonsvolgende financiering, bij het agentschap geregistreerd zijn;<br>
 13° /1 woonkosten: de woonkosten, vermeld in artikel 9, § 3, eerste lid;<br>
-14° Zorginspectie: Zorginspectie als vermeld in artikel 4, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
+14° Zorginspectie: Zorginspectie als vermeld in artikel 4, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+15° afzondering: het verblijf van een persoon in een daartoe speciaal voorziene individuele afzonderingskamer, hetzij in een ander lokaal voor één persoon, welke de persoon niet zelfstandig kan verlaten;<br>
+16° fixatie: elke handeling of elk gebruik van materiaal of medicatie die de bewegingsvrijheid van een persoon beperkt, verhindert of belemmert, waarbij de persoon niet zelfstandig zijn bewegingsvrijheid kan herwinnen.<br>
 &nbsp;
 
 ### ART. 2.
 
-Als bewindvoering is ingesteld, worden de rechten, vermeld in dit besluit, uitgeoefend door de gebruiker, de bewindvoerder of beiden, overeenkomstig de beschikking van de vrederechter. De persoon met een handicap wordt rekening houdend met zijn mogelijkheden maximaal betrokken bij de uitoefening van die rechten.<br>
+Als bewindvoering is ingesteld, worden de rechten, vermeld in dit besluit, uitgeoefend door de gebruiker, de bewindvoerder of beiden, overeenkomstig de beschikking van de vrederechter.&nbsp;<br>
 <br>
-Als een gebruiker de rechten met betrekking tot persoonsgebonden materies, vastgesteld in dit besluit, niet zelfstandig kan uitoefenen,&nbsp;&nbsp;en er geen bewindvoerder bevoegd is om de gebruiker te vertegenwoordigen, worden die rechten door de samenwonende echtgenoot of de wettelijk of feitelijk samenwonende partner uitgeoefend.<br>
+Bij een minderjarige gebruiker, worden de rechten, vermeld in dit besluit, uitgeoefend door de gebruiker, de personen die titularis zijn van het ouderlijk gezag of, bij ontstentenis van deze personen, de wettelijke vertegenwoordiger of beiden.<br>
 <br>
-Als de echtgenoot of partner dat niet wil doen of als de gebruiker geen echtgenoot of partner heeft worden de rechten in dalende volgorde uitgeoefend door :<br>
-1° een van de ouders of beide ouders;<br>
-2° een persoon, aangewezen door de persoon met een handicap of door zijn ouders of voogd;<br>
-3° een meerderjarig kind;<br>
-4° een meerderjarige broer of zus.<br>
-&nbsp;
+De gebruiker wordt rekening houdend met zijn mogelijkheden maximaal betrokken bij de uitoefening van die rechten.
 
 ### ART. 3.
 
-Om erkend te worden en te blijven, moet een voorziening, met behoud van de toepassing van andere erkenningsnormen, voldoen aan de bepalingen van dit besluit.<br>
+Om erkend of vergund te worden en te blijven, moet een voorziening, met behoud van de toepassing van andere erkenningsnormen, voldoen aan de bepalingen van dit besluit.<br>
 &nbsp;
 
 ### ART. 4.
@@ -56,15 +53,15 @@ De bepalingen van dit besluit zijn van toepassing op:<br>
 2° voorzieningen die niet-rechtstreeks toegankelijk zorg en ondersteuning aanbieden;<br>
 3° de multifunctionele centra voor minderjarige personen met een handicap;<br>
 4° de diensten Ondersteuningsplan;<br>
-5° de opvang in crisis- en noodsituaties.<br>
+5° bijstandsorganisaties.<br>
 <br>
 HOOFDSTUK 10, - afdeling 1, is ook van toepassing op:<br>
 1° de voorzieningen voor vrijetijdszorg;<br>
-2° de centra voor ontwikkelingsstoornissen;<br>
+2° ...;<br>
 3° ...;<br>
 4° het centraal tolkenbureau;<br>
-5° de bijstandsorganisaties;<br>
-6° het steunpunt voor kennisbeheer en netwerkvorming;<br>
+5° ...;<br>
+6° ...;<br>
 7° de instanties die erkend zijn om een multidisciplinair verslag af te leveren, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap.
 
 ## HOOFDSTUK 2 Aanvang van de ondersteuning
@@ -78,7 +75,7 @@ De voorziening kan een gebruiker niet weigeren op grond van etnische afkomst, na
 Als bij een opname in een proefperiode wordt voorzien, moet die aan de volgende voorwaarden voldoen :<br>
 1° de duur van de proefperiode kan hoogstens zes maanden bedragen;<br>
 2° tijdens de proefperiode gelden afwijkende procedures over het ontslag van de gebruiker :<br>
-a) de opzegtermijn moet in onderling overleg bepaald worden;<br>
+a) de opzegtermijn en de modaliteiten van de opzegging moeten in onderling overleg bepaald worden;<br>
 b) bij eenzijdige verbreking van de overeenkomst zonder gegronde reden kan een verbrekingsvergoeding gevorderd worden ten bedrage van de vergoeding verschuldigd voor de overeengekomen opzegtermijn, die evenwel niet meer bedraagt dan de vergoeding voor één maand zorg en ondersteuning;<br>
 c) tijdens de proefperiode kan de voorziening de overeenkomst alleen opzeggen om redenen van overmacht of in de volgende gevallen :<br>
 1) als de gebruiker niet meer beantwoordt aan de bijzondere opnamevoorwaarden, vermeld in de collectieve rechten en plichten;<br>
@@ -96,103 +93,57 @@ c) tijdens de proefperiode kan de voorziening de overeenkomst alleen opzeggen om
 
 ### ART. 8.
 
-§ 1. Voor er tot ondersteuning wordt overgegaan, sluiten de gebruiker en de voorziening een schriftelijke overeenkomst die het volgende bevat:<br>
+§ 1. Voor er tot ondersteuning wordt overgegaan, sluiten de gebruiker of diens vertegenwoordiger en de voorziening een schriftelijke overeenkomst die het volgende bevat:<br>
 1° de individuele dienstverleningsovereenkomst;<br>
 2° de collectieve rechten en plichten.<br>
 <br>
 In geval van dringende opvang, wordt de overeenkomst gesloten binnen vijf dagen na de aanvang van de opvang.<br>
 <br>
-Als de wettelijke vertegenwoordiger van jongeren die verwezen werden door de jeugdrechter of een gemandateerde voorziening als vermeld in hoofdstuk 8, afdeling 2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, weigert de overeenkomst te ondertekenen, registreert de voorziening die weigering, met opgave van de redenen, in een register dat daarvoor is opgesteld.<br>
+Als de vertegenwoordiger van jongeren die verwezen werden door de jeugdrechter of een gemandateerde voorziening als vermeld in hoofdstuk 8, afdeling 2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, weigert de overeenkomst te ondertekenen, registreert de voorziening die weigering, met opgave van de redenen, in een register dat daarvoor is opgesteld.<br>
 <br>
 § 2. Als de gebruiker een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning van het agentschap wil gebruiken om de zorg en ondersteuning te vergoeden, wordt de overeenkomst gesloten onder de opschortende voorwaarde van de controle van de overeenkomst door het agentschap, vermeld in artikel 14, eerste lid van het besluit van 24 juni 2016, of de controle van het beschikbare bedrag door het agentschap, vermeld in artikel 16, tweede lid van het voormelde besluit.
 
 ### ART. 9.
 
-§ 1. De individuele dienstverleningsovereenkomst voor de minderjarige gebruiker wordt schriftelijk opgesteld in overleg met de gebruiker, op basis van de noden en mogelijkheden van de gebruiker. De individuele dienstverleningsovereenkomst bevat de gegevens, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+§ 1. De individuele dienstverleningsovereenkomst wordt schriftelijk opgesteld in overleg met de gebruiker, diens vertegenwoordiger of de belangrijke betrokken derde, op basis van de noden en mogelijkheden van de gebruiker. De individuele dienstverleningsovereenkomst bevat de gegevens, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
-De individuele dienstverleningsovereenkomst wordt opgesteld op basis van de ondersteuningsfuncties, vermeld in artikel 10 van het besluit van 26 februari 2016 MFC. Per vorm van ondersteuning wordt de frequentie en de duur van de ondersteuning bepaald.<br>
+De individuele dienstverleningsovereenkomst wordt opgesteld op basis van de reëel geboden ondersteuningsfuncties, vermeld in artikel 10 van het besluit van 26 februari 2016, artikel 4 van het besluit van 24 juni 2016 of artikel 4/8 van het besluit van 22 februari 2013. Per vorm van ondersteuning worden de frequentie en de duur van de ondersteuning bepaald.<br>
 <br>
-§ 2. De individuele dienstverleningsovereenkomst voor de meerderjarige gebruiker wordt schriftelijk opgesteld in overleg met de gebruiker op basis van de noden en mogelijkheden van de gebruiker. De individuele dienstverleningsovereenkomst bevat de gegevens, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+Bij de gebruiker, die zijn budget besteedt conform artikel 4 van het besluit van 24 juni 2016, wordt op basis van de duur en de frequentie bepaald wat de kostprijs, uitgedrukt in euro of zorggebonden punten, van de ondersteuning is.<br>
 <br>
-De individuele dienstverleningsovereenkomst wordt opgesteld op basis van de vormen van ondersteuning, vermeld in artikel 4, 1° van het besluit van 24 juni 2016. Per ondersteuningsfunctie wordt de frequentie en de duur van de ondersteuning bepaald. Op basis van de duur en de frequentie wordt bepaald welke vergoeding verschuldigd is, uitgedrukt in euro of zorggebonden punten.<br>
+§ 2. In deze paragraaf wordt verstaan onder voorziening: een zorgaanbieder die voor het verstrekken van niet rechtstreeks toegankelijke zorg of ondersteuning vergund is door het agentschap conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.<br>
 <br>
-De meerderjarige gebruiker aan wie een aantal zorggebonden punten is toegekend als vermeld in artikel 23, eerste lid, van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten, en die op 1 januari 2017 financiële bijdrage betaalde, betaalt verder financiële bijdrage totdat de voorziening is overgeschakeld naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten, conform artikel 26, eerste tot en met vierde lid, van het voormelde besluit, of conform artikel 23 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden, of conform artikel 13 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits.<br>
+De meerderjarige gebruiker die beschikt over een persoonsvolgend budget als vermeld in hoofdstuk 3 van het besluit van 24 juni 2016, betaalt woon- en leefkosten.<br>
 <br>
-Als de meerderjarige gebruiker, vermeld in het derde lid, de individuele dienstverleningsovereenkomst met de voorziening die hem op 31 december 2016 ondersteuning bood, wijzigt voordat die voorziening is overgeschakeld naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten en hij volledig of gedeeltelijk die voorziening verlaat en geheel of gedeeltelijk overstapt naar een andere voorziening, blijft hij financiële bijdrage betalen aan de voorziening die hem op 31 december 2016 ondersteunde en betaalt hij woon- en leefkosten als vermeld in paragraaf 3, bij de andere voorziening.<br>
+In dit artikel wordt verstaan onder woonkosten: de vergoeding voor het gebruik of de huur van een woning, kamer, studio of appartement en eventueel gemeenschappelijke ruimtes die door de gebruiker in het kader van de dienstverlening gebruikt kunnen worden, met inbegrip van de vergoeding voor het gebruik van water, verwarming en elektriciteit en de vergoeding van normale en kleine herstellingen in die ruimtes.<br>
 <br>
-De meerderjarige gebruiker die vanaf 1 januari 2017 start met een persoonsvolgend budget als vermeld in hoofdstuk 3 van het voormelde besluit van 24 juni 2016, betaalt woon- en leefkosten als vermeld in paragraaf 3.<br>
+De voorziening voorziet in noodzakelijke hulpmiddelen en infrastructurele aanpassingen, inclusief herstellingen en onderhoud, zodat gebruikers op een comfortabele en veilige manier kunnen wonen, leven en deelnemen aan de activiteiten. De kosten daarvan worden niet aangerekend als woon- of leefkosten.&nbsp;<br>
 <br>
-§ 2/1. In deze paragraaf wordt verstaan onder:<br>
-1° gebruiker: de meerderjarige gebruiker, vermeld in paragraaf 2;<br>
-2° voorziening: een zorgaanbieder die voor het verstrekken van niet-rechtstreeks toegankelijke zorg of ondersteuning vergund is door het agentschap conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de manier bepalen waarop de woonkosten, vermeld in het tweede lid, berekend worden.<br>
 <br>
-De maximale financiële bijdrage die aan de meerderjarige gebruiker, vermeld in paragraaf 2, vanaf 21 jaar gevraagd kan worden per ondersteuningsfunctie, wordt bepaald conform de tabel, opgenomen in bijlage 5, die bij dit besluit is gevoegd.<br>
+In dit artikel wordt verstaan onder leefkosten: de vergoeding voor het levensonderhoud. Het gaat om de kosten voor:<br>
+1°&nbsp;&nbsp; &nbsp;voeding;<br>
+2°&nbsp;&nbsp; &nbsp;drank;<br>
+3°&nbsp;&nbsp; &nbsp;onderhoud en schoonmaak van de woning en de gemeenschappelijke ruimtes;<br>
+4°&nbsp;&nbsp; &nbsp;aansluiting op het internet en aansluiting van tv en telefoon;<br>
+5°&nbsp;&nbsp; &nbsp;was- en strijkservice;<br>
+6°&nbsp;&nbsp; &nbsp;medicatie;<br>
+7°&nbsp;&nbsp; &nbsp;verzorgingsproducten;<br>
+8°&nbsp;&nbsp; &nbsp;kleding;<br>
+9°&nbsp;&nbsp; &nbsp;vervoer, behalve als de kosten van vervoer als een onderdeel van de kosten van de ondersteuning worden aangerekend;<br>
+10°&nbsp; ontspanning;<br>
+11°&nbsp; abonnementen;<br>
+12°&nbsp; verzekeringen.<br>
 <br>
-De bijdrage per dag kan nooit hoger zijn dan de bijdrage voor woonondersteuning respectievelijk voor gebruikers jonger dan 21 jaar of voor gebruikers ouder dan 21 jaar. Als verschillende voorzieningen tegelijk ondersteuning bieden aan een gebruiker, regelen ze de verdeling van de maximale bijdrage onderling.<br>
+Kosten die vergoed worden met een persoonsvolgend budget, worden niet als woon- of leefkosten aangerekend.<br>
 <br>
-Voor individuele praktische hulp, globale individuele ondersteuning en oproepbare permanentie mag geen bijdrage gevraagd worden.<br>
+De voorziening biedt transparantie aan de gebruikers en hun vertegenwoordigers over de principes die aan de basis liggen van de berekening van de woon- en leefkosten, en maakt die berekening en de aanpassingen ervan publiek beschikbaar.<br>
 <br>
-Aan gebruikers die een financiële bijdrage betalen, mogen naast de financiële bijdrage alleen nog persoonlijke, individueel toewijsbare kosten aangerekend worden. Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, energiekosten, vervoer naar de collectieve dagondersteuning, kosten en heffingen ten laste van een voorziening, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten.<br>
+§ 2/1. ...<br>
 <br>
-Een gebruiker die gebruik maakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, behoudt 357,39 euro per maand van zijn persoonlijke inkomsten of minstens een derde van zijn arbeidsinkomen of vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, als hij voldoet aan een van de volgende voorwaarden:<br>
-1° hij is bekwaam om in een erkend maatwerkbedrijf te werken;<br>
-2° hij heeft alleen motorische of zintuiglijke of licht mentale beperkingen of een niet-aangeboren hersenletsel.<br>
+§ 2/2. ...<br>
 <br>
-Een andere gebruiker dan de gebruiker, vermeld in het vijfde lid, die gebruikmaakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, en die niet bekwaam is om in een erkend maatwerkbedrijf te werken, behoudt 190,61 euro per maand van zijn persoonlijke inkomsten.<br>
-<br>
-Een gebruiker die alleen gebruikmaakt van dagondersteuning en daarvoor de financiële bijdrage betaalt, behoudt 357,39 euro per maand van zijn persoonlijke inkomsten. Dezelfde gebruiker met een arbeidsinkomen of een vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, behoudt minstens een derde van dat inkomen.<br>
-<br>
-Een gebruiker die alleen gebruikmaakt van dagondersteuning bij een voorziening en die ook ondersteund wordt door een pleeggezin met toepassing van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg, betaalt de financiële bijdrage voor dagondersteuning met een maximum van het resterende inkomen na de aftrek van de bijdrage in de kosten van de pleegzorg en na vrijstelling van het bedrag, vermeld in artikel 62, § 1, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg.<br>
-<br>
-In afwijking van het achtste lid is er tot en met 31 december 2020 geen bijdrage verschuldigd als de gebruiker voor 1 januari 2014 al opvang in een pleeggezin combineerde met opvang in een dagcentrum.<br>
-<br>
-De inkomsten voor een gehuwde of wettelijk samenwonende gebruiker worden berekend door de inkomsten van de gehuwden of wettelijk samenwonenden te delen door twee als dat voordeliger is voor de gebruiker.<br>
-<br>
-Met behoud van de toepassing van eventuele rechterlijke beslissingen over de onderhoudsplicht wordt het bedrag dat de gebruiker behoudt uit zijn persoonlijke inkomsten of uit een derde van zijn arbeidsinkomen of vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, verhoogd met 225,22 euro per kind ten laste.<br>
-<br>
-De financiële bijdrage wordt geïnd door een voorziening.<br>
-<br>
-Binnen de regels, vermeld in deze paragraaf, wordt de regeling van de kosten die verschuldigd zijn door de gebruikers, bepaald in overleg met het collectief overlegorgaan.<br>
-<br>
-De bedragen, vermeld in deze paragraaf, zijn gekoppeld aan de spilindex van de consumptieprijzen, die daarvoor berekend en benoemd is in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
-<br>
-De bedragen, vermeld in deze paragraaf, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
-<br>
-§ 2/2. De meerderjarige gebruikers, vermeld in paragraaf 2, die jonger zijn dan 21 jaar, betalen de financiële bijdragen, vermeld in artikel 25 van het besluit van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.<br>
-<br>
-§ 3. Onder woonkosten wordt verstaan de vergoeding voor het gebruik of de huur van een woning, kamer, studio of appartement en eventueel gemeenschappelijke ruimtes die door de gebruiker in het kader van de dienstverlening gebruikt kunnen worden, met inbegrip van de vergoeding voor het gebruik van water, verwarming en elektriciteit en de vergoeding van normale en kleine herstellingen voor deze ruimtes.<br>
-<br>
-De kosten voor aanpassingen aan de infrastructuur die ter beschikking gesteld wordt door de vergunde zorgaanbieder, die uitgevoerd worden met het oog op bijzondere infrastructuurnoden door de aard van de handicap, mogen niet als woonkosten aangerekend worden.<br>
-<br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen kan de wijze bepalen waarop de woonkosten, vermeld in het eerste lid, berekend moeten worden.<br>
-<br>
-Onder leefkosten wordt verstaan de vergoeding voor het levensonderhoud. Het gaat om de kosten voor:<br>
-1° voeding;<br>
-2° drank;<br>
-3° onderhoud en schoonmaak van de woning en de gemeenschappelijke ruimtes;<br>
-4° aansluiting op internet en aansluiting van tv en telefoon;<br>
-5° was- en strijkservice;<br>
-6° medicatie;<br>
-7° verzorgingsproducten;<br>
-8° kleding;<br>
-9° vervoer, behalve als de kosten van vervoer als een onderdeel van de kosten van de ondersteuning worden aangerekend;<br>
-10° ontspanning;<br>
-11° abonnementen;<br>
-12° verzekeringen.<br>
-<br>
-Kosten die vergoed worden met een persoonsvolgend budget, kunnen niet ook als woon- en leefkosten worden aangerekend.<br>
-<br>
-De voorziening biedt aan het collectief overlegorgaan transparantie over de principes die aan de basis liggen van de berekeningswijze van de woon- en leefkosten.<br>
-<br>
-De voorziening maakt de woon- en leefkosten en aanpassingen ervan publiek kenbaar en neemt die op in de individuele dienstverleningsovereenkomst.<br>
-<br>
-Voor de meerderjarige gebruikers die op 1 januari 2017 financiële bijdragen betaalden en die woon- en leefkosten moeten betalen na de overschakeling naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten als vermeld in artikel 2, derde lid, wordt het bedrag van de woon- en leefkosten berekend rekening houdend met de financiële bijdragen die moesten worden betaald en met de bijkomende vergoedingen voor specifieke prestaties en verstrekkingen die aangerekend zijn voor de omschakeling naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten.<br>
-<br>
-De voorzieningen berekenen het bedrag dat gemiddeld als financiële bijdrage en als bijkomende vergoeding is aangerekend.<br>
-<br>
-Het bedrag van de woon- en leefkosten dat aan de gebruikers, vermeld in het achtste lid, wordt aangerekend, mag tot en met 31 december 2020 gemiddeld niet meer bedragen dan het gemiddelde bedrag vermeld in het negende lid.<br>
-<br>
-Van de bepaling, vermeld in het tiende lid, kan alleen worden afgeweken na omstandige motivatie op basis van de kostenstructuur van de voorziening en na goedkeuring door het collectief overlegorgaan van de voorziening en door het agentschap.<br>
+§ 3. De voorziening biedt transparantie over de inzet van het infrastructuurforfait. Kosten die vergoed worden met het infrastructuurforfait, worden niet aangerekend aan de gebruiker.<br>
 <br>
 § 4. De voorziening streeft ernaar een maatschappelijk aanvaardbare ondersteuning te verstrekken aan de gebruiker of zijn omgeving.<br>
 <br>
@@ -203,10 +154,10 @@ In het eerste lid wordt verstaan onder maatschappelijk aanvaardbaar: de mate waa
 ### ART 9/1.
 
 § 1. In dit artikel wordt verstaan onder:<br>
-1° begeleid werken: de individuele en trajectmatige begeleiding van een gebruiker die niet kan worden ingeschakeld in het bestaande reguliere of beschermde arbeidscircuit, om via een aanbod van arbeidsmatige onbezoldigde activiteiten de individuele ontplooiing en de sociale integratie van die gebruiker te bevorderen;<br>
+1° begeleid werken: de individuele en trajectmatige begeleiding van een gebruiker die niet of deels niet kan worden ingeschakeld in het bestaande reguliere of beschermde arbeidscircuit, om via een aanbod van arbeidsmatige onbezoldigde activiteiten de individuele ontplooiing en de sociale integratie van die gebruiker te bevorderen;<br>
 2° werkpost: het bedrijf, de organisatie of de voorziening waar de gebruiker in het kader van begeleid werken een of meer activiteiten verricht.<br>
 <br>
-§ 2. Als in de individuele dienstverleningsovereenkomst wordt overeengekomen dat de voorziening de gebruiker als dagondersteuning of een van de individuele ondersteuningsfuncties begeleid werken aanbiedt, voldoet die ondersteuning aan de volgende voorwaarden:<br>
+§ 2. Als in de individuele dienstverleningsovereenkomst of in de overeenkomst voor ondersteuning bij een ouderinitiatief wordt overeengekomen dat de voorziening de gebruiker begeleid werken of als de begeleiding, vermeld in artikel 10, §1, 4°, van besluit van 26 februari 2016 begeleid werken aanbiedt, voldoet die ondersteuning aan de volgende voorwaarden:<br>
 1° de aangeboden arbeidsmatige activiteiten zijn onbezoldigd;<br>
 2° de voorziening staat in voor het afsluiten van verzekeringen die de gebruiker verzekert voor:<br>
 a) lichamelijke ongevallen inclusief tijdens de verplaatsingen naar en van de werkpost;<br>
@@ -218,37 +169,39 @@ c) de voorziening, de werkpost en de gebruiker.<br>
 <br>
 De overeenkomsten, vermeld in het eerste lid, 3°, bevatten de vermeldingen en de bepalingen, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-De overeenkomst, vermeld in het eerste lid, 3°, b), maakt deel uit van de individuele dienstverleningsovereenkomst.
+De overeenkomst, vermeld in het eerste lid, 3°, b), maakt deel uit van de individuele dienstverleningsovereenkomst of de overeenkomst voor ondersteuning bij een ouderinitiatief.<br>
+<br>
+Dit artikel is eveneens van toepassing op ouderinitiatieven die conform het ministerieel besluit van 19 december 2018 &nbsp;betreffende de registratie van ouderinitiatieven in het kader van de persoonsvolgende financiering, bij het agentschap geregistreerd zijn.
 
 ### ART. 10.
 
-Het overleg, vermeld in artikel 9, § 1 eerste lid, en § 2, eerste lid, wordt op een wijze georganiseerd die aan de persoon met een handicap is aangepast. De voorziening maakt daarbij gebruik van de ervaringen en inzichten van de persoon met een handicap.<br>
-<br>
-Bij een conflict tussen de personen, vermeld in artikel 2, of als geen van die personen de rechten, vermeld in dit besluit, willen uitoefenen, behartigt de voorziening in teamoverleg de belangen van de gebruiker.
+...
 
 ### ART. 11.
 
-De individuele dienstverleningsovereenkomst wordt verder geconcretiseerd in een handelingsplan voor de persoon met een handicap en de begeleiding. In het handelingsplan wordt concreet ingevuld hoe de verschillende ondersteuningsfuncties van de individuele dienstverleningsovereenkomst zullen uitgevoerd worden.<br>
+De individuele dienstverleningsovereenkomst wordt verder geconcretiseerd in een handelingsplan voor de gebruiker en de begeleiding. In het handelingsplan wordt concreet ingevuld hoe de verschillende ondersteuningsfuncties van de individuele dienstverleningsovereenkomst zullen uitgevoerd worden.&nbsp;Het handelingsplan bevat minstens het organisatorische kader waarbinnen men zich engageert de ondersteuning te bieden en de overeengekomen doelstellingen en acties uit te voeren, met inbegrip van de opvolging en de afspraken rond afzondering en fixatie.<br>
 <br>
-Het handelingsplan wordt door beide partijen voor akkoord ondertekend en maakt integraal deel uit van de individuele dienstverleningsovereenkomst.<br>
+Het handelingsplan wordt bij elke wijziging door beide partijen voor akkoord ondertekend.&nbsp;Als er geen reactie volgt op de vraag om het handelingsplan te ondertekenen, wordt verondersteld dat de gebruiker of diens vertegenwoordiger akkoord gaat met het aangepaste handelingsplan.<br>
 <br>
-Het handelingsplan wordt voor meerderjarige gebruikers minstens om de drie jaar en voor minderjarige gebruikers minstens elk jaar geëvalueerd en zo nodig bijgestuurd in overleg met de persoon met een handicap. Het overleg voldoet aan de vereisten, vermeld in artikel 10, eerste lid.<br>
+Het handelingsplan wordt voor meerderjarige gebruikers minstens om de drie jaar en voor minderjarige gebruikers minstens elk jaar geëvalueerd en zo nodig bijgestuurd in overleg met de gebruiker, diens vertegenwoordiger of de belangrijke betrokken derde. Het overleg voldoet aan de vereisten, vermeld in artikel 10, eerste lid.<br>
 <br>
-De individuele dienstverleningsovereenkomst bepaalt de frequentie, het tijdstip en de wijze van evalueren van het handelingsplan. De persoon met een handicap kan altijd bijkomend een evaluatie van het handelingsplan vragen. Als wijzigingen van het handelingsplan resulteren in wijzigingen van de duur of frequentie van de verschillende ondersteuningsfuncties van de individuele dienstverleningsovereenkomst, wordt die overeenkomst aangepast.
+Voor de diensten ondersteuningsplan en bijstandsorganisaties en bij het verlenen van rechtstreeks toegankelijke hulp moet geen handelingsplan opgesteld worden.<br>
+<br>
+De individuele dienstverleningsovereenkomst bepaalt de frequentie, het tijdstip en de wijze van evalueren van het handelingsplan. De gebruiker, diens vertegenwoordiger of de belangrijke betrokken derde kan altijd bijkomend een evaluatie van het handelingsplan vragen. Als wijzigingen van het handelingsplan resulteren in wijzigingen van de duur of frequentie van de verschillende ondersteuningsfuncties van de individuele dienstverleningsovereenkomst, wordt die overeenkomst aangepast.
 
 ## [... (opgeh. BVR 17 maart 2017, art. 12 , I: 1 januari 2017)]
 
 ### ART. 12.
 
-De belangrijke betrokken derde van de persoon met een handicap heeft een informatierecht en hoorrecht over individuele dienstverleningsovereenkomst en het handelingsplan, bepaald in artikel 11. De voorziening voldoet aan die voormelde rechten op verzoek van de belangrijke betrokken derde en na akkoord van de persoon met een handicap.<br>
+Het overleg, vermeld in artikel 9, §1 eerste lid en artikel 11, derde lid, wordt op een aangepaste manier georganiseerd voor de gebruiker. De voorziening maakt daarbij gebruik van de ervaringen en inzichten van de gebruiker.<br>
 <br>
-In het eerste lid wordt verstaan onder een belangrijke betrokken derde: de persoon die de persoon met een handicap heeft aangewezen om hem bij te staan. Die persoon is geen personeelslid van de voorziening.
+De belangrijke betrokken derde wordt nauw betrokken bij de bespreking en de opmaak van de individuele dienstverleningsovereenkomst en het handelingsplan. De voorziening voldoet aan het verzoek van de belangrijke betrokken derde om betrokken te worden bij de bespreking en de opmaak van de individuele dienstverleningsovereenkomst en na akkoord van de gebruiker.<br>
+<br>
+Als er geen vertegenwoordiger is ingesteld en de gebruiker niet in staat is om de rechten, vermeld in dit besluit, uit te oefenen of een belangrijke betrokken derde aan te wijzen, behartigt de voorziening in teamoverleg de belangen van de gebruiker.
 
 ### ART. 13.
 
-Voor de diensten Ondersteuningsplan moet geen handelingsplan opgesteld worden.<br>
-<br>
-Bij het verlenen van rechtstreeks toegankelijke hulp vermeldt de individuele dienstverleningsovereenkomst de ondersteuning en de wijze waarop de ondersteuning geboden zal worden. Bij het verlenen van rechtstreeks toegankelijke hulp moet er geen handelingsplan opgesteld worden.
+...
 
 ### ART. 14.
 
@@ -261,8 +214,6 @@ De voorziening waarborgt in overleg met de gebruiker een verantwoorde overdracht
 ### ART. 15.
 
 Elke voorziening is er toe gehouden de collectieve rechten en plichten op te stellen en aan de gebruiker te overhandigen. De collectieve rechten en plichten omvatten de gegevens, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
-<br>
-Voor de toepassing van het eerste lid worden de voorzieningen van eenzelfde inrichtende macht, als één enkele voorziening beschouwd. Als de inrichtende macht dat wenselijk acht, kan ze evenwel voor elk van die voorzieningen afzonderlijk collectieve rechten en plichten opstellen.<br>
 <br>
 De collectieve rechten en plichten waarborgen aan de gebruikers dat hun ideologische, filosofische of godsdienstige overtuiging, hun vrijheid en privacy, hun veiligheid en hun gezondheid geëerbiedigd zullen worden, voor zover de werking van de voorziening en de integriteit van de medegebruikers en personeel niet in het gedrang komen.
 
@@ -292,152 +243,133 @@ De volledige tekst van de collectieve rechten en plichten wordt na latere wijzig
 
 ## HOOFDSTUK 5 Rechten van de gebruiker
 
-## Afdeling 1 Individuele inspraak
+## Afdeling 1 Het dossier
 
 ### ART. 21.
 
-De gebruiker&nbsp;heeft recht op volledige, nauwkeurige en tijdige informatie over alle aangelegenheden in verband met zijn&nbsp;zorg en ondersteuning die hem rechtstreeks en persoonlijk aanbelangen.<br>
-&nbsp;
+§1. De gebruiker heeft recht op een dossier dat door de voorziening zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
+<br>
+Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, en aan de verplichtingen die opgenomen zijn in deze afdeling.<br>
+<br>
+§2. Als persoonsgegevens verwerkt worden met cameratoezicht of andere methoden van toezicht die een belangrijke inbreuk op de privacy inhouden, wordt de gebruiker of diens vertegenwoordiger voorafgaand en in duidelijke en eenvoudige taal geïnformeerd over de modaliteiten van dat toezicht en, als dat van toepassing is, de wetgeving over de regeling van de plaatsing en het gebruik van bewakingscamera’s. De gebruiker of diens vertegenwoordiger wordt geïnformeerd over de duurtijd van de verwerking en het recht op toegang tot, inzage in en aanpassing van de opnames.
 
 ### ART. 22.
 
-Behoudens overmacht of hoogdringendheid is voorafgaand overleg met de gebruiker of zijn vertegenwoordiger verplicht als het om de volgende onderwerpen gaat :<br>
-1° wijzigingen van de individuele dienstverleningsovereenkomst of het handelingsplan;<br>
-2° maatregelen die wegens de evolutie van de fysieke of geestelijke toestand van de gebruiker moeten genomen worden;<br>
-3° wijzigingen in de individuele woon- of leefsituatie.<br>
-<br>
-Het initiatief voor dat overleg wordt genomen door de partij die een wijziging of maatregel door wil voeren.<br>
-&nbsp;
-
-## Afdeling 2 Het dossier
+In het dossier, vermeld in artikel 21, §1, eerste lid, worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens zijn onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de wet van 3 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.
 
 ### ART. 23.
 
-De gebruiker heeft recht op een dossier dat door de voorziening zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
+De gebruiker of diens vertegenwoordiger heeft recht op inzage in de dossiergegevens die geen voorwerp uitmaken van het dossier van een beroepsbeoefenaar in de gezondheidszorg.<br>
 <br>
-Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, en aan de verplichtingen, opgenomen in deze afdeling.<br>
-&nbsp;
+Gegevens die worden verstrekt door medewerkers van de voorziening en door derden en die ze als vertrouwelijk hebben bestempeld, kunnen alleen ingezien worden na akkoord van die medewerkers of derden.<br>
+<br>
+Gegevens over een derde kunnen alleen ingezien worden als er geen afbreuk gedaan wordt aan het recht van de derde op de bescherming van de persoonlijke levenssfeer.
+
+## Afdeling 2 De inspraakregeling
 
 ### ART. 24.
 
-In het dossier worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de wet van 3 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
-&nbsp;
+De voorziening beschikt over een toegankelijke inspraakregeling voor alle gebruikers, hun vertegenwoordigers en hun netwerk. De inspraakregeling bevat zowel een procedure voor individuele als collectieve inspraak en legt vast op welke manier de gebruikers, hun vertegenwoordigers en hun netwerk kunnen deelnemen aan het beleid en de kwaliteitszorg van de voorziening.<br>
+<br>
+De voorziening verstrekt aan de gebruikers, hun vertegenwoordigers en hun netwerk de nodige en transparante informatie over alle onderwerpen waarover inspraak is of kan worden gevraagd.
 
 ### ART. 25.
 
-De minderjarige gebruiker heeft recht op inzage in zijn dossier.<br /><br />De toegang tot de gegevens is onderworpen aan de bepalingen van artikel 20 tot en met 23 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp.<br /><br />
+De gebruiker heeft recht op volledige, nauwkeurige en tijdige informatie over alle aangelegenheden in verband met de zorg en ondersteuning die de gebruiker rechtstreeks en persoonlijk aanbelangen.<br>
+<br>
+De voorziening overlegt met de gebruiker, diens vertegenwoordiger of de belangrijke betrokken derde over alle aangelegenheden in verband met de zorg en ondersteuning die de gebruiker rechtstreeks en persoonlijk aanbelangen. Het overleg wordt georganiseerd op een aangepaste manier voor de gebruiker.&nbsp;<br>
+<br>
+Voorzieningen die vrijheidsbeperkende maatregelen toepassen, bespreken tijdens het overleg, vermeld in het tweede lid, de afspraken over de mogelijke vrijheidsbeperkende maatregelen. Er wordt bijzondere aandacht besteed aan de afspraken over afzondering en fixatie, als vermeld in hoofdstuk 8, afdeling 2.
 
 ### ART. 26.
 
-De meerderjarige gebruiker of zijn vertegenwoordiger heeft recht op inzage in de dossiergegevens die geen voorwerp uitmaken van het dossier van een beroepsbeoefenaar in de gezondheidszorg.<br /><br />Gegevens die worden verstrekt door medewerkers van de voorziening en derden die zij als vertrouwelijk hebben bestempeld, kunnen alleen ingezien worden na akkoord van die medewerkers of derden.<br /><br />Gegevens die een derde betreffen, kunnen alleen ingezien worden als er geen afbreuk gedaan wordt aan het recht van de derde op bescherming van zijn persoonlijke levenssfeer.<br /><br />
-
-## Afdeling 3 Collectieve inspraak
+Behoudens overmacht of hoogdringendheid moet er voorafgaand overleg plaatsvinden tussen de voorziening en de gebruiker, diens vertegenwoordiger of de belangrijke betrokken derde als er beslissingen genomen worden over de volgende onderwerpen:<br>
+1° &nbsp;&nbsp; &nbsp;wijzigingen van de individuele dienstverleningsovereenkomst of het handelingsplan;<br>
+2° &nbsp;&nbsp; &nbsp;maatregelen die genomen worden vanwege de evolutie van de fysieke of geestelijke toestand van de gebruiker;<br>
+3° &nbsp;&nbsp; &nbsp;wijzigingen in de individuele woon- of leefsituatie van de gebruiker.<br>
+<br>
+Het initiatief voor het voorafgaande overleg, vermeld in het eerste lid, wordt genomen door de partij die de wijziging of maatregel voorstelt.
 
 ### ART. 27.
 
-Voorzieningen die woonondersteuning aanbieden, richten een collectief overlegorgaan op.<br>
+§1. De inspraakregeling, vermeld in artikel 24, eerste lid, bepaalt hoe collectieve inspraak wordt georganiseerd. Collectieve inspraak wordt minstens georganiseerd via een systematisch en onafhankelijk overleg dat een representatieve vertegenwoordiging van alle gebruikers waarborgt en dat vermeldt op welke manier de gebruikers, hun vertegenwoordigers en hun netwerk inbreng kunnen leveren.<br>
 <br>
-In het eerste lid wordt verstaan onder woonondersteuning: de woonondersteuning, vermeld in artikel 4, 1°, a) van het besluit van 24 juni 2016, of een verblijf als vermeld in artikel 10, § 1, 1°, van het besluit van 26 februari 2016 MFC.
+§2. Voorafgaand advies, via collectieve inspraak, vindt plaats bij de volgende wijzigingen en beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;wijzigingen van de inspraakregeling, vermeld in artikel 24, eerste lid;<br>
+2°&nbsp;&nbsp; &nbsp;wijzigingen van de algemene bepalingen van de individuele dienstverleningsovereenkomst;<br>
+3°&nbsp;&nbsp; &nbsp;wijzigingen van de collectieve rechten en plichten van de gebruikers;<br>
+4°&nbsp;&nbsp; &nbsp;wijzigingen in de algemene woon- en leefsituatie van de gebruikers;<br>
+5°&nbsp;&nbsp; &nbsp;wijzigingen in het concept van de voorziening;<br>
+6°&nbsp;&nbsp; &nbsp;wijzigingen in de berekeningswijze van de woon- en leefkosten, de individueel toewijsbare kosten of de financiële bijdrage, vermeld in artikel 15 van het besluit van 22 februari 2013;<br>
+7°&nbsp;&nbsp; &nbsp;de inzet van het infrastructuurforfait;<br>
+8°&nbsp;&nbsp; &nbsp;de opmaak van het beleidsplan en de zelfevaluatie.&nbsp;<br>
+<br>
+Daarnaast is het op elk moment mogelijk om via collectieve inspraak advies te vragen of uit te brengen over alle aangelegenheden die de gebruikers aanbelangen.<br>
+<br>
+Het advies van de collectieve inspraak wordt opgenomen in de verslaggeving. Als het advies niet wordt gevolgd, motiveert de voorziening voldoende waarom het advies niet wordt gevolgd. Die motivering wordt opgenomen in de verslaggeving.<br>
+<br>
+§3. Een afgevaardigde van de gebruikers wordt als waarnemer uitgenodigd op de vergaderingen van het bestuursorgaan van de voorziening voor de bespreking van de aangelegenheden die de gebruikers aanbelangen.<br>
+<br>
+§4. De voorziening verstrekt aan de gebruikers, hun vertegenwoordigers of hun netwerk de noodzakelijke informatie over alle elementen die de gebruikers als groep aanbelangen, met inbegrip van de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de begroting, de jaarrekening en het doelmatig inzetten van de middelen;<br>
+2°&nbsp;&nbsp; &nbsp;de manier waarop de afvaardiging, vermeld in paragraaf 3, gebeurt;<br>
+3°&nbsp;&nbsp; &nbsp;de manier waarop klachten die over meer dan een gebruiker gaan, en die de gebruikers niet in persoonlijke naam bij de voorziening willen indienen, ingediend worden bij de leidend ambtenaar met toepassing van artikel 36.
 
 ### ART. 28.
 
-§ 1. Elk collectief overlegorgaan telt minstens drie leden. Het collectief overlegorgaan is niet meer rechtsgeldig samengesteld als er minder dan drie leden zijn. In dat geval wordt een nieuwe verkiezing georganiseerd.<br>
-<br>
-§ 2. De leden van het collectief overlegorgaan worden uit en door de gebruikers van de voorziening of hun vertegenwoordigers gekozen voor een termijn van vier jaar.<br>
-<br>
-De verantwoordelijken van de voorziening zijn belast met de organisatie van de verkiezingen, waarbij zij er inzonderheid over waken dat elke stemgerechtigde van de verkiezingen op de hoogte wordt gebracht en zich kandidaat kan stellen.<br>
-<br>
-Als er minder dan drie leden gekozen worden, wordt collectieve inspraak georganiseerd. In de collectieve rechten en plichten wordt de wijze bepaald waarop die inspraak georganiseerd wordt. De verantwoordelijken van de voorziening organiseren in dat geval na twee jaar opnieuw verkiezingen.<br>
-<br>
-Het mandaat van de leden van het collectief overlegorgaan is hernieuwbaar.<br>
-<br>
-Het mandaat van een lid vervalt :<br>
-1° bij het verstrijken van de termijn waarvoor dat lid gekozen is;<br>
-2° als de gebruiker de voorziening verlaat;<br>
-3° bij ontslag van het lid.<br>
-<br>
-In de gevallen, vermeld in 2° en 3°, kan op initiatief van&nbsp;het collectief overlegorgaan en in overleg met de voorziening een andere gebruiker of vertegenwoordiger verkozen worden, die het vrijgekomen mandaat voortzet.<br>
-<br>
-§ 3. Het collectief overlegorgaan stelt een huishoudelijk reglement op waarin minstens de volgende gegevens zijn opgenomen :<br>
-1° de frequentie van de vergaderingen;<br>
-2° de wijze waarop de gebruikers of hun vertegenwoordigers een inbreng kunnen leveren aan het collectief overlegorgaan.<br>
-<br>
-Het huishoudelijk reglement van het collectief overlegorgaan wordt opgenomen in de collectieve rechten en plichten.<br>
-&nbsp;
+...
 
 ### ART. 29.
 
-§ 1. Tussen de voorziening en het collectief overlegorgaan is voorafgaand overleg verplicht over :<br>
-1° wijzigingen aan de collectieve rechten en plichten;<br>
-2° belangrijke wijzigingen in de algemene woon- en leefsituatie;<br>
-3° wijzigingen in het concept van de voorziening.<br>
-<br>
-Voor wijzigingen van de woon- en leefkosten is voorafgaand overleg met het collectief overlegorgaan verplicht.<br>
-<br>
-§ 2. Zowel de voorziening als het collectief overlegorgaan hebben initiatiefrecht om advies te vragen of uit te brengen over aangelegenheden die de verhouding tussen voorziening en de gebruikers of hun vertegenwoordigers aangaan.<br>
-<br>
-Er is hoorrecht en antwoordplicht over elk onderwerp waarover het collectief overlegorgaan een standpunt aan de verantwoordelijken van de voorziening mee wil delen.<br>
-<br>
-§ 3. De voorziening verstrekt aan het collectief overlegorgaan de noodzakelijke informatie over beslissingen die rechtstreeks over de woon- en leefsituatie van de gebruikers gaan en over alle andere elementen die de gebruikers als groep aanbelangen, met inbegrip van informatie over de jaarrekeningen van de voorziening en het doelmatig inzetten van de middelen.<br>
-<br>
-§ 4. Een afgevaardigde van het collectief overlegorgaan wordt als waarnemer uitgenodigd op de vergaderingen van de raad van bestuur van de inrichtende macht van de voorziening, voor de bespreking van die aangelegenheden die betrekking hebben op de voorziening.<br>
-<br>
-Als verschillende voorzieningen tot dezelfde inrichtende macht behoren, wijzen de in voorkomend geval verschillende collectieve overlegorganen onderling een gemeenschappelijke afgevaardigde aan.<br>
-<br>
-§ 5. Het collectief overlegorgaan kan, in naam van de gebruikers, klachten die over meer dan één gebruiker gaan, en die de gebruikers niet in persoonlijke naam bij de voorziening willen indienen, schriftelijk indienen bij de leidend ambtenaar met toepassing van artikel 36.<br>
-&nbsp;
+...
 
 ### ART. 30.
 
-De voorzieningen die met toepassing van artikel 27 geen collectief overlegorgaan hoeven op te richten, organiseren minstens collectieve inspraak voor de gebruikers of hun vertegenwoordigers voor de punten, vermeld in artikel 29, §1, eerste lid, 1° tot en met 3°.<br>
-<br>
-In&nbsp;de collectieve rechten en plichten wordt de wijze bepaald waarop die collectieve inspraak georganiseerd wordt.<br>
-<br>
-De diensten Ondersteuningsplan moeten geen collectieve inspraak organiseren.
-
-## Afdeling 4 Klachtenbehandeling met betrekking tot dit hoofdstuk
+...
 
 ### ART. 31.
 
-Klachten over het niet naleven van de bepalingen van afdeling 1 en afdeling 2 worden behandeld volgens de procedure, vermeld in hoofdstuk 6.<br /><br />Klachten over het niet naleven van de bepalingen van afdeling 3 worden schriftelijk gemeld aan de leidend ambtenaar.<br /><br />
+...
 
-## HOOFDSTUK 6 Klachtenprocedure
+## HOOFDSTUK 6 Signalen- en klachtenbeleid
 
-## Afdeling 1 Inleidende bepalingen
+## ...
 
 ### ART. 32.
 
-De procedures in dit hoofdstuk voor onderzoek en behandeling van de klachten van de gebruikers zijn niet van toepassing op de klachten over het collectief overleg.<br>
+De procedures in dit hoofdstuk zijn niet van toepassing op onderzoek en op de behandeling van de klachten over het niet-naleven van artikel 27. Die klachten worden gemeld aan de leidend ambtenaar.<br>
 <br>
 De klachten over het beheer van gelden en goederen van de gebruikers door beheerders of personeelsleden van de voorziening worden behandeld volgens de bepalingen van het besluit van de Vlaamse Regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen of aanbieders van zorg en ondersteuning als vermeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
 De procedures in dit hoofdstuk voor onderzoek en behandeling van de klachten van de gebruikers zijn wel van toepassing op de klachten over het beheer van kleine sommen die als zakgeld voor dagelijks gebruik kunnen beschouwd worden, zoals bepaald in artikel 4 van het besluit van de Vlaamse Regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen of aanbieders van zorg en ondersteuning als vermeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 &nbsp;
 
-## Afdeling 2 Klachtenafhandeling
+## ...
 
 ### ART. 33.
 
-De voorziening beschrijft, in overleg met de gebruikers of in voorkomend geval met het collectief overlegorgaan, de wijze waarop ze opmerkingen, suggesties en klachten van de gebruikers of hun vertegenwoordigers afhandelt.<br>
+De voorziening ontwikkelt, in overleg met de gebruikers, een beleid rond de afhandeling van signalen en klachten. Dat beleid beschrijft aan wie en op welke wijze de gebruikers of hun vertegenwoordigers signalen en klachten moeten bezorgen en hoe de voorziening die signalen en klachten behandelt.<br>
 <br>
-Die afhandelingswijze wordt opgenomen in de collectieve rechten en plichten.<br>
-<br>
-De klachten worden afgehandeld op een wijze die aan de gebruiker is aangepast en houdt rekening met de ervaringen en inzichten van de gebruikers.<br>
-&nbsp;
+Het beleid wordt geadviseerd via collectieve inspraak, is transparant, aangepast aan de gebruiker en houdt rekening met de ervaringen en inzichten van de gebruikers, hun vertegenwoordigers en medewerkers.
 
-## Afdeling 3 Schriftelijke klachtenprocedure
+## ...
 
 ### ART. 34.
 
-De gebruiker of zijn vertegenwoordiger kan steeds een schriftelijke klacht indienen bij de directie van de voorziening. De directie maakt bij ontvangst van die klacht onmiddellijk melding in een daartoe bestemd register.<br /><br />De klacht kan door de indiener steeds ingetrokken worden.<br /><br />De voorziening is ertoe gehouden binnen dertig dagen na het indienen van de klacht aan de indiener schriftelijk mee te delen welk gevolg aan de klacht wordt gegeven.<br /><br />
+Een klacht kan op een toegankelijke manier ingediend worden door de gebruiker, diens vertegenwoordiger of diens netwerk. De voorziening registreert de klacht in het klachtenregister en bezorgt de weergave aan de klachtindiener.<br>
+<br>
+De klacht kan door de indiener steeds ingetrokken worden.<br>
+<br>
+De voorziening is ertoe gehouden binnen dertig dagen na het indienen van de klacht aan de indiener schriftelijk mee te delen welk gevolg aan de klacht wordt gegeven en vermeldt de mogelijkheid om zich te richten tot de klachtencommissie.<br>
+&nbsp;
 
-## Afdeling 4 Klachtencommissie
+## ...
 
 ### ART. 35.
 
 § 1. Als de afhandeling van de klacht overeenkomstig de bij artikel 34 vastgestelde procedure de indiener geen voldoening schenkt, kan die zich schriftelijk wenden tot een bij elke voorziening op te richten interne klachtencommissie.<br>
 <br>
-Die klachtencommissie bestaat uit een vertegenwoordiger van de inrichtende macht van de voorziening en een persoon die is aangewezen door het collectief overlegorgaan of, bij ontstentenis daarvan, door de gebruikers of hun vertegenwoordigers in het collectief overleg.&nbsp;De voormelde vertegenwoordiger van de inrichtende macht kan niet dezelfde persoon zijn die de klacht conform artikel 34 heeft behandeld.<br>
+Die klachtencommissie bestaat uit een vertegenwoordiger van de voorziening en een persoon die is aangewezen via collectieve inspraak.&nbsp;De voormelde vertegenwoordiger van de voorziening kan niet dezelfde persoon zijn die de klacht conform artikel 34 heeft behandeld.<br>
 <br>
 § 2. De klachtencommissie behandelt de klacht, hoort alle betrokken partijen en poogt ze te verzoenen.<br>
 <br>
@@ -445,14 +377,15 @@ De indiener van de klacht kan zich laten bijstaan door een derde.<br>
 <br>
 De klachtencommissie deelt binnen dertig dagen nadat ze de klacht ter behandeling voorgelegd heeft gekregen, haar oordeel over de klacht schriftelijk mee aan de indiener en aan de voorziening.<br>
 <br>
-Als beide leden van de klachtencommissie het niet eens zijn over het uit te brengen oordeel, worden beide standpunten meegedeeld.<br>
-<br>
-§ 3. Als de klacht gegrond wordt bevonden, moet de voorziening binnen dertig dagen na de mededeling van het oordeel van de klachtencommissie aan de indiener schriftelijk meedelen welk gevolg eraan gegeven wordt.<br>
+§ 3. De voorziening moet binnen dertig dagen na de mededeling van het oordeel van de klachtencommissie aan de indiener schriftelijk meedelen welk gevolg eraan gegeven wordt.<br>
 &nbsp;
 
 ### ART. 36.
 
-Als de afhandeling van de klacht overeenkomstig de procedure, vastgesteld in artikel 35, de indiener nog steeds geen voldoening schenkt, kan die zich schriftelijk wenden tot de leidend ambtenaar.<br /><br />De leidend ambtenaar gaat na of de voorziening al dan niet de reglementering heeft nageleefd. De leidend ambtenaar treft de nodige maatregelen met het oog op het naleven van de reglementering, als de voorziening in gebreke blijft.<br /><br />
+Als de afhandeling van de klacht overeenkomstig de procedure, vastgesteld in artikel 35, de indiener nog steeds geen voldoening schenkt, kan die zich wenden tot de leidend ambtenaar.<br>
+<br>
+De leidend ambtenaar gaat na of de voorziening al dan niet de reglementering heeft nageleefd. De leidend ambtenaar treft de nodige maatregelen met het oog op het naleven van de reglementering, als de voorziening in gebreke blijft.<br>
+&nbsp;
 
 ## HOOFDSTUK 7 [Beëindiging van de zorg en ondersteuning (verv. BVR 17 maart 2017, art. 26, I: 1 januari 2017)]
 
@@ -462,21 +395,21 @@ Als de afhandeling van de klacht overeenkomstig de procedure, vastgesteld in art
 1° wegens overmacht;<br>
 2° als de gebruiker niet meer aan de bijzondere opnamevoorwaarden, vermeld in de collectieve rechten en plichten, voldoet;<br>
 3° als de lichamelijke of geestelijke toestand van de gebruiker in die mate is gewijzigd dat het zorgaanbod van de voorziening niet meer kan beantwoorden aan de behoeften en zorgvragen van de gebruiker;<br>
-4° als de gebruiker of zijn wettelijke vertegenwoordiger de verplichtingen, vermeld in de individuele dienstverleningsovereenkomst, of de collectieve rechten en plichten niet nakomt;<br>
+4° als de gebruiker of zijn vertegenwoordiger de verplichtingen, vermeld in de individuele dienstverleningsovereenkomst, of de collectieve rechten en plichten niet nakomt;<br>
 5° als de gebruiker of zijn vertegenwoordiger bedrieglijke gegevens heeft verstrekt over de verklaring op erewoord, vermeld in punt 12° van bijlage 1, die bij dit besluit is gevoegd;<br>
 6° als de gebruiker of zijn vertegenwoordiger geen overeenkomst sluit met het agentschap als hij een vergoeding voor hulp van derden of ondersteuning door een voorziening heeft ontvangen, om die vergoeding voor de ondersteuning aan te wenden, of de verplichtingen van die overeenkomst niet nakomt.<br>
 <br>
 §2. De voorziening gaat bij een eenzijdige beëindiging van de zorg en ondersteuning samen met de gebruiker op zoek naar een oplossing zodat de continuïteit van de zorg of ondersteuning verzekerd kan worden. Als dat nodig is, wordt onderzocht of in samenwerking met een andere voorziening de continuïteit van de zorg of ondersteuning verzekerd kan worden.<br>
 <br>
-De voorziening bezorgt een voornemen om over te gaan tot een eenzijdige beëindiging van de zorg en ondersteuning aan de gebruiker of zijn wettelijke vertegenwoordiger. De voorziening motiveert in het voormelde voornemen uitvoerig de redenen van het ontslag en vermeldt de mogelijkheid om het voornemen te betwisten conform artikel 38.<br>
+De voorziening bezorgt een voornemen om over te gaan tot een eenzijdige beëindiging van de zorg en ondersteuning aan de gebruiker of zijn vertegenwoordiger. De voorziening motiveert in het voormelde voornemen uitvoerig de redenen van het ontslag en vermeldt de mogelijkheid om het voornemen te betwisten conform artikel 38.<br>
 <br>
 §3. Voor gebruikers van voorzieningen als vermeld in artikel 4, eerste lid, 2°, van dit besluit kan de voorziening pas overgaan tot een eenzijdige beëindiging van de zorg en ondersteuning, nadat al de volgende stappen zijn ondernomen:<br>
-1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn wettelijke vertegenwoordiger;<br>
+1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn vertegenwoordiger;<br>
 2° er is een beroep gedaan op hoogdrempelige individuele bijstand als vermeld in artikel 12, eerste lid, 8°, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering;<br>
 3° er is een beroep gedaan op intensieve bemiddeling als vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap.<br>
 <br>
 Voor gebruikers van voorzieningen als vermeld in artikel 4, eerste lid, 3°, van dit besluit, kan de voorziening pas overgaan tot een eenzijdige beëindiging van de zorg en ondersteuning, nadat al de volgende stappen zijn ondernomen:<br>
-1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn wettelijke vertegenwoordiger;<br>
+1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn vertegenwoordiger;<br>
 2° er heeft bemiddeling als vermeld in artikel 30, tweede lid, 3°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, plaatsgehad.<br>
 <br>
 §4. Als een van de stappen, vermeld in paragraaf 3, niet is gevolgd, motiveert de voorziening omstandig waarom die stap niet is gevolgd.<br>
@@ -491,7 +424,7 @@ In afwijking van artikel 35, § 1, moet vooraf geen schriftelijke klacht bij de 
 <br>
 § 2. Voor de behandeling van het voornemen om over te gaan tot de eenzijdige beëindiging van de zorg of ondersteuning, vermeld in artikel 37, §2, tweede lid, wordt de klachtencommissie uitgebreid met een onafhankelijke derde.<br>
 <br>
-De onafhankelijke derde, die bij voorkeur een expert in bemiddeling is, wordt aangewezen in onderling overleg door de voorziening en het collectief overlegorgaan, of bij ontstentenis daarvan, in overleg met de gebruikers of hun vertegenwoordigers door middel van de collectieve inspraak, vermeld in artikel 30. Het mandaat van de onafhankelijke derde heeft een termijn van vier jaar en is hernieuwbaar.<br>
+De onafhankelijke derde, die bij voorkeur een expert in bemiddeling is, wordt aangewezen in onderling overleg door de voorziening en door middel van de collectieve inspraak, vermeld in artikel 27. Het mandaat van de onafhankelijke derde heeft een termijn van vier jaar en is hernieuwbaar.<br>
 <br>
 § 3. De klachtencommissie hoort alle betrokken partijen, gaat na of de stappen overeenkomstig artikel 37, §3, gevolgd zijn, en poogt ze te verzoenen binnen dertig dagen nadat ze het voornemen om over te gaan tot de eenzijdige beëindiging van de zorg of ondersteuning, vermeld in artikel 37, §2, tweede lid, ter behandeling voorgelegd heeft gekregen. Het resultaat van een verzoening wordt opgenomen in de individuele dienstverleningsovereenkomst.<br>
 <br>
@@ -524,25 +457,31 @@ De voorziening waarborgt in overleg met de gebruiker of zijn vertegenwoordiger e
 
 ### ART 41/1.
 
-De voorziening bekijkt na de onderbreking van de ondersteuning waarbij de individuele dienstverleningsovereenkomst is beëindigd of aangepast, of ze de oorspronkelijke ondersteuning opnieuw kan opnemen of gaat samen met de gebruiker of zijn wettelijke vertegenwoordiger op zoek naar een oplossing zodat de continuïteit van de zorg of ondersteuning verzekerd kan worden.
+De voorziening bekijkt na de onderbreking van de ondersteuning waarbij de individuele dienstverleningsovereenkomst is beëindigd of aangepast, of ze de oorspronkelijke ondersteuning opnieuw kan opnemen of gaat samen met de gebruiker of diens vertegenwoordiger op zoek naar een oplossing zodat de continuïteit van de zorg of ondersteuning verzekerd kan worden.
 
 ## HOOFDSTUK 8 Bescherming van de integriteit
 
-## Afdeling 1 Grensoverschrijdend gedrag
+## Afdeling 1 Ernstige gebeurtenissen met inbegrip van grensoverschrijdend gedrag
 
 ### ART. 42.
 
-De voorziening ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van de gebruikers of medewerkers.<br>
+§1. In dit artikel wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;ernstige gebeurtenis: elke handeling, situatie of gebeurtenis die een ernstige negatieve impact heeft op de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de fysieke en psychische integriteit van een persoon;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;grensoverschrijdend gedrag: gedrag of interacties waarbij de fysieke, psychische, seksuele of economische integriteit van een persoon ernstig geschonden wordt. Het gaat daarbij om situaties waarin het gedrag duidelijk buiten de grenzen van de aanvaardbare omgang valt, en waarbij de gebruiker schade ondervindt of ernstig risico loopt. Grensoverschrijdend gedrag is een specifieke categorie van een ernstige gebeurtenis.<br>
 <br>
-De voorziening hanteert een procedure voor preventie, detectie van en gepast reageren op grensoverschrijdend gedrag ten aanzien van de gebruikers of medewerkers. In die procedure is een registratiesysteem opgenomen, dat voldoet aan de verplichtingen die voortvloeien uit de wetgeving betreffende de verwerking van persoonsgegevens.<br>
-&nbsp;
+§2. Ernstige gebeurtenissen worden intern geregistreerd en binnen de dertig dagen na kennisname door de voorziening gemeld aan het agentschap. De voorziening analyseert de ernstige gebeurtenissen en formuleert verbeteracties als deze nodig zijn.<br>
+<br>
+In afwijking van het eerste lid worden ernstige gebeurtenissen die resulteren in ernstige verwondingen of overlijden, incidenten waarbij de continuïteit van de werking in gedrag komt of incidenten met persdreiging, onmiddellijk gemeld aan het agentschap.<br>
+<br>
+Het agentschap bepaalt de manier waarop de ernstige gebeurtenissen aan het agentschap, vermeld in het eerste en tweede lid, gemeld worden.<br>
+<br>
+§3. De voorziening ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van de gebruikers en medewerkers, met inbegrip van een afwegingskader.<br>
+<br>
+De voorziening hanteert een procedure voor preventie van, detectie van en gepast reageren op grensoverschrijdend gedrag ten aanzien van de gebruikers en medewerkers. In die procedure is een registratiesysteem opgenomen dat voldoet aan de verplichtingen die voortvloeien uit de wetgeving over de verwerking van persoonsgegevens.
 
 ### ART. 43.
 
-Grensoverschrijdend gedrag ten aanzien van de gebruikers wordt&nbsp;binnen dertig dagen nadat die is geregistreerd door de voorziening, gemeld aan het agentschap<br>
-<br>
-Het agentschap bepaalt de wijze waarop de melding, vermeld in het eerste lid, gebeurt.<br>
-&nbsp;
+...
 
 ## Afdeling 2 Afzonderingsmaatregelen
 
@@ -567,13 +506,13 @@ De procedure beschrijft ten minste de wijze waarop :<br>
 3° toezicht gehouden wordt op de gebruiker tijdens de tijdelijke afzondering.<br>
 &nbsp;
 
-## Afdeling 3. Ernstige gebeurtenissen
-
 ### ART 45/1.
 
 Ernstige gebeurtenissen die de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de integriteit van de gebruikers in het gedrang kunnen brengen, of die daarop een ernstige impact hebben, worden onmiddellijk aan het agentschap gemeld.<br>
 <br>
 Het agentschap bepaalt de wijze waarop de melding, vermeld in het eerste lid, gebeurt.
+
+## ...
 
 ## HOOFDSTUK 9 Kwaliteitszorg
 
@@ -581,7 +520,12 @@ Het agentschap bepaalt de wijze waarop de melding, vermeld in het eerste lid, ge
 
 ### ART. 46.
 
-§ 1. Om erkend te worden en te blijven, moet een voorziening, met behoud van de toepassing van andere erkenningsnormen, ter uitvoering van artikel 5 en 6, § 1, van het decreet van 17 oktober 2003 beschikken over een kwaliteitshandboek, dat wordt vastgesteld in bijlage 3 bij dit besluit.<br /><br />§ 2. Het kwaliteitshandboek is actueel, vormt een samenhangend geheel en komt overeen met de praktijk. Het ligt permanent ter beschikking van de medewerkers en de gebruikers van de voorziening.<br /><br />Het kwaliteitshandboek waarborgt en is niet in tegenspraak met de bepalingen van hoofdstuk 2 tot en met 8 van dit besluit.<br /><br />
+§ 1. Om erkend of vergund te worden en te blijven, moet een voorziening, met behoud van de toepassing van andere erkenningsnormen, ter uitvoering van artikel 5 en 6, § 1, van het decreet van 17 oktober 2003 beschikken over een kwaliteitshandboek, dat wordt vastgesteld in bijlage 3 bij dit besluit.<br>
+<br>
+§ 2. Het kwaliteitshandboek is actueel, vormt een samenhangend geheel en komt overeen met de praktijk. Het ligt permanent ter beschikking van de medewerkers en de gebruikers van de voorziening.<br>
+<br>
+Het kwaliteitshandboek waarborgt en is niet in tegenspraak met de bepalingen van hoofdstuk 2 tot en met 8 van dit besluit.<br>
+&nbsp;
 
 ## Afdeling 2 Zelfevaluatie
 
@@ -605,21 +549,21 @@ Bij elk van de evaluaties, vermeld in artikel 47, worden de vijf stappen die oms
 
 ### ART 48/1.
 
-In dit artikel wordt verstaan onder beleidsplan: een plan dat de directie van de voorzieningen, vermeld in artikel 4, eerste lid, 1°, 2°, 3°, en 5°, na een overleg met de werknemersvertegenwoordigers in de sociale overlegorganen en de gebruikers uitwerkt om een kwaliteitsvolle inzet van het personeel te garanderen.<br>
+In dit artikel wordt verstaan onder beleidsplan: een plan dat de directie van de voorzieningen, vermeld in artikel 4, eerste lid, na een overleg met de medewerkers en de gebruikers uitwerkt om een kwaliteitsvolle inzet van het personeel te garanderen.<br>
 <br>
-De directie van de voorzieningen, vermeld in het eerste lid, maakt het beleidsplan op na een overleg met de werknemersvertegenwoordiging en kan dat aantonen.<br>
+De directie van de voorzieningen, vermeld in het eerste lid, maakt het beleidsplan op na een overleg met de medewerkers en kan dat aantonen.<br>
 <br>
 Het beleidsplan bevat al de volgende doelstellingen:<br>
 1° de voorzieningen, vermeld in het eerste lid, versterken de interne werking om continuïteit in zorg en ondersteuning te bieden;<br>
 2° de voorzieningen, vermeld in het eerste lid, beschikken over competente medewerkers;<br>
-3° de voorzieningen, vermeld in het eerste lid, dragen via hun werking en hun zorg- en ondersteuningsaanbod bij tot een versterking van de levenskwaliteit van de persoon met een handicap en vertrekken van de behoefte van de persoon met een handicap en van zelfregie;<br>
+3° de voorzieningen, vermeld in het eerste lid, dragen via hun werking en hun zorg- en ondersteuningsaanbod bij tot een versterking van de levenskwaliteit van de gebruiker en vertrekken van de behoefte van de gebruiker en van zelfregie;<br>
 4° de infrastructuur die de voorzieningen, vermeld in het eerste lid, inzetten, is kwaliteitsvol;<br>
 5° de voorzieningen, vermeld in het eerste lid, spelen in op het veranderende zorglandschap;<br>
 6° de voorzieningen, vermeld in het eerste lid, zijn financieel leefbaar.<br>
 <br>
 Per doelstelling, vermeld in het derde lid, wordt na een overleg met de relevante stakeholders door de voorzieningen, vermeld in het eerste lid, minimaal één indicator bepaald waaraan een streefdoel wordt gekoppeld.<br>
 <br>
-Per indicator, vermeld in het vierde lid, worden aan de sociale overlegorganen jaarlijks relevante gegevens bezorgd en geduid. Op basis van de voormelde gegevens kunnen de voorzieningen, vermeld in het eerste lid, nieuwe indicatoren en streefdoelen formuleren.<br>
+Per indicator, vermeld in het vierde lid, worden aan de medewerkers jaarlijks relevante gegevens bezorgd en geduid. Op basis van de voormelde gegevens kunnen de voorzieningen, vermeld in het eerste lid, nieuwe indicatoren en streefdoelen formuleren.<br>
 <br>
 Het eerste beleidsplan is afgewerkt uiterlijk binnen een jaar nadat de eerste individuele dienstverleningsovereenkomst is ingegaan.<br>
 <br>
@@ -646,11 +590,11 @@ De voorziening mag het identificatienummer van de gebruiker bij het Rijksregiste
 
 ### ART. 51.
 
-Op het briefpapier met het briefhoofd van de voorziening of van de afdeling van de voorziening moet steeds de vermelding "Erkend of vergund door het Vlaams Agentschap voor Personen met een Handicap" en het logo van het agentschap zijn opgenomen. Dat briefpapier wordt gebruikt voor alle briefwisseling die van de voorzieningen uitgaat en voor elke facturatie aan de gebruiker.<br>
+Op het briefpapier met het briefhoofd van de voorziening of van de afdeling van de voorziening kan het logo van het agentschap zijn opgenomen.&nbsp;<br>
 <br>
-Het agentschap kan nadere bepalingen vaststellen over de afmeting en de plaats van de vermelding en het logo, en over de manier waarop ze op het briefpapier zijn opgenomen.<br>
+Het agentschap kan nadere bepalingen vaststellen over de afmeting en de plaats van het logo, en over de manier waarop ze op het briefpapier zijn opgenomen.<br>
 <br>
-De vermelding, vermeld in het eerste lid, wordt ook opgenomen in elektronische communicatiemiddelen en elektronische media die de gebruikers als doelgroep hebben.<br>
+Het logo van het agentschap kan ook worden opgenomen in elektronische communicatiemiddelen en elektronische media die de gebruikers als doelgroep hebben.<br>
 &nbsp;
 
 ### ART. 52.
@@ -661,70 +605,69 @@ De vermelding, vermeld in het eerste lid, wordt ook opgenomen in elektronische c
 
 ### ART. 53.
 
-De personeelsleden van Zorginspectie zijn belast met het toezicht op het naleven van de bepalingen van dit besluit.
+Inbreuken op de bepalingen van dit besluit of op de regelgeving met betrekking tot financiële en boekhoudkundige verplichtingen worden vastgesteld op basis van:<br>
+1°&nbsp;&nbsp; &nbsp;een inspectieverslag van Zorginspectie. Zorginspectie controleert ter plaatse of op basis van stukken of de bepalingen van dit besluit of van de regelgeving met betrekking tot financiële en boekhoudkundige verplichtingen worden nageleefd;<br>
+2°&nbsp;&nbsp; &nbsp;een rapport van het agentschap. Het agentschap controleert op basis van stukken of de bepalingen van dit besluit of van de regelgeving met betrekking tot financiële en boekhoudkundige verplichtingen worden nageleefd.<br>
+<br>
+De inspectieverslagen van Zorginspectie en de rapporten van het agentschap gelden als verslagen van toezicht.
 
 ### ART. 54.
 
-De voorziening stelt verslagen van het toezicht, vermeld in artikel 53, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
+§1. De voorziening stelt verslagen van toezicht op een toegankelijke manier ter beschikking van de gebruikers, hun vertegenwoordigers en hun medewerkers.&nbsp;<br>
 <br>
-Verslagen van toezicht naar aanleiding van een klacht of melding kunnen opgevraagd worden bij Zorginspectie.
+Voor de verslagen van toezicht naar aanleiding van een klacht of melding stelt de voorziening alleen het besluit ter beschikking van de gebruikers, hun vertegenwoordigers en hun medewerkers.<br>
+<br>
+§2. De leidend ambtenaar kan, rekening houdend met de noden van de voorziening en gericht op de ondersteuning van de voorziening bij het naleven van de verplichtingen, in elke fase van toezicht begeleidende maatregelen opleggen. De voorziening informeert de gebruikers, hun vertegenwoordigers en medewerkers als er begeleidende maatregelen worden opgelegd en hoe er gevolg aan wordt gegeven.&nbsp;
 
 ### ART. 55.
 
-§ 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van Zorginspectie dat vast in het verslag van het toezicht. Dat&nbsp;verslag geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br>
+§1. Als Zorginspectie of het agentschap vaststelt dat een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning of de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, of niet voldoet aan de regelgeving met betrekking tot financiële en boekhoudkundige verplichtingen, wordt dat vastgesteld in een verslag van toezicht.<br>
 <br>
-§ 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.&nbsp;De voorziening brengt het agentschap binnen de voormelde termijn op de hoogte van de manier waarop de inbreuk is weggewerkt. Als de voormelde termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de wijze waarop en de termijn waarin de inbreuk wel weggewerkt zal zijn.<br>
+Het verslag van toezicht geeft gemotiveerd aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden of welke inbreuk er werd gepleegd op de regelgeving met betrekking tot financiële en boekhoudkundige verplichtingen.<br>
 <br>
-De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termijn schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar de vraag om de nodige maatregelen te treffen.<br>
-&nbsp;
+§2. De leidend ambtenaar kan aan de voorziening vragen om binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt hoogstens twaalf maanden. De voorziening brengt het agentschap binnen die termijn op de hoogte van de manier waarop de inbreuk is weggewerkt. Als die termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de manier waarop en de termijn waarin de inbreuken wel zijn weggewerkt.<br>
+<br>
+§3. De voorziening heeft het recht om tegen het rapport van het agentschap, tegen de opgelegde termijn of tegen de begeleidende maatregel schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na de ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar het verzoek om de nodige maatregelen te treffen.
 
 ### ART. 56.
 
-§ 1. Na afloop van de opgelegde termijn, vermeld in artikel 55, § 2, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht.<br>
+Na afloop van de opgelegde termijn, vermeld in artikel 55, §2, voert Zorginspectie of het agentschap een nieuwe evaluatie uit met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van toezicht en de begeleidende maatregelen die zijn opgelegd.<br>
 <br>
-De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
+Als blijkt dat de begeleidende maatregelen niet zijn uitgevoerd of de maatregelen die zijn genomen, niet voldoen om de tekortkomingen weg te werken, kan de leidend ambtenaar aan de voorziening een nieuwe termijn opleggen waarin de inbreuken worden weggewerkt. Die termijn bedraagt hoogstens twaalf maanden. De voorziening brengt het agentschap binnen de vastgelegde termijn op de hoogte van de manier waarop de inbreuk is weggewerkt. Als die termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de manier waarop en de termijn waarin de inbreuken wel weggewerkt kunnen worden.<br>
 <br>
-§ 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening begeleidende maatregelen opleggen, zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.&nbsp;De voorziening brengt het agentschap, binnen de voormelde termijn, ervan op de hoogte op welke wijze de inbreuk is weggewerkt. Als de voormelde termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de wijze waarop en de termijn waarin de inbreuk wel weggewerkt zal zijn.<br>
-<br>
-De voorziening heeft het recht om tegen die begeleidende maatregelen schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of ontkracht de leidend ambtenaar de maatregel.<br>
-<br>
-§ 3. De voorziening brengt binnen veertien dagen na de betekening van de maatregel, vermeld in paragraaf 2, de gebruikers of hun vertegenwoordigers daarvan op de hoogte via het collectief overleg van de voorziening of, bij ontstentenis daarvan de gebruikers individueel en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
-&nbsp;
+De voorziening heeft het recht om tegen het rapport van het agentschap, tegen de opgelegde termijn of tegen de begeleidende maatregel schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na de ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar het verzoek om de nodige maatregelen te treffen.
 
 ### ART. 57.
 
-§ 1. Na afloop van de opgelegde termijn,vermeld in artikel 56, § 2, tweede lid, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht en de begeleidende maatregelen die zijn opgelegd.<br>
+Na afloop van de opgelegde termijn, vermeld in artikel 56, tweede lid, voert Zorginspectie of het agentschap een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld zijn in het verslag van het toezicht en de begeleidende maatregelen die zijn opgelegd.<br>
 <br>
-De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
+Als blijkt dat de begeleidende maatregelen niet zijn uitgevoerd of de maatregelen die zijn genomen, niet voldoen om de tekortkomingen weg te werken, kan de leidend ambtenaar de voorziening een administratieve geldboete van 100 tot 100.000 euro opleggen. De administratieve geldboete wordt aan de voorziening ter kennis gegeven. De leidend ambtenaar gelast de voorziening binnen een termijn van hoogstens twaalf maanden de nodige maatregelen te treffen om aan de verplichtingen te voldoen.<br>
 <br>
-§ 2. Als blijkt dat de begeleidende maatregelen niet zijn uitgevoerd of de maatregelen die zijn genomen, niet voldoen om de tekortkomingen weg te werken, kan de leidend ambtenaar de voorziening een administratieve geldboete van 100 tot 100.000 euro opleggen.&nbsp;Het bedrag van de opgelegde administratieve geldboete wordt vastgesteld met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan. De administratieve geldboete wordt aan de voorziening betekend. De leidend ambtenaar zal tevens de voorziening gelasten binnen een termijn van hoogstens twaalf maanden de nodige maatregelen te treffen om aan de verplichtingen te voldoen.<br>
+Om het concrete bedrag van de administratieve geldboete te bepalen, wordt er rekening gehouden met de volgende criteria:<br>
+1° &nbsp;&nbsp; &nbsp;de ernst en de aard van de inbreuken<br>
+2° &nbsp;&nbsp; &nbsp;de concrete omstandigheden waarin de inbreuken zijn gepleegd&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de systematiek van de inbreuken;<br>
+4° &nbsp;&nbsp; &nbsp;de hoogte van de totale aan de voorziening toegekende subsidies, toegekend door het agentschap.&nbsp;<br>
 <br>
-De voorziening heeft het recht schriftelijk bezwaar in te dienen bij de minister, bevoegd voor de bijstand aan personen, op straffe van verval binnen veertien dagen na ontvangst van de betekening. Na onderzoek van de bezwaren bevestigt of ontkracht de minister de administratieve geldboete of de vraag om de nodige maatregelen te treffen.<br>
-<br>
-§ 3. De voorziening brengt binnen veertien dagen na de betekening van de geldboete de gebruikers daarvan op de hoogte via het collectief overleg van de voorziening, of bij ontstentenis daarvan de gebruikers individueel en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
-&nbsp;
+De voorziening heeft het recht schriftelijk bezwaar in te dienen bij de minister, bevoegd voor de bijstand aan personen, op straffe van verval binnen veertien dagen na ontvangst van de kennisgeving. Na onderzoek van de bezwaren bevestigt of ontkracht de minister de administratieve geldboete of de vraag om de nodige begeleidende maatregelen te treffen.
 
 ### ART. 58.
 
-§ 1. Zorginspectie voert één jaar na de termijn, vermeld in artikel 57, § 2, eerste lid, een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden.<br>
+Als blijkt dat, na de toepassing van de procedure, vermeld in artikel 57, de begeleidende maatregelen niet zijn uitgevoerd of de maatregelen die zijn genomen, niet voldoen om de tekortkomingen weg te werken, kan de leidend ambtenaar de erkenning of vergunning van de voorziening opschorten of intrekken. Het agentschap brengt de voorziening schriftelijk op de hoogte van zijn gemotiveerde beslissing.<br>
 <br>
-De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
+De voorziening brengt de gebruikers, hun vertegenwoordigers en hun medewerkers onmiddellijk schriftelijk op de hoogte van die beslissing.<br>
 <br>
-§ 2. De leidend ambtenaar legt, met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan, de voorziening een nieuwe termijn op van minstens&nbsp;drie en hoogstens twaalf maanden om aan de verplichtingen te voldoen.&nbsp;De leidend ambtenaar kan de voorziening begeleidende maatregelen opleggen zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Voor het verstrijken van die termijn legt de voorziening de bewijzen voor van de genomen maatregelen. De leidend ambtenaar kan Zorginspectie een onderzoek van de genomen maatregelen gelasten.<br>
-&nbsp;
+De voorziening kan tegen de opschorting of intrekking van de erkenning beroep aantekenen overeenkomstig artikel 15 tot en met 17 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.
 
 ### ART. 59.
 
-Als de voorziening na toepassing van de procedure, vermeld in artikel 58, niet voldoet aan de gestelde voorwaarden, kan de leidend ambtenaar de erkenning of vergunning van de voorziening opschorten of intrekken. Het agentschap brengt de voorziening schriftelijk op de hoogte van zijn gemotiveerde beslissing.<br>
+Als uit de verslagen van toezicht &nbsp;blijkt dat de veiligheid of integriteit van de gebruikers in gevaar is, dat er sprake is van ernstige inbreuken en aandachtspunten, fraude of financieel misbruik of dat er bedrieglijke gegevens zijn doorgegeven, kan de leidend ambtenaar onmiddellijk een begeleidende maatregel of sanctie als vermeld in artikel 57, tweede lid, of artikel 58, eerste lid, opleggen.<br>
 <br>
-De voorziening brengt de gebruikers van de voorziening of hun vertegenwoordigers via het collectief overlegorgaan van de voorziening onverwijld schriftelijk op de hoogte gebracht van die beslissing. Bij ontstentenis van een collectief overlegorgaan van de voorziening wordt elke gebruiker of zijn vertegenwoordiger individueel schriftelijk van de beslissing op de hoogte gebracht.&nbsp;De voorziening brengt de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordiger op de hoogte van die beslissing.<br>
-<br>
-De voorziening kan tegen de opschorting of intrekking van de erkenning beroep aantekenen overeenkomstig artikel 15 tot en met 17 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.<br>
-&nbsp;
+De voorziening heeft het recht om tegen het rapport van het agentschap, de begeleidende maatregel of sanctie, schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na de ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar het verzoek om de nodige maatregelen te treffen.
 
 ### ART 59/1.
 
-Als uit vaststellingen van Zorginspectie ernstige afwijkingen, fraude of financieel misbruik blijken of als blijkt dat bedrieglijke gegevens werden doorgegeven, kan de leidend ambtenaar onmiddellijk een maatregel als bepaald in artikel 56, § 2, artikel 57, § 2 of artikel 59, eerste lid, opleggen.
+...
 
 ## HOOFDSTUK 12 Wijzigings-, overgangs- en slotbepalingen
 
@@ -792,18 +735,18 @@ De individuele dienstverleningsovereenkomst, vermeld in artikel 9 bevat de volge
 1° de identiteit van de partijen;<br>
 2° de aanvangsdatum van de ondersteuning en de duur van de overeenkomst. In geval van een proefperiode wordt de duur ervan vermeld;<br>
 3° de natuurlijke persoon of rechtspersoon die verantwoordelijk is voor de betaling en de wijze waarop de afrekening en de betaling zal gebeuren, alsook, in voorkomend geval, de betaling van het gevraagde voorschot en de wijze waarop dat voorschot betaald wordt. Dat voorschot kan nooit meer bedragen dan de vergoeding verschuldigd voor een maand zorg of ondersteuning;<br>
-4° voor minderjarigen de aard van de ondersteuning, meer bepaald: verblijf, schoolaanvullende dagopvang, schoolvervangende dagopvang, begeleiding, behandeling of diagnostiek uitgedrukt in respectievelijk nachten, dagdelen of uren;<br>
-5° voor meerderjarigen de aard van de ondersteuning, meer bepaald: woonondersteuning, dagondersteuning, individuele begeleiding of permanentie, met vermelding van duur en frequentie en de respectieve kosten uitgedrukt in euro of personeelspunten;<br>
-6° de plaats of plaatsen waar de ondersteuning geboden wordt;<br>
-7° de wijze waarop de voorziening een antwoord zal bieden op vragen van de gebruiker om tijdelijk en beperkt meer ondersteuning te bieden, bepaald in artikel 9, § 5;<br>
-8° als de gebruiker de wettelijke eigen financiële bijdrage betaalt, een inventaris van de maandelijkse inkomsten van de persoon met een handicap, met een onderscheid tussen arbeidsinkomsten, vervangingsinkomens en andere persoonlijke inkomsten, en als dat voordeliger is voor de gebruiker, de inkomsten van de echtgenoot of wettelijk samenwonende. De wettelijk voorgeschreven persoonlijke bijdrage wordt vastgesteld op basis van die gegevens en wordt samen met het bedrag van het gereserveerde persoonlijk inkomen en in voorkomend geval het bedrag van de socioculturele toelage vermeld in de individuele dienstverleningsovereenkomst;<br>
-9° als de gebruiker geen wettelijke eigen financiële bijdrage betaalt: opsomming van de woon- en leefkosten waarover overeenkomst is tussen de gebruiker en de voorziening en die de gebruiker moet betalen;<br>
-10° de wijze waarop, als dat van toepassing is, de inventaris van de duurzame persoonlijke goederen van de gebruiker binnen de voorziening wordt bijgehouden en geactualiseerd;<br>
-11° de elementen die aanleiding geven tot een afzonderlijke vergoeding, voor zover die niet vermeld zijn in of afwijken van de collectieve rechten en plichten;<br>
+4° de aard van de geboden ondersteuning, vermeld in artikel 10 van het besluit van 26 februari 2016, artikel 4 van het besluit van 24 juni 2016 of artikel 4/8 van het besluit van 22 februari 2013, met vermelding van de duur en frequentie;<br>
+5° de respectieve kosten van de aard van de geboden ondersteuning per ondersteuningsfunctie, uitgedrukt in euro of personeelspunten, het bedrag van de financiële bijdrage, vermeld in artikel 15 van het besluit van 22 februari 2013 en het bedrag van de financiële bijdrage, vermeld in hoofdstuk 5, afdeling 2, van het besluit van 26 februari 2016;<br>
+6° de plaats of plaatsen waar de ondersteuning geboden wordt, behalve als de ondersteuning geboden wordt conform het besluit van 22 februari 2013;<br>
+7° ...;<br>
+8° ...;<br>
+9° een opsomming van de woon- en leefkosten waarover overeenkomst is bereikt tussen de gebruiker en de voorziening en die de gebruiker moet betalen;<br>
+10° ...;<br>
+11° een verwijzing naar het overzicht van de individueel toewijsbare kosten conform artikel 27, §1, van het besluit van 26 februari 2016 of artikel 15, §4, van het besluit van 22 februari 2013, opgenomen in de collectieve rechten en plichten;<br>
 12° een verklaring op erewoord van de gebruiker dat hij geen vergoeding voor hulp van derden of ondersteuning door een voorziening heeft ontvangen of dat hij geen aanspraak kan maken op een dergelijke vergoeding. Als de gebruiker een dergelijke vergoeding heeft ontvangen of mogelijk aanspraak op een dergelijke vergoeding kan maken, brengt hij het agentschap en de voorziening daarvan onmiddellijk op de hoogte;<br>
 13° als het beheer van gelden of goederen van de gebruiker aan personeelsleden of beheerders van de voorziening wordt toevertrouwd, een rubriek "Beheer van gelden en goederen" in de individuele dienstverleningsovereenkomst, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap;<br>
-14° de wijze waarop de individuele dienstverleningsovereenkomst en handelingsplan kunnen worden aangepast of gewijzigd;<br>
-15° een afsprakenkader bij niet-afgesproken afwezigheid dat de volgende gegevens bevat:<br>
+14° ...;<br>
+15° een afsprakenkader bij afwezigheid dat de volgende gegevens bevat:<br>
 a) als de gebruiker zorggebonden kosten betaalt: afspraken over de betaling van de zorggebonden kosten bij afwezigheid;<br>
 b) als de gebruiker woon- en leefkosten betaalt: afspraken over de betaling van de woon- en leefkosten bij afwezigheid;<br>
 c) afspraken over het inhalen van de ondersteuning bij afwezigheid;<br>
@@ -818,44 +761,45 @@ De&nbsp;collectieve rechten en plichten bevat ten minste de volgende vermeldinge
 3° een overzicht van het ondersteuningsaanbod, met een globale omschrijving van de doelgroep;<br>
 4° in voorkomend geval, de bijzondere opnamevoorwaarden;<br>
 5° de wederzijdse rechten en verplichtingen van de gebruiker of vertegenwoordiger en de voorziening;<br>
-6° de prestaties of verstrekkingen die aanleiding geven tot bijkomende vergoedingen;<br>
+6° de prestaties of verstrekkingen die aanleiding geven tot individueel toewijsbare kosten, conform artikel 27, §1, van het besluit van 26 februari 2016 of artikel 15, §4, van het besluit van 22 februari 2013;<br>
 7° de omstandigheden die aanleiding kunnen geven tot heroriëntering of ontslag uit de voorziening, de opzeggingstermijnen en de opzeggingsvergoeding ingeval de opzeggingstermijnen niet gerespecteerd worden;<br>
-8° de wijze waarop het collectief overleg met de gebruikers georganiseerd wordt;<br>
-9° in voorkomend geval, het huishoudelijk reglement van het collectief overleg;<br>
-10° de wijze waarop opmerkingen, suggesties en klachten kunnen worden ingediend en de wijze waarop ze behandeld worden, rekening houdend met de bepalingen van hoofdstuk 6;<br>
-11° de contactgegevens van de klachtencommissie;<br>
-12° de onafhankelijke derde, bepaald in artikel 38, § 2;<br>
+8° de inspraakregeling, vermeld in artikel 24 en artikel 27;<br>
+9° ...;<br>
+10° het signalen- en klachtenbeleid, rekening houdend met de bepalingen van hoofdstuk 6, de contactgegevens van de klachtencommissie en van de onafhankelijke derde, vermeld in artikel 38, §2;<br>
+11° ...;<br>
+12° ...;<br>
 13° in voorkomend geval, de samenstelling van de toezichtsraad voor beheer van gelden en goederen, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap;<br>
 14° de plaats en de wijze waarop het kwaliteitshandboek ingezien kan worden;<br>
 15° een overzicht van de risico's die de voorziening in het belang van gebruiker verzekert;<br>
 16° de wijze waarop de collectieve rechten en plichten in overleg kan worden aangepast;<br>
-17° de tarieven van de woon- en leefkosten;<br>
-18° een algemeen afsprakenkader rond afwezigheden.<br>
+17° de tarieven van de woon- en leefkosten en van de eigen financiële bijdrage;<br>
+18° een algemeen afsprakenkader rond afwezigheden;<br>
+19° de manier waarop de voorziening een antwoord zal bieden op vragen van de gebruiker om tijdelijk en beperkt meer ondersteuning te bieden, vermeld in artikel 9, §5;<br>
+20° de manier waarop, als dat van toepassing is, de inventaris van de duurzame persoonlijke goederen van de gebruiker binnen de voorziening wordt bijgehouden en geactualiseerd;<br>
+21° de manier waarop de individuele dienstverleningsovereenkomst en het handelingsplan kunnen worden aangepast of gewijzigd.<br>
 &nbsp;
 
 ### BIJLAGE 3
 
 Het kwaliteitshandboek, vermeld in artikel 46<br>
 Het kwaliteitshandboek bevat de volgende gegevens :<br>
-1° de structuur van het kwaliteitshandboek;<br>
+1° ...;<br>
 2° de beschrijving van het aanbod van de voorziening;<br>
-3° het kwaliteitsbeleid : missie, visie, waarden, doelstellingen, strategie en geschreven referentiekader;<br>
+3° het kwaliteitsbeleid: de missie, visie, waarden, doelstellingen, strategie, het geschreven referentiekader grensoverschrijdend gedrag en de visie rond relaties, lichamelijk welbevinden en seksualiteit;<br>
 4° het kwaliteitssysteem, dat de volgende gegevens bevat :<br>
 a) de organisatiestructuur;<br>
-b) het overzicht en de werking van de overlegorganen;<br>
+b) het overzicht en de werking van de interne overlegorganen;<br>
 c) de deelname aan externe overlegorganen;<br>
 d) het inzetten van de middelen;<br>
 e) het beheren van documenten van het kwaliteitshandboek;<br>
-f) de gebruikersgerichte processen, meer bepaald :<br>
-1) de intake;<br>
-2) het opstellen, uitvoeren, evalueren en bijsturen van het handelingsplan;<br>
-3) het beëindigen van de ondersteuning;<br>
-4) het organiseren van het collectief overleg met de gebruikers;<br>
-5) het afhandelen van klachten van gebruikers;<br>
-6) het voorkómen, detecteren van en gepast reageren op grensoverschrijdend gedrag ten aanzien van gebruikers;<br>
-7) de tijdelijke afzonderingsmaatregelen;<br>
-8) het registreren van feiten en incidenten die zich voordoen in het kader van de geleverde ondersteuning die aanleiding geven tot schending of mogelijke schending van de integriteit, gezondheid, veiligheid en waardigheid van de gebruiker of medewerker;<br>
-9) het voorkomen van en remediëren van de feiten en incidenten, vermeld in punt 8).<br>
+f) de gebruikersgerichte processen, meer bepaald:<br>
+1)&nbsp;&nbsp; &nbsp;de intake;<br>
+2)&nbsp;&nbsp; &nbsp;de opmaak, uitvoering, evaluatie en bijsturing van het handelingsplan met de gebruiker, diens vertegenwoordiger en de belangrijke betrokken derde;<br>
+3)&nbsp;&nbsp; &nbsp;het beëindigen van de ondersteuning;<br>
+4)&nbsp;&nbsp; &nbsp;de inspraakregeling;<br>
+5)&nbsp;&nbsp; &nbsp;het signalen- en klachtenbeleid;<br>
+6)&nbsp;&nbsp; &nbsp;de registratie en analyse van ernstige gebeurtenissen en op basis daarvan het formuleren van verbeteracties, met inbegrip van het voorkomen van, het detecteren van en het gepast reageren op grensoverschrijdend gedrag ten aanzien van gebruikers en medewerkers;<br>
+7)&nbsp;&nbsp; &nbsp;de vrijheidsbeperkende maatregelen.<br>
 g) de organisatiegerichte processen;<br>
 5° de zelfevaluatie, vermeld in artikel 47.<br>
 &nbsp;
@@ -870,11 +814,11 @@ A) Overeenkomst tussen de voorziening en de werkpost<br>
 2° afspraken over de samenwerking:<br>
 a) de gebruiker op de werkvloer activiteiten die aangepast zijn aan zijn capaciteiten, aanbieden op basis van de overeenkomst, gesloten tussen de werkpost, de voorziening en de gebruiker;<br>
 b) een gebruiker wordt ingeschakeld in onderling akkoord. De werkpost kan niet verplicht worden een gebruiker activiteiten aan te bieden;<br>
-c) de jobcoach is de werknemer van de voorziening die instaat voor opleiding en training op werkvloer;<br>
+c) de jobcoach is de werknemer van de voorziening die instaat voor begeleiding en opvolging op werkvloer;<br>
 d) de werkpost wijst per gebruiker een werknemer als werkpostbegeleider aan die de gebruiker op de werkvloer de nodige begeleiding biedt in samenspraak met de jobcoach;<br>
 e) de werkpost sensibiliseert en stimuleert werknemers. De jobcoach wordt daarvoor ingeschakeld;<br>
 f) er wordt op regelmatige tijdstippen overlegd tussen de gebruiker, de jobcoach en de werkpostbegeleider. De tijdstippen en de frequentie worden bepaald in de overeenkomst tussen de voorziening, de werkpost en de gebruiker;<br>
-g) de jobcoach staat in voor de telefonische permanentie en komt op verzoek van de gebruiker of werkpost ter plaatse;<br>
+g) de voorziening staat in voor de telefonische permanentie en komt op verzoek van de gebruiker of werkpost ter plaatse;<br>
 h) de jobcoach staat in voor continue en periodieke opvolging van het begeleid werken;<br>
 i) de jobcoach, de werkpost, de werkpostbegeleider en de gebruiker nemen de regels over het beroepsgeheim en de discretie in acht;<br>
 3° afspraken over het takenpakket voor de gebruiker:<br>
@@ -929,53 +873,15 @@ C) Overeenkomst tussen de voorziening, de werkpost en de gebruiker<br>
 
 ### BIJLAGE 5
 
-Bijlage 5. Tabel voor de bepaling van de financiële bijdrage voor personen met een handicap vanaf de leeftijd van 21 jaar als vermeld in artikel 9, § 2/1, tweede lid<br>
-<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>ondersteuningsfunctie</td>
-			<td>leeftijd</td>
-			<td>maximale bijdrage</td>
-			<td>bijkomende bepalingen</td>
-		</tr>
-		<tr>
-			<td>dagondersteuning als vermeld in artikel 9, § 2</td>
-			<td>vanaf 21 jaar zonder vervoer</td>
-			<td>4,76 euro per dagdeel</td>
-			<td>De maximale bijdrage per dag (voor dagondersteuning, woonondersteuning en individuele begeleiding samen) mag nooit meer dan 33,35 euro bedragen voor gebruikers vanaf 21 jaar. Er mogen maximaal twee uren psychosociale begeleiding per dag aangerekend worden. Er mogen geen vervoerskosten aangerekend worden voor mobiele individuele ondersteuning.</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;vanaf 21 jaar met vervoer</td>
-			<td>5,96 euro per dagdeel</td>
-			<td rowspan="3">&nbsp;</td>
-		</tr>
-		<tr>
-			<td>woonondersteuning als vermeld in artikel 9, § 3</td>
-			<td>vanaf 21 jaar</td>
-			<td>33,35 euro per nacht verblijf, met inbegrip van de ondersteuning gedurende de avond en ochtend</td>
-		</tr>
-		<tr>
-			<td>individuele psychosociale begeleiding als vermeld in artikel 9, § 4, eerste lid, 1°</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;maximaal 5 euro per uur individuele ondersteuning</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-De bedragen, vermeld in de tabel, zijn gekoppeld aan de spilindex van de consumptieprijzen, daarvoor berekend en benoemd in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.
+...
 
 ### BIJLAGE 6
 
 Bijlage. Model van beleidsplan als vermeld in artikel 48/1, zevende lid<br>
 <br>
-De vergunde zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de gebruikers heeft plaatsgevonden.<br>
+De zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de gebruikers heeft plaatsgevonden.<br>
 <br>
-De vergunde zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de werknemers heeft plaatsgevonden.<br>
+De zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de werknemers heeft plaatsgevonden.<br>
 <br>
 De voorziening versterkt de interne werking om continuïteit in zorg en ondersteuning te bieden.<br>
 &nbsp;
@@ -1014,7 +920,7 @@ De voorziening versterkt de interne werking om continuïteit in zorg en onderste
 	</tbody>
 </table>
 <br>
-De vergunde zorgaanbieder beschikt over competente medewerkers (personeel en vrijwilligers).<br>
+De zorgaanbieder beschikt over competente medewerkers (personeel en vrijwilligers).<br>
 <br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:551px">
@@ -1201,7 +1107,7 @@ De situatie van de voorziening is financieel leefbaar.<br>
 		</tr>
 		<tr>
 			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:81px">zelf te definiëren</td>
-			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:218px">Voor een aantal indicatoren haalt de vergunde zorgaanbieder een minimale score.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:218px">Voor een aantal indicatoren haalt de zorgaanbieder een minimale score.</td>
 			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:252px">dashboard jaarrekeningen Departement Zorg (voor neergelegde jaarrekeningen)</td>
 		</tr>
 	</tbody>
