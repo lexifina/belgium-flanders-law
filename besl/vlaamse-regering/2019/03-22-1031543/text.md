@@ -21,13 +21,13 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° wet van 14 augustus 1986 : de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+1° ...;<br>
 2° minister : de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
 3° departement : het Departement Omgeving, vermeld in artikel 29 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART 2.
 
-§ 1. De diersoorten of diercategorieën, vermeld in artikel 3bis, § 1, van de wet van 14 augustus 1986, zijn, wat de reptielen betreft, vermeld in de lijst die is opgenomen in de bijlage die bij dit besluit is gevoegd. De minister kan die lijst wijzigen. Hij houdt daarbij rekening met de volgende criteria :<br>
+§ 1. De diersoorten of diercategorieën, vermeld in artikel 8, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, zijn, wat de reptielen betreft, vermeld in de lijst die is opgenomen in de bijlage die bij dit besluit is gevoegd. De minister kan die lijst wijzigen. Hij houdt daarbij rekening met de volgende criteria :<br>
 1° het feit of de dieren van de betrokken soort al dan niet gemakkelijk te houden en te huisvesten zijn met inachtname van de essentiële fysiologische, ethologische en ecologische behoeften van de soort;<br>
 2° de handelbaarheid van de soort, rekening houdend met de grootte van de volwassen dieren;<br>
 3° de mate waarin de dieren van de betrokken soort van nature agressief of gevaarlijk zijn of een ander bijzonder gevaar voor de gezondheid van de mens inhouden;<br>
@@ -40,7 +40,7 @@ In geval van tegenstrijdige gegevens of informatie over de houdbaarheid van een 
 
 ### ART 3.
 
-Iedere particulier, vermeld in artikel 3bis, § 2, 3°, a), van de wet van 14 augustus 1986, die vanaf de datum van de inwerkingtreding van dit besluit een of meer levende reptielen houdt van soorten die niet vermeld zijn in de lijst die opgenomen is in de bijlage die bij dit besluit is gevoegd, moet het houden ervan vóór de datum van de inwerkingtreding van dit besluit kunnen aantonen met een van de volgende bewijsstukken :<br>
+Iedere particulier, vermeld in artikel 8, §2, eerste lid, 3°, a), van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, die vanaf de datum van de inwerkingtreding van dit besluit een of meer levende reptielen houdt van soorten die niet vermeld zijn in de lijst die opgenomen is in de bijlage die bij dit besluit is gevoegd, moet het houden ervan vóór de datum van de inwerkingtreding van dit besluit kunnen aantonen met een van de volgende bewijsstukken :<br>
 1° een originele factuur of een ander bewijs van aankoop van het dier of de dieren in kwestie dat al de volgende gegevens bevat :<br>
 a) een aankoopdatum van voor de datum van de inwerkingtreding van dit besluit;<br>
 b) de correcte soortnaam van het dier of de dieren;<br>
@@ -53,11 +53,11 @@ De bewijstukken worden bijgehouden zolang het reptiel in kwestie in leven is.
 
 ### ART 4.
 
-§1. Een particulier als vermeld in artikel 3bis, § 2, 3°, b), van de wet van 14 augustus 1986, die vanaf de datum van de inwerkingtreding van dit besluit een of meer reptielen die niet vermeld zijn in de lijst, opgenomen in de bijlage die bij dit besluit is gevoegd, wil houden, dient daarvoor vooraf bij de minister een gemotiveerd aanvraagdossier in. Uit dat dossier blijkt dat de aanvrager zich goed gedocumenteerd heeft over de levensgewoonten en fysiologische behoeften van de soort die hij wil houden. Het dossier bevat ook een beschrijving van de huisvesting en verzorging die de particulier het dier kan verschaffen.<br>
+§1. Een particulier als vermeld in artikel 8, §2, eerste lid, 3°, b), van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, die vanaf de datum van de inwerkingtreding van dit besluit een of meer reptielen die niet vermeld zijn in de lijst, opgenomen in de bijlage die bij dit besluit is gevoegd, wil houden, dient daarvoor vooraf bij de minister een gemotiveerd aanvraagdossier in. Uit dat dossier blijkt dat de aanvrager zich goed gedocumenteerd heeft over de levensgewoonten en fysiologische behoeften van de soort die hij wil houden. Het dossier bevat ook een beschrijving van de huisvesting en verzorging die de particulier het dier kan verschaffen.<br>
 <br>
 Voor elk ingediend dossier wordt een retributie betaald van 60 euro per soort. De retributie wordt gestort op rekeningnummer BE04 3751 1109 9031 van het Vlaams Dierenwelzijnsfonds van het departement.<br>
 <br>
-In het tweede lid wordt verstaan onder Vlaams Dierenwelzijnsfonds : het fonds zoals opgericht bij het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting.<br>
+In het tweede lid wordt verstaan onder Vlaams Dierenwelzijnsfonds: het fonds, vermeld in artikel 63 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.<br>
 <br>
 §2. Voor de aanvraag wordt gebruikgemaakt van een formulier waarvan het model ter beschikking wordt gesteld op de website www.omgevingvlaanderen.be van het departement.<br>
 <br>
@@ -84,7 +84,7 @@ Het aanvraagformulier bevat al de volgende gegevens :<br>
 7°&nbsp;&nbsp; &nbsp;de voorziene verzorging en de kennis van de aanvrager bieden voldoende garanties om het welzijn van de dieren te verzekeren, inclusief de intenties van de particulier om met de aangevraagde diersoort te kweken of nieuwe individuen te verwerven.<br>
 <br>
 In het eerste lid wordt verstaan onder Vlaamse Dierentuinencommissie:&nbsp;<br>
-het comité van deskundigen, vermeld in artikel 5, § 2, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.<br>
+het comité van deskundigen, vermeld in artikel 17, §2, derde lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 betreffende de bescherming en het welzijn der dieren.<br>
 <br>
 In geval van tegenstrijdige gegevens of informatie over de houdbaarheid van een soort wordt beschouwd dat niet voldaan is aan een of meerdere van de criteria, vermeld in het eerste lid.<br>
 <br>
@@ -100,7 +100,7 @@ In de erkenning wordt bepaald of kweken met de aangevraagde diersoort toegelaten
 De minister kan een erkenning schorsen of intrekken als :<br>
 1° de huisvesting of de verzorging van de dieren het welzijn van de dieren in kwestie niet meer verzekert;<br>
 2° de kennis van de reptielenhouder niet langer voldoende garanties biedt om het welzijn van zijn dieren te verzekeren;<br>
-3° de bepalingen van de wet van 14 augustus 1986 of zijn uitvoeringsbesluiten overtreden worden.<br>
+3° de bepalingen van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 of zijn uitvoeringsbesluiten overtreden worden.<br>
 <br>
 §5. De aanvrager zorgt ervoor dat de dieren niet kunnen ontsnappen.
 
