@@ -20,7 +20,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De bevoegdheid om inrichtingen te erkennen voor het gegroepeerd slachten van dieren voor particulier huishoudelijk verbruik, vermeld in artikel 16, § 2, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wordt gedelegeerd aan de Vlaamse minister, bevoegd voor het dierenwelzijn.
+De bevoegdheid om inrichtingen te erkennen voor het gegroepeerd slachten van dieren voor particulier huishoudelijk verbruik, vermeld in artikel 39, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, wordt gedelegeerd aan de Vlaamse minister, bevoegd voor het dierenwelzijn.
 
 ### ART 2.
 
