@@ -2,16 +2,16 @@
   "codex_id": 1033066,
   "title": "Besluit van de Vlaamse Regering van 2020-05-15 tot regeling van de vergoeding bij de bedrijfsstopzetting en bedrijfsreconversie van de pelsdierhouderijen en de eenden- of ganzenhouderijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033066/VolledigDocument?datum=2023-12-01",
-  "source_sha256": "38b2b9f1121fd22902dffcd559695c226b0c41d4b79d1d43be511708e4886996",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033066/VolledigDocument?datum=2026-11-01",
+  "source_sha256": "aea06cb50e20e21588773a3af5c46a4f0d71114cb9096fa631700bcbc87f79aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033066&param=informatie",
-  "as_of": "2023-12-01",
+  "as_of": "2026-11-01",
   "made": "2020-05-15",
   "gazette": "2020-05-27",
   "numac": 2020041462,
   "document_start": "2020-06-06",
   "document_end": null,
-  "in_force": "2023-12-01",
+  "in_force": "2026-11-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2023-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-11-01; future article versions excluded; article text as the API gives it"
 }

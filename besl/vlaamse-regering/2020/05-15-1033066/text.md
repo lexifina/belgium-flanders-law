@@ -43,7 +43,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De Vlaamse Regering kent, overeenkomstig artikel 9quater, § 1, en artikel 9septies, § 1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, een vergoeding voor bedrijfsstopzetting toe aan de pelsdierhouderijen en de eenden- en ganzenhouderijen voor de productie van foie gras door middel van dwangvoedering.<br>
+De Vlaamse Regering kent, overeenkomstig artikel 82, §2, en artikel 83, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, een vergoeding voor bedrijfsstopzetting toe aan de pelsdierhouderijen en de eenden- en ganzenhouderijen voor de productie van foie gras door middel van dwangvoedering.<br>
 <br>
 De pelsdierhouderij en eenden- of ganzenhouderij kan een vergoeding voor bedrijfsstopzetting aanvragen als aan al de volgende voorwaarden is voldaan:<br>
 1° uiterlijk op 31 december van het jaar waarin het aanbod is aanvaard conform artikel 5, § 2, en in elk geval uiterlijk op 30 november 2023, beëindigt de aanvrager definitief het houden van pelsdieren of het houden van dieren voor de productie van foie gras door middel van dwangvoedering;<br>
@@ -141,7 +141,7 @@ Indien het aantal dieren die aanwezig zijn op het bedrijf op de datum van inwerk
 
 ### ART 12.
 
-§ 1. De Vlaamse Regering kent, overeenkomstig artikel 9quater, § 1, en artikel 9septies, § 1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, aan de pelsdier-, eenden- of ganzenhouderijen een vergoeding toe voor de bedrijfsreconversie.<br>
+§ 1. De Vlaamse Regering kent, overeenkomstig artikel 82, §2, en artikel 83, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, aan de pelsdier-, eenden- of ganzenhouderijen een vergoeding toe voor de bedrijfsreconversie.<br>
 <br>
 De maximale bedragen voor de vergoeding voor bedrijfsreconversie voldoen aan de communautaire regelgeving voor de vrijwillige bedrijfsreconversie.<br>
 <br>
