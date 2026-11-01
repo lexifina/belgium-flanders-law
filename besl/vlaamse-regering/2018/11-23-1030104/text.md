@@ -130,25 +130,23 @@ In artikel 1 van het besluit van de Vlaamse Regering van 13 november 2015 tot re
 
 In artikel 1 van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bescherming van dieren bij het slachten of doden wordt punt 1° opgeheven.
 
-## HOOFDSTUK 13. Diverse uitvoeringsbepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren
+## HOOFDSTUK 13. ...
 
 ### ART 24.
 
-Ter uitvoering van artikel 6, § 3, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren kan de Vlaamse minister, bevoegd voor het dierenwelzijn, personen aanwijzen die samenwerken met de Dienst om de controle van de in artikel 6, § 3, van de wet vermelde wedstrijden te organiseren.
+...
 
 ### ART 25.
 
-Ter uitvoering van artikel 34, § 1, eerste lid, 2°, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren wijst de Vlaamse minister, bevoegd voor het dierenwelzijn, de statutaire en contractuele personeelsleden, vermeld in artikel 34, § 1, eerste lid, 2°, van de voormelde wet, aan.<br>
-<br>
-Ter uitvoering van artikel 34, § 1, tweede lid, van de voormelde wet leggen de contractuele personeelsleden van de Dienst voorafgaand aan de uitoefening van hun functie de eed af in handen van de Vlaamse minister, bevoegd voor het dierenwelzijn.
+...
 
 ### ART 26.
 
-Ter uitvoering van artikel 36, 16°, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren kan de Vlaamse minister, bevoegd voor het dierenwelzijn, afwijking verlenen om dieren als prijs, beloning of gift uit te loven of uit te reiken bij aankopen, wedstrijden, verlotingen, weddenschappen of andere gelijkaardige evenementen.
+...
 
 ### ART 27.
 
-De bevoegdheid om de ambtenaar of ambtenaren aan te wijzen, vermeld in artikel 42bis, § 1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wordt gedelegeerd aan de Vlaamse minister, bevoegd voor het dierenwelzijn.
+...
 
 ## HOOFDSTUK 14. Slotbepalingen
 
