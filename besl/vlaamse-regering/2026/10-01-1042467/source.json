@@ -2,16 +2,16 @@
   "codex_id": 1042467,
   "title": "Besluit van de Vlaamse Regering van 2026-10-01 tot wijziging van diverse besluiten inzake leefmilieu wat betreft de omzetting van richtlijn 2024/1785 van het Europees Parlement en de Raad van 24 april 2024 tot wijziging van Richtlijn 2010/75/EU van het Europees Parlement en de Raad inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) en Richtlijn 1999/31/EG van de Raad betreffende het storten van afvalstoffen en andere diverse wijzigingen ter optimalisatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042467/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7c37c127f2b97c64edab6bde3fac4842a5718ef9bbd663262585709b6359a7a9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042467/VolledigDocument?datum=2026-11-03",
+  "source_sha256": "85e4f787e134753d7e61127e9e0f50ea588c1569da748a63ba402a73470621c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042467&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2026-11-03",
   "made": "2026-10-01",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2026-11-03",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-11-03",
+  "article_versions": 72,
+  "record_form": "consolidated version as in force on 2026-11-03; future article versions excluded; article text as the API gives it"
 }
