@@ -11,7 +11,7 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 ### ART. 2.
 
 <p>In dit decreet wordt verstaan onder:<br>
-1° betrokken publiek: elke natuurlijke persoon of rechtspersoon alsook elke vereniging, organisatie of groep met rechtspersoonlijkheid die gevolgen ondervindt of waarschijnlijk ondervindt van of belanghebbende is bij de besluitvorming over de afgifte of bijstelling van een omgevingsvergunning of van vergunningsvoorwaarden waarbij niet-gouvernementele organisaties die zich voor milieubescherming inzetten,&nbsp;geacht worden belanghebbende te zijn;<br>
+1° betrokken publiek: elke natuurlijke persoon of rechtspersoon alsook elke vereniging, organisatie of groep met rechtspersoonlijkheid die gevolgen ondervindt of waarschijnlijk ondervindt van of belanghebbende is bij de besluitvorming over de afgifte of bijstelling van een omgevingsvergunning of van vergunningsvoorwaarden waarbij niet-gouvernementele organisaties die zich inzetten voor de bescherming van de menselijke gezondheid of milieubescherming, geacht worden belanghebbende te zijn;<br>
 2° beveiligde zending: een van de hiernavolgende betekeningswijzen:<br>
 a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
