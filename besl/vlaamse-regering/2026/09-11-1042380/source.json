@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042380,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-11 tot wijziging van het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, wat betreft springstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042380/VolledigDocument?datum=2026-11-03",
+  "source_sha256": "1574718dd7bd73db3ece7e247594c93472865f4a65ae616a6315fb1337f944d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042380&param=informatie",
+  "as_of": "2026-11-03",
+  "made": "2026-09-11",
+  "gazette": "2026-10-02",
+  "numac": 2026007109,
+  "document_start": "2026-11-03",
+  "document_end": null,
+  "in_force": "2026-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
