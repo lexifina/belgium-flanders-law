@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042257,
+  "title": "Decreet van 2026-07-10 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft de omzetting van richtlijn (EU) 2024/1785 van het Europees Parlement en de Raad van 24 april 2024 tot wijziging van Richtlijn 2010/75/EU van het Europees Parlement en de Raad inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) en Richtlijn 1999/31/EG van de Raad betreffende het storten van afvalstoffen en andere diverse wijzigingen ter optimalisatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042257/VolledigDocument?datum=2026-11-03",
+  "source_sha256": "af8a3c0aea512e5d91e74d3e23cd2cb2d7169d18fec76b6b79882759be0d6633",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042257&param=informatie",
+  "as_of": "2026-11-03",
+  "made": "2026-07-10",
+  "gazette": "2026-08-13",
+  "numac": 2026006084,
+  "document_start": "2026-11-03",
+  "document_end": null,
+  "in_force": "2026-11-03",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2026-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
