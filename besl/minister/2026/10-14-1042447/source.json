@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042447,
+  "title": "Ministerieel besluit van 2026-10-14 tot wijziging van bijlage 1, 2, 3, 5, 6 en 19 bij het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft wijzigingen met betrekking tot milieueffectenrapportage, stikstof, windturbines en de Richtlijn Industriële Emissies",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042447/VolledigDocument?datum=2026-11-03",
+  "source_sha256": "c97503edc594a3380b50996dc38b0e4627c1bb903f155f33c1b5d86e17a5440c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042447&param=informatie",
+  "as_of": "2026-11-03",
+  "made": "2026-10-14",
+  "gazette": "2026-10-30",
+  "numac": 2026008015,
+  "document_start": "2026-11-03",
+  "document_end": null,
+  "in_force": "2026-11-03",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
