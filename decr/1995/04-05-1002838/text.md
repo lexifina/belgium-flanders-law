@@ -256,113 +256,144 @@ De in artikel 2.2.1 bedoelde milieukwaliteitsnormen kunnen worden vastgesteld in
 
 ### ART. 3.1.1.
 
-[Bedrijfsinterne milieuzorg heeft tot doel duurzame productiepatronen na te streven en de milieubelasting van een bedrijf in al zijn aspecten te beheersen en te beperken teneinde bij te dragen tot de realisatie van de doelstellingen omschreven in artikel 1.2.1 van dit decreet (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995)].
+Bedrijfsinterne milieuzorg heeft tot doel duurzame productiepatronen na te streven en de milieubelasting van een bedrijf in al zijn aspecten te beheersen en te beperken teneinde bij te dragen tot de realisatie van de doelstellingen omschreven in artikel 1.2.1 van dit decreet.<br>
+<br>
+Deze titel voorziet in de gedeeltelijke omzetting van richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies en emissies uit de veehouderij (geïntegreerde preventie en bestrijding van verontreiniging).<br>
+<br>
+Deze titel voorziet in de gedeeltelijke uitvoering van verordening (EG) nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), tot intrekking van Verordening (EG) nr. 761/2001 en van de Beschikkingen 2001/681/EG en 2006/193/EG van de Commissie.<br>
+&nbsp;
 
 ### ART. 3.1.2.
 
-In deze titel van het decreet wordt verstaan onder:<BR>1° inrichtingen en   activiteiten: de inrichtingen en activiteiten, vermeld in artikel 5.1.1, 8°, en   artikel 5.1.1, 1° ;<BR>2° vergunningverlenende overheid: de overheid die de   omgevingsvergunning, vermeld in het decreet van 25 april 2014 betreffende de   omgevingsvergunning, kan afleveren;<BR>3° ...<BR>4° ... <BR>5° bedrijfslocatie:   elk terrein waarop industriële activiteiten onder controle van een bedrijf op   een gegeven plaats worden uitgevoerd, met inbegrip van de daarmee gepaard gaande   of daarbij horende opslag van grondstoffen, van bij-, tussen- en eindprodukten   en van afval en met inbegrip van de al dan niet vaste infrastructuur en   uitrusting die met deze activiteiten gemoeid zijn.
+De definities van de verordening, vermeld in artikel 3.1.1, derde lid, zijn van toepassing voor deze titel van het decreet.<br>
+<br>
+In deze titel van het decreet wordt verstaan onder:<br>
+1° inrichtingen: de inrichtingen, vermeld in artikel 5.1.1, 9°;<br>
+2° activiteiten: de activiteiten, vermeld in artikel 5.1.1, 1°;<br>
+3° ingedeelde inrichting of activiteit: de ingedeelde inrichting of activiteit, vermeld in artikel 5.1.1, 8°;<br>
+4° vergunningverlenende overheid: de overheid die de omgevingsvergunning, vermeld in het decreet van 25 april 2014 betreffende de omgevingsvergunning, kan afleveren;<br>
+5° exploitant: de exploitant, vermeld in artikel 5.1.1, 4°;<br>
+6° certificatie: een bevestiging door een onafhankelijke derde partij, op basis van een conformiteitsbeoordeling, dat aan de eisen van internationale normen, industriële specificaties of technische regels wordt voldaan;<br>
+7° milieuaudit: een beheersinstrument dat een systematische, gedocumenteerde, periodieke en objectieve evaluatie omvat van de wijze van functioneren van de ingedeelde inrichting of activiteit, van het beheersysteem en van de werkwijzen en processen die voor de milieubescherming bedoeld zijn, om:<br>
+a) de beheerscontrole op de activiteiten die van invloed kunnen zijn op het milieu, te vergemakkelijken;<br>
+b) erop toe te zien dat het milieubeleid van de ingedeelde inrichting of activiteit wordt nageleefd;<br>
+8° milieubeheersysteem: het gedeelte van het algemene beheersysteem dat de organisatiestructuur, planning, verantwoordelijkheden, praktijken, procedures, processen en middelen omvat die nodig zijn voor het ontwikkelen, uitvoeren, realiseren, toetsen en continu verbeteren van het milieubeleid en het beheren van de milieuaspecten;<br>
+9° milieubeleid: de algemene plannen en het beleid van een ingedeelde inrichting of activiteit met betrekking tot haar milieuprestatie, zoals officieel vastgesteld door het hoogste leidinggevende niveau van de ingedeelde inrichting of activiteit, met inbegrip van de naleving van alle toepasselijke wettelijke milieuvoorschriften en ook van een verbintenis tot voortdurende verbetering van de milieuprestaties. Dat beleid biedt een kader voor maatregelen en de vaststelling van milieudoelstellingen en streefcijfers;<br>
+10° milieudoelstelling: de door een ingedeelde inrichting of activiteit voor zichzelf vastgestelde algemene, uit het milieubeleid voortvloeiende, doelstelling ten aanzien van de met milieubewust handelen te behalen resultaten, die een ingedeelde inrichting of activiteit nastreeft en die waar mogelijk wordt gekwantificeerd.
 
 ## [HOOFDSTUK II DE MILIEUCOORDINATOR (ing. decr. 19 april 1995, art. 2)]
 
 ### ART. 3.2.1.
 
-§ 1. De exploitanten van inrichtingen of activiteiten van eerste klasse dienen een milieucoördinator aan te stellen. De Vlaamse regering kan vrijstelling verlenen voor bepaalde categorieën van inrichtingen of activiteiten.<br>
+§1. De exploitant van een ingedeelde inrichting of activiteit van de eerste klasse stelt een milieucoördinator aan. De Vlaamse Regering kan een vrijstelling verlenen voor bepaalde categorieën van inrichtingen of activiteiten.<br>
 <br>
-§ 2. De Vlaamse Regering wijst de inrichtingen of activiteiten van de tweede klasse aan waarvoor de exploitant een milieucoördinator moet aanstellen.<br>
+§2. De Vlaamse Regering wijst de ingedeelde inrichtingen of activiteiten van de tweede klasse aan waarvoor de exploitant een milieucoördinator aanstelt.<br>
 <br>
-§ 3. De vergunningverlenende overheid kan exploitanten van niet in § 1 of § 2 bedoelde inrichtingen of activiteiten de verplichting opleggen een milieucoördinator aan te stellen indien de aard van de inrichting of activiteit, de aard van de milieueffecten die ervan uitgaan of de plaats waar ze gelegen is of uitgeoefend wordt, dit verantwoordt.<br>
+§3. De vergunningverlenende overheid kan de exploitant van een ingedeelde inrichting of activiteit die niet vermeld is in paragraaf 1 of 2, opleggen een milieucoördinator aan te stellen als de aard van de ingedeelde inrichting of activiteit, de<br>
+milieueffecten of milieuaspecten dat verantwoorden. Ze bepaalt daarbij ook het vereiste niveau van de milieucoördinator.<br>
 <br>
-§ 4. De milieucoördinator kan een werknemer zijn van de exploitant of een persoon die geen werknemer is van de exploitant.<br>
+§4. De milieucoördinator kan een werknemer zijn van de exploitant of een externe persoon.<br>
 <br>
-Wanneer dit geen afbreuk doet aan een goede taakvervulling kan, met instemming van de&nbsp;bevoegde afdeling, voor twee of meer inrichtingen of activiteiten gezamenlijk een milieucoördinator worden aangesteld of kan een beroep worden gedaan op de diensten van een persoon die geen werknemer is van de exploitant.<br>
-<br>
-Dergelijke instemming is evenwel niet vereist wanneer het de aanstelling betreft van een milieucoördinator voor verschillende inrichtingen of activiteiten tegelijk die samen een bedrijfslocatie vormen onder controle van eenzelfde persoon of rechtspersoon. Deze instemming is evenmin vereist indien het de gezamenlijke aanstelling betreft van een persoon die erkend is als milieucoördinator.<br>
-<br>
-§ 5. Wanneer verschillende inrichtingen of activiteiten samen naar het oordeel van de vergunningverlenende overheid een milieutechnische eenheid vormen, kan zij de aanstelling van een gezamenlijke milieucoördinator verplicht stellen.<br>
-<br>
-Het feit dat verschillende inrichtingen een verschillend eigendomsstatuut hebben, belet niet dat zij een milieutechnische eenheid vormen.<br>
-<br>
-§ 6. De instemming wordt verleend als voldaan is aan de voorwaarden die door de Vlaamse Regering zijn vastgesteld en die voorafgaand aan de instemmingsaanvraag zijn bekendgemaakt.<br>
-<br>
-§ 7. De Vlaamse Regering stelt de nadere regels vast voor de aanvraag, weigering of verlening en bekendmaking van de instemmingen. Op zijn verzoek wordt de aanvrager van een instemming gehoord door de door de Vlaamse Regering aangewezen overheid. De voormelde overheid kan eveneens de aanvrager horen.<br>
-<br>
-§ 8. De Vlaamse Regering kan bepalen dat de instemming wordt geacht stilzwijgend te zijn verkregen als door de overheid geen beslissing aan de aanvrager wordt betekend binnen de door haar vastgestelde termijn.<br>
-<br>
-De Vlaamse Regering kan daartoe alleen besluiten nadat ze tot de vaststelling is gekomen dat een belangenafweging door de overheid, vermeld in § 4, bij haar beslissingen over aanvragen tot instemming met de meervoudige aanstelling van milieucoördinatoren, niet in alle gevallen noodzakelijk is om dwingende reden van algemeen belang, met inbegrip van een rechtmatig belang van een derde partij.<br>
-<br>
-§ 9. De Vlaamse Regering kan voor het gebruik van de instemmingen gebruikseisen vaststellen.<br>
-<br>
-§ 10. Met behoud van de toepassing van de bepalingen van titel XVI kan de door de Vlaamse Regering aangewezen overheid de instemming schorsen of opheffen.<br>
-<br>
-De Vlaamse Regering kan bepalen in welke gevallen tot schorsing of opheffing kan worden overgegaan. De exploitanten en de milieucoördinator worden gehoord op hun verzoek. De Vlaamse Regering stelt de nadere regels vast voor de bij schorsing of opheffing van de instemming te volgen procedure.<br>
-<br>
-§ 11. Een persoon die geen werknemer is van de exploitant en met toepassing van § 4 in twee of meer inrichtingen of activiteiten die samen geen milieutechnische eenheid vormen, als milieucoördinator wil worden aangesteld, moet voorafgaand aan de aanstelling als milieucoördinator zijn erkend.<br>
-<br>
-Op de erkenning als milieucoördinator zijn de bepalingen van titel V, hoofdstuk 6 van toepassing.
+Als dat geen afbreuk doet aan een goede en kwaliteitsvolle taakvervulling, kan voor twee of meer ingedeelde inrichtingen of activiteiten een gezamenlijke milieucoördinator worden aangesteld.<br>
+&nbsp;<br>
+§5. Als verschillende ingedeelde inrichtingen of activiteiten een milieutechnische eenheid vormen, kan de vergunningverlenende overheid de aanstelling van een gezamenlijke milieucoördinator verplicht stellen.<br>
+&nbsp;
 
 ### ART. 3.2.2.
 
-§ 1. De milieucoördinator heeft onder meer tot taak:<BR>a) bij te dragen   tot de ontwikkeling, de invoering, de toepassing en de evaluatie van   milieuvriendelijke produktiemethodes en produkten;<BR>b) te waken over de   naleving van de milieuwetgeving door meer bepaald op regelmatige tijdstippen   controle uit te oefenen op de werkplaatsen, de zuiveringstechnische werken en de   materiaalstromen; hij rapporteert de vastgestelde tekortkomingen aan de   bedrijfsleiding en doet voorstellen om deze te verhelpen;<BR>c) te waken over of   in te staan voor de uitvoering van de voorgeschreven emissie- en   immissiemetingen en de registratie van de resultaten ervan;<BR>d) te waken over   het bijhouden van het afvalstoffenregister en het materialenregister en de   naleving van de meldingsplicht, vermeld in artikel 6, 23 tot en met 25 en 30 van   het decreet van 23 december 2011 betreffende het duurzaam beheer van   materiaalkringlopen en afvalstoffen;<BR>e) voorstellen te doen en bij te dragen   tot de interne en externe communicatie in verband met de gevolgen voor mens en   milieu van de inrichting of activiteit, van haar produkten, haar afvalstoffen en   de voorzieningen en maatregelen om deze gevolgen te beperken;<BR>f) medewerking   te verlenen en informatie aan te reiken bij de uitvoering van de evaluaties,   vermeld in artikel 5.4.11.<BR><BR>§ 2. De milieucoördinator geeft zijn advies   over elke voorgenomen investering die vanuit milieu-oogpunt relevant kan zijn.   Zijn advies wordt tijdig ingewonnen en het wordt voorgelegd aan het orgaan dat   de beslissing neemt. Op zijn verzoek wordt hij gehoord.<BR><BR>§ 3. De   milieucoördinator stelt ten behoeve van de bedrijfsleiding en, in voorkomend   geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid,   gezondheid en verfraaiing der werkplaatsen, of bij ontstentenis van deze   organen, van de vakbondsafvaardiging jaarlijks een verslag op over de wijze   waarop hij zijn opdracht heeft vervuld. Dit verslag bevat onder meer een   overzicht van de door hem uitgebrachte adviezen en het gevolg dat eraan werd   gegeven.
+De aanstelling van een milieucoördinator heeft onder meer als doel:<br>
+1° te waken over de naleving van de milieuwetgeving binnen de ingedeelde inrichting of activiteit en eventuele vastgestelde tekortkomingen te rapporteren aan de exploitant en voorstellen te doen om deze te verhelpen;<br>
+2° bij te dragen aan de ontwikkeling, uitvoering en evaluatie van het milieubeleid van de ingedeelde inrichting of activiteit;<br>
+3° advies te verlenen aan de exploitant over milieuaspecten en de impact ervan op de milieuprestaties van de ingedeelde inrichting of activiteit;<br>
+4° aan de exploitant te adviseren en te rapporteren over de milieueffecten van de ingedeelde inrichting of activiteit;<br>
+5° bij te dragen aan de interne en externe communicatie van het milieubeleid en het beheer van de milieuaspecten van de ingedeelde inrichting of activiteit;<br>
+6° medewerking te verlenen aan evaluaties door de overheid in het kader van milieu.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels met betrekking tot de opdracht van de milieucoördinator om de doelen, vermeld in het eerste lid, te vervullen.<br>
+&nbsp;
 
 ### ART. 3.2.3.
 
-§ 1. Als milieucoördinator kan enkel een persoon worden aangesteld die over de vereiste kwalificaties en eigenschappen beschikt om de in artikel 3.2.2. bedoelde taken naar behoren te vervullen.<br>
+§1. Als milieucoördinator kan alleen een persoon worden aangesteld die over de vereiste kwalificaties en competenties beschikt om de opdrachten en doelstellingen, vermeld in artikel 3.2.2, eerste lid, naar behoren te vervullen.<br>
 <br>
-§ 2. De Vlaamse regering kan door middel van algemene of sectorale milieuvoorwaarden nadere eisen stellen inzake de opleiding, de beroepservaring en de overige voorwaarden waaraan de milieucoördinator moet voldoen. De Vlaamse regering, kan overgangsmaatregelen treffen met betrekking tot deze voorwaarden, indien nodig, voor degenen die de taken van milieucoördinator, in de hoedanigheid van werknemer van de exploitant, al uitoefenen voor het van kracht worden van dit decreet.<br>
+§2. De Vlaamse Regering kan nadere eisen stellen voor de modaliteiten van de aanstelling of vervanging, de opleiding, de beroepservaring en de overige voorwaarden waaraan de milieucoördinator moet voldoen en ter controle ervan.<br>
 <br>
-§ 3. De exploitant houdt het aanstellingsdossier op de exploitatiezetel ter beschikking van de bevoegde afdeling. Wanneer de milieucoördinator niet voldoet aan de in § 1 en in voorkomend geval aan de in § 2 bedoelde voorwaarden, kan de bevoegde afdeling eisen dat de exploitant binnen een termijn die het bepaalt, een andere persoon aanstelt.
+De Vlaamse Regering kan overgangsmaatregelen treffen of afwijkingen voorzien met betrekking tot die voorwaarden, indien nodig, voor degenen die de taken van milieucoördinator, in de hoedanigheid van werknemer van de exploitant, al uitoefenen voor de inwerkingtreding van het decreet van 10 juli 2026 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft de omzetting van richtlijn (EU) 2024/1785 van het Europees Parlement en de Raad van 24 april 2024 tot wijziging van Richtlijn 2010/75/EU van het Europees Parlement en de Raad inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) en Richtlijn 1999/31/EG van de Raad betreffende het storten van afvalstoffen en andere diverse wijzigingen ter optimalisatie.<br>
+&nbsp;
 
 ### ART. 3.2.4.
 
-[De exploitant is gehouden het nodige te doen opdat de milieucoördinator zijn taak naar behoren kan vervullen. Hij stelt hem hulppersoneel, lokalen, materiaal en middelen ter beschikking voor zover vereist (ing. decr. 19 april 1995, art. 2, I: 4 juli 1996)].
+De exploitant doet het nodige opdat de milieucoördinator zijn taak naar behoren kan vervullen.
 
 ### ART. 3.2.5.
 
-De milieucoördinator die een werknemer is van de exploitant, mag geen nadeel ondervinden omwille van de taak die hij als milieucoördinator vervult.<br /><br />De aanwijzing en de vervanging van een milieucoördinator-werknemer, de verwijdering uit zijn functie en de aanstelling van een tijdelijke plaatsvervanger, worden door de exploitant, onverminderd het bepaalde in artikel 3.2.3, § 3, uitgevoerd na voorafgaand akkoord van het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of, bij ontstentenis ervan, van de vakbondsafvaardiging. In geval van blijvende onenigheid in de schoot van het comité of met de vakbondsafvaardiging, wordt het advies ingewonnen van de door de Vlaamse Regering aangewezen afdeling.
+De milieucoördinator mag geen nadeel ondervinden omwille van de taak die hij als milieucoördinator vervult.
 
 ### ART. 3.2.6.
 
-De Vlaamse Regering bepaalt de informatie die in het kader van de   toepassing van het decreet van 25 april 2014 betreffende de omgevingsvergunning   en van titel V door de vergunningverlenende overheid, de exploitant of de   milieucoördinator aan het Comité voor preventie en bescherming op het werk, bij   ontstentenis daarvan aan de vakbondsafvaardiging of de werknemers, ter   beschikking moet worden gesteld.<BR><BR>De Vlaamse Regering kan nadere regels   uitvaardigen met het oog op het overleg over de bedrijfsinterne milieuzorg in de   onderneming tussen de exploitant, afgevaardigde of de milieucoördinator   enerzijds en het Comité voor preventie en bescherming op het werk, bij   ontstentenis daarvan de vakbondsafvaardiging of de werknemers,   anderzijds.
+De Vlaamse Regering bepaalt de informatie die in het kader van de toepassing van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van dit decreet ter beschikking wordt gesteld door de vergunningverlenende overheid, de exploitant of de milieucoördinator aan het Comité voor preventie en bescherming op het werk, of bij afwezigheid daarvan aan de vakbondsafvaardiging of eventueel bij afwezigheid daarvan aan de werknemers.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met het oog op het overleg over de bedrijfsinterne milieuzorg in de onderneming.<br>
+&nbsp;
 
-## [HOOFDSTUK III (ing. decr. 19 april 1995, art. 2)] [EMAS EN DE DECRETAAL VERPLICHTE MILIEUAUDIT (verv. decr. 6 februari 2004, art. 4, I: 9 maart 2004)]
+### ART 3.2.7.
+
+§1. De dienst of diensten van de Vlaamse administratie die de Vlaamse Regering aanwijst, treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) voor de verwerking van persoonsgegevens in het kader van de opvolging van de aanstelling van een milieucoördinator.<br>
+<br>
+De verwerkingsverantwoordelijke neemt passende maatregelen om de juistheid van de persoonsgegevens te verzekeren. Alleen de personen die de specifieke behoefte hebben door hun functie, rol of verantwoordelijkheid om deze persoonsgegevens te verwerken, hebben toegang tot die gegevens.<br>
+<br>
+De personen, vermeld in het tweede lid, verwerken de persoonsgegevens voor de uitvoering van de taken, vermeld in dit hoofdstuk. De verwerking van persoonsgegevens is noodzakelijk voor en in uitvoering van de vervulling van een taak van algemeen belang die aan de verwerkingsverantwoordelijke is opgedragen.<br>
+<br>
+§2. De verwerking van persoonsgegevens, vermeld in paragraaf 1, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° de naam;<br>
+2° het rijksregisternummer of het BIS-nummer als men niet over een rijksregisternummer beschikt;<br>
+3° de adresgegevens;<br>
+4° de gegevens over opleiding, ervaring, bijscholing, verzekeringen burgerrechtelijke en beroepsaansprakelijkheid in het kader van de aanstelling als milieucoördinator;<br>
+5° de beroepsgegevens in het kader van de aanstelling als milieucoördinator, waaronder het aanstellingsdossier;<br>
+&nbsp;6° de gegevens over strafrechtelijke veroordelingen en strafrechtelijke feiten als vermeld in artikel 10 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) voor overtredingen van de milieuwetgeving die verband houden met de uitvoering van de taken van de milieucoördinator;<br>
+7° gegevens met betrekking tot de overtredingen van de milieuwetgeving.<br>
+<br>
+§3. De verwerking van persoonsgegevens, vermeld in paragraaf 1, heeft betrekking op de milieucoördinator, vermeld in artikel 3.2.1.<br>
+<br>
+De verwerkingsverantwoordelijke neemt maatregelen om de informatie uit artikel 13 en 14 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) en de communicatie uit artikel 15 tot en met 22 en artikel 34 van voormelde verordening (EU) 2016/679 rond de verwerking van persoonsgegevens op een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm aan te bieden aan de betrokkene.<br>
+<br>
+§4. De maximale bewaartermijn voor persoonsgegevens bedraagt tot twintig jaar. De voormelde termijn vangt aan bij de beëindiging van de taken als milieucoördinator.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van die gegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.<br>
+&nbsp;
+
+## HOOFDSTUK III MILIEUBEHEERSYSTEMEN
 
 ### ART. 3.3.1.
 
-§ 1. Met het oog op de toepassing in het Vlaamse Gewest van de Verordening (EG) Nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), tot intrekking van de Verordening (EG) nr. 761/2001 en van de Beschikkingen 2001/681/EG en 2006/193/EG van de Commissie, (EMAS) wijst de Vlaamse regering de instantie aan die - wat het Vlaamse Gewest betreft - belast is met de erkenning van onafhankelijke milieuverificateurs en met controle op hun werkzaamheden. Zij stelt de Europese Commissie hiervan in kennis.<br /><br />§ 2. De Vlaamse Regering wijst de bevoegde instantie aan als vermeld in artikel 11 van de Verordening (EG) Nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), tot intrekking van de Verordening (EG) nr. 761/2001 en van de Beschikkingen 2001/681/EG en 2006/193/EG van de Commissie.<br /><br />De bevoegde instantie is belast met de uitvoering van de taken die haar krachtens deze verordening worden toegewezen. <br /><br />§ 3. De Vlaamse regering kan een bijdrage in de registratiekosten van een organisatie waarvan ze het bedrag bepaalt, ten laste leggen van de aanvrager van de registratie.
+Het milieubeheersysteem omvat minstens de aspecten die nodig zijn voor het ontwikkelen, uitvoeren, realiseren, toetsen en handhaven van het milieubeleid en het beheren van milieuaspecten van een ingedeelde inrichting of activiteit.<br>
+<br>
+De Vlaamse Regering bepaalt welke ingedeelde inrichtingen of activiteiten over een milieubeheersysteem moeten beschikken.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere inhoud van het milieubeheersysteem, waarbij de mate van gedetailleerdheid van het milieubeheersysteem strookt met de aard, omvang en complexiteit van de ingedeelde inrichting of activiteit en de mogelijke milieueffecten ervan.<br>
+&nbsp;
 
 ### ART. 3.3.2.
 
-§ 1. De Vlaamse regering wijst door middel van sectorale milieuvoorwaarden de categorieën van inrichtingen of activiteiten aan die onderworpen worden aan een periodieke dan wel eenmalige decretaal verplichte milieuaudit.<br>
-<br>
-De Vlaamse regering kan evenwel inrichtingen of activiteiten die over een bedrijfsintern milieuzorgsysteem beschikken dat gelijkaardige waarborgen biedt onder door haar bepaalde voorwaarden vrijstellen van die verplichting.<br>
-<br>
-§ 2. De decretaal verplichte milieuaudit betreft een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken inrichting of activiteit op het gebied van de bescherming van het milieu.<br>
-<br>
-§ 3. De decretaal verplichte milieuaudit heeft betrekking op:<br>
-- de emissies en immissies, evenals de gevolgen ervan voor de milieukwaliteit;<br>
-- het energiebeheer;<br>
-- het beheer van grondstoffen;<br>
-- de preventie en het beheer van afvalstoffen;<br>
-- bodembeheer<br>
-- de produktiemethodes en het produktbeheer;<br>
-- de externe veiligheid;<br>
-- de voorlichting, opleiding en participatie van het personeel in de bedrijfsinterne milieuzorg;<br>
-- de externe voorlichting;<br>
-- de voorstellen en adviezen van de milieucoördinator, zoals bedoeld in artikel 3.2.2, § 3, en de opvolging die hieraan gegeven is.<br>
-<br>
-De Vlaamse regering kan nadere eisen stellen betreffende de inhoud van de decretaal verplichte milieuaudit. Ze kan in dat verband ook haar goedkeuring verlenen aan richtlijnen waarvan het gebruik aanbevolen wordt.<br>
-<br>
-§ 4. De Vlaamse regering bepaalt welke elementen van de decretaal verplichte milieuaudit moeten medegedeeld worden aan het door de Vlaamse regering aangewezen bestuur.<br>
-<br>
-§ 5. Voor de validatie van de decretaal verplichte milieuaudit wordt een beroep gedaan op een milieuverificateur die erkend is met toepassing van titel V, hoofdstuk 6.<br>
-<br>
-§ 6. ....
+De Vlaamse Regering bepaalt:<br>
+1° voor welke ingedeelde inrichtingen of activiteiten een verificatie, validatie of certificatie van het milieubeheersysteem vereist is;<br>
+2° welke elementen van het milieubeheersysteem worden meegedeeld aan het door haar aangewezen bestuur;<br>
+3° voor welke ingedeelde inrichtingen of activiteiten het milieubeheersysteem periodiek wordt geauditeerd.<br>
+&nbsp;
 
 ### ART. 3.3.3.
 
-Tenzij anders bepaald wordt, is de milieuaudit op kosten van de exploitant.<br>
+Tenzij anders bepaald door de Vlaamse Regering, gebeurt het opstellen, opvolgen en de audit van het milieubeheersysteem op kosten van de exploitant.<br>
 <br>
-De Vlaamse regering kan subsidies verlenen voor het uitvoeren van een (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ] [decretaal (ing. decr. 6 februari 2004, art. 7, I: 9 maart 2004) ] [verplichte of vrijwillige milieuaudit binnen de perken van de begrotingskredieten. Zij bepaalt de nadere regels voor het verlenen van subsidiëring. (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ]
+De Vlaamse Regering kan subsidies verlenen voor het opstellen of opvolgen van het milieubeheersysteem binnen de perken van de begrotingskredieten. Ze bepaalt in voorkomend geval de nadere voorwaarden en de procedure voor het verlenen van de subsidiëring.
+
+### ART 3.3.4.
+
+§1. Met het oog op de toepassing in het Vlaamse Gewest van verordening (EG) nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), tot intrekking van Verordening (EG) nr. 761/2001 en van de Beschikkingen 2001/681/EG en 2006/193/EG van de Commissie, wijst de Vlaamse Regering de bevoegde instantie aan, vermeld in artikel 11 van de voormelde verordening. Ze stelt de Europese Commissie daarvan in kennis.<br>
+<br>
+De bevoegde instantie, vermeld in het eerste lid, is belast met de uitvoering van de taken die haar krachtens de verordening, vermeld in het eerste lid, worden toegewezen.<br>
+<br>
+§2. De Vlaamse Regering kan een bijdrage in de registratiekosten van een organisatie waarvan ze het bedrag bepaalt, ten laste leggen van de aanvrager van de registratie.
 
 ## [HOOFDSTUK IV MEET- EN REGISTRATIEVERPLICHTINGEN (ing. decr. 19 april 1995, art. 2)]
 
@@ -394,17 +425,17 @@ b) energie- en grondstoffenbalansen op te stellen.<br>
 
 ### ART. 3.5.1.
 
-De Vlaamse regering wijst door middel van algemene of sectorale   milieuvoorwaarden de categorieën van inrichtingen of activiteiten aan waarvan de   exploitanten gehouden zijn jaarlijks aan de daartoe aangewezen overheid een   milieu-jaarverslag te sturen. Zij bepaalt welke gegevens over de gemeten of   berekende emissies of immissies het milieu-jaarverslag moet bevatten.<BR><BR>De   Vlaamse Regering kan ook voorschrijven dat de met toepassing van artikel 23,   tweede lid, van het decreet van 23 december 2011 betreffende het duurzaam beheer   van materiaalkringlopen en afvalstoffen te verstrekken gegevens voor de   inrichtingen of activiteiten, vermeld in het eerste lid, opgenomen moeten worden   in het milieujaarverslag.
+De Vlaamse Regering wijst de inrichtingen of activiteiten aan waarvan de exploitanten gehouden zijn jaarlijks aan de daartoe aangewezen overheid een milieujaarverslag te sturen. Ze bepaalt welke gegevens het milieujaarverslag bevat.
 
 ### ART. 3.5.2.
 
-[Wanneer de in artikel 3.5.1. bedoelde gegevens gebaseerd zijn op berekeningen deelt de exploitant de basisgegevens mee op grond waarvan de berekening is uitgevoerd, evenals de toegepaste berekeningsmethode (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995)].
+Als de gegevens, vermeld in artikel 3.5.1, gebaseerd zijn op metingen, deelt de exploitant de gebruikte meetmethode mee. Als de gegevens, vermeld in artikel 3.5.1, gebaseerd zijn op berekeningen of schattingen, deelt de exploitant de basisgegevens mee op grond waarvan de berekening of schatting is uitgevoerd, evenals de toegepaste methode.
 
 ### ART. 3.5.3.
 
-[De Vlaamse regering kan bepalen dat het verstrekken van gegevens, voorgeschreven door de regelgeving inzake leefmilieu, aan de Vlaamse regering of aan rechtspersonen die van het Vlaamse Gewest afhangen, door middel van een integraal milieujaarverslag gebeurt.<br>
+De Vlaamse Regering kan bepalen dat het verstrekken van gegevens, voorgeschreven door de regelgeving inzake leefmilieu, aan de Vlaamse Regering of aan rechtspersonen die van het Vlaamse Gewest afhangen, door middel van een milieujaarverslag gebeurt.<br>
 <br>
-De Vlaamse regering bepaalt de inhoud van het integraal milieujaarverslag, alsmede de wijze waarop en de termijn waarbinnen het wordt medegedeeld. Ze bepaalt aan welke instelling of dienst het integraal milieujaarverslag wordt medegedeeld. Zij kan aan die instelling of dienst opdragen het gehele of gedeeltelijke verslag of de gehele of gedeeltelijke inhoud ervan aan andere instellingen of diensten te bezorgen. Zij kan de verplichting tot het opstellen van een geïntegreerd milieujaarverslag gefaseerd invoeren (ing. decr. 6 februari 2004, art. 7, I: 1 maart 2004)].
+De Vlaamse Regering bepaalt de inhoud van het milieujaarverslag, alsmede de wijze waarop en de termijn waarbinnen het wordt medegedeeld. Ze bepaalt aan welke instelling of dienst het milieujaarverslag wordt medegedeeld. Zij kan aan die instelling of dienst opdragen het gehele of gedeeltelijke verslag of de gehele of gedeeltelijke inhoud ervan aan andere instellingen of diensten te bezorgen. Zij kan de verplichting tot het opstellen van een milieujaarverslag gefaseerd invoeren.
 
 ## [HOOFDSTUK VI BEDRIJFSBELEID TER VOORKOMING VAN ZWARE ONGEVALLEN EN TER BEPERKING VAN DE GEVOLGEN ERVAN VOOR MENS EN MILIEU (ing.. decr. 19 april 1995, art. 2)]
 
@@ -1421,7 +1452,7 @@ a) het wijzigen: het verplaatsen binnen de vergunde of gemelde ingedeelde inrich
 b) het uitbreiden: het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of meldingsakte betrekking heeft;<br>
 c) het toevoegen: het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of meldingsakte geen betrekking heeft;<br>
 d) het splitsen van een ingedeelde inrichting of activiteit in meerdere ingedeelde inrichtingen of activiteiten voor zover geen afbreuk wordt gedaan aan de definitie van een ingedeelde inrichting of activiteit, vermeld in punt 8°.<br>
-13° verontreiniging: de directe of indirecte inbreng door menselijke activiteiten van stoffen, trillingen, warmte of geluid in lucht, water of bodem, die de gezondheid van de mens of de milieukwaliteit kan aantasten, schade kan toebrengen aan materiële goederen, of de belevingswaarde van het milieu of een ander rechtmatig milieugebruik kan aantasten of in de weg kan staan.</p>
+13° verontreiniging: de directe of indirecte inbreng door menselijke activiteiten van stoffen, trillingen, warmte, geluid of geur in lucht, water of bodem, die de gezondheid van de mens of de milieukwaliteit kunnen aantasten, schade kunnen toebrengen aan materiële goederen, of de belevingswaarde van het milieu of een ander rechtmatig milieugebruik kunnen aantasten of in de weg kunnen staan.</p>
 
 ## [Afdeling 2 Definities van genetisch gemodificeerde organismen of pathogene organismen (ing. decr. 25 april 2014, art. 178)]
 
@@ -1599,7 +1630,11 @@ De Vlaamse Regering stelt voor de verschillende categorieën van   erkenningen d
 
 ### ART. 5.6.4.
 
-§ 1. De overheid of organisatie die over de erkenningsaanvraag uitspraak   moet doen, bevestigt binnen dertig dagen de ontvangst van het dossier van de   aanvrager en deelt in voorkomend geval mee welke documenten ontbreken. Binnen   een termijn van negentig dagen na de indiening van het volledige dossier wordt   door de bevoegde overheid of organisatie uitspraak gedaan. De bevoegde overheid   of organisatie kan die termijn met maximaal dertig dagen verlengen.<BR><BR>§ 2.   De Vlaamse Regering kan de erkenningen aanwijzen die geacht worden stilzwijgend   te zijn verkregen als geen beslissing over de erkenningsaanvraag wordt betekend   binnen de door haar vastgestelde termijn.<BR><BR>De Vlaamse Regering kan daartoe   alleen besluiten nadat ze tot de vaststelling is gekomen dat de belangenafweging   door de overheden en organisaties, vermeld in artikel 5.6.3, eerste lid, bij hun   beslissingen over erkenningsaanvragen, niet in alle gevallen noodzakelijk is om   dwingende reden van algemeen belang, met inbegrip van een rechtmatig belang van   een derde partij.
+§ 1. De overheid of organisatie die over de erkenningsaanvraag uitspraak moet doen, bevestigt binnen dertig dagen de ontvangst van het dossier van de aanvrager en deelt in voorkomend geval mee welke documenten ontbreken. Binnen een termijn van negentig dagen nadat het aanvraagdossier volledig is verklaard, wordt door de bevoegde overheid of organisatie uitspraak gedaan. De bevoegde overheid of organisatie kan die termijn met maximaal dertig dagen verlengen.<br>
+<br>
+§ 2. De Vlaamse Regering kan de erkenningen aanwijzen die geacht worden stilzwijgend te zijn verkregen als geen beslissing over de erkenningsaanvraag wordt betekend binnen de door haar vastgestelde termijn.<br>
+<br>
+De Vlaamse Regering kan daartoe alleen besluiten nadat ze tot de vaststelling is gekomen dat de belangenafweging door de overheden en organisaties, vermeld in artikel 5.6.3, eerste lid, bij hun beslissingen over erkenningsaanvragen, niet in alle gevallen noodzakelijk is om dwingende reden van algemeen belang, met inbegrip van een rechtmatig belang van een derde partij.
 
 ### ART. 5.6.5.
 
