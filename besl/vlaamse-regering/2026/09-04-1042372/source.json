@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042372,
+  "title": "Besluit van de Vlaamse Regering van 2026-09-04 tot wijziging van het besluit van de Vlaamse Regering van 13 februari 2015 tot aanwijzing van de Vlaamse en provinciale projecten ter uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft de hervorming van de bevoegdheidsverdeling inzake Vlaamse en provinciale projecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042372/VolledigDocument?datum=2026-11-03",
+  "source_sha256": "f66ab4b097e19a21b73444fbe5b3d061e6a7a0e61e486ec7aa848f024a1d37fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042372&param=informatie",
+  "as_of": "2026-11-03",
+  "made": "2026-09-04",
+  "gazette": "2026-10-01",
+  "numac": 2026007004,
+  "document_start": "2026-11-03",
+  "document_end": null,
+  "in_force": "2026-11-03",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
