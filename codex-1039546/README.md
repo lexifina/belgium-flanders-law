@@ -1,0 +1,7 @@
+# Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie strekkende tot wijziging van het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19
+
+Decreet 2024-03-15 1039546 · 1 versions, from 2024-04-08 (latest in force: 2024-04-08) · <https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039546/VolledigDocument?datum=2026-11-05>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie strekkende tot wijziging van het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19 | [text.md](text.md) | 0 |  |

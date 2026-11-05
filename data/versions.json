@@ -1326,6 +1326,1448 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "codex-1039469",
+   "short": "Samenwerkingsakkoord 2024-04-10 1039469",
+   "title": "Samenwerkingsakkoord tot wijziging van het Samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij samenwerkingsakkoord van 24 april 2015 en bij Samenwerkingsakkoord van 24 maart 2016",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039469/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039469/VolledigDocument?datum=2026-11-05",
+     "sha256": "c6ef964ff82b57aba888f77690493102a12bb94b9738de6e64dd5d19f547a9c0"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039511",
+   "short": "Besluit van de secretaris-generaal 2024-03-14 1039511",
+   "title": "Besluit van de secretaris-generaal tot opheffing van de erkenning als begeleider arbeidsmatige activiteiten in het kader van het gezondheids- en welzijnsbeleid van Polly’s ranch for special kids",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039511/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039511/VolledigDocument?datum=2026-11-05",
+     "sha256": "7df2f40bc2428b78966774188e1e278771c067dd172744703bb4de408db05be2"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039517",
+   "short": "Besluit van de administrateur-generaal 2024-03-13 1039517",
+   "title": "Besluit van de administrateur-generaal tot subdelegatie van sommige beslissingsbevoegdheden van de organisatiemanager en interne business officer aan de organisatieadviseur en projectleiders van pilootprojecten van Toerisme Vlaanderen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039517/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039517/VolledigDocument?datum=2026-11-05",
+     "sha256": "aae57e9da21fe7c07ec5606aebd693d425508598dabfee0b039c3fc3e237047a"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039543",
+   "short": "Ministerieel besluit 2024-03-20 1039543",
+   "title": "Ministerieel besluit tot aanduiding van een schutkring in functie van wolvenschade",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039543/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039543/VolledigDocument?datum=2026-11-05",
+     "sha256": "f89811cf51239cbaa6820e89b9cc9073d4a840c02c1f833a42e66ed19cef52e0"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039544",
+   "short": "Ministerieel besluit 2024-03-20 1039544",
+   "title": "Ministerieel besluit tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039544/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039544/VolledigDocument?datum=2026-11-05",
+     "sha256": "3cc628ad9d288e077a50ddb109c79a048a7609173b6c7af3514590d8766667ee"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039546",
+   "short": "Decreet 2024-03-15 1039546",
+   "title": "Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie strekkende tot wijziging van het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039546/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039546/VolledigDocument?datum=2026-11-05",
+     "sha256": "608c87283f37fc62c70065620f0cd0d6821f31d58d61a597f69346203d68d70e"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039547",
+   "short": "Decreet 2024-03-15 1039547",
+   "title": "Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot CoBRHA+",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039547/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039547/VolledigDocument?datum=2026-11-05",
+     "sha256": "e165434331089255b96ad64d0029610b8523a3542f933236ec00d863a9d9369c"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039554",
+   "short": "Besluit van de secretaris-generaal 2024-03-25 1039554",
+   "title": "Besluit van de secretaris-generaal van het Departement Zorg tot aanwijzing van ambtenaren-artsen en ambtenaren ter uitvoering van artikel 2 van het ministerieel besluit van 19 juni 2009 tot bepaling van de lijst van infecties die gemeld moeten worden en tot delegatie van de bevoegdheid om ambtenaren-artsen en ambtenaren aan te wijzen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039554/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039554/VolledigDocument?datum=2026-11-05",
+     "sha256": "fcadca21d7a61f3b7345d068d8aecc968b877bc53b4f1e4260b3a0d2b1091936"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039558",
+   "short": "Besluit van de administrateur-generaal 2024-03-21 1039558",
+   "title": "Besluit van de administrateur-generaal tot delegatie van bevoegdheden voor de aankoop van onroerende goederen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039558/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039558/VolledigDocument?datum=2026-11-05",
+     "sha256": "a0c9a6e96bd88279dc16ef91ad6ea8bde1b265f483bedb38b3ae57f0ff365ca0"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039565",
+   "short": "Ministerieel besluit 2024-03-22 1039565",
+   "title": "Ministerieel besluit tot wijziging van het ministerieel besluit van 13 mei 2015 houdende oprichting en benoeming van de leden van de landcommissies ingesteld bij het decreet van 28 maart 2014 betreffende de landinrichting",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039565/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039565/VolledigDocument?datum=2026-11-05",
+     "sha256": "85c9ab6805554e3a5d4f1efbd4af922922eba6e51dd385da202b5972bd319085"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039566",
+   "short": "Besluit van de secretaris-generaal 2024-03-20 1039566",
+   "title": "Besluit van de secretaris-generaal tot wijziging van artikel 1, 2°, a) van het besluit van de secretaris-generaal van 12 december 2023 tot benoeming van de leden van de erkenningscommissie huisarts",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039566/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039566/VolledigDocument?datum=2026-11-05",
+     "sha256": "8685e955563bf15bc9f54b3e64a018224c15e2b227ff0e6ebeeb2f61c365dffc"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039573",
+   "short": "Ministerieel besluit 2024-03-22 1039573",
+   "title": "Ministerieel besluit tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités van de natuurinrichtingsprojecten Zwarte Beek, Zoerselbos, Biscopveld, Berlare Broek-Donkmeer, De Liereman en Schuddebeurze en de samenstelling van de natuurinrichtingsprojectcommissies van de natuurinrichtingsprojecten Zwarte Beek, Zoerselbos, De Liereman en Schuddebeurze",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039573/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039573/VolledigDocument?datum=2026-11-05",
+     "sha256": "dc7753ab2fb93d83aaa331d183c34cc8bb659f5c55d75dc595c4d78146e6ae1b"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039574",
+   "short": "Besluit van de secretaris-generaal 2024-03-24 1039574",
+   "title": "Besluit van de secretaris-generaal tot wijziging van het besluit van de secretaris-generaal van 20 december 2023 tot opheffing van de lopende erkenning als begeleider arbeidsmatige activiteiten en tot toekenning van de erkenning als begeleider arbeidsmatige activiteiten in het kader van het gezondheids- en welzijnsbeleid voor verschillende organisaties, wat betreft de aanpassing van een HCO-nummer",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039574/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039574/VolledigDocument?datum=2026-11-05",
+     "sha256": "362f7cc1ee5f09f43648922b130ad5364bcf2de854797d1813f8a904cdb6548f"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039578",
+   "short": "Decreet 2024-03-29 1039578",
+   "title": "Decreet tot oprichting en regeling van de Veilige Huizen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039578/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039578/VolledigDocument?datum=2026-11-05",
+     "sha256": "38cf8a98666f1acbe1229f5256995a20c019a77dbc6e05b94afb2612fe8a7841"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039582",
+   "short": "Decreet 2024-03-29 1039582",
+   "title": "Decreet tot wijziging van het Bestuursdecreet van 7 december 2018, wat betreft specifieke regelingen voor de toegang tot bestuursdocumenten",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039582/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039582/VolledigDocument?datum=2026-11-05",
+     "sha256": "83f8213ebdd3aa19e24c405dc51d3a89fa1ff7c3bab3f4d935ebf26d1a215cbb"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039586",
+   "short": "Decreet 2024-03-29 1039586",
+   "title": "Decreet tot wijziging van het Bestuursdecreet van 7 december 2018, wat betreft de rechtspositie van de regeringscommissarissen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039586/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039586/VolledigDocument?datum=2026-11-05",
+     "sha256": "56b3846c6ee6ae41b54d82a94b3a53434f326b9ea43f5d19f5f2eb64d5868936"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039587",
+   "short": "Decreet 2024-03-29 1039587",
+   "title": "Decreet tot wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, wat betreft de taken van de Vlaamse Toezichtcommissie",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039587/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039587/VolledigDocument?datum=2026-11-05",
+     "sha256": "8c666381c34f250512938776f33d5e797d68390f96e607ec3c1be76baf675f8d"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039588",
+   "short": "Decreet 2024-03-29 1039588",
+   "title": "Decreet houdende instemming met het samenwerkingsakkoord van 8 februari 2024 strekkende tot wijziging van het samenwerkingsakkoord van 14 juli 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waals Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF en de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België, zoals gewijzigd door de samenwerkingsakkoorden van 27 september 2021 en van 28 oktober 2021, en tot wijziging van het opschrift en artikel 2 van het decreet van 1 oktober 2021 houdende instemming met het samenwerkingsakkoord van 26 september 2021 strekkende tot wijziging van het samenwerkingsakkoord van 14 juli 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het Covid Safe Ticket, het PLF en de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039588/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039588/VolledigDocument?datum=2026-11-05",
+     "sha256": "31b50e4c934668465f7830bd89e34ab4365e88a4e49adedc6aa1e3f2f1e909d8"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039589",
+   "short": "Decreet 2024-03-08 1039589",
+   "title": "Decreet over de ondersteuning van de amateurkunsten ( citeeropschrift: \"Amateurkunstendecreet van 8 maart 2024\")",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039589/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039589/VolledigDocument?datum=2026-11-05",
+     "sha256": "b9768409274d0668e20b218fbbca812de775b9671584ec2bc7c24ab40a895a66"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039591",
+   "short": "Decreet 2024-03-29 1039591",
+   "title": "Decreet tot instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Sierra Leone betreffende het luchtvervoer, ondertekend te Freetown op 3 juli 2019",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039591/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039591/VolledigDocument?datum=2026-11-05",
+     "sha256": "c96a001df29ea781832b85d2c3dbb71cd7d9f654e0964b6356aad65e161b5a2f"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039592",
+   "short": "Decreet 2024-03-29 1039592",
+   "title": "Decreet tot instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Republiek Tanzania betreffende de luchtdiensten, ondertekend te Dodoma op 3 november 2021",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039592/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039592/VolledigDocument?datum=2026-11-05",
+     "sha256": "1f3af6066c100722bcf4982f1d5201f7ce699869ae97b39a3cd4620b6ec76e90"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039593",
+   "short": "Decreet 2024-03-29 1039593",
+   "title": "Decreet tot instemming met de overeenkomst over luchtvervoer tussen het Koninkrijk België en de Verenigde Mexicaanse Staten, ondertekend te Brussel op 22 februari 2023",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039593/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039593/VolledigDocument?datum=2026-11-05",
+     "sha256": "28dba1b65f2bb6201e5353777aabcba9938ae090f4a74a66f74f39bb34ccca9c"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039594",
+   "short": "Decreet 2024-03-29 1039594",
+   "title": "Decreet tot instemming met de uitgebreide luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds, ondertekend te Bali,  Indonesië op 17 oktober 2022",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039594/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039594/VolledigDocument?datum=2026-11-05",
+     "sha256": "66b6b1767c05252259efbd4dc8c70a4fbdfe96230fa069be83af04f0caa9aa14"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039597",
+   "short": "Ministerieel besluit 2024-03-22 1039597",
+   "title": "Ministerieel besluit tot vaststelling van het subsidiëringsprogramma van de werken, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 5 mei 2017 betreffende de subsidiëring van de werken, vermeld in artikel 2.6.1.3.1, § 1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 voor het eerste deelprogramma 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039597/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039597/VolledigDocument?datum=2026-11-05",
+     "sha256": "08f0b79e2a13e9066dd7821b159792fa4b60de4491e4701f709f9fd53d632350"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039599",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039599",
+   "title": "Besluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel krediet SG0-1SKC2TG-PR voor het begrotingsjaar 2024 in het kader van de uitvoering bijkomende afspraken 5-sporen naar aanleiding van afsluiten protocollen gemaakt op 8 december 2023",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039599/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039599/VolledigDocument?datum=2026-11-05",
+     "sha256": "1bdb8700091ded44dbe90f1c7124d178cda919cdf9b017a66f8a9935cc5bf48f"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039600",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039600",
+   "title": "Besluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel krediet SG0-1SKC2TG-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039600/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039600/VolledigDocument?datum=2026-11-05",
+     "sha256": "064630ce4acc6067ed9c9077fc296b87fda88d573f12d0e177293452a1df08a9"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039602",
+   "short": "Decreet 2024-03-15 1039602",
+   "title": "Decreet over het stimuleren van een veilig sportklimaat",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039602/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039602/VolledigDocument?datum=2026-11-05",
+     "sha256": "d1dd8ed09eb945b29c15d140c98a45bf503e49923f8fffb106aa620d96fffd86"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039603",
+   "short": "Decreet 2024-03-22 1039603",
+   "title": "Decreet over het Vlaamse beleid voor de preventie van gewelddadige radicalisering, extremisme, terrorisme en schadelijke polarisatie",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039603/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039603/VolledigDocument?datum=2026-11-05",
+     "sha256": "c41dd2691155b9b3e890480678dd5f9640dbf64631a615d5acca5e42ab13f983"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039604",
+   "short": "Decreet 2024-03-29 1039604",
+   "title": "Decreet over e-boeken en bijbehorende software",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039604/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039604/VolledigDocument?datum=2026-11-05",
+     "sha256": "ce8079d5ba23ac8f9f3bce0e511e58d1fbd1abff17b2de51127c6325a30cc694"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039605",
+   "short": "Decreet 2024-03-22 1039605",
+   "title": "Decreet tot wijziging van de regelgeving met het oog op de toepassing van het begrip gezagsfunctie in de rechtspositieregeling van het personeel van de diensten van de Vlaamse overheid",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039605/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039605/VolledigDocument?datum=2026-11-05",
+     "sha256": "611a61c0d0c66bec500fb8b0b67253efb4744ed9d6c19d746cedb37a04e21348"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039606",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039606",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de wijziging van de statuten van het extern verzelfstandigde agentschap het Agentschap Toegankelijk Vlaanderen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039606/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039606/VolledigDocument?datum=2026-11-05",
+     "sha256": "64bc707703704ccfa70e049b72da3e5a0f78c7f0649a6001b6cb34eb46f604d7"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039607",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039607",
+   "title": "Besluit van de Vlaamse Regering tot benoeming van de leden van het Vlaamse comité voor de mededeling van persoonsgegevens",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039607/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039607/VolledigDocument?datum=2026-11-05",
+     "sha256": "b6feb272c2de9226b3a7e914bad8d638bddac9946ee6ce8caa1fac38dc8ca019"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039611",
+   "short": "Decreet 2024-03-22 1039611",
+   "title": "Decreet tot wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039611/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039611/VolledigDocument?datum=2026-11-05",
+     "sha256": "8bc37475ec7e9d5c387ec124c3e40d914b590083371c53b603ce46276fc1dd7c"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039612",
+   "short": "Decreet 2024-03-08 1039612",
+   "title": "Decreet over de bovenlokale cultuurwerking (citeeropschrift: \"Bovenlokaalcultuurdecreet van 8 maart 2024\")",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039612/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039612/VolledigDocument?datum=2026-11-05",
+     "sha256": "ba931fe013e9f2e680115a8e68cd641bdb464c1350ddc9f247c06fcac06a5bad"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039616",
+   "short": "Decreet 2024-03-29 1039616",
+   "title": "Decreet tot instemming met het Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden, gedaan te Macolin, op 18 september 2014",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039616/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039616/VolledigDocument?datum=2026-11-05",
+     "sha256": "670dc75d60b8342ac3d15c2f6aa7015ab72fdc776533d04559f2f1878f344090"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039617",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039617",
+   "title": "Besluit van de Vlaamse Regering waarbij de overstroming die zich voordeed van 5 tot en met 22 november 2023 als een ramp wordt erkend en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039617/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039617/VolledigDocument?datum=2026-11-05",
+     "sha256": "ee124246a2f06d82882776c1bfd7651fd58d3c035c378f0011ed59790cb156e9"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039623",
+   "short": "Besluit van de Vlaamse Regering 2024-03-19 1039623",
+   "title": "Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 22 april 2022 tot vaststelling van de regels om subsidies in het volwassenenonderwijs toe te kennen met het oog op de afstemming van het ICT-opleidingsaanbod voor onderwijspersoneel binnen centra voor volwassenenonderwijs met onderwijsbevoegdheid voor het studiegebied informatie- en communicatietechnologie in de periode van 1 september 2022 tot en met 31 augustus 2024 om het relanceplan Edusprong uit te voeren",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039623/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039623/VolledigDocument?datum=2026-11-05",
+     "sha256": "71bd4ed6399594e5338e84688c98ca12bc1f5a429982df4a4bd8f5525b2cb594"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039624",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039624",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de programmatie van niet-duale en duale structuuronderdelen in opleidingsvorm 3 in het buitengewoon secundair onderwijs",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039624/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039624/VolledigDocument?datum=2026-11-05",
+     "sha256": "e2bcb6288fa2a7485fd3e8bac208a15d198f832a14cc5249836bb9d6524705f5"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039629",
+   "short": "Decreet 2024-03-22 1039629",
+   "title": "Decreet over de ondersteuning van sociale economie en maatschappelijk verantwoord ondernemen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039629/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039629/VolledigDocument?datum=2026-11-05",
+     "sha256": "fcb78c342a01f95f3a613bf01b75a0f412163a318e5660602afb401ed10b19ed"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039635",
+   "short": "Decreet 2024-03-29 1039635",
+   "title": "Decreet tot wijziging van het Mestdecreet van 22 december 2006",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039635/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039635/VolledigDocument?datum=2026-11-05",
+     "sha256": "3fa0b977a32e739c3c4236da305dbe03cc12475571246c9e3934dc1098e38c05"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039636",
+   "short": "Besluit van de secretaris-generaal 2024-04-10 1039636",
+   "title": "Besluit van de secretaris-generaal tot wijziging van artikel 1, 1°, a), van het besluit van de secretaris-generaal van 25 september 2023 tot benoeming van de leden van de erkenningscommissie orthopedisch technoloog",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039636/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039636/VolledigDocument?datum=2026-11-05",
+     "sha256": "e036f34b4d0bf3ce4abf880158b49ed45f1fe9b2b1f4dafe3c34b326a54ffcb4"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039637",
+   "short": "Decreet 2024-03-29 1039637",
+   "title": "Decreet tot instemming met het verdrag van de Raad van Europa inzake een integrale benadering van veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen, gedaan te Saint-Denis op 3 juli 2016",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039637/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039637/VolledigDocument?datum=2026-11-05",
+     "sha256": "a97879f0ad78109630156c38af89818f11f64151dff08f0910ed3b23e8894b41"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039642",
+   "short": "Ministerieel besluit 2024-04-15 1039642",
+   "title": "Ministerieel besluit houdende indeling bij de gemeentewegen van het weggedeelte van de gewestweg N712, gelegen langs de N712 Ringlaan tussen kilometerpunt 18.600 en 18.850, op het grondgebied van de gemeente Pelt",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039642/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039642/VolledigDocument?datum=2026-11-05",
+     "sha256": "63d29895f9c5ac516c09f43b9b866f0e9bb1a64e177f3faf1e09e2cacc0a360d"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039643",
+   "short": "Decreet 2024-03-22 1039643",
+   "title": "Decreet tot actualisering en opheffing van bepalingen uit de Codex Hoger Onderwijs",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039643/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039643/VolledigDocument?datum=2026-11-05",
+     "sha256": "08a9a8ba11c5908d2022b7150075d2a2c327043092121438c5170d95a82278f7"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039647",
+   "short": "Ministerieel besluit 2024-04-17 1039647",
+   "title": "Ministerieel besluit tot wijziging van artikel 1, 2°, a) van het besluit van de secretaris-generaal van 12 december 2023 tot benoeming van de leden van de erkenningscommissie voor artsen-specialisten met de bijzondere beroepstitel van psychiatrie",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039647/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039647/VolledigDocument?datum=2026-11-05",
+     "sha256": "819c13e829532189a1d0375fd441f30261367129ed4f9fd7c38766b62c03cf5b"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039649",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039649",
+   "title": "Besluit van de Vlaamse Regering tot verlening van een opsporingsvergunning voor aardwarmte in de regio Wielsbeke aan Agristo nv",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039649/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039649/VolledigDocument?datum=2026-11-05",
+     "sha256": "ded75d6ccd04009f2c144e201288a300baf9ad7c0500e2b1209c4dfbddcc2602"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039652",
+   "short": "Besluit van het afdelingshoofd 2024-04-16 1039652",
+   "title": "Besluit van het afdelingshoofd tot regeling van de delegatie van handtekening aan sommige personeelsleden van de Afdeling Bodembeheer",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039652/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039652/VolledigDocument?datum=2026-11-05",
+     "sha256": "292d2ff5a06380f1bc2c89a5b6f523b1973af45720993e6d5b4a0a928bd6ac62"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039653",
+   "short": "Besluit van het afdelingshoofd 2024-04-12 1039653",
+   "title": "Besluit van het afdelingshoofd van de Afdeling Bodembeheer tot regeling van de delegatie van handtekening met het oog op de ondertekening van een akte tot vestiging van een hypotheek ten voordele van de OVAM",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039653/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039653/VolledigDocument?datum=2026-11-05",
+     "sha256": "d107145d26f13ffcb5de08cb2354a01aca6e210e09821ddb9fd92f632bcbdc4e"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039654",
+   "short": "Besluit van het afdelingshoofd 2024-04-05 1039654",
+   "title": "Besluit van het afdelingshoofd Bodembeheer tot het vaststellen van gronden gelegen in Lierde als site 'Particuliere gronden met historische activiteiten in Lierde'",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039654/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039654/VolledigDocument?datum=2026-11-05",
+     "sha256": "a1ce35e2d087f828c3a8e9412fec461a69a91f0b0b4b0109af371162fe30f38b"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039655",
+   "short": "Besluit van het afdelingshoofd 2024-04-05 1039655",
+   "title": "Besluit van het afdelingshoofd Bodembeheer tot het vaststellen van gronden gelegen in Denderleeuw als site 'Particuliere gronden met historische activiteiten – Populierenlaan in Denderleeuw'",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039655/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039655/VolledigDocument?datum=2026-11-05",
+     "sha256": "1263e1189d1c3e157eabd37d9e7b9bdee9261a022c63428733cc90cf4153e490"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039656",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039656",
+   "title": "Besluit van de Vlaamse Regering tot toekenning van een financiële ondersteuning van maximaal 552.779,33 euro  voor het project ‘onderwijs aan jongeren binnen het aanbod veilig verblijf voor jongeren in een verontrustende opvoedingssituatie’ voor de periode van 1 januari 2024 tot en met 31 augustus 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039656/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039656/VolledigDocument?datum=2026-11-05",
+     "sha256": "c1aee6624363b6e8fb3456d5b9e46b492e1a0f3dc8d4006c1b809e29034a1203"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039662",
+   "short": "Besluit van de gedelegeerd bestuurder 2024-04-22 1039662",
+   "title": "Besluit van de gedelegeerd bestuurder tot wijziging van artikel 1 van het besluit van de gedelegeerd bestuurder van 19 april 2016 betreffende de aanstelling van gewestelijke toezichthouders overeenkomstig artikel 12, 10°, van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039662/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039662/VolledigDocument?datum=2026-11-05",
+     "sha256": "e2167224ec44ec3815c6c9d375da7e5d981b84441f20e4e5e9a9ae96cc0d61c3"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039666",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039666",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de programmatie van duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039666/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039666/VolledigDocument?datum=2026-11-05",
+     "sha256": "2f72991cfa756b84b16d339fdf4f548957f92ca05550f9885a932cb8421ef396"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039669",
+   "short": "Besluit van de secretaris-generaal 2024-04-16 1039669",
+   "title": "Besluit van de secretaris-generaal tot toekenning van de erkenning als begeleider arbeidsmatige activiteiten in het kader van het gezondheids- en welzijnsbeleid aan Kerckstede vanaf 1 mei 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039669/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039669/VolledigDocument?datum=2026-11-05",
+     "sha256": "c21fd0350f6d0ac455700c1d086cc2a26fea05cba2c8d8349ef9c2e80de96e97"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039678",
+   "short": "Besluit van de Vlaamse Regering 2024-04-19 1039678",
+   "title": "Besluit van de Vlaamse Regering tot erkenning van de bacheloropleiding “Bachelor in de maatschappelijke veiligheid” als nieuwe opleiding van Thomas More Mechelen-Antwerpen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039678/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039678/VolledigDocument?datum=2026-11-05",
+     "sha256": "d268456171884215dddbc5db065c03052438df05a898b9735bbc66399be312ed"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039684",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039684",
+   "title": "Besluit van de Vlaamse Regering tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 29 maart 2024 tot benoeming van de leden van het Vlaamse comité voor de mededeling van persoonsgegevens, wat betreft de vervanging van het plaatsvervangend lid, deskundige inzake datatechnologieën",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039684/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039684/VolledigDocument?datum=2026-11-05",
+     "sha256": "352fbd83e09f51b5041d8d2defd7ed8b149d3021697ee35c8d75a8aae1c0a5bd"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039689",
+   "short": "Besluit van de Vlaamse Regering 2024-04-19 1039689",
+   "title": "Besluit van de Vlaamse Regering tot erkenning van de bachelor-na-bacheloropleiding “Bachelor in sustainable energy management” als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039689/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039689/VolledigDocument?datum=2026-11-05",
+     "sha256": "1486d1a71a3b5eece45f8a8e482d2111c11470473d6e2d7326a07746312450c4"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039690",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039690",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de programmatie van structuuronderdelen in het gewoon voltijds secundair onderwijs",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039690/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039690/VolledigDocument?datum=2026-11-05",
+     "sha256": "95de694c39cfdeb8311064371ba4b9bb8bcbdb6c59238fb048fce2a880b933fa"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039697",
+   "short": "Decreet 2024-04-19 1039697",
+   "title": "Decreet tot instemming met de overeenkomst tussen het Koninkrijk België en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, ondertekend te Brussel op 10 november 2023",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039697/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039697/VolledigDocument?datum=2026-11-05",
+     "sha256": "9f9a31d60928daf85e813bb1ca4dc8911f71a57735cb04fdbb403977de07ea66"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039698",
+   "short": "Decreet 2024-04-19 1039698",
+   "title": "Decreet betreffende instemming met het samenwerkingsakkoord van 7 februari 2024 tot wijziging van het samenwerkingsakkoord van 19 maart 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en van de federale staat inzake het taxshelterstelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039698/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039698/VolledigDocument?datum=2026-11-05",
+     "sha256": "11e624da8f083d221c74cd203ae91903d1801783df379134f52b477270461048"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039699",
+   "short": "Decreet 2024-04-19 1039699",
+   "title": "Decreet houdende instemming met het samenwerkingsakkoord van 16 februari 2024 tot wijziging van het samenwerkingsakkoord van 21 december 2018 tussen de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de aanwending van digitale frequenties voor DAB+ op elkaars grondgebied",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039699/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039699/VolledigDocument?datum=2026-11-05",
+     "sha256": "98da7978ab8ba4aa7c770c7bda8cc3b22273ce381b24a9f2a957500c77f1d705"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039700",
+   "short": "Besluit van de Vlaamse Regering 2024-03-29 1039700",
+   "title": "Besluit van de Vlaamse Regering tot bepaling van het subsidiekader voor de financiering van projecten ter bevordering van de toeristische ontsluiting en ontwikkeling van de Vlaamse Parken",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039700/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039700/VolledigDocument?datum=2026-11-05",
+     "sha256": "bce55dafb4f0d2778c3f89629a0dd7eac4d7aa0fb59f1a5dada7614591334785"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039701",
+   "short": "Besluit van de Vlaamse Regering 2024-04-19 1039701",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de wijziging van de statuten van “De Werkvennootschap”, naamloze vennootschap van publiek recht",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039701/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039701/VolledigDocument?datum=2026-11-05",
+     "sha256": "931ade296b30c7d312206b9416cc429975448ac6dfe69556ddf84d5f62e6dc34"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039702",
+   "short": "Decreet 2024-04-19 1039702",
+   "title": "Decreet tot wijziging van het decreet van 20 juni 2008 houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg, wat de structuur van het beheer en de actualisering van de bestaande bepalingen betreft",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039702/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039702/VolledigDocument?datum=2026-11-05",
+     "sha256": "8d422e790c4c12f8bd2409bb19a050598e939b908b86ae43ed39dc4ce2c76061"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039709",
+   "short": "Decreet 2024-04-19 1039709",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Bilzen en Hoeselt en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039709/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039709/VolledigDocument?datum=2026-11-05",
+     "sha256": "47a7e9bba25dedc198df894f87ffa47bf1a7bcb627941fdf8da4f578302b4255"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039710",
+   "short": "Decreet 2024-04-19 1039710",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Borgloon en Tongeren en tot wijziging van artikel 6 en 19septies decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, wat betreft de aanduiding van de nieuwe gemeente, en van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039710/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039710/VolledigDocument?datum=2026-11-05",
+     "sha256": "3bb52c10cdb79dc2c2bf72470ae38eb0679255ff994126bf255333b2e074c6ce"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039711",
+   "short": "Decreet 2024-04-19 1039711",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Lokeren en Moerbeke en tot wijziging van artikel 19septies decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, wat betreft de aanduiding van de nieuwe gemeente, en van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039711/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039711/VolledigDocument?datum=2026-11-05",
+     "sha256": "ebaf9e38ce0854bb9d3f33304b9b3fc86eabf8df4eedcd49a8060eabaac3e4a6"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039712",
+   "short": "Decreet 2024-04-19 1039712",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Ruiselede en Wingene en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039712/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039712/VolledigDocument?datum=2026-11-05",
+     "sha256": "f2d2e12b95cc835dbe93c7cc1835e564461f1f866b857fecf42e1440f9b19d37"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039713",
+   "short": "Decreet 2024-04-19 1039713",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten De Pinte en Nazareth en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de opheffing van de samen te voegen gemeenten en het invoegen van de nieuwe gemeente",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039713/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039713/VolledigDocument?datum=2026-11-05",
+     "sha256": "7e41b6e8a39ae0cd295564c6fcd4eab9e0f8be903450dbfc16c7782849a69e63"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039714",
+   "short": "Decreet 2024-04-19 1039714",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Antwerpen en Borsbeek en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039714/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039714/VolledigDocument?datum=2026-11-05",
+     "sha256": "a35ac67838cd3cea84b07874bfe78a13bf67de445ce5f5480b50c09f8de93b02"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039715",
+   "short": "Decreet 2024-04-19 1039715",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Galmaarden, Gooik en Herne en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de opheffing van de samen te voegen gemeenten en het invoegen van de nieuwe gemeente",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039715/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039715/VolledigDocument?datum=2026-11-05",
+     "sha256": "6448fe52c814830c8ddbe4ee6e91c2ca246a659d0f0f66a4061141287ce96fd1"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039716",
+   "short": "Decreet 2024-04-19 1039716",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Beveren, Kruibeke en Zwijndrecht, de wijziging van de grens tussen de provincies Antwerpen en Oost-Vlaanderen en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de opheffing van de samen te voegen gemeenten en het invoegen van de nieuwe gemeente",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039716/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039716/VolledigDocument?datum=2026-11-05",
+     "sha256": "2b755b8f7bbaf848c60b7aeb506b9b0725f0fde1d6ffffcbb7bcdc1b006a9fb2"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039717",
+   "short": "Decreet 2024-04-19 1039717",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Ham en Tessenderlo en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039717/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039717/VolledigDocument?datum=2026-11-05",
+     "sha256": "dcdcfd42cd38f363855772058f2b436b232ade55ed2b440faee63e289ff890b2"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039718",
+   "short": "Decreet 2024-04-19 1039718",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Hasselt en Kortessem en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039718/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039718/VolledigDocument?datum=2026-11-05",
+     "sha256": "87535eacad517ed541db39d70b5f13c86c2df887d4efe3541611a84365b38433"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039719",
+   "short": "Decreet 2024-04-19 1039719",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Lochristi en Wachtebeke en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039719/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039719/VolledigDocument?datum=2026-11-05",
+     "sha256": "2af075506ae134502a82bc52fe144bba58928f344ba52bfe23578860c11264d8"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039720",
+   "short": "Decreet 2024-04-19 1039720",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Melle en Merelbeke en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de opheffing van de samen te voegen gemeenten en het invoegen van de nieuwe gemeente",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039720/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039720/VolledigDocument?datum=2026-11-05",
+     "sha256": "108112b9069491793b4126a1044c61f6362c2b79d6a4825b666f6ce86dbdc6b6"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039721",
+   "short": "Decreet 2024-04-19 1039721",
+   "title": "Decreet over de vrijwillige samenvoeging van de gemeenten Meulebeke en Tielt en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [...]",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039721/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039721/VolledigDocument?datum=2026-11-05",
+     "sha256": "32f501b5ed779ff6627fe4c35669ed917df5f7006688827d678ab9b7d913de15"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039723",
+   "short": "Decreet 2024-04-19 1039723",
+   "title": "Decreet over de onderlinge afstemming van de Vlaamse Codex Wonen van 2021, het Instrumentendecreet van 26 mei 2023 en het decreet van 26 mei 2023 tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat de woonreservegebieden betreft",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039723/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039723/VolledigDocument?datum=2026-11-05",
+     "sha256": "254168f69b77d01035b2f05bf5ade1a2ab8fe0ad5578d55570f4a6e5abb8dcd9"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039725",
+   "short": "Ministerieel besluit 2024-04-15 1039725",
+   "title": "Ministerieel besluit tot wijziging van het ministerieel besluit van 22 december 2020 tot benoeming van de voorzitter en de effectieve en plaatsvervangende leden namens de representatieve middenstands- zelfstandigen- en werkgeversorganisaties en namens de representatieve werknemersorganisaties van het Vlaams Partnerschap Duaal Leren",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039725/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039725/VolledigDocument?datum=2026-11-05",
+     "sha256": "a7dd52ad4a93a0ce1ce1461f9ed56628d4ba0bf456b85cb7bfa267d143063dc3"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039726",
+   "short": "Decreet 2024-04-19 1039726",
+   "title": "Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft het uniek loket voor de aanvraag, behandeling, verwerking en uitbetaling van gebouwpremies of premies voor energieopwekkingsinstallaties en tot instelling van een rapportageverplichting voor datacentra",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039726/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039726/VolledigDocument?datum=2026-11-05",
+     "sha256": "0801c7a8851802ba7937eaa86bc347b04e3a85720e3370e55dd4dc6e88959311"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039737",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039737",
+   "title": "Besluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039737/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039737/VolledigDocument?datum=2026-11-05",
+     "sha256": "57a4cb5a3fa868c2b50c7e9375d7323d2d16f23cbadf60b1e7bc6ce410afbc33"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039738",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039738",
+   "title": "Besluit van de Vlaamse Regering houdende de herverdeling van begrotingsartikel CB0-1CBG2AM-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039738/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039738/VolledigDocument?datum=2026-11-05",
+     "sha256": "fb9e01fecb5f29d1c49fca27b1744df0a4a9d6e0383161a3a6dfb578861ed3a3"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039739",
+   "short": "Decreet 2024-04-19 1039739",
+   "title": "Decreet tot regeling van de invordering van niet-fiscale schuldvorderingen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039739/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039739/VolledigDocument?datum=2026-11-05",
+     "sha256": "94da112eee7fb6e697bbe4d2975ccdfad3fe7b4d228b422e9a87400a88b609a6"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039740",
+   "short": "Decreet 2024-04-26 1039740",
+   "title": "Decreet tot oprichting van Rode Kruis-Vlaanderen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039740/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039740/VolledigDocument?datum=2026-11-05",
+     "sha256": "8a9f30084a1ce78fe17e5e8067ea996afdaa287ff5d30ab6a467e66a4d6dfaa0"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039741",
+   "short": "Decreet 2024-04-19 1039741",
+   "title": "Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 en verschillende andere decreten, wat betreft de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039741/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039741/VolledigDocument?datum=2026-11-05",
+     "sha256": "2e1df7c06a62cb853dcf24ec85318d38c6a34fa031f63c7881d439b459e3a3af"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039745",
+   "short": "Decreet 2024-04-19 1039745",
+   "title": "Decreet tot wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen en het decreet houdende sociaalrechtelijk toezicht van 30 april 2004",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039745/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039745/VolledigDocument?datum=2026-11-05",
+     "sha256": "dacaebe6d93989aa6dded0478140e154b3e3a6ccc35505121f6148d5a38b3809"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039751",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039751",
+   "title": "Besluit van de Vlaamse Regering tot goedkeuring van de wijziging van de statuten van de Vlaamse Maatschappij voor Sociaal Wonen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039751/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039751/VolledigDocument?datum=2026-11-05",
+     "sha256": "27fbfefa636a42a7bae691eaceddf75c466e534383537940734cfda8bc596435"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039752",
+   "short": "Decreet 2024-04-26 1039752",
+   "title": "Decreet tot wijziging van de Codex Secundair Onderwijs van 17 december 2010 en het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, wat de opleiding Basisverpleegkunde betreft",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039752/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039752/VolledigDocument?datum=2026-11-05",
+     "sha256": "b98045624b68297257126d08613b6e6288b7a200c073a5116fe0247cdd6bbad8"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039790",
+   "short": "Decreet 2024-04-26 1039790",
+   "title": "Decreet tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de lokale besturen, de initiatieven met betrekking tot biotische factoren, de initiatieven met betrekking tot fysische en chemische factoren, de initiatieven met betrekking tot gezondheidsimpact door klimaatverandering en de verwerking van persoonsgegevens",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039790/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039790/VolledigDocument?datum=2026-11-05",
+     "sha256": "149b0723b21b1f091a5a4f52c537401da1c5752eef41f8603c8555e02a0ce4ca"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039793",
+   "short": "Decreet 2024-04-19 1039793",
+   "title": "Decreet tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie houdende inhoudelijke en technische aanpassingen en aanpassingen met het oog op de bescherming van persoonsgegevens en het Wetboek van vennootschappen en verenigingen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039793/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039793/VolledigDocument?datum=2026-11-05",
+     "sha256": "80361d38587468873d2eb5ff11df4e64b2f82c3bee21219846d6f12d884b6b76"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039810",
+   "short": "Decreet 2024-04-26 1039810",
+   "title": "Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, wat betreft de taalafdeling Nederlands-Vlaamse Gebarentaal",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039810/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039810/VolledigDocument?datum=2026-11-05",
+     "sha256": "12aad45d496b41b4825cc3c42cb34da82b5c68ae30e5917787d3329ca375a5df"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039813",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039813",
+   "title": "Besluit van de Vlaamse Regering tot erkenning van het graduaat in de digitale vormgeving als nieuwe opleiding van de Artesis Plantijn Hogeschool Antwerpen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039813/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039813/VolledigDocument?datum=2026-11-05",
+     "sha256": "2300f84e09dc3ad19230d5ebff935a9586c5aba37a409372561b470cf54096e9"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039820",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039820",
+   "title": "Besluit van de Vlaamse Regering tot erkenning van de bacheloropleiding “Bachelor in Idea & Innovation Management” als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039820/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039820/VolledigDocument?datum=2026-11-05",
+     "sha256": "91b64f65a3e17c9a1a4dd9ebdaf3047291e05a216f47985ff18a8220919ecd74"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039821",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039821",
+   "title": "Besluit van de Vlaamse Regering tot erkenning van de bacheloropleiding “Bachelor in het human resources management” als nieuwe gezamenlijke opleiding van de Arteveldehogeschool, de Hogeschool Gent en Odisee",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039821/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039821/VolledigDocument?datum=2026-11-05",
+     "sha256": "2d391e5c912e61cbaed51668d92c07f95dcbe2670166f5482a81f351aec6aa7f"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039823",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039823",
+   "title": "Besluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039823/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039823/VolledigDocument?datum=2026-11-05",
+     "sha256": "753841318e8e6ce8233c1e5af78a48b344fb54749b85677742bbf3869928bef1"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039824",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039824",
+   "title": "Besluit van de Vlaamse Regering over de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2024 in het kader van de 2de cyclus van het Vlaamse beleidsplan Artificiële Intelligentie",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039824/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039824/VolledigDocument?datum=2026-11-05",
+     "sha256": "6804fa27a241ffea9e25527d14f46dc0fccfd644dd4b1394ddebe89ee8c17280"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039844",
+   "short": "Besluit van de Vlaamse Regering 2024-04-26 1039844",
+   "title": "Besluit van de Vlaamse Regering tot vaststelling van het aantal te verkiezen gemeenteraadsleden per gemeente, schepenen per gemeente, leden van de raad voor maatschappelijk welzijn en van het vast bureau van Voeren en van de faciliteitengemeenten rond Brussel, leden van het bijzonder comité voor de sociale dienst per gemeente, stadsdistrictsraadsleden per stadsdistrict in Antwerpen en provincieraadsleden per provincie en per provinciedistrict",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039844/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039844/VolledigDocument?datum=2026-11-05",
+     "sha256": "1d736f72eb8c7f9b32a63b684bb5a614ac04764201db9b00bd9ae059df627ff2"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039887",
+   "short": "Besluit van de Vlaamse Regering 2024-03-22 1039887",
+   "title": "Besluit van de Vlaamse Regering over de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2024 in het kader van de tweede cyclus van het Vlaamse Beleidsplan Cybersecurity",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039887/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039887/VolledigDocument?datum=2026-11-05",
+     "sha256": "a8087541233cacdd039ad9c64f210ff4c71265adee47fc428988b66763f73e72"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039933",
+   "short": "Besluit van de Vlaamse Regering 2024-04-19 1039933",
+   "title": "Besluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet en enkele begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap van de Vlaamse Gemeenschap voor het begrotingsjaar 2024 ten behoeve van het FWO",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039933/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039933/VolledigDocument?datum=2026-11-05",
+     "sha256": "1597b6da2e84a3535f00bfaf877b98be61472e5b71a2ca23a5e41d1a15b6b821"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1039964",
+   "short": "Ministerieel besluit 2024-04-24 1039964",
+   "title": "Ministerieel besluit tot wijziging van het ministerieel besluit van 20 december 2022 houdende de samenstelling van de Vlaamse opleidingscommissie",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039964/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039964/VolledigDocument?datum=2026-11-05",
+     "sha256": "3a04ac5d92ab31cac792b9d7574c13c5b5ca60ae784470dd2d062bafe27d6256"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1040209",
+   "short": "Ministerieel besluit 2024-03-08 1040209",
+   "title": "Ministerieel besluit tot wijziging van artikel 5 van het ministerieel besluit van 6 februari 2015 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040209/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040209/VolledigDocument?datum=2026-11-05",
+     "sha256": "b50fcd7c4e919ce3a2a8bafa970c98b3a1535e03237c4fa7fd26dcf2ebb2a230"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1040250",
+   "short": "Ministerieel besluit 2024-03-12 1040250",
+   "title": "Ministerieel besluit houdende delegatie tot vertegenwoordiging van de Minister bij de ondertekening van de erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040250/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040250/VolledigDocument?datum=2026-11-05",
+     "sha256": "849bd74089e276c72745501fdee5d59d4c69ff94377887d8789aeaf45d3bc507"
+    }
+   ]
+  },
+  {
+   "slug": "codex-1040725",
+   "short": "Samenwerkingsakkoord 2024-04-04 1040725",
+   "title": "Samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap",
+   "url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040725/VolledigDocument?datum=2026-11-05",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040725/VolledigDocument?datum=2026-11-05",
+     "sha256": "08ad4788e1a755550254632d778838ea4d16eb783a7af8667af99223a59f4a1e"
+    }
+   ]
   }
  ]
 }

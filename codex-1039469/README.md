@@ -1,0 +1,7 @@
+# Samenwerkingsakkoord tot wijziging van het Samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij samenwerkingsakkoord van 24 april 2015 en bij Samenwerkingsakkoord van 24 maart 2016
+
+Samenwerkingsakkoord 2024-04-10 1039469 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · <https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039469/VolledigDocument?datum=2026-11-05>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Samenwerkingsakkoord tot wijziging van het Samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij samenwerkingsakkoord van 24 april 2015 en bij Samenwerkingsakkoord van 24 maart 2016 | [text.md](text.md) | 0 |  |
