@@ -1,5 +1,7 @@
 # Flanders: legislation in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Flanders, Belgium, which global-law reads at `belgium/flanders/acts/`.
+
 Dutch legislation from the Vlaamse Codex, the Flemish Government's consolidated legal collection. This corpus is incomplete and is not an official publication. The binding publication is the Belgisch Staatsblad.
 
 ## Coverage
