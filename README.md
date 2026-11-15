@@ -27,6 +27,16 @@ Versions with a future commencement belong to the `toekomst` branch. The author 
 
 Official acts of the authorities are excluded from copyright under Code of Economic Law XI.172 §2. Source: Vlaamse Codex, Flemish Government. Lexifina's own arrangement and contributions are dedicated to the public domain under CC0 1.0, as described in LICENSE.
 
+## Vulnerabilities
+
+[vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Flemish law, found by global-law's detectors and checked by hand. A placeholder for now: the detectors have not been run on this repository yet.
+
+## Visualisations
+
+[visualisations/](visualisations/README.md): charts on Flemish law, drawn from this repository. A placeholder for now.
+
 ## Nederlands
 
 Deze verzameling bevat Vlaamse regelgeving uit de Vlaamse Codex. De dekking is nog onvolledig. De opgenomen teksten en versies staan in de gegevensinventarissen. De Vlaamse Codex is geen officiële bekendmaking; de publicatie in het Belgisch Staatsblad is bindend.
+
+De map [vulnerabilities/](vulnerabilities/README.md) (mogelijke redactionele fouten, gevonden door de detectoren van global-law) en de map [visualisations/](visualisations/README.md) (grafieken) zijn nog leeg.
