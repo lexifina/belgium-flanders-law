@@ -1,0 +1,12 @@
+{
+  "codex_id": 1042462,
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042462/VolledigDocument?datum=2026-11-15",
+  "source_sha256": "03a25be9e1d9ad9fca1de63b0294e62188b4ef39eb909ee6c1b9497ba1310930",
+  "as_of": "2026-11-15",
+  "made": "2026-11-04",
+  "in_force": "2026-11-01",
+  "gazette": "2026-11-13",
+  "article_versions": 22,
+  "future_article_versions": 4,
+  "record_form": "current consolidated text; oldest version available"
+}
