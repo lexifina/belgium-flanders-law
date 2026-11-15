@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042451,
+  "title": "Decreet van 2026-10-30 tot wijziging van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat betreft de uitzondering op het achteruitgangsverbod voor de verplaatsing van verontreinigd water of sediment",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042451/VolledigDocument?datum=2026-11-15",
+  "source_sha256": "18c60b415abf260468ba4fa8740a7ed22429515e074a741869fde718ab6e07d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042451&param=informatie",
+  "as_of": "2026-11-15",
+  "made": "2026-10-30",
+  "gazette": "2026-11-05",
+  "numac": 2026008123,
+  "document_start": "2026-11-15",
+  "document_end": null,
+  "in_force": "2026-11-15",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
