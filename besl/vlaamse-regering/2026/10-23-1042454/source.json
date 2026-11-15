@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042454,
+  "title": "Besluit van de Vlaamse Regering van 2026-10-23 tot bepaling van aanvullende programmatienormen met betrekking tot het aantal en de voorwaarden voor bijkomende toestellen voor magnetische resonantietomografie in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042454/VolledigDocument?datum=2026-11-15",
+  "source_sha256": "bd8fbd2ab48435b61ab98864018cde8a2f590ccc154301202adf2b1ed0381c3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042454&param=informatie",
+  "as_of": "2026-11-15",
+  "made": "2026-10-23",
+  "gazette": "2026-11-05",
+  "numac": 2026008135,
+  "document_start": "2026-11-15",
+  "document_end": null,
+  "in_force": "2026-11-15",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2026-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
